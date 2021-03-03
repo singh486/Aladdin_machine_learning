@@ -1,6 +1,7 @@
 import json
 import glob
 import os
+import re
 import pandas as pd
 
 
@@ -11,50 +12,65 @@ def concat_files():
             ','.join([open(f, "r").read() for f in read_files])).encode())
 
 
-def parse_dictionary():
+def count_dict():
+    d = {}
+    with open("action_config.txt") as f:
+        for line in f:
+            split = line.rsplit(' ', 1)
+            key = split[0]
+            val = int(split[1])
+            d[key] = val
+    print(d)
+    return d
+
+def parse_dataframe():
     # Set path
-    os.chdir(
-        "FD_5")
+    # os.chdir(
+    #     "FD_5")
+
+    # Dictionary to store total counts
+    total = []
 
     # Dictionary to store action counts
 
-    cDictionary = {'Add Door': 0, 'Remove Door': 0, 'Edit Door': 0,
-                   'Add Floor': 0, 'Remove Floor': 0, 'Edit Floor': 0,
-                   'Add Foundation': 0, 'Remove Foundation': 0, 'Edit Foundation': 0,
-                   'Add Wall': 0, 'Remove Wall': 0, 'Edit Wall': 0, 'Type Change of Wall': 0,
-                   'Change Thickness for Selected Wall': 0, 'Change Thickness for Walls on Selected Foundation': 0,
-                   'Change Thickness for All Walls': 0, 'Change Height for Selected Wall': 0,
-                   'Change Height for Walls on Selected Foundation': 0, 'Change Height for All Walls': 0,
-                   'Change Height for Connected Walls': 0,
-                   'Add Window': 0, 'Remove Window': 0, 'Edit Window': 0, 'Paste Window': 0,
-                   'Set Size for Selected Window': 0,
-                   'Add CustomRoof': 0, 'Add HipRoof': 0, 'Add PyramidRoof': 0, 'Add ShedRoof': 0,
-                   'Add GambrelRoof': 0, 'Remove CustomRoof': 0, 'Remove HipRoof': 0, 'Remove PyramidRoof': 0,
-                   'Remove ShedRoof': 0, 'Remove GambrelRoof': 0, 'Edit CustomRoof': 0, 'Edit HipRoof': 0,
-                   'Edit PyramidRoof': 0, 'Edit ShedRoof': 0, 'Edit GambrelRoof': 0,
-                   'Add SolarPanel': 0, 'Remove SolarPanel': 0, 'Edit SolarPanel': 0, 'Paste SolarPanel': 0,
-                   'Rotate Solar Panel': 0, 'Choose Size for Selected Solar Panel': 0, 'Add SolarPanel Array': 0,
-                   'Solar Cell Efficiency Change for Selected Solar Panel': 0,
-                   'Solar Cell Efficiency Change for All Solar Panels on Selected Foundation': 0,
-                   'Solar Cell Efficiency Change for All Solar Panels': 0,
-                   'Inverter Efficiency Change for Selected Solar Panel': 0,
-                   'Inverter Efficiency Change for All Solar Panels on Selected Foundation': 0,
-                   'Inverter Efficiency Change for All Solar Panels': 0,
-                   'Add Tree': 0, 'Remove Tree': 0, 'Move Tree': 0, 'Paste Tree': 0,
-                   'Move Building': 0, 'Resize Building': 0, 'Rotate Building': 0, 'Remove Building': 0,
-                   'Rescale Building': 0,
-                   'Show Shadow': 0, 'Show Heliodon': 0, 'Show Heat Flux Vectors': 0, 'Animate Sun': 0,
-                   'Graph Tab': 0, 'DailyEnvironmentalTemperature': 0, 'AnnualEnvironmentalTemperature': 0,
-                   'Solar Potential': 0, 'Cost': 0, 'EnergyDailyAnalysis': 0, 'DailyEnergyGraph': 0,
-                   'SolarDailyAnalysis': 0, 'SolarAnnualAnalysis': 0, 'GroupDailyAnalysis': 0,
-                   'GroupAnnualAnalysis': 0,
-                   'Change City': 0, 'Change Latitude': 0, 'Change Date': 0, 'Change Time': 0,
-                   'Adjust Thermostat': 0, 'U-Factor Change for Selected Part': 0,
-                   'U-Factor Change for Whole Building': 0,
-                   'Color Change for Selected Part': 0, 'Color Change for Whole Building': 0
-                   }
+    # cDictionary = {'Add Door': 0, 'Remove Door': 0, 'Edit Door': 0,
+    #                'Add Floor': 0, 'Remove Floor': 0, 'Edit Floor': 0,
+    #                'Add Foundation': 0, 'Remove Foundation': 0, 'Edit Foundation': 0,
+    #                'Add Wall': 0, 'Remove Wall': 0, 'Edit Wall': 0, 'Type Change of Wall': 0,
+    #                'Change Thickness for Selected Wall': 0, 'Change Thickness for Walls on Selected Foundation': 0,
+    #                'Change Thickness for All Walls': 0, 'Change Height for Selected Wall': 0,
+    #                'Change Height for Walls on Selected Foundation': 0, 'Change Height for All Walls': 0,
+    #                'Change Height for Connected Walls': 0,
+    #                'Add Window': 0, 'Remove Window': 0, 'Edit Window': 0, 'Paste Window': 0,
+    #                'Set Size for Selected Window': 0,
+    #                'Add CustomRoof': 0, 'Add HipRoof': 0, 'Add PyramidRoof': 0, 'Add ShedRoof': 0,
+    #                'Add GambrelRoof': 0, 'Remove CustomRoof': 0, 'Remove HipRoof': 0, 'Remove PyramidRoof': 0,
+    #                'Remove ShedRoof': 0, 'Remove GambrelRoof': 0, 'Edit CustomRoof': 0, 'Edit HipRoof': 0,
+    #                'Edit PyramidRoof': 0, 'Edit ShedRoof': 0, 'Edit GambrelRoof': 0,
+    #                'Add SolarPanel': 0, 'Remove SolarPanel': 0, 'Edit SolarPanel': 0, 'Paste SolarPanel': 0,
+    #                'Rotate Solar Panel': 0, 'Choose Size for Selected Solar Panel': 0, 'Add SolarPanel Array': 0,
+    #                'Solar Cell Efficiency Change for Selected Solar Panel': 0,
+    #                'Solar Cell Efficiency Change for All Solar Panels on Selected Foundation': 0,
+    #                'Solar Cell Efficiency Change for All Solar Panels': 0,
+    #                'Inverter Efficiency Change for Selected Solar Panel': 0,
+    #                'Inverter Efficiency Change for All Solar Panels on Selected Foundation': 0,
+    #                'Inverter Efficiency Change for All Solar Panels': 0,
+    #                'Add Tree': 0, 'Remove Tree': 0, 'Move Tree': 0, 'Paste Tree': 0,
+    #                'Move Building': 0, 'Resize Building': 0, 'Rotate Building': 0, 'Remove Building': 0,
+    #                'Rescale Building': 0,
+    #                'Show Shadow': 0, 'Show Heliodon': 0, 'Show Heat Flux Vectors': 0, 'Animate Sun': 0,
+    #                'Graph Tab': 0, 'DailyEnvironmentalTemperature': 0, 'AnnualEnvironmentalTemperature': 0,
+    #                'Solar Potential': 0, 'Cost': 0, 'EnergyDailyAnalysis': 0, 'DailyEnergyGraph': 0,
+    #                'SolarDailyAnalysis': 0, 'SolarAnnualAnalysis': 0, 'GroupDailyAnalysis': 0,
+    #                'GroupAnnualAnalysis': 0,
+    #                'Change City': 0, 'Change Latitude': 0, 'Change Date': 0, 'Change Time': 0,
+    #                'Adjust Thermostat': 0, 'U-Factor Change for Selected Part': 0,
+    #                'U-Factor Change for Whole Building': 0,
+    #                'Color Change for Selected Part': 0, 'Color Change for Whole Building': 0
+    #                }
+    cDictionary = count_dict()
 
-    for file in glob.glob("*.json"):
+    for file in glob.glob("FD_5/*.json"):
         with open(file) as f:
 
             try:
@@ -65,6 +81,9 @@ def parse_dictionary():
                     for subitem in item:
                         if subitem in cDictionary:
                             cDictionary[subitem] = cDictionary[subitem] + 1
+                        if subitem == 'EnergyAnnualAnalysis':
+                            total.append(
+                                item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
 
             except Exception as e:
                 print("Error with ", file)
@@ -122,12 +141,14 @@ def parse_dictionary():
                    'Color': cDictionary['Color Change for Selected Part'] +
                    cDictionary['Color Change for Whole Building']
                    }
-    df = pd.DataFrame(list(mDictionary.items()),columns = ['Actions','Counts']) 
-    print(df)
+    action_df = pd.DataFrame(list(mDictionary.items()),
+                             columns=['Actions', 'Counts'])
+    total_df = pd.DataFrame(total, columns=['Energy Totals'])
+    # print(tDictionary)
+    print(action_df)
+    print(total_df)
 
 
 if __name__ == "__main__":
     # concat_files()
-    parse_dictionary()
-    # df = pd.read_json(r'merged_file.json')
-    # print(df)
+    parse_dataframe()
