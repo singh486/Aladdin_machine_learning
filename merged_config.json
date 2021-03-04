@@ -1,0 +1,114 @@
+{
+    "Door": [
+        "Add Door",
+        "Remove Door",
+        "Edit Door"
+    ],
+    "Floor": [
+        "Add Floor",
+        "Remove Floor",
+        "Edit Floor"
+    ],
+    "Foundation": [
+        "Add Foundation",
+        "Remove Foundation",
+        "Edit Foundation"
+    ],
+    "Wall": [
+        "Add Wall",
+        "Remove Wall",
+        "Edit Wall",
+        "Type Change of Wall",
+        "Change Thickness for Selected Wall",
+        "Change Thickness for Walls on Selected Foundation",
+        "Change Thickness for All Walls",
+        "Change Height for Selected Wall",
+        "Change Height for Walls on Selected Foundation",
+        "Change Height for All Walls",
+        "Change Height for Connected Walls"
+    ],
+    "Window": [
+        "Add Window",
+        "Remove Window",
+        "Edit Window",
+        "Paste Window",
+        "Set Size for Selected Window"
+    ],
+    "Roof": [
+        "Add CustomRoof",
+        "Add HipRoof",
+        "Add PyramidRoof",
+        "Add ShedRoof",
+        "Add GambrelRoof",
+        "Remove CustomRoof",
+        "Remove HipRoof",
+        "Remove PyramidRoof",
+        "Remove ShedRoof",
+        "Remove GambrelRoof",
+        "Edit CustomRoof",
+        "Edit HipRoof",
+        "Edit PyramidRoof",
+        "Edit ShedRoof",
+        "Edit GambrelRoof"
+    ],
+    "Solar Panel": [
+        "Add SolarPanel",
+        "Remove SolarPanel",
+        "Edit SolarPanel",
+        "Paste SolarPanel",
+        "Rotate Solar Panel",
+        "Choose Size for Selected Solar Panel",
+        "Add SolarPanel Array",
+        "Solar Cell Efficiency Change for Selected Solar Panel",
+        "Solar Cell Efficiency Change for All Solar Panels on Selected Foundation",
+        "Solar Cell Efficiency Change for All Solar Panels",
+        "Inverter Efficiency Change for Selected Solar Panel",
+        "Inverter Efficiency Change for All Solar Panels on Selected Foundation",
+        "Inverter Efficiency Change for All Solar Panels"
+    ],
+    "Tree": [
+        "Add Tree",
+        "Remove Tree",
+        "Move Tree",
+        "Paste Tree"
+    ],
+    "Building": [
+        "Move Building",
+        "Resize Building",
+        "Rotate Building",
+        "Remove Building",
+        "Rescale Building"
+    ],
+    "Analysis": [
+        "Show Shadow",
+        "Show Heliodon",
+        "Show Heat Flux Vectors",
+        "Animate Sun",
+        "Graph Tab",
+        "DailyEnvironmentalTemperature",
+        "AnnualEnvironmentalTemperature",
+        "Solar Potential",
+        "Cost",
+        "EnergyDailyAnalysis",
+        "DailyEnergyGraph",
+        "SolarDailyAnalysis",
+        "SolarAnnualAnalysis",
+        "GroupDailyAnalysis",
+        "GroupAnnualAnalysis"
+    ],
+    "Parameters": [
+        "Change City",
+        "Change Latitude",
+        "Change Date",
+        "Change Time"
+    ],
+    "Thermal": [
+        "Adjust Thermostat",
+        "U-Factor Change for Selected Part",
+        "U-Factor Change for Whole Building"
+    ],
+    "Color": [
+        "Color Change for Selected Part",
+        "Color Change for Whole Building"
+    ]
+}
