@@ -1,0 +1,28 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:26:19", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": -20.293, "y": 99.543, "z": 91.076}, "Direction": {"x": 0.197, "y": -0.752, "z": -0.629}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:26:27", "File": "EnergyHouse3D%202.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 26, "Coordinates": [{"x": 3.265, "y": 10.74, "z": 43.173}]}},
+{"Timestamp": "2020-10-30 13:26:32", "File": "EnergyHouse3D%202.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 27, "Coordinates": [{"x": -2.18, "y": 10.74, "z": 43.173}]}},
+{"Timestamp": "2020-10-30 13:26:33", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": -67.139, "y": 34.14, "z": 113.765}, "Direction": {"x": 0.542, "y": -0.271, "z": -0.795}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:26:34", "File": "EnergyHouse3D%202.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-30 13:26:36", "File": "EnergyHouse3D%202.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-30 13:26:38", "File": "EnergyHouse3D%202.ng3", "Remove Rack": {"Type": "Rack", "Building": 6, "ID": 22, "Coordinates": [{"x": -0.613, "y": 16.762, "z": 36.662}]}},
+{"Timestamp": "2020-10-30 13:26:39", "File": "EnergyHouse3D%202.ng3", "Remove PyramidRoof": {"Type": "PyramidRoof", "Building": 6, "ID": 13, "Coordinates": [{"x": 0, "y": 3.5, "z": 51}]}},
+{"Timestamp": "2020-10-30 13:26:41", "File": "EnergyHouse3D%202.ng3", "Undo": "Remove PyramidRoof"},
+{"Timestamp": "2020-10-30 13:26:43", "File": "EnergyHouse3D%202.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 27, "Coordinates": [{"x": -2.18, "y": 10.74, "z": 43.173}]}},
+{"Timestamp": "2020-10-30 13:26:44", "File": "EnergyHouse3D%202.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 26, "Coordinates": [{"x": 3.265, "y": 10.74, "z": 43.173}]}},
+{"Timestamp": "2020-10-30 13:26:46", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 12.236, "y": -62.373, "z": 127.683}, "Direction": {"x": -0.042, "y": 0.438, "z": -0.898}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:26:52", "File": "EnergyHouse3D%202.ng3", "Add Rack": {"Type": "Rack", "Building": 6, "ID": 28, "Coordinates": [{"x": 0.625, "y": -11.7, "z": 34.568}]}},
+{"Timestamp": "2020-10-30 13:26:58", "File": "EnergyHouse3D%202.ng3", "Edit Rack": {"Type": "Rack", "Building": 6, "ID": 28, "Coordinates": [{"x": 0.625, "y": -10.691, "z": 35.658}]}},
+{"Timestamp": "2020-10-30 13:27:00", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 16.981, "y": -79.509, "z": 117.363}, "Direction": {"x": -0.077, "y": 0.564, "z": -0.822}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:27:02", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 20.364, "y": -88.316, "z": 110.383}, "Direction": {"x": -0.102, "y": 0.629, "z": -0.771}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:27:06", "File": "EnergyHouse3D%202.ng3", "Edit Rack": {"Type": "Rack", "Building": 6, "ID": 28, "Coordinates": [{"x": 0.212, "y": -9.225, "z": 37.243}]}},
+{"Timestamp": "2020-10-30 13:27:08", "File": "EnergyHouse3D%202.ng3", "Edit Rack": {"Type": "Rack", "Building": 6, "ID": 28, "Coordinates": [{"x": 0.212, "y": -10.542, "z": 35.82}]}},
+{"Timestamp": "2020-10-30 13:27:10", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 21.111, "y": -80.531, "z": 116.188}, "Direction": {"x": -0.107, "y": 0.572, "z": -0.813}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:27:11", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 23.803, "y": -74.791, "z": 119.636}, "Direction": {"x": -0.127, "y": 0.53, "z": -0.839}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:27:14", "File": "EnergyHouse3D%202.ng3", "Edit Rack": {"Type": "Rack", "Building": 6, "ID": 28, "Coordinates": [{"x": -0.613, "y": -11.7, "z": 34.568}]}},
+{"Timestamp": "2020-10-30 13:27:18", "File": "EnergyHouse3D%202.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 30, "Coordinates": [{"x": -5.645, "y": -6.585, "z": 40.097}]}},
+{"Timestamp": "2020-10-30 13:27:23", "File": "EnergyHouse3D%202.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 31, "Coordinates": [{"x": -0.2, "y": -6.09, "z": 40.632}]}},
+{"Timestamp": "2020-10-30 13:27:27", "File": "EnergyHouse3D%202.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 32, "Coordinates": [{"x": 4.75, "y": -6.09, "z": 40.632}]}},
+{"Timestamp": "2020-10-30 13:27:29", "File": "EnergyHouse3D%202.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 30, "Coordinates": [{"x": -5.15, "y": -6.09, "z": 40.632}]}}]
+}

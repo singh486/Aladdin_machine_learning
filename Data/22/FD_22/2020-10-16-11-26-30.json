@@ -1,0 +1,93 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-16 12:00:05", "File": "demo.ng3", "Camera": {"Position": {"x": 1.287, "y": -85.775, "z": 74.48}, "Direction": {"x": -0.011, "y": 0.755, "z": -0.656}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 12:00:06", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": -26.14, "y": -3.765, "z": 27.053}]}},
+{"Timestamp": "2020-10-16 12:00:09", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 33, "Coordinates": [{"x": -26.14, "y": 3.66, "z": 29.91}]}},
+{"Timestamp": "2020-10-16 12:00:13", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": -26.14, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:00:16", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 33, "Coordinates": [{"x": -26.14, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:00:18", "File": "demo.ng3", "Camera": {"Position": {"x": 2.683, "y": -76.624, "z": 83.831}, "Direction": {"x": -0.024, "y": 0.674, "z": -0.738}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 12:00:21", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 19, "Coordinates": [{"x": -19.21, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:00:25", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 34, "Coordinates": [{"x": -19.21, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:00:29", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -12.28, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:00:33", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 35, "Coordinates": [{"x": -12.28, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:00:37", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 21, "Coordinates": [{"x": -5.35, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:00:40", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 36, "Coordinates": [{"x": -5.35, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:00:41", "File": "demo.ng3", "Camera": {"Position": {"x": 3.049, "y": -76.19, "z": 84.214}, "Direction": {"x": -0.027, "y": 0.671, "z": -0.741}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 12:00:43", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 22, "Coordinates": [{"x": 1.58, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:00:48", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 37, "Coordinates": [{"x": 1.58, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:00:52", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 23, "Coordinates": [{"x": 8.51, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:00:54", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 38, "Coordinates": [{"x": 8.51, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:00:57", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 24, "Coordinates": [{"x": 15.44, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:03", "File": "demo.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 39, "Coordinates": [{"x": 15.44, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:12", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 42, "Coordinates": [{"x": -17.312, "y": 11.662, "z": 32.989}]}},
+{"Timestamp": "2020-10-16 12:01:16", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 44, "Coordinates": [{"x": 7.437, "y": 11.662, "z": 32.989}]}},
+{"Timestamp": "2020-10-16 12:01:28", "File": "demo.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [1.9871,1.96833,1.92937,1.87287,1.80268,1.72358,1.64097,1.41854,0.22983,-0.88098,-1.6321,-2.03175,-2.07627,-1.76504,-1.10148,-0.08358,1.20364,1.62043,1.70304,1.78353,1.85643,1.91675,1.9604,1.98439]
+, "Total": 19.03}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.9871,1.96833,1.92937,1.87287,1.80268,1.72358,1.64097,1.4996,1.00279,0.60972,0.36352,0.23668,0.22271,0.32109,0.53633,0.88697,1.40038,1.62043,1.70304,1.78353,1.85643,1.91675,1.9604,1.98439]
+, "Total": 32.83}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.05822,0.45224,0.75733,0.94154,1.03553,1.04589,0.97306,0.81275,0.54374,0.13316,0,0,0,0,0,0,0]
+, "Total": 6.75}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.08106,0.77296,1.4907,1.99562,2.26843,2.29898,2.08613,1.63781,0.97055,0.19674,0,0,0,0,0,0,0]
+, "Total": 13.8}}},
+{"Timestamp": "2020-10-16 12:01:41", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 33, "Coordinates": [{"x": -26.14, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:42", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 34, "Coordinates": [{"x": -19.21, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:45", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 35, "Coordinates": [{"x": -12.28, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:45", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 36, "Coordinates": [{"x": -5.35, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:46", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 37, "Coordinates": [{"x": 1.58, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:46", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 38, "Coordinates": [{"x": 8.51, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:47", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 39, "Coordinates": [{"x": 15.44, "y": 2.67, "z": 29.529}]}},
+{"Timestamp": "2020-10-16 12:01:47", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 24, "Coordinates": [{"x": 15.44, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:48", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 23, "Coordinates": [{"x": 8.51, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:48", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 22, "Coordinates": [{"x": 1.58, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:49", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 21, "Coordinates": [{"x": -5.35, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:49", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -12.28, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:50", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 19, "Coordinates": [{"x": -19.21, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:50", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": -26.14, "y": -4.755, "z": 26.673}]}},
+{"Timestamp": "2020-10-16 12:01:51", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 10, "Coordinates": [{"x": -26.14, "y": -12.18, "z": 23.816}]}},
+{"Timestamp": "2020-10-16 12:01:51", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 11, "Coordinates": [{"x": -19.21, "y": -12.18, "z": 23.816}]}},
+{"Timestamp": "2020-10-16 12:01:52", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 13, "Coordinates": [{"x": -12.28, "y": -12.18, "z": 23.816}]}},
+{"Timestamp": "2020-10-16 12:01:52", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 14, "Coordinates": [{"x": -5.35, "y": -12.18, "z": 23.816}]}},
+{"Timestamp": "2020-10-16 12:01:53", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 15, "Coordinates": [{"x": 1.58, "y": -12.18, "z": 23.816}]}},
+{"Timestamp": "2020-10-16 12:01:53", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 16, "Coordinates": [{"x": 8.51, "y": -12.18, "z": 23.816}]}},
+{"Timestamp": "2020-10-16 12:01:54", "File": "demo.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 17, "Coordinates": [{"x": 15.44, "y": -12.18, "z": 23.816}]}},
+{"Timestamp": "2020-10-16 12:01:59", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 46, "Coordinates": [{"x": -17.312, "y": 4.237, "z": 30.132}]}},
+{"Timestamp": "2020-10-16 12:02:01", "File": "demo.ng3", "Camera": {"Position": {"x": 2.145, "y": -71.474, "z": 88.278}, "Direction": {"x": -0.019, "y": 0.629, "z": -0.777}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 12:02:04", "File": "demo.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 42, "Coordinates": [{"x": -17.312, "y": 13.312, "z": 33.623}]}},
+{"Timestamp": "2020-10-16 12:02:06", "File": "demo.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 44, "Coordinates": [{"x": 7.437, "y": 13.312, "z": 33.623}]}},
+{"Timestamp": "2020-10-16 12:02:10", "File": "demo.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 46, "Coordinates": [{"x": -17.312, "y": 5.887, "z": 30.767}]}},
+{"Timestamp": "2020-10-16 12:02:19", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 48, "Coordinates": [{"x": 7.437, "y": 5.887, "z": 30.767}]}},
+{"Timestamp": "2020-10-16 12:02:24", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 50, "Coordinates": [{"x": -17.312, "y": -1.538, "z": 27.91}]}},
+{"Timestamp": "2020-10-16 12:03:12", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 52, "Coordinates": [{"x": 2.487, "y": -10.613, "z": 24.419}]}},
+{"Timestamp": "2020-10-16 12:03:14", "File": "demo.ng3", "Remove Rack": {"Type": "Rack", "Building": 2, "ID": 52, "Coordinates": [{"x": 2.487, "y": -10.613, "z": 24.419}]}},
+{"Timestamp": "2020-10-16 12:11:11", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 54, "Coordinates": [{"x": 7.025, "y": -1.538, "z": 27.91}]}},
+{"Timestamp": "2020-10-16 12:11:14", "File": "demo.ng3", "Undo": "Add Rack"},
+{"Timestamp": "2020-10-16 12:11:32", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 56, "Coordinates": [{"x": 7.025, "y": -9.375, "z": 24.895}]}},
+{"Timestamp": "2020-10-16 12:11:34", "File": "demo.ng3", "Remove Rack": {"Type": "Rack", "Building": 2, "ID": 56, "Coordinates": [{"x": 7.025, "y": -9.375, "z": 24.895}]}},
+{"Timestamp": "2020-10-16 12:11:42", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 58, "Coordinates": [{"x": 7.437, "y": -1.538, "z": 27.91}]}},
+{"Timestamp": "2020-10-16 12:11:52", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 60, "Coordinates": [{"x": -17.312, "y": -8.963, "z": 25.054}]}},
+{"Timestamp": "2020-10-16 12:11:56", "File": "demo.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 62, "Coordinates": [{"x": 7.437, "y": -8.963, "z": 25.054}]}},
+{"Timestamp": "2020-10-16 12:12:11", "File": "demo.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [1.9871,1.96833,1.92937,1.87287,1.80268,1.72358,1.64097,1.39528,0.00542,-1.31377,-2.21147,-2.69032,-2.74371,-2.37069,-1.57698,-0.36535,1.14683,1.62043,1.70304,1.78353,1.85643,1.91675,1.9604,1.98439]
+, "Total": 15.03}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.9871,1.96833,1.92937,1.87287,1.80268,1.72358,1.64097,1.49987,1.00279,0.60972,0.36352,0.23668,0.22271,0.32109,0.53633,0.88697,1.40069,1.62043,1.70304,1.78353,1.85643,1.91675,1.9604,1.98439]
+, "Total": 32.83}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.05822,0.45224,0.75733,0.94154,1.03553,1.04589,0.97306,0.81275,0.54374,0.13316,0,0,0,0,0,0,0]
+, "Total": 6.75}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.10459,0.99737,1.92348,2.575,2.92701,2.96642,2.69178,2.11331,1.25232,0.25386,0,0,0,0,0,0,0]
+, "Total": 17.81}}},
+{"Timestamp": "2020-10-16 12:12:33", "File": "demo.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [10.41,0.38,-17.45,-31.26,-36.43,-41.73,-40.97,-37.85,-25.85,-23.89,-0.44,15.03]
+, "Total": -6997.48}, "AC": {"Monthly": [0,0,0,0,9.47,13.97,16.29,16.6,14.34,0,0,0]
+, "Total": 2149.87}, "Heater": {"Monthly": [34.29,29.68,21.6,14.22,7.22,0,0,0,6.01,13.77,20.76,32.83]
+, "Total": 5486.39}, "Windows": {"Monthly": [8.67,9.17,9.85,8.68,7.78,7.09,8.15,10.18,11.74,12.16,7.73,6.75]
+, "Total": 3284.16}, "Solar Panels": {"Monthly": [23.88,29.3,39.05,45.48,53.12,55.7,57.27,54.44,46.21,37.66,21.19,17.81]
+, "Total": 14633.74}}},
+{"Timestamp": "2020-10-16 12:12:44", "File": "demo.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-16 12:12:50", "File": "demo.ng3", "Camera": {"Position": {"x": 110.594, "y": 2.124, "z": 25.897}, "Direction": {"x": -0.973, "y": -0.019, "z": -0.228}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 12:12:57", "File": "demo.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 30, "Coordinates": [{"x": 34.736, "y": 10.048, "z": 1}]}},
+{"Timestamp": "2020-10-16 12:13:01", "File": "demo.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 31, "Coordinates": [{"x": 34.634, "y": -10.082, "z": 1}]}},
+{"Timestamp": "2020-10-16 12:13:04", "File": "demo.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 25, "Coordinates": [{"x": 33.566, "y": -0.227, "z": 1}]}},
+{"Timestamp": "2020-10-16 12:13:18", "File": "demo.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 64, "Coordinates": [{"x": 20, "y": -13.5, "z": 19}, {"x": 20, "y": -13.5, "z": 11}, {"x": 20, "y": 12.5, "z": 19}, {"x": 20, "y": 12.5, "z": 11}]}},
+{"Timestamp": "2020-10-16 12:13:26", "File": "demo.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-16 12:13:39", "File": "demo.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [14.51,3.9,-15.06,-28.66,-31.04,-34.32,-32.66,-30.15,-18.99,-20.63,2.71,19.01]
+, "Total": -5212.78}, "AC": {"Monthly": [0,0,0,0,13.24,20.79,23.98,23.49,19.18,0,0,0]
+, "Total": 3062.5}, "Heater": {"Monthly": [38.39,33.2,23.99,16.04,8.22,0,0,0,7.04,16.13,23.9,36.81]
+, "Total": 6196.48}, "Windows": {"Monthly": [13.14,14.85,17.91,13.45,13.73,13.69,14.99,16.48,16.91,16.43,11.88,10.09]
+, "Total": 5278.52}, "Solar Panels": {"Monthly": [23.88,29.3,39.05,44.7,52.5,55.12,56.64,53.64,45.21,36.76,21.19,17.81]
+, "Total": 14471.76}}},
+{"Timestamp": "2020-10-16 12:13:44", "File": "demo.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 64, "Coordinates": [{"x": 20, "y": -13.5, "z": 19}, {"x": 20, "y": -13.5, "z": 11}, {"x": 20, "y": 12.5, "z": 19}, {"x": 20, "y": 12.5, "z": 11}]}}]
+}

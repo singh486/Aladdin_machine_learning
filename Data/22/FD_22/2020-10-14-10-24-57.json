@@ -1,0 +1,199 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-14 10:25:01", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -1.392, "y": -92.806, "z": 44.833}, "Direction": {"x": 0.014, "y": 0.9, "z": -0.435}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:25:08", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 13, "Coordinates": [{"x": -20.2, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:25:12", "File": "small%20design%20exercise.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-14 10:25:17", "File": "small%20design%20exercise.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [0.91134,0.89447,0.85943,0.80863,0.74551,0.67439,0.59377,0.39547,0.1996,0.06142,-0.03234,-0.07558,-0.07907,-0.04812,0.03359,0.16088,0.33992,0.55792,0.65592,0.7283,0.79385,0.84809,0.88734,0.90891]
+, "Total": 11.82}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [0.91134,0.89447,0.85943,0.80863,0.74551,0.67439,0.59502,0.42923,0.27919,0.17755,0.10909,0.07933,0.07733,0.0978,0.15713,0.2506,0.38574,0.56303,0.65592,0.7283,0.79385,0.84809,0.88734,0.90891]
+, "Total": 12.92}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.00126,0.03376,0.0796,0.11613,0.14143,0.15491,0.15641,0.14592,0.12354,0.08972,0.04582,0.00511,0,0,0,0,0,0]
+, "Total": 1.09}}},
+{"Timestamp": "2020-10-14 10:25:48", "File": "small%20design%20exercise.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 14, "Coordinates": [{"x": -26, "y": -20, "z": 15}, {"x": -26, "y": -20, "z": 5}, {"x": -12, "y": -20, "z": 15}, {"x": -12, "y": -20, "z": 5}]}},
+{"Timestamp": "2020-10-14 10:25:50", "File": "small%20design%20exercise.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 14, "Coordinates": [{"x": -24, "y": -20, "z": 15}, {"x": -24, "y": -20, "z": 5}, {"x": -10, "y": -20, "z": 15}, {"x": -10, "y": -20, "z": 5}]}},
+{"Timestamp": "2020-10-14 10:25:55", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 15, "Coordinates": [{"x": -13.27, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:00", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 16, "Coordinates": [{"x": -8.32, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:01", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -7.762, "y": -91.1, "z": 47.597}, "Direction": {"x": 0.075, "y": 0.884, "z": -0.462}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:26:04", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 15, "Coordinates": [{"x": -15.25, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:09", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 16, "Coordinates": [{"x": -10.3, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:13", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 15, "Coordinates": [{"x": -14.755, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:18", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 16, "Coordinates": [{"x": -9.31, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:21", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 17, "Coordinates": [{"x": -3.865, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:26", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": 1.58, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:27", "File": "small%20design%20exercise.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 16, "Coordinates": [{"x": -9.31, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:28", "File": "small%20design%20exercise.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 15, "Coordinates": [{"x": -14.755, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:32", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 19, "Coordinates": [{"x": -14.755, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:34", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -9.31, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:38", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 21, "Coordinates": [{"x": 7.025, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:42", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 22, "Coordinates": [{"x": 12.47, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:45", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 23, "Coordinates": [{"x": 17.915, "y": -15.645, "z": 23.555}]}},
+{"Timestamp": "2020-10-14 10:26:48", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 5.552, "y": -92.425, "z": 45.297}, "Direction": {"x": -0.054, "y": 0.897, "z": -0.439}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:27:08", "File": "small%20design%20exercise.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-14 10:27:10", "File": "small%20design%20exercise.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-14 10:27:16", "File": "small%20design%20exercise.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-14 10:27:33", "File": "small%20design%20exercise.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-14 10:27:37", "File": "small%20design%20exercise.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-14 10:27:37", "File": "small%20design%20exercise.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-14 10:27:53", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.19244,1.16379,1.10431,1.01805,0.9109,0.79016,0.61869,-0.18524,-0.63647,-0.9117,-1.10162,-0.4747,-0.11955,-1.13525,-0.96741,-0.71286,-0.35277,0.47915,0.7588,0.88168,0.99296,1.08505,1.15168,1.18831]
+, "Total": 6.74}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0.72783,1.09419,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 1.82}, "Heater": {"Hourly": [1.19244,1.16379,1.10431,1.01805,0.9109,0.79016,0.63292,0.10224,0,0,0,0,0,0,0,0,0.02741,0.52964,0.7588,0.88168,0.99296,1.08505,1.15168,1.18831]
+, "Total": 13.53}, "Windows": {"Hourly": [0,0,0,0,0,0,0.02464,0.41284,0.81731,1.11641,1.32423,1.43669,1.44931,1.3615,1.17699,0.90077,0.52642,0.08222,0,0,0,0,0,0]
+, "Total": 10.63}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.01423,0.28749,0.63647,0.9117,1.10162,1.20252,1.21374,1.13525,0.96741,0.71286,0.38018,0.05049,0,0,0,0,0,0]
+, "Total": 8.61}}, "Solar Potential": [{"Building": 2, "Daily": 793.54}]},
+{"Timestamp": "2020-10-14 10:28:22", "File": "small%20design%20exercise.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 14, "Coordinates": [{"x": -24, "y": -20, "z": 15}, {"x": -24, "y": -20, "z": 5}, {"x": -10, "y": -20, "z": 15}, {"x": -10, "y": -20, "z": 5}]}},
+{"Timestamp": "2020-10-14 10:28:26", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.05064,1.02539,0.97299,0.89699,0.80258,0.6962,0.56389,0.08584,-0.43847,-0.83799,-1.08121,-1.14951,-1.1572,-1.09686,-0.93176,-0.5511,-0.05619,0.48462,0.66857,0.77684,0.87488,0.95602,1.01473,1.047]
+, "Total": 4.62}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.01677,0.05302,0.05654,0.03838,0.00023,0,0,0,0,0,0,0,0,0]
+, "Total": 0.16}, "Heater": {"Hourly": [1.05064,1.02539,0.97299,0.89699,0.80258,0.6962,0.57812,0.37332,0.198,0.07371,0.00365,0,0,0,0.03541,0.16177,0.32399,0.53511,0.66857,0.77684,0.87488,0.95602,1.01473,1.047]
+, "Total": 13.07}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.01423,0.28749,0.63647,0.9117,1.10162,1.20252,1.21374,1.13525,0.96741,0.71286,0.38018,0.05049,0,0,0,0,0,0]
+, "Total": 8.61}}, "Solar Potential": [{"Building": 2, "Daily": 793.54}]},
+{"Timestamp": "2020-10-14 10:28:44", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -1.577, "y": 85.638, "z": 57.347}, "Direction": {"x": 0.015, "y": -0.831, "z": -0.556}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:28:48", "File": "small%20design%20exercise.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -39.819, "y": -26.939, "z": 0}, {"x": -39.819, "y": 33.061, "z": 0}, {"x": 40.181, "y": -26.939, "z": 0}, {"x": 40.181, "y": 33.061, "z": 0}, {"x": -39.819, "y": -26.939, "z": 36}, {"x": -39.819, "y": 33.061, "z": 36}, {"x": 40.181, "y": -26.939, "z": 36}, {"x": 40.181, "y": 33.061, "z": 36}, {"x": 43.181, "y": 3.061, "z": 0}, {"x": -42.819, "y": 3.061, "z": 0}, {"x": 0.181, "y": 36.061, "z": 0}, {"x": 0.181, "y": -29.939, "z": 0}], "Height": 7, "Area": 96, "CenterX": 0.04, "CenterY": 0.61}},
+{"Timestamp": "2020-10-14 10:28:48", "File": "small%20design%20exercise.ng3", "Undo": "Edit Foundation"},
+{"Timestamp": "2020-10-14 10:28:54", "File": "small%20design%20exercise.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -40, "y": -30, "z": 0}, {"x": -40, "y": 40, "z": 0}, {"x": 40, "y": -30, "z": 0}, {"x": 40, "y": 40, "z": 0}, {"x": -40, "y": -30, "z": 36}, {"x": -40, "y": 40, "z": 36}, {"x": 40, "y": -30, "z": 36}, {"x": 40, "y": 40, "z": 36}, {"x": 43, "y": 5, "z": 0}, {"x": -43, "y": 5, "z": 0}, {"x": 0, "y": 43, "z": 0}, {"x": 0, "y": -33, "z": 0}], "Height": 7, "Area": 96, "CenterX": -0, "CenterY": -0}},
+{"Timestamp": "2020-10-14 10:29:00", "File": "small%20design%20exercise.ng3", "Add Tree": {"Species": "Dogwood", "ID": 24, "Coordinates": [{"x": 24, "y": 35, "z": 1}]}},
+{"Timestamp": "2020-10-14 10:29:05", "File": "small%20design%20exercise.ng3", "Add Tree": {"Species": "Dogwood", "ID": 25, "Coordinates": [{"x": 2, "y": 33, "z": 1}]}},
+{"Timestamp": "2020-10-14 10:29:10", "File": "small%20design%20exercise.ng3", "Add Tree": {"Species": "Dogwood", "ID": 26, "Coordinates": [{"x": -21, "y": 33, "z": 1}]}},
+{"Timestamp": "2020-10-14 10:29:16", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.05064,1.02539,0.97299,0.89699,0.80258,0.6962,0.56389,0.08584,-0.43847,-0.83799,-1.08121,-1.14951,-1.1572,-1.09686,-0.93176,-0.5511,-0.05619,0.48462,0.66857,0.77684,0.87488,0.95602,1.01473,1.047]
+, "Total": 4.62}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.01677,0.05301,0.05654,0.03838,0.00023,0,0,0,0,0,0,0,0,0]
+, "Total": 0.16}, "Heater": {"Hourly": [1.05064,1.02539,0.97299,0.89699,0.80258,0.6962,0.57812,0.37332,0.198,0.07371,0.00365,0,0,0,0.03542,0.16177,0.32399,0.53511,0.66857,0.77684,0.87488,0.95602,1.01473,1.047]
+, "Total": 13.07}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.01423,0.28749,0.63647,0.9117,1.10162,1.20252,1.21374,1.13525,0.96741,0.71286,0.38018,0.05049,0,0,0,0,0,0]
+, "Total": 8.61}}, "Solar Potential": [{"Building": 2, "Daily": 793.54}]},
+{"Timestamp": "2020-10-14 10:29:32", "File": "small%20design%20exercise.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 27, "Coordinates": [{"x": 22, "y": 20, "z": 11}, {"x": 22, "y": 20, "z": 5}, {"x": 12, "y": 20, "z": 11}, {"x": 12, "y": 20, "z": 5}]}},
+{"Timestamp": "2020-10-14 10:29:35", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.11141,1.0847,1.02927,0.94887,0.84901,0.73647,0.59305,0.05,-0.51789,-0.90689,-1.02918,-1.03011,-1.03717,-0.98132,-0.96741,-0.6373,-0.1064,0.50212,0.70724,0.82177,0.92549,1.01132,1.07342,1.10756]
+, "Total": 5.34}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.07245,0.17242,0.17657,0.15393,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0.58}, "Heater": {"Hourly": [1.11141,1.0847,1.02927,0.94887,0.84901,0.73647,0.60728,0.33749,0.11858,0.00481,0,0,0,0,0,0.07556,0.27378,0.5526,0.70724,0.82177,0.92549,1.01132,1.07342,1.10756]
+, "Total": 13.38}, "Windows": {"Hourly": [0,0,0,0,0,0,0.00478,0.06471,0.10339,0.12101,0.12997,0.13403,0.13446,0.13137,0.12384,0.10901,0.07786,0.01505,0,0,0,0,0,0]
+, "Total": 1.15}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.01423,0.28749,0.63647,0.9117,1.10162,1.20252,1.21374,1.13525,0.96741,0.71286,0.38018,0.05049,0,0,0,0,0,0]
+, "Total": 8.61}}, "Solar Potential": [{"Building": 2, "Daily": 793.54}]},
+{"Timestamp": "2020-10-14 10:29:46", "File": "small%20design%20exercise.ng3", "Show Curve": {"Graph": "BuildingEnergyDailyGraph", "Name": "Windows", "Shown": true}},
+{"Timestamp": "2020-10-14 10:29:49", "File": "small%20design%20exercise.ng3", "Show Curve": {"Graph": "BuildingEnergyDailyGraph", "Name": "Windows", "Shown": false}},
+{"Timestamp": "2020-10-14 10:30:00", "File": "small%20design%20exercise.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 27, "Coordinates": [{"x": 22, "y": 20, "z": 11}, {"x": 22, "y": 20, "z": 5}, {"x": 12, "y": 20, "z": 11}, {"x": 12, "y": 20, "z": 5}]}},
+{"Timestamp": "2020-10-14 10:30:09", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 100.212, "y": -2.586, "z": 23.999}, "Direction": {"x": -0.972, "y": 0.025, "z": -0.233}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:30:15", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 28, "Coordinates": [{"x": 26.825, "y": -7.725, "z": 24.16}]}},
+{"Timestamp": "2020-10-14 10:30:21", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 29, "Coordinates": [{"x": 21.38, "y": -0.3, "z": 30.116}]}},
+{"Timestamp": "2020-10-14 10:30:28", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 30, "Coordinates": [{"x": 26.825, "y": 7.62, "z": 24.16}]}},
+{"Timestamp": "2020-10-14 10:30:31", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 99.187, "y": 1.905, "z": 27.988}, "Direction": {"x": -0.962, "y": -0.018, "z": -0.272}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:30:33", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.05064,1.02539,0.97299,0.89699,0.80258,0.6962,0.54932,-0.11491,-0.75764,-1.19382,-1.42589,-1.44759,-1.38116,-1.22742,-0.99254,-0.60361,-0.09403,0.47723,0.66857,0.77684,0.87488,0.95602,1.01473,1.047]
+, "Total": 2.57}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.01677,0.05301,0.05641,0.03811,0.00023,0,0,0,0,0,0,0,0,0]
+, "Total": 0.16}, "Heater": {"Hourly": [1.05064,1.02539,0.97299,0.89699,0.80258,0.6962,0.57812,0.37332,0.198,0.07371,0.00365,0,0,0,0.03542,0.16177,0.32399,0.53511,0.66857,0.77684,0.87488,0.95602,1.01473,1.047]
+, "Total": 13.07}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.0288,0.48824,0.95564,1.26753,1.44631,1.5006,1.43757,1.26553,1.02819,0.76538,0.41803,0.05787,0,0,0,0,0,0]
+, "Total": 10.66}}, "Solar Potential": [{"Building": 2, "Daily": 795.02}]},
+{"Timestamp": "2020-10-14 10:31:05", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -98.506, "y": 4.851, "z": 29.967}, "Direction": {"x": 0.956, "y": -0.047, "z": -0.291}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:31:11", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 31, "Coordinates": [{"x": -26.635, "y": 7.62, "z": 24.368}]}},
+{"Timestamp": "2020-10-14 10:31:15", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 32, "Coordinates": [{"x": -21.19, "y": 0.195, "z": 30.323}]}},
+{"Timestamp": "2020-10-14 10:31:20", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 33, "Coordinates": [{"x": -26.635, "y": -7.725, "z": 24.368}]}},
+{"Timestamp": "2020-10-14 10:31:21", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -81.129, "y": -12.327, "z": 62.379}, "Direction": {"x": 0.787, "y": 0.12, "z": -0.605}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:31:26", "File": "small%20design%20exercise.ng3", "Edit HipRoof": {"Type": "HipRoof", "Building": 2, "ID": 10, "Coordinates": [{"x": 0, "y": 0, "z": 38.5}, {"x": -16, "y": 0, "z": 38.5}, {"x": 16, "y": 0, "z": 38.5}]}},
+{"Timestamp": "2020-10-14 10:31:31", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 34, "Coordinates": [{"x": -26.635, "y": 0.195, "z": 25.206}]}},
+{"Timestamp": "2020-10-14 10:31:35", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 84.772, "y": -1.339, "z": 58.625}, "Direction": {"x": -0.822, "y": 0.013, "z": -0.569}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:31:38", "File": "small%20design%20exercise.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 35, "Coordinates": [{"x": 26.825, "y": -0.3, "z": 24.969}]}},
+{"Timestamp": "2020-10-14 10:31:41", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.00002,0.97599,0.92611,0.85378,0.76392,0.66266,0.51147,-0.2631,-0.96357,-1.41158,-1.67795,-1.81452,-1.82813,-1.7153,-1.50451,-1.0977,-0.46905,0.38147,0.63636,0.73941,0.83273,0.90996,0.96584,0.99656]
+, "Total": -1.59}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.00839,0.03693,0.04183,0.02584,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0.11}, "Heater": {"Hourly": [1.00002,0.97599,0.92611,0.85378,0.76392,0.66266,0.54995,0.35314,0.18794,0.07049,0.00508,0,0,0,0.03481,0.15273,0.30583,0.50846,0.63636,0.73941,0.83273,0.90996,0.96584,0.99656]
+, "Total": 12.43}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 818.57}]},
+{"Timestamp": "2020-10-14 10:32:34", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 1.385, "y": -92.354, "z": 45.759}, "Direction": {"x": -0.013, "y": 0.896, "z": -0.444}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:32:43", "File": "small%20design%20exercise.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 36, "Coordinates": [{"x": -24, "y": -20, "z": 15}, {"x": -24, "y": -20, "z": 7}, {"x": -16, "y": -20, "z": 15}, {"x": -16, "y": -20, "z": 7}]}},
+{"Timestamp": "2020-10-14 10:32:46", "File": "small%20design%20exercise.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 36, "Coordinates": [{"x": -22, "y": -20, "z": 15}, {"x": -22, "y": -20, "z": 7}, {"x": -14, "y": -20, "z": 15}, {"x": -14, "y": -20, "z": 7}]}},
+{"Timestamp": "2020-10-14 10:32:50", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.57869,-0.39195,-1.1515,-1.48207,-1.53069,-1.16598,-1.17322,-1.25358,-1.53932,-1.25043,-0.6489,0.41821,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 1.12}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.16073,0.68546,0.69674,0.48756,0,0,0,0,0,0,0,0,0,0]
+, "Total": 2.03}, "Heater": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.61717,0.22429,0,0,0,0,0,0,0,0,0.12598,0.5452,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 13.23}, "Windows": {"Hourly": [0,0,0,0,0,0,0.01126,0.18873,0.37363,0.51036,0.60536,0.65677,0.66254,0.6224,0.53805,0.41178,0.24065,0.03759,0,0,0,0,0,0]
+, "Total": 4.86}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 818.57}]},
+{"Timestamp": "2020-10-14 10:32:56", "File": "small%20design%20exercise.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 36, "Coordinates": [{"x": -22, "y": -20, "z": 15}, {"x": -22, "y": -20, "z": 7}, {"x": -14, "y": -20, "z": 15}, {"x": -14, "y": -20, "z": 7}]}},
+{"Timestamp": "2020-10-14 10:33:06", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 13.242, "y": 100.047, "z": 20.981}, "Direction": {"x": -0.128, "y": -0.971, "z": -0.204}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:33:10", "File": "small%20design%20exercise.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 38, "Coordinates": [{"x": 20, "y": 20, "z": 15}, {"x": 20, "y": 20, "z": 7}, {"x": 12, "y": 20, "z": 15}, {"x": 12, "y": 20, "z": 7}]}},
+{"Timestamp": "2020-10-14 10:33:14", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.58473,-0.27444,-1.03756,-1.47995,-1.61455,-1.67033,-1.68269,-1.57867,-1.53932,-1.18249,-0.50011,0.43934,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 0.18}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.07687,0.18111,0.18726,0.16247,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0.61}, "Heater": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.62321,0.3418,0.11394,0.00212,0,0,0,0,0,0.06794,0.27476,0.56633,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 13.7}, "Windows": {"Hourly": [0,0,0,0,0,0,0.00509,0.06902,0.11028,0.12907,0.13863,0.14297,0.14342,0.14013,0.1321,0.11628,0.08305,0.01605,0,0,0,0,0,0]
+, "Total": 1.23}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 818.57}]},
+{"Timestamp": "2020-10-14 10:40:46", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.58473,-0.27444,-1.03756,-1.47995,-1.61455,-1.67033,-1.68269,-1.57867,-1.53932,-1.18249,-0.50011,0.43934,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 0.18}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.07687,0.18111,0.18726,0.16247,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0.61}, "Heater": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.62321,0.3418,0.11394,0.00212,0,0,0,0,0,0.06794,0.27476,0.56633,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 13.7}, "Windows": {"Hourly": [0,0,0,0,0,0,0.00509,0.06902,0.11028,0.12907,0.13863,0.14297,0.14342,0.14013,0.1321,0.11628,0.08305,0.01605,0,0,0,0,0,0]
+, "Total": 1.23}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 818.57}]},
+{"Timestamp": "2020-10-14 10:46:28", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.58473,-0.27444,-1.03756,-1.47995,-1.61455,-1.67033,-1.68269,-1.57867,-1.53932,-1.18249,-0.50011,0.43934,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 0.18}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.07687,0.18111,0.18726,0.16247,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0.61}, "Heater": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.62321,0.3418,0.11394,0.00212,0,0,0,0,0,0.06794,0.27476,0.56633,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 13.7}, "Windows": {"Hourly": [0,0,0,0,0,0,0.00509,0.06902,0.11028,0.12907,0.13863,0.14297,0.14342,0.14013,0.1321,0.11628,0.08305,0.01605,0,0,0,0,0,0]
+, "Total": 1.23}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 818.57}]},
+{"Timestamp": "2020-10-14 10:46:31", "File": "small%20design%20exercise.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 25, "Coordinates": [{"x": 2, "y": 33, "z": 1}]}},
+{"Timestamp": "2020-10-14 10:46:32", "File": "small%20design%20exercise.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 24, "Coordinates": [{"x": 24, "y": 35, "z": 1}]}},
+{"Timestamp": "2020-10-14 10:46:36", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -11.247, "y": 52.033, "z": 8.491}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:36", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -8.511, "y": 57.397, "z": 9.886}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:37", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -7.165, "y": 60.036, "z": 10.573}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:38", "File": "small%20design%20exercise.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 26, "Coordinates": [{"x": -21, "y": 33, "z": 1}]}},
+{"Timestamp": "2020-10-14 10:46:41", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.58473,-0.27444,-1.03756,-1.47995,-1.61455,-1.67033,-1.68269,-1.57867,-1.53932,-1.18249,-0.50011,0.43934,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 0.18}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.07687,0.18111,0.18726,0.16247,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0.61}, "Heater": {"Hourly": [1.14125,1.11382,1.0569,0.97435,0.8718,0.75624,0.62321,0.3418,0.11394,0.00212,0,0,0,0,0,0.06794,0.27476,0.56633,0.72623,0.84383,0.95033,1.03847,1.10224,1.1373]
+, "Total": 13.7}, "Windows": {"Hourly": [0,0,0,0,0,0,0.00509,0.06902,0.11028,0.12907,0.13863,0.14297,0.14342,0.14013,0.1321,0.11628,0.08305,0.01605,0,0,0,0,0,0]
+, "Total": 1.23}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 818.57}]},
+{"Timestamp": "2020-10-14 10:46:44", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -4.494, "y": 65.27, "z": 11.934}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:45", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 2.805, "y": 79.577, "z": 15.656}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:45", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 5.501, "y": 84.862, "z": 17.031}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:46", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 10.986, "y": 95.612, "z": 19.828}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:46", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 12.255, "y": 98.1, "z": 20.475}, "Direction": {"x": -0.443, "y": -0.868, "z": -0.226}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:52", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -27.334, "y": 116.685, "z": 12.454}, "Direction": {"x": -0.046, "y": -0.989, "z": -0.137}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:46:52", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -27.18, "y": 119.971, "z": 12.91}, "Direction": {"x": -0.046, "y": -0.989, "z": -0.137}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:54", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -14.696, "y": 130.164, "z": 14.477}, "Direction": {"x": -0.135, "y": -0.981, "z": -0.137}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:46:54", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -14.241, "y": 133.472, "z": 14.94}, "Direction": {"x": -0.135, "y": -0.981, "z": -0.137}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:55", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -13.68, "y": 137.552, "z": 15.51}, "Direction": {"x": -0.135, "y": -0.981, "z": -0.137}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:46:57", "File": "small%20design%20exercise.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 38, "Coordinates": [{"x": 20, "y": 20, "z": 15}, {"x": 20, "y": 20, "z": 7}, {"x": 12, "y": 20, "z": 15}, {"x": 12, "y": 20, "z": 7}]}},
+{"Timestamp": "2020-10-14 10:46:58", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -12.748, "y": 144.32, "z": 16.457}, "Direction": {"x": -0.135, "y": -0.981, "z": -0.137}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-14 10:47:01", "File": "small%20design%20exercise.ng3", "Remove Door": {"Type": "Door", "Building": 2, "ID": 12, "Coordinates": [{"x": -10, "y": 20, "z": 1}, {"x": -10, "y": 20, "z": 11}, {"x": -16, "y": 20, "z": 1}, {"x": -16, "y": 20, "z": 11}]}},
+{"Timestamp": "2020-10-14 10:47:04", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.51427,-0.2683,-0.97835,-1.43393,-1.66033,-1.78377,-1.79704,-1.68653,-1.51473,-1.11456,-0.47691,0.38318,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": -1.49}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.03109,0.06768,0.07292,0.0546,0.00685,0,0,0,0,0,0,0,0,0]
+, "Total": 0.23}, "Heater": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.55275,0.34794,0.17315,0.04813,0,0,0,0,0.01774,0.13587,0.29797,0.51017,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": 12.41}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 816.89}]},
+{"Timestamp": "2020-10-14 10:47:17", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -14.453, "y": -141.587, "z": 56.2}, "Direction": {"x": -0.115, "y": 0.917, "z": -0.383}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:47:26", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 23, "Coordinates": [{"x": 18.905, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:29", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 22, "Coordinates": [{"x": 13.46, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:31", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 21, "Coordinates": [{"x": 8.015, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:33", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": 3.065, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:34", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": -10.216, "y": -140.687, "z": 56.92}, "Direction": {"x": -0.142, "y": 0.911, "z": -0.387}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:47:38", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": 2.57, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:40", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 17, "Coordinates": [{"x": -2.875, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:42", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -8.32, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:44", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 19, "Coordinates": [{"x": -13.765, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:48", "File": "small%20design%20exercise.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 13, "Coordinates": [{"x": -19.21, "y": -15.645, "z": 24.277}]}},
+{"Timestamp": "2020-10-14 10:47:51", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.51426,-0.26832,-0.97835,-1.43393,-1.66033,-1.78377,-1.79704,-1.68653,-1.51473,-1.11456,-0.47691,0.3832,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": -1.49}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.03109,0.06768,0.07292,0.0546,0.00685,0,0,0,0,0,0,0,0,0]
+, "Total": 0.23}, "Heater": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.55274,0.34792,0.17315,0.04813,0,0,0,0,0.01774,0.13587,0.29797,0.5102,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": 12.41}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 816.89}]},
+{"Timestamp": "2020-10-14 10:48:00", "File": "small%20design%20exercise.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-14 10:51:29", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.51426,-0.26832,-0.97835,-1.43393,-1.66033,-1.78377,-1.79704,-1.68653,-1.51473,-1.11456,-0.47691,0.3832,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": -1.49}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.03109,0.06768,0.07292,0.0546,0.00685,0,0,0,0,0,0,0,0,0]
+, "Total": 0.23}, "Heater": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.55274,0.34792,0.17315,0.04813,0,0,0,0,0.01774,0.13587,0.29797,0.5102,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": 12.41}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 816.89}]},
+{"Timestamp": "2020-10-14 10:52:12", "File": "small%20design%20exercise.ng3", "Camera": {"Position": {"x": 121.544, "y": -12.566, "z": 17.899}, "Direction": {"x": -0.986, "y": 0.09, "z": -0.137}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:52:19", "File": "small%20design%20exercise.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 39, "Coordinates": [{"x": 30, "y": -10, "z": 15}, {"x": 30, "y": -10, "z": 5}, {"x": 30, "y": 10, "z": 15}, {"x": 30, "y": 10, "z": 5}]}},
+{"Timestamp": "2020-10-14 10:52:21", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.20833,1.1793,1.11903,1.03162,0.92305,0.80069,0.53728,-0.61624,-1.1515,-1.48207,-1.69142,-1.16216,-1.39359,-1.40242,-1.53932,-1.25043,-0.64622,0.44116,0.76892,0.89343,1.0062,1.09951,1.16703,1.20415]
+, "Total": 1.04}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0.68928,0.47636,0.33872,0,0,0,0,0,0,0,0,0,0]
+, "Total": 1.5}, "Heater": {"Hourly": [1.20833,1.1793,1.11903,1.03162,0.92305,0.80069,0.57576,0,0,0,0,0,0,0,0,0,0.12865,0.56815,0.76892,0.89343,1.0062,1.09951,1.16703,1.20415]
+, "Total": 13.67}, "Windows": {"Hourly": [0,0,0,0,0,0,0.09088,1.17543,1.6811,1.62525,1.28735,0.66938,0.4482,0.4379,0.41281,0.36337,0.25954,0.05015,0,0,0,0,0,0]
+, "Total": 8.5}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 816.93}]},
+{"Timestamp": "2020-10-14 10:52:29", "File": "small%20design%20exercise.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 39, "Coordinates": [{"x": 30, "y": -10, "z": 15}, {"x": 30, "y": -10, "z": 5}, {"x": 30, "y": 10, "z": 15}, {"x": 30, "y": 10, "z": 5}]}},
+{"Timestamp": "2020-10-14 10:52:33", "File": "small%20design%20exercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.51426,-0.26832,-0.97835,-1.43393,-1.66033,-1.78377,-1.79704,-1.68653,-1.51473,-1.11456,-0.47691,0.3832,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": -1.49}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0.03109,0.06768,0.07292,0.0546,0.00685,0,0,0,0,0,0,0,0,0]
+, "Total": 0.23}, "Heater": {"Hourly": [1.00576,0.98159,0.93142,0.85867,0.7683,0.66646,0.55274,0.34792,0.17315,0.04813,0,0,0,0,0.01774,0.13587,0.29797,0.5102,0.64001,0.74365,0.83751,0.91518,0.97138,1.00228]
+, "Total": 12.41}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.03848,0.61624,1.1515,1.48207,1.69142,1.85145,1.86995,1.74114,1.53932,1.25043,0.77487,0.12699,0,0,0,0,0,0]
+, "Total": 14.13}}, "Solar Potential": [{"Building": 2, "Daily": 816.89}]}]
+}

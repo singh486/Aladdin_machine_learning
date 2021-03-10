@@ -1,0 +1,7 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-28 15:34:31", "File": "FinalProject.ng3", "Camera": {"Position": {"x": 9.501, "y": -109.159, "z": 36.308}, "Direction": {"x": -0.082, "y": 0.946, "z": -0.315}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 15:34:34", "File": "FinalProject.ng3", "Camera": {"Position": {"x": 61.326, "y": -91.234, "z": 35.211}, "Direction": {"x": -0.531, "y": 0.79, "z": -0.305}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 15:34:36", "File": "FinalProject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-28 15:34:45", "File": "FinalProject.ng3", "Camera": {"Position": {"x": 20.995, "y": -112.188, "z": 17.247}, "Direction": {"x": -0.182, "y": 0.972, "z": -0.149}, "Mode": "Rotate"}}]
+}

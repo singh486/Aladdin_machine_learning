@@ -1,0 +1,50 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 09:08:56", "File": "shed.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -40, "y": -30, "z": 0}, {"x": -40, "y": 30, "z": 0}, {"x": 5, "y": -30, "z": 0}, {"x": 5, "y": 30, "z": 0}, {"x": -40, "y": -30, "z": 36}, {"x": -40, "y": 30, "z": 36}, {"x": 5, "y": -30, "z": 36}, {"x": 5, "y": 30, "z": 36}, {"x": 8, "y": 0, "z": 0}, {"x": -43, "y": 0, "z": 0}, {"x": -17.5, "y": 33, "z": 0}, {"x": -17.5, "y": -33, "z": 0}], "Height": 7, "Area": 22.5, "CenterX": -3.5, "CenterY": -2.75}},
+{"Timestamp": "2020-10-29 09:08:56", "File": "shed.ng3", "Camera": {"Position": {"x": -16.885, "y": -90.228, "z": 60.796}, "Direction": {"x": 0.153, "y": 0.819, "z": -0.552}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:09:02", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 10, "Coordinates": [{"x": -27.13, "y": -6.735, "z": 32.475}]}},
+{"Timestamp": "2020-10-29 09:09:05", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 11, "Coordinates": [{"x": -22.18, "y": -6.735, "z": 32.475}]}},
+{"Timestamp": "2020-10-29 09:09:08", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 12, "Coordinates": [{"x": -17.23, "y": -6.735, "z": 32.475}]}},
+{"Timestamp": "2020-10-29 09:09:10", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 13, "Coordinates": [{"x": -12.28, "y": -6.735, "z": 32.475}]}},
+{"Timestamp": "2020-10-29 09:09:13", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 14, "Coordinates": [{"x": -27.13, "y": -14.16, "z": 28.271}]}},
+{"Timestamp": "2020-10-29 09:09:16", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 15, "Coordinates": [{"x": -22.18, "y": -14.16, "z": 28.271}]}},
+{"Timestamp": "2020-10-29 09:09:19", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 16, "Coordinates": [{"x": -17.23, "y": -14.16, "z": 28.271}]}},
+{"Timestamp": "2020-10-29 09:09:21", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 17, "Coordinates": [{"x": -12.28, "y": -14.16, "z": 28.271}]}},
+{"Timestamp": "2020-10-29 09:09:28", "File": "shed.ng3", "Camera": {"Position": {"x": 86.483, "y": -5.264, "z": 67.938}, "Direction": {"x": -0.785, "y": 0.048, "z": -0.617}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:09:33", "File": "shed.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -40, "y": -30, "z": 0}, {"x": -40, "y": 30, "z": 0}, {"x": 15, "y": -30, "z": 0}, {"x": 15, "y": 30, "z": 0}, {"x": -40, "y": -30, "z": 36}, {"x": -40, "y": 30, "z": 36}, {"x": 15, "y": -30, "z": 36}, {"x": 15, "y": 30, "z": 36}, {"x": 18, "y": 0, "z": 0}, {"x": -43, "y": 0, "z": 0}, {"x": -12.5, "y": 33, "z": 0}, {"x": -12.5, "y": -33, "z": 0}], "Height": 7, "Area": 22.5, "CenterX": -3.5, "CenterY": -2.75}},
+{"Timestamp": "2020-10-29 09:09:37", "File": "shed.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -40, "y": -30, "z": 0}, {"x": -40, "y": 5, "z": 0}, {"x": 15, "y": -30, "z": 0}, {"x": 15, "y": 5, "z": 0}, {"x": -40, "y": -30, "z": 36}, {"x": -40, "y": 5, "z": 36}, {"x": 15, "y": -30, "z": 36}, {"x": 15, "y": 5, "z": 36}, {"x": 18, "y": -12.5, "z": 0}, {"x": -43, "y": -12.5, "z": 0}, {"x": -12.5, "y": 8, "z": 0}, {"x": -12.5, "y": -33, "z": 0}], "Height": 7, "Area": 22.5, "CenterX": -3.5, "CenterY": -2.75}},
+{"Timestamp": "2020-10-29 09:09:46", "File": "shed.ng3", "Add Door": {"Type": "Door", "Building": 2, "ID": 18, "Coordinates": [{"x": -5, "y": -16.5, "z": 1}, {"x": -5, "y": -16.5, "z": 11}, {"x": -5, "y": -10.5, "z": 1}, {"x": -5, "y": -10.5, "z": 11}]}},
+{"Timestamp": "2020-10-29 09:09:54", "File": "shed.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 19, "Coordinates": [{"x": -5, "y": -16.5, "z": 21}, {"x": -5, "y": -16.5, "z": 15}, {"x": -5, "y": -10.5, "z": 21}, {"x": -5, "y": -10.5, "z": 15}]}},
+{"Timestamp": "2020-10-29 09:10:05", "File": "shed.ng3", "U-Value Change for Selected Part": {"Building":2, "ID":19, "Type": "Window", "Old Value": 2.0, "New Value": 1.136}},
+{"Timestamp": "2020-10-29 09:10:10", "File": "shed.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-29 09:10:28", "File": "shed.ng3", "Camera": {"Position": {"x": -10.961, "y": -99.246, "z": 46.396}, "Direction": {"x": 0.1, "y": 0.901, "z": -0.421}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:10:36", "File": "shed.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-29 09:10:43", "File": "shed.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [12.26,8.43,1.88,-2.81,-6.28,-6.46,-6.34,-7.7,-5.09,1.19,8.59,12.82]
+, "Total": 319.62}, "AC": {"Monthly": [0,0,0,0,1.18,4.23,5.16,3.16,0,0,0,0]
+, "Total": 417.6}, "Heater": {"Monthly": [18.59,15.86,11.29,6.79,2.97,0,0,0,4.36,9.05,13.68,17.99]
+, "Total": 3059.17}, "Windows": {"Monthly": [1.02,1.29,1.81,2.03,2.38,2.53,2.71,2.37,1.85,1.39,0.82,0.8]
+, "Total": 639.15}, "Solar Panels": {"Monthly": [6.33,7.43,9.41,9.6,10.43,10.69,11.5,10.85,9.44,7.86,5.09,5.17]
+, "Total": 3157.14}}},
+{"Timestamp": "2020-10-29 09:11:04", "File": "shed.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 6, "Coordinates": [{"x": -30, "y": -25, "z": 1}, {"x": -30, "y": -25, "z": 21}, {"x": -10, "y": -25, "z": 1}, {"x": -10, "y": -25, "z": 21}]}},
+{"Timestamp": "2020-10-29 09:11:06", "File": "shed.ng3", "Camera": {"Position": {"x": 64.01, "y": -41.554, "z": 79.363}, "Direction": {"x": -0.581, "y": 0.377, "z": -0.721}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:11:09", "File": "shed.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 7, "Coordinates": [{"x": -5, "y": -2.5, "z": 1}, {"x": -5, "y": -2.5, "z": 21}, {"x": -10, "y": -25, "z": 1}, {"x": -10, "y": -25, "z": 21}]}},
+{"Timestamp": "2020-10-29 09:11:12", "File": "shed.ng3", "Camera": {"Position": {"x": 7.78, "y": 76.315, "z": 78.981}, "Direction": {"x": -0.071, "y": -0.693, "z": -0.717}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:11:17", "File": "shed.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 5, "Coordinates": [{"x": -30, "y": -2.5, "z": 1}, {"x": -30, "y": -2.5, "z": 21}, {"x": -12.5, "y": -2.5, "z": 1}, {"x": -12.5, "y": -2.5, "z": 21}]}},
+{"Timestamp": "2020-10-29 09:11:17", "File": "shed.ng3", "Camera": {"Position": {"x": 8.161, "y": 76.275, "z": 78.981}, "Direction": {"x": -0.074, "y": -0.693, "z": -0.717}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:11:36", "File": "shed.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 7, "Coordinates": [{"x": -10, "y": 0, "z": 1}, {"x": -10, "y": 0, "z": 21}, {"x": -10, "y": -25, "z": 1}, {"x": -10, "y": -25, "z": 21}]}},
+{"Timestamp": "2020-10-29 09:11:39", "File": "shed.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 5, "Coordinates": [{"x": -30, "y": -2.5, "z": 1}, {"x": -30, "y": -2.5, "z": 21}, {"x": -10, "y": -2.5, "z": 1}, {"x": -10, "y": -2.5, "z": 21}]}},
+{"Timestamp": "2020-10-29 09:11:43", "File": "shed.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 7, "Coordinates": [{"x": -10, "y": -2.5, "z": 1}, {"x": -10, "y": -2.5, "z": 21}, {"x": -10, "y": -25, "z": 1}, {"x": -10, "y": -25, "z": 21}]}},
+{"Timestamp": "2020-10-29 09:11:47", "File": "shed.ng3", "Camera": {"Position": {"x": -2.149, "y": -85.932, "z": 68.801}, "Direction": {"x": 0.02, "y": 0.78, "z": -0.625}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:11:49", "File": "shed.ng3", "Camera": {"Position": {"x": -10.802, "y": -85.967, "z": 67.938}, "Direction": {"x": 0.098, "y": 0.781, "z": -0.617}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 09:11:56", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -27.13, "y": -21.09, "z": 24.347}]}},
+{"Timestamp": "2020-10-29 09:12:01", "File": "shed.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -27.13, "y": -21.585, "z": 24.066}]}},
+{"Timestamp": "2020-10-29 09:12:16", "File": "shed.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -27.13, "y": -21.09, "z": 24.347}]}},
+{"Timestamp": "2020-10-29 09:12:20", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 23, "Coordinates": [{"x": -22.18, "y": -21.09, "z": 24.347}]}},
+{"Timestamp": "2020-10-29 09:12:23", "File": "shed.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 24, "Coordinates": [{"x": -17.23, "y": -21.09, "z": 24.347}]}},
+{"Timestamp": "2020-10-29 09:12:48", "File": "shed.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [7.98,3.99,-2.89,-7.13,-10.7,-10.87,-11,-11.94,-9.07,-2.72,5.28,9.06]
+, "Total": -1216.59}, "AC": {"Monthly": [0,0,0,0,0.97,3.84,4.82,2.99,0,0,0,0]
+, "Total": 383.91}, "Heater": {"Monthly": [16.69,14.2,10.05,6.06,2.66,0,0,0,3.91,8.08,12.28,16.16]
+, "Total": 2740.58}, "Windows": {"Monthly": [1.02,1.29,1.81,2.03,2.38,2.53,2.71,2.37,1.85,1.39,0.82,0.8]
+, "Total": 639.15}, "Solar Panels": {"Monthly": [8.7,10.22,12.94,13.19,14.34,14.7,15.82,14.93,12.99,10.81,7,7.1]
+, "Total": 4341.07}}}]
+}

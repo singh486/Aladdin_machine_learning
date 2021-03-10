@@ -1,0 +1,22 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 11:58:33", "Project": "Colonial", "File": "@colonial-template.ng3", "Camera": {"Position": {"x": 22.692, "y": -119.036, "z": 55.917}, "Direction": {"x": -0.133, "y": 0.932, "z": -0.338}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 11:58:43", "Project": "Colonial", "File": "@colonial-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-22 11:59:02", "Project": "Colonial", "File": "@colonial-template.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-22 12:00:29", "Project": "Colonial", "File": "@colonial-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 1, "Net": {"Monthly": [86.59,84.35,64.66,42.47,27.39,36.94,37.61,35.32,38.89,32.07,40.17,69.9]
+, "Total": 18139.28}, "AC": {"Monthly": [0,0,0,0,4.04,23.98,37.61,35.32,29.66,8.95,0,0]
+, "Total": 4245.22}, "Heater": {"Monthly": [86.59,84.35,64.66,42.47,23.35,12.95,0,0,9.23,23.11,40.17,69.9]
+, "Total": 13894.06}, "Windows": {"Monthly": [12.57,13.91,17.4,19.67,20.92,21.68,22.22,20.8,19.86,18.17,11.4,9.8]
+, "Total": 6338.8}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-22 12:00:45", "Project": "Colonial", "File": "@colonial-template.ng3", "Camera": {"Position": {"x": 23.891, "y": -118.859, "z": 55.917}, "Direction": {"x": -0.142, "y": 0.93, "z": -0.338}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 12:00:49", "Project": "Colonial", "File": "@colonial-template.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-22 12:01:20", "Project": "Colonial", "File": "@colonial-template.ng3", "U-Factor Change for Whole Building": {"Building":1, "Type": "Wall", "New Value": 0.183}},
+{"Timestamp": "2020-10-22 12:03:50", "Project": "Colonial", "File": "@colonial-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 1, "Net": {"Monthly": [70.53,68.42,51.29,34.84,25.44,34.42,36.12,33.68,36.35,29.35,33.17,57]
+, "Total": 15531.38}, "AC": {"Monthly": [0,0,0,0,6.05,23.59,36.12,33.68,28.61,10.03,0,0]
+, "Total": 4199.77}, "Heater": {"Monthly": [70.53,68.42,51.29,34.84,19.39,10.83,0,0,7.75,19.32,33.17,57]
+, "Total": 11331.61}, "Windows": {"Monthly": [12.57,13.91,17.4,19.67,20.92,21.68,22.22,20.8,19.86,18.17,11.4,9.8]
+, "Total": 6338.8}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-22 12:04:38", "Project": "Colonial", "File": "@colonial-template.ng3", "Camera": {"Position": {"x": 23.266, "y": -114.773, "z": 54.432}, "Direction": {"x": -0.142, "y": 0.93, "z": -0.338}, "Mode": "Zoom"}}]
+}

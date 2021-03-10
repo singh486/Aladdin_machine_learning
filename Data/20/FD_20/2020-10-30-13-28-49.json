@@ -1,0 +1,11 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:28:55", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 12.961, "y": -10.456, "z": 51.387}, "Direction": {"x": -0.7, "y": 0.047, "z": -0.713}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:28:56", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 25.18, "y": -11.283, "z": 63.837}, "Direction": {"x": -0.7, "y": 0.047, "z": -0.713}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:28:56", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 38.813, "y": -12.206, "z": 77.728}, "Direction": {"x": -0.7, "y": 0.047, "z": -0.713}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:29:10", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 25.062, "y": -0.722, "z": 53.214}, "Direction": {"x": -0.497, "y": 0.331, "z": -0.802}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:29:10", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 30.405, "y": -4.28, "z": 61.838}, "Direction": {"x": -0.497, "y": 0.331, "z": -0.802}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:29:11", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 32.624, "y": -5.757, "z": 65.42}, "Direction": {"x": -0.497, "y": 0.331, "z": -0.802}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:29:11", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 41.248, "y": -11.5, "z": 79.341}, "Direction": {"x": -0.497, "y": 0.331, "z": -0.802}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:29:13", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 60.188, "y": 15.257, "z": 80.578}, "Direction": {"x": -0.655, "y": 0.031, "z": -0.755}, "Mode": "Rotate"}}]
+}

@@ -3,6 +3,7 @@ import glob
 import os
 import re
 import pandas as pd
+from pathlib import Path
 
 
 def concat_files():
@@ -20,6 +21,7 @@ def count_dict():
             res[split[0]] = int(split[1])
     return res
 
+
 def merged_dict(cDictionary):
     res = {}
     with open('merged_config.json') as f:
@@ -30,6 +32,20 @@ def merged_dict(cDictionary):
                 res[key] += cDictionary[val]
     return res
 
+
+def remove_empty_files_and_folders(dir_path) -> None:
+    for root, dirnames, files in os.walk(dir_path, topdown=False):
+        for f in files:
+            full_name = os.path.join(root, f)
+            if os.path.getsize(full_name) == 0:
+                os.remove(full_name)
+
+        for dirname in dirnames:
+            full_path = os.path.realpath(os.path.join(root, dirname))
+            if not os.listdir(full_path):
+                os.rmdir(full_path)
+
+
 def parse_dataframe():
     # Dictionary to store total counts
     total = []
@@ -37,7 +53,11 @@ def parse_dataframe():
     # Dictionary to store action counts
     cDictionary = count_dict()
 
-    for file in glob.glob("FD_5/*.json"):
+    files = Path("Data").glob("**/*.json")
+    print(files)
+
+    for file in files:
+        # print(file)
         with open(file) as f:
 
             try:
@@ -56,15 +76,16 @@ def parse_dataframe():
                 print("Error with ", file)
                 print(str(e))
 
-    # New merged dictionary
-    mDictionary = merged_dict(cDictionary)
-    action_df = pd.DataFrame(list(mDictionary.items()),
-                             columns=['Actions', 'Counts'])
-    total_df = pd.DataFrame(total, columns=['Energy Totals'])
-    print(action_df)
-    print(total_df)
-
+        # New merged dictionary
+        mDictionary = merged_dict(cDictionary)
+        action_df = pd.DataFrame(list(mDictionary.items()),
+                                 columns=['Actions', 'Counts'])
+        total_df = pd.DataFrame(total, columns=['Energy Totals'])
+        print(action_df)
+        print(total_df)
+     
 
 if __name__ == "__main__":
     # concat_files()
+    remove_empty_files_and_folders("Data")
     parse_dataframe()

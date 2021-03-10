@@ -1,0 +1,10 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 12:19:17", "File": "DesignChallengeProject.ng3", "Save": "file:/C:/Users/X/Desktop/DesignChallengeProject.ng3*"},
+{"Timestamp": "2020-10-30 12:19:31", "File": "DesignChallengeProject.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 12:20:00", "File": "DesignChallengeProject.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [21.26,16.26,-2.3,-20.13,-25.74,-19.58,-19.72,-18.8,-13.04,-11.2,0.52,13.7]
+, "Total": -2396.07}, "AC": {"Monthly": [0,0,0,0,8.76,21.04,27.72,25.82,22.97,10.38,0,0]
+, "Total": 3549.16}, "Heater": {"Monthly": [43,41.45,31.16,21.51,12.19,6.85,0,0,4.89,12.15,20.67,30.59]
+, "Total": 6827.29}, "Windows": {"Monthly": [9.1,10.08,12.62,14.6,15.45,14.97,15.11,15.09,14.95,13.26,8.26,7.09]
+, "Total": 4579.84}, "Solar Panels": {"Monthly": [21.74,25.19,33.46,41.64,46.69,47.46,47.45,44.62,40.91,33.72,20.15,16.89]
+, "Total": 12772.53}}}]}
