@@ -1,0 +1,4 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-19 13:54:36", "File": "X_smalldesign.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 50, "Coordinates": [{"x": -25.793, "y": 23.106, "z": 23.354}]}}]
+}

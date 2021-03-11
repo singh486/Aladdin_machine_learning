@@ -1,0 +1,24 @@
+{
+"Activities": [
+{"Timestamp": "2020-10-16 11:38:01", "File": "@temple-template.ng3", "Camera": {"Position": {"x": 145.299, "y": -294.831, "z": 155.974}, "Direction": {"x": -0.452, "y": 0.802, "z": -0.389}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:39:19", "File": "@temple-template.ng3", "Remove Wall": {"Type": "Wall", "Building": 1, "ID": 10, "Coordinates": [{"x": 75, "y": -125, "z": 1}, {"x": 75, "y": -125, "z": 83.5}, {"x": -75, "y": -125, "z": 1}, {"x": -75, "y": -125, "z": 83.5}]}},
+{"Timestamp": "2020-10-16 11:39:31", "File": "@temple-template.ng3", "Camera": {"Position": {"x": 166.358, "y": -197.769, "z": 258.876}, "Direction": {"x": -0.511, "y": 0.534, "z": -0.674}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:39:33", "File": "@temple-template.ng3", "Remove CustomRoof": {"Type": "CustomRoof", "Building": 1, "ID": 240, "Coordinates": [{"x": 0, "y": -0, "z": 108.5}, {"x": 0, "y": -0, "z": 108.5}, {"x": -0, "y": 129.99, "z": 108.5}, {"x": 0, "y": -125, "z": 108.5}]}},
+{"Timestamp": "2020-10-16 11:39:36", "File": "@temple-template.ng3", "Camera": {"Position": {"x": 53.167, "y": -204.27, "z": 308.083}, "Direction": {"x": -0.197, "y": 0.552, "z": -0.81}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:39:37", "File": "@temple-template.ng3", "Remove Floor": {"Type": "Floor", "Building": 1, "ID": 237, "Coordinates": [{"x": 0, "y": -0, "z": 81}]}},
+{"Timestamp": "2020-10-16 11:39:43", "File": "@temple-template.ng3", "Camera": {"Position": {"x": -152.902, "y": -282.888, "z": 202.571}, "Direction": {"x": 0.373, "y": 0.769, "z": -0.518}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:39:53", "File": "@temple-template.ng3", "Camera": {"Position": {"x": -235.285, "y": -67.222, "z": 297.141}, "Direction": {"x": 0.601, "y": 0.172, "z": -0.78}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:39:57", "File": "@temple-template.ng3", "Remove Walls": {"Building": 1}},
+{"Timestamp": "2020-10-16 11:40:00", "File": "@temple-template.ng3", "Remove Walls": {"Building": 1}},
+{"Timestamp": "2020-10-16 11:40:03", "File": "@temple-template.ng3", "Remove Wall": {"Type": "Wall", "Building": 1, "ID": 171, "Coordinates": [{"x": -55, "y": -85, "z": 1}, {"x": -55, "y": -85, "z": 83.5}, {"x": -55, "y": 105, "z": 1}, {"x": -55, "y": 105, "z": 83.5}]}},
+{"Timestamp": "2020-10-16 11:40:05", "File": "@temple-template.ng3", "Remove Wall": {"Type": "Wall", "Building": 1, "ID": 172, "Coordinates": [{"x": -55, "y": 105, "z": 1}, {"x": -55, "y": 105, "z": 83.5}, {"x": 55, "y": 105, "z": 1}, {"x": 55, "y": 105, "z": 83.5}]}},
+{"Timestamp": "2020-10-16 11:40:08", "File": "@temple-template.ng3", "Remove Wall": {"Type": "Wall", "Building": 1, "ID": 169, "Coordinates": [{"x": 55, "y": 105, "z": 1}, {"x": 55, "y": 105, "z": 83.5}, {"x": 55, "y": -85, "z": 1}, {"x": 55, "y": -85, "z": 83.5}]}},
+{"Timestamp": "2020-10-16 11:40:20", "File": "@temple-template.ng3", "Remove Wall": {"Type": "Wall", "Building": 1, "ID": 95, "Coordinates": [{"x": 65, "y": 45, "z": 1}, {"x": 65, "y": 45, "z": 78.5}, {"x": 65, "y": 35, "z": 1}, {"x": 65, "y": 35, "z": 78.5}]}},
+{"Timestamp": "2020-10-16 11:40:30", "File": "@temple-template.ng3", "Remove Walls": {"Building": 1}},
+{"Timestamp": "2020-10-16 11:40:34", "File": "@temple-template.ng3", "Remove Walls": {"Building": 1}},
+{"Timestamp": "2020-10-16 11:40:37", "File": "@temple-template.ng3", "Remove Walls": {"Building": 1}},
+{"Timestamp": "2020-10-16 11:40:40", "File": "@temple-template.ng3", "Edit Wall": {"Type": "Wall", "Building": 1, "ID": 50, "Coordinates": [{"x": -35, "y": -105, "z": 1}, {"x": -35, "y": -105, "z": 101}, {"x": -35, "y": -95, "z": 1}, {"x": -35, "y": -95, "z": 101}]}},
+{"Timestamp": "2020-10-16 11:40:40", "File": "@temple-template.ng3", "Camera": {"Position": {"x": -235.593, "y": -66.135, "z": 297.141}, "Direction": {"x": 0.602, "y": 0.169, "z": -0.78}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:40:45", "File": "@temple-template.ng3", "Camera": {"Position": {"x": -154.576, "y": -305.221, "z": 162.599}, "Direction": {"x": 0.378, "y": 0.831, "z": -0.408}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:41:20", "Project": "Apartment building", "File": "@apartment-template-1.ng3", "Camera": {"Position": {"x": -67.063, "y": -152.538, "z": 134.034}, "Direction": {"x": 0.313, "y": 0.8, "z": -0.512}, "Mode": "Rotate"}},{"Event String":"O_C_P_P_P_PPP_PP_OOOPP_OP_P_A_P_PP_A_PP_A_PPP_Y_A_C_A_Z_OP_PP_O_P"}]
+}

@@ -1,0 +1,6 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:27:59", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 33.318, "y": -69.269, "z": 121.171}, "Direction": {"x": -0.193, "y": 0.491, "z": -0.849}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:28:04", "File": "EnergyHouse3D%202.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 6, "ID": 35, "Coordinates": [{"x": -0.2, "y": -0.645, "z": 46.519}]}},
+{"Timestamp": "2020-10-30 13:28:06", "File": "EnergyHouse3D%202.ng3", "Camera": {"Position": {"x": 80.692, "y": -15.045, "z": 120.409}, "Direction": {"x": -0.524, "y": 0.112, "z": -0.844}, "Mode": "Rotate"}}]
+}

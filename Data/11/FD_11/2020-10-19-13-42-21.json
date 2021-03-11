@@ -1,0 +1,8 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-19 13:42:28", "File": "X_X_smalldesign.ng3", "Camera": {"Position": {"x": 5.512, "y": -77.99, "z": 122.439}, "Direction": {"x": 0.036, "y": 0.508, "z": -0.861}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-19 13:42:34", "File": "X_X_smalldesign.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 13, "Coordinates": [{"x": -23.227, "y": -18.988, "z": 31.268}]}},
+{"Timestamp": "2020-10-19 13:42:38", "File": "X_X_smalldesign.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 14, "Coordinates": [{"x": 12.413, "y": -12.553, "z": 34.684}]}},
+{"Timestamp": "2020-10-19 13:42:42", "File": "X_X_smalldesign.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 13, "Coordinates": [{"x": -15.307, "y": -12.058, "z": 34.947}]}},
+{"Timestamp": "2020-10-19 13:42:43", "File": "X_X_smalldesign.ng3", "Camera": {"Position": {"x": 11.68, "y": 91.299, "z": 109.704}, "Direction": {"x": -0.006, "y": -0.632, "z": -0.775}, "Mode": "Rotate"}}]
+}
