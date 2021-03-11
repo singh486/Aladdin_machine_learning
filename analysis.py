@@ -47,39 +47,49 @@ def remove_empty_files_and_folders(dir_path) -> None:
 
 
 def parse_dataframe():
-    # Dictionary to store total counts
-    total = []
 
-    # Dictionary to store action counts
     cDictionary = count_dict()
+    mDictionary = merged_dict(cDictionary)
+    action_df = pd.DataFrame(mDictionary.keys(),
+                                 columns=['Actions'])
 
-    files = Path("Data").glob("**/*.json")
-    print(files)
+    subfolders = [ f.path for f in os.scandir("Data") if f.is_dir() ]
+    filepaths = []
+    for sub in subfolders:
+        f = [f.path for f in os.scandir(sub) if f.is_dir()]
+        filepaths.append(f[0])
 
-    for file in files:
-        # print(file)
-        with open(file) as f:
+    print(filepaths)
 
-            try:
-                data = json.load(f)
 
-                # For each JSON file count particular activities
-                for item in data["Activities"]:
-                    for subitem in item:
-                        if subitem in cDictionary:
-                            cDictionary[subitem] = cDictionary[subitem] + 1
-                        if subitem == 'EnergyAnnualAnalysis':
-                            total.append(
-                                item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
-
-            except Exception as e:
-                print("Error with ", file)
-                print(str(e))
+    for filepath in filepaths:
+        # Dictionary to store total counts
+        total = []
+        
+        # Reset Dictionary to store action counts
+        cDictionary = count_dict()
+        for file in glob.glob(filepath + "/*.json"):
+            with open(file) as f:
+    
+                try:
+                    data = json.load(f)
+    
+                    # For each JSON file count particular activities
+                    for item in data["Activities"]:
+                        for subitem in item:
+                            if subitem in cDictionary:
+                                cDictionary[subitem] = cDictionary[subitem] + 1
+                            if subitem == 'EnergyAnnualAnalysis':
+                                total.append(
+                                    item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
+    
+                except Exception as e:
+                    print("Error with ", file)
+                    print(str(e))
 
         # New merged dictionary
         mDictionary = merged_dict(cDictionary)
-        action_df = pd.DataFrame(list(mDictionary.items()),
-                                 columns=['Actions', 'Counts'])
+        action_df[filepath] = mDictionary.values()
         total_df = pd.DataFrame(total, columns=['Energy Totals'])
         print(action_df)
         print(total_df)
