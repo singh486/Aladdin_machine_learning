@@ -52,6 +52,7 @@ def parse_dataframe():
     mDictionary = merged_dict(cDictionary)
     action_df = pd.DataFrame(mDictionary.keys(),
                                  columns=['Actions'])
+    # total_df = pd.DataFrame()
 
     subfolders = [ f.path for f in os.scandir("Data") if f.is_dir() ]
     filepaths = []
@@ -59,15 +60,12 @@ def parse_dataframe():
         f = [f.path for f in os.scandir(sub) if f.is_dir()]
         filepaths.append(f[0])
 
-    print(filepaths)
-
-
     for filepath in filepaths:
-        # Dictionary to store total counts
-        total = []
-        
+
         # Reset Dictionary to store action counts
         cDictionary = count_dict()
+
+        total[filepath] = []
         for file in glob.glob(filepath + "/*.json"):
             with open(file) as f:
     
@@ -80,7 +78,7 @@ def parse_dataframe():
                             if subitem in cDictionary:
                                 cDictionary[subitem] = cDictionary[subitem] + 1
                             if subitem == 'EnergyAnnualAnalysis':
-                                total.append(
+                                total[filepath].append(
                                     item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
     
                 except Exception as e:
@@ -90,9 +88,11 @@ def parse_dataframe():
         # New merged dictionary
         mDictionary = merged_dict(cDictionary)
         action_df[filepath] = mDictionary.values()
-        total_df = pd.DataFrame(total, columns=['Energy Totals'])
-        print(action_df)
-        print(total_df)
+
+    total_df = pd.DataFrame(list(total.values()), index=total.keys())
+        
+    print(action_df)
+    print(total_df)
      
 
 if __name__ == "__main__":
