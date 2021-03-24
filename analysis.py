@@ -47,7 +47,7 @@ def remove_empty_files_and_folders(dir_path) -> None:
 
 
 def parse_dataframe():
-
+    total = {}
     cDictionary = count_dict()
     mDictionary = merged_dict(cDictionary)
     action_df = pd.DataFrame(mDictionary.keys(),
@@ -80,6 +80,8 @@ def parse_dataframe():
                             if subitem == 'EnergyAnnualAnalysis':
                                 total[filepath].append(
                                     item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
+
+                
     
                 except Exception as e:
                     print("Error with ", file)
@@ -89,13 +91,19 @@ def parse_dataframe():
         mDictionary = merged_dict(cDictionary)
         action_df[filepath] = mDictionary.values()
 
-    total_df = pd.DataFrame(list(total.values()), index=total.keys())
-        
-    print(action_df)
-    print(total_df)
+    # total_df = pd.DataFrame(list(total.values()), index=total.keys())
+    # total_df = pd.DataFrame(total.values(), total.keys())
+    total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
+    total_df = total_df.fillna(method='ffill')
+
+    action_df = action_df.drop('Actions', 1)
+
+    return action_df, total_df
      
 
 if __name__ == "__main__":
     # concat_files()
     remove_empty_files_and_folders("Data")
-    parse_dataframe()
+    action_df, total_df = parse_dataframe()
+    print(action_df)
+    print(total_df)
