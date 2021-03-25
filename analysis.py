@@ -5,6 +5,12 @@ import re
 import pandas as pd
 from pathlib import Path
 
+import numpy as np  
+import matplotlib.pyplot as plt  
+import seaborn as seabornInstance 
+from sklearn.model_selection import train_test_split 
+from sklearn.linear_model import LinearRegression
+from sklearn import metrics
 
 def concat_files():
     read_files = glob.glob("FD_5/*.json")
@@ -91,15 +97,64 @@ def parse_dataframe():
         mDictionary = merged_dict(cDictionary)
         action_df[filepath] = mDictionary.values()
 
-    # total_df = pd.DataFrame(list(total.values()), index=total.keys())
-    # total_df = pd.DataFrame(total.values(), total.keys())
+
     total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
-    total_df = total_df.fillna(method='ffill')
+    total_df = total_df.fillna(0)
 
     action_df = action_df.drop('Actions', 1)
+    action_df = action_df.transpose()
+    action_df.columns = mDictionary.keys()
+
+    last_energy_total = []
+
+    for key in total:
+        temp_list = total[key]
+        if len(temp_list) == 0:
+            last_energy_total.append(-1)
+        else:
+            last_energy_total.append(temp_list[-1 + len(temp_list)])
+    
+    action_df['Last Energy Total'] = last_energy_total
+
+    total_df = total_df.transpose()
 
     return action_df, total_df
      
+
+def linear_regression(action_df, total_df):
+    cDictionary = count_dict()
+    mDictionary = merged_dict(cDictionary)
+
+    X = action_df[mDictionary.keys()].values
+    y = action_df['Last Energy Total'].values
+    plt.figure(figsize=(15,10))
+    plt.tight_layout()
+    seabornInstance.distplot(action_df['Last Energy Total'])
+    plt.show()
+
+
+    print(X.shape)
+    print(y.shape)
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+    regressor = LinearRegression()  
+    regressor.fit(X_train, y_train)
+    coeff_df = pd.DataFrame(regressor.coef_, mDictionary.keys(), columns=['Coefficient'])  
+    print(coeff_df)
+
+    y_pred = regressor.predict(X_test)
+    df = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})
+    df1 = df.head(25)
+    print(df1)
+
+    df1.plot(kind='bar',figsize=(10,8))
+    plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
+    plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
+    plt.show()
+    print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
+    print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
+    print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+
 
 if __name__ == "__main__":
     # concat_files()
@@ -107,3 +162,4 @@ if __name__ == "__main__":
     action_df, total_df = parse_dataframe()
     print(action_df)
     print(total_df)
+    linear_regression(action_df, total_df)
