@@ -1,7 +1,6 @@
 {
 "Version": "8.7.4","Activities": [
-]
-}imestamp": "2020-10-30 11:03:57", "File": "error6993133623373638583.ng3", "Add Door": {"Type": "Door", "Building": 2, "ID": 26, "Coordinates": [{"x": -5, "y": 8, "z": 1}, {"x": -5, "y": 8, "z": 11}, {"x": -5, "y": 4, "z": 1}, {"x": -5, "y": 4, "z": 11}]}},
+{"Timestamp": "2020-10-30 11:03:57", "File": "error6993133623373638583.ng3", "Add Door": {"Type": "Door", "Building": 2, "ID": 26, "Coordinates": [{"x": -5, "y": 8, "z": 1}, {"x": -5, "y": 8, "z": 11}, {"x": -5, "y": 4, "z": 1}, {"x": -5, "y": 4, "z": 11}]}},
 {"Timestamp": "2020-10-30 11:04:02", "File": "error6993133623373638583.ng3", "Camera": {"Position": {"x": 70.155, "y": 4.863, "z": 75.363}, "Direction": {"x": -0.681, "y": -0.047, "z": -0.731}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 11:04:05", "File": "error6993133623373638583.ng3", "Camera": {"Position": {"x": -2.636, "y": -87.838, "z": 53.875}, "Direction": {"x": 0.026, "y": 0.852, "z": -0.523}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 11:04:08", "File": "error6993133623373638583.ng3", "Camera": {"Position": {"x": -7.023, "y": -87.596, "z": 53.875}, "Direction": {"x": 0.068, "y": 0.85, "z": -0.523}, "Mode": "Rotate"}},
@@ -168,8 +167,8 @@
 {"Timestamp": "2020-10-30 11:13:31", "File": "error6993133623373638583.ng3", "Camera": {"Position": {"x": -2.709, "y": -135.426, "z": 48.675}, "Direction": {"x": 0.019, "y": 0.941, "z": -0.338}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 13:58:10", "File": "error6993133623373638583.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 57, "Coordinates": [{"x": -2, "y": -20, "z": 13}, {"x": -2, "y": -20, "z": 7}, {"x": 26, "y": -20, "z": 13}, {"x": 26, "y": -20, "z": 7}]}},
 {"Timestamp": "2020-10-30 13:58:13", "File": "error6993133623373638583.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 57, "Coordinates": [{"x": 0, "y": -20, "z": 13}, {"x": 0, "y": -20, "z": 7}, {"x": 26, "y": -20, "z": 13}, {"x": 26, "y": -20, "z": 7}]}},
-{"Timestamp": "2020-10-30 13:58:23", "File": "error6993133623373638583.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-30 13:58:24", "File": "error6993133623373638583.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-30 13:58:23", "File": "error6993133623373638583.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhï¿½us, Brazil"}},
+{"Timestamp": "2020-10-30 13:58:24", "File": "error6993133623373638583.ng3", "Change City": {"Old City": "Ilhï¿½us, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-30 13:58:35", "File": "error6993133623373638583.ng3", "Graph Tab": "Energy"},
 {"Timestamp": "2020-10-30 13:58:43", "File": "error6993133623373638583.ng3", "Graph Tab": "Cost"},
 {"Timestamp": "2020-10-30 13:58:46", "File": "error6993133623373638583.ng3", "Graph Tab": "Energy"},
@@ -178,4 +177,4 @@
 , "Total": 0}, "Heater": {"Hourly": [2.15531,2.11517,2.03184,1.911,1.76088,1.59171,1.41503,0.85759,0.12271,0,0,0,0,0,0,0.03938,0.64031,1.3449,1.54778,1.71994,1.87584,2.00486,2.09821,2.14953]
 , "Total": 27.38}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.36117,0.93983,1.33362,1.59596,1.73551,1.75108,1.64237,1.41081,1.0523,0.52592,0.02478,0,0,0,0,0,0]
 , "Total": 12.37}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.93746,2.46387,3.4675,4.15694,4.60505,4.69475,4.42028,3.84022,2.91964,1.46501,0.06802,0,0,0,0,0,0]
-, "Total": 33.04}}}
+, "Total": 33.04}}}]}

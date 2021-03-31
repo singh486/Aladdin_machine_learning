@@ -764,4 +764,4 @@
 , "Total": 4544.7}, "Solar Panels": {"Monthly": [16.69,19.56,26.49,33.73,38.54,39.64,39.68,37,33.33,26.88,15.12,12.98]
 , "Total": 10330.62}}},
 {"Timestamp": "2020-10-30 15:59:57", "File": "Energy%203D%20Design%20Challange.ng3", "Camera": {"Position": {"x": -30.348, "y": -150.235, "z": 41.66}, "Direction": {"x": 0.063, "y": 0.97, "z": -0.233}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 15:59:58", "File": "Energy%203D%20Design%20Challange.ng3", "Camera": {"Position": {"x": -31.174, "y": -151.052, "z": 37.818}, "Direction": {"x": 0.069, "y": 0.976, "z": -0.209}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-30 15:59:58", "File": "Energy%203D%20Design%20Challange.ng3", "Camera": {"Position": {"x": -31.174, "y": -151.052, "z": 37.818}, "Direction": {"x": 0.069, "y": 0.976, "z": -0.209}, "Mode": "Rotate"}}]}

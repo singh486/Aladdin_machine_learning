@@ -270,8 +270,8 @@
 , "Total": 27.98}}, "Solar Potential": [{"Building": 1, "Daily": 1587.49}]},
 {"Timestamp": "2020-10-29 20:49:45", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Graph Tab": "Cost"},
 {"Timestamp": "2020-10-29 20:49:58", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Graph Tab": "Energy"},
-{"Timestamp": "2020-10-29 20:50:04", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-29 20:50:07", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-29 20:50:04", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhï¿½us, Brazil"}},
+{"Timestamp": "2020-10-29 20:50:07", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Change City": {"Old City": "Ilhï¿½us, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-29 20:50:15", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Graph Tab": "Cost"},
 {"Timestamp": "2020-10-29 20:50:28", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Camera": {"Position": {"x": 3.173, "y": -161.575, "z": 29.25}, "Direction": {"x": -0.022, "y": 0.996, "z": -0.085}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 20:50:35", "Project": "Saltbox", "File": "@saltbox-template-1.ng3", "Remove Window": {"Type": "Window", "Building": 1, "ID": 117, "Coordinates": [{"x": 2.099, "y": -28.901, "z": 14.763}, {"x": 2.099, "y": -28.901, "z": 7.022}, {"x": -2.901, "y": -28.901, "z": 14.763}, {"x": -2.901, "y": -28.901, "z": 7.022}]}},
@@ -502,4 +502,4 @@
 {"Timestamp": "2020-10-30 13:29:53", "Project": "Saltbox", "File": "X_Design.ng3", "Graph Tab": "Cost"},
 {"Timestamp": "2020-10-30 13:30:07", "Project": "Saltbox", "File": "X_Design.ng3", "Camera": {"Position": {"x": 80.452, "y": -99.548, "z": 46.487}, "Direction": {"x": -0.312, "y": 0.895, "z": -0.319}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 13:30:14", "Project": "Saltbox", "File": "X_Design.ng3", "Camera": {"Position": {"x": 156.018, "y": -14.089, "z": 63.273}, "Direction": {"x": -0.853, "y": 0.283, "z": -0.439}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 14:17:00", "Project": "Saltbox", "File": "X_Design.ng3", "Camera": {"Position": {"x": 153.24, "y": 45.353, "z": 76.679}, "Direction": {"x": -0.833, "y": -0.142, "z": -0.535}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-30 14:17:00", "Project": "Saltbox", "File": "X_Design.ng3", "Camera": {"Position": {"x": 153.24, "y": 45.353, "z": 76.679}, "Direction": {"x": -0.833, "y": -0.142, "z": -0.535}, "Mode": "Rotate"}}]}

@@ -1,5 +1,5 @@
-# Ignore verify_json.py
-/verify_json.py
+# Ignore invalid_json.txt
+/invalid_json.txt
 
 # Ignore Mac system files
 .DS_store
