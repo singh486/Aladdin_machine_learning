@@ -14,5 +14,5 @@
     python3 analysis.py
 
 ## File Structure:
-    -Data directory must contain subdirectories with valid json files
+    -Data directory must contain a subdirectory with another subdirectory per student with valid json files
     -All other files and tools in main directory
