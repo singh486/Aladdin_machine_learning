@@ -12,13 +12,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
-def concat_files():
-    read_files = glob.glob("FD_5/*.json")
-    with open("merged_file.json", "wb") as outfile:
-        outfile.write('[{}]'.format(
-            ','.join([open(f, "r").read() for f in read_files])).encode())
-
-
 def count_dict():
     res = {}
     with open("action_config.txt") as f:
@@ -159,7 +152,6 @@ def linear_regression(action_df, total_df):
 
 
 if __name__ == "__main__":
-    # concat_files()
     remove_empty_files_and_folders("Data")
     action_df, total_df = parse_dataframe()
     print(action_df)
