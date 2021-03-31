@@ -110,7 +110,9 @@ def parse_dataframe():
     for key in total:
         temp_list = total[key]
         if len(temp_list) == 0:
-            last_energy_total.append(-1)
+            # Remove energy totals with 0
+            action_df = action_df.drop(key)
+            # last_energy_total.append(-1)
         else:
             last_energy_total.append(temp_list[-1 + len(temp_list)])
     
