@@ -1,0 +1,40 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-28 10:44:18", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 102.797, "y": -63.399, "z": 50.805}, "Direction": {"x": -0.784, "y": 0.463, "z": -0.412}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:44:20", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 26.246, "y": 121.625, "z": 26.113}, "Direction": {"x": -0.198, "y": -0.955, "z": -0.223}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:44:24", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 38.023, "y": -123.486, "z": 29.916}, "Direction": {"x": -0.288, "y": 0.924, "z": -0.252}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:44:37", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-28 10:44:52", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 37.266, "y": -115.109, "z": 52.582}, "Direction": {"x": -0.282, "y": 0.86, "z": -0.426}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:44:57", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-28 10:46:12", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 28.614, "y": -114.574, "z": 58.413}, "Direction": {"x": -0.216, "y": 0.856, "z": -0.471}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:46:51", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -24.725, "y": -119.403, "z": 50.21}, "Direction": {"x": 0.193, "y": 0.893, "z": -0.408}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:46:58", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -108.854, "y": -41.97, "z": 56.679}, "Direction": {"x": 0.837, "y": 0.299, "z": -0.457}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:47:06", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -98.06, "y": -63.737, "z": 57.259}, "Direction": {"x": 0.755, "y": 0.466, "z": -0.462}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:47:19", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -23.768, "y": -120.668, "z": 47.816}, "Direction": {"x": 0.185, "y": 0.902, "z": -0.389}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 10:47:29", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-28 10:47:45", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-28 10:47:59", "File": "ENGT%20180%20design%20challenge.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [23.24,10.76,-6.01,-21.28,-12.85,-15.5,-15.19,-16.52,-14.94,-5.4,14.15,29.64]
+, "Total": -909.43}, "AC": {"Monthly": [0,0,0,0,21.88,29.21,31.18,28.45,13.34,0,0,0]
+, "Total": 3773.76}, "Heater": {"Monthly": [45.88,37.89,26.91,17.14,8.44,0,0,0,11,22.26,32.83,46.08]
+, "Total": 7556.24}, "Windows": {"Monthly": [17.1,19.12,19.89,15.92,16.59,16.47,18.94,20.11,12.78,8.47,14.61,12.74]
+, "Total": 5862.42}, "Solar Panels": {"Monthly": [22.64,27.13,32.92,38.42,43.17,44.71,46.37,44.97,39.28,27.67,18.67,16.44]
+, "Total": 12239.44}}},
+{"Timestamp": "2020-10-28 10:48:22", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -25.624, "y": -129.694, "z": 51.712}, "Direction": {"x": 0.185, "y": 0.902, "z": -0.389}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 10:48:23", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -27.403, "y": -138.348, "z": 55.447}, "Direction": {"x": 0.185, "y": 0.902, "z": -0.389}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 10:48:51", "File": "ENGT%20180%20design%20challenge.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [23.24,10.76,-6.01,-21.28,-12.85,-15.5,-15.19,-16.52,-14.94,-5.4,14.15,29.64]
+, "Total": -909.43}, "AC": {"Monthly": [0,0,0,0,21.88,29.21,31.18,28.45,13.34,0,0,0]
+, "Total": 3773.76}, "Heater": {"Monthly": [45.88,37.89,26.91,17.14,8.44,0,0,0,11,22.26,32.83,46.08]
+, "Total": 7556.24}, "Windows": {"Monthly": [17.1,19.12,19.89,15.92,16.59,16.47,18.94,20.11,12.78,8.47,14.61,12.74]
+, "Total": 5862.42}, "Solar Panels": {"Monthly": [22.64,27.13,32.92,38.42,43.17,44.71,46.37,44.97,39.28,27.67,18.67,16.44]
+, "Total": 12239.44}}},
+{"Timestamp": "2020-10-28 10:49:05", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-28 10:49:18", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -13.966, "y": -137.24, "z": 99.054}, "Direction": {"x": 0.086, "y": 0.794, "z": -0.601}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:41:42", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -15.2, "y": -148.649, "z": 107.687}, "Direction": {"x": 0.086, "y": 0.794, "z": -0.601}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:41:43", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": -16.663, "y": -162.179, "z": 117.926}, "Direction": {"x": 0.086, "y": 0.794, "z": -0.601}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:41:44", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 18.664, "y": -162.318, "z": 107.109}, "Direction": {"x": -0.092, "y": 0.82, "z": -0.565}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:41:49", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 12:41:56", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 12:42:06", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 20.417, "y": -140.443, "z": 49.403}, "Direction": {"x": -0.133, "y": 0.926, "z": -0.352}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:42:15", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 25.838, "y": -139.015, "z": 50.798}, "Direction": {"x": -0.169, "y": 0.917, "z": -0.362}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:42:37", "File": "ENGT%20180%20design%20challenge.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 12:42:52", "File": "ENGT%20180%20design%20challenge.ng3", "Camera": {"Position": {"x": 28.001, "y": -132.385, "z": 64.429}, "Direction": {"x": -0.183, "y": 0.872, "z": -0.453}, "Mode": "Rotate"}}]}

@@ -1,0 +1,7 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-15 15:59:32", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": -64.334, "y": -176.164, "z": 62.652}, "Direction": {"x": 0.213, "y": 0.94, "z": -0.266}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-15 16:01:06", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-15 16:01:32", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": -81.258, "y": -170.954, "z": 64.619}, "Direction": {"x": 0.296, "y": 0.915, "z": -0.275}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-15 16:05:08", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": 75.206, "y": -158.825, "z": 52.738}, "Direction": {"x": -0.47, "y": 0.855, "z": -0.217}, "Mode": "Rotate"}}]
+}

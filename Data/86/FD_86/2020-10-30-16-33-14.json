@@ -1,0 +1,13 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 16:33:33", "File": "Final%20design%20project%20v2.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 16:33:59", "File": "Final%20design%20project%20v2.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [26.76,21.77,4.71,-15.6,-23.95,-14.83,-13,-11.32,-5.57,-5.37,9.39,22.48]
+, "Total": -137.95}, "AC": {"Monthly": [0,0,0,0,9.15,27.4,36.95,33.8,26.66,8.28,0,0]
+, "Total": 4326.61}, "Heater": {"Monthly": [42.12,40.63,32.2,22.44,13.03,7.38,0,0,5.3,13.08,22.9,34.49]
+, "Total": 7104.56}, "Windows": {"Monthly": [17.59,19.4,23.92,27.4,23.51,24.95,25.49,23.75,19.68,12.79,6.21,13.73]
+, "Total": 7252.13}, "Solar Panels": {"Monthly": [15.36,18.86,27.49,38.03,46.12,49.62,49.95,45.12,37.53,26.73,13.51,12.02]
+, "Total": 11569.12}}},
+{"Timestamp": "2020-10-30 16:35:15", "File": "Final%20design%20project%20v2.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 16:36:18", "File": "Final%20design%20project%20v2.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 16:38:51", "File": "Final%20design%20project%20v2.ng3", "Camera": {"Position": {"x": 15.529, "y": -144.663, "z": 74.213}, "Direction": {"x": -0.092, "y": 0.874, "z": -0.477}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:40:42", "File": "Final%20design%20project%20v2.ng3", "Camera": {"Position": {"x": 33.556, "y": -134.262, "z": 86.108}, "Direction": {"x": -0.203, "y": 0.81, "z": -0.55}, "Mode": "Rotate"}}]}

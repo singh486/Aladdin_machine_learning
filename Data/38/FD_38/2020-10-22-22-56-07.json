@@ -1,0 +1,27 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 22:56:42", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": -141.385, "y": -58.249, "z": 61.072}, "Direction": {"x": 0.859, "y": 0.354, "z": -0.371}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 22:56:42", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": -141.101, "y": -58.132, "z": 61.836}, "Direction": {"x": 0.857, "y": 0.353, "z": -0.376}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 22:56:53", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": -21.259, "y": -162.608, "z": -14.803}, "Direction": {"x": 0.129, "y": 0.988, "z": 0.09}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 22:56:54", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": -70.344, "y": -136.784, "z": 58.771}, "Direction": {"x": 0.427, "y": 0.831, "z": -0.357}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:01:30", "File": "smalldesign_engt180.ng3", "Add Parts": {"Import": "jar:file:/C:/Users/X/AppData/Local/Energy3D/app/energy3d.jar!/org/concord/energy3d/prefabs/box.ng3"}},
+{"Timestamp": "2020-10-22 23:01:33", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": 30.542, "y": -102.347, "z": 125.319}, "Direction": {"x": -0.185, "y": 0.622, "z": -0.761}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:01:44", "File": "smalldesign_engt180.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-22 23:01:46", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": 25.054, "y": -137.684, "z": 86.763}, "Direction": {"x": -0.152, "y": 0.836, "z": -0.527}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:01:47", "File": "smalldesign_engt180.ng3", "Show Shadow": false},
+{"Timestamp": "2020-10-22 23:01:50", "File": "smalldesign_engt180.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-22 23:01:51", "File": "smalldesign_engt180.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-22 23:01:58", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": 151.821, "y": -34.875, "z": 53.353}, "Direction": {"x": -0.922, "y": 0.212, "z": -0.324}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:02:03", "File": "smalldesign_engt180.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 34, "Coordinates": [{"x": 35, "y": 2.5, "z": 25}, {"x": 35, "y": 2.5, "z": 13}, {"x": 35, "y": 18.5, "z": 25}, {"x": 35, "y": 18.5, "z": 13}]}},
+{"Timestamp": "2020-10-22 23:02:05", "File": "smalldesign_engt180.ng3", "Camera": {"Position": {"x": 30.132, "y": -152.559, "z": 54.131}, "Direction": {"x": -0.183, "y": 0.927, "z": -0.329}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:20", "Project": "Colonial", "File": "federal1.ng3", "Edit Wall": {"Type": "Wall", "Building": 232, "ID": 233, "Coordinates": [{"x": 56.457, "y": 25.712, "z": 1}, {"x": 56.457, "y": 25.712, "z": 73.5}, {"x": 65.027, "y": 25.712, "z": 1}, {"x": 65.027, "y": 25.712, "z": 73.5}]}},
+{"Timestamp": "2020-10-22 23:10:20", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": 3.569, "y": -214.278, "z": 51.875}, "Direction": {"x": -0.01, "y": 1, "z": -0.025}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:24", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": -2.177, "y": -40.986, "z": 261.782}, "Direction": {"x": 0.016, "y": 0.214, "z": -0.977}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:25", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": -1.039, "y": -25.849, "z": 264.56}, "Direction": {"x": 0.011, "y": 0.145, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:27", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": -1.121, "y": -26.937, "z": 264.397}, "Direction": {"x": 0.011, "y": 0.15, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:30", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": -1.039, "y": -25.849, "z": 264.56}, "Direction": {"x": 0.011, "y": 0.145, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:33", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": 50.327, "y": 25.095, "z": 74.757}, "Direction": {"x": 0.831, "y": 0.421, "z": -0.365}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:33", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": 50.356, "y": 25.11, "z": 74.839}, "Direction": {"x": 0.829, "y": 0.42, "z": -0.37}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:34", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": 66.005, "y": 15.73, "z": 73.757}, "Direction": {"x": -0.055, "y": 0.95, "z": -0.308}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 23:10:37", "Project": "Colonial", "File": "federal1.ng3", "Camera": {"Position": {"x": 49.632, "y": 26.053, "z": 62.453}, "Direction": {"x": 0.87, "y": 0.366, "z": 0.33}, "Mode": "Rotate"}}]
+}

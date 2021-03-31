@@ -1,0 +1,20 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 22:55:10", "File": "SmallDesign1.ng3", "Spin View": true},
+{"Timestamp": "2020-10-21 22:55:22", "File": "SmallDesign1.ng3", "Spin View": false},
+{"Timestamp": "2020-10-21 22:55:23", "File": "SmallDesign1.ng3", "Camera": {"Position": {"x": -8.102, "y": 113.473, "z": 45.171}, "Direction": {"x": 0.066, "y": -0.93, "z": -0.362}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:55:23", "File": "SmallDesign1.ng3", "Camera": {"Position": {"x": -7.725, "y": 108.193, "z": 43.116}, "Direction": {"x": 0.066, "y": -0.93, "z": -0.362}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:55:24", "File": "SmallDesign1.ng3", "Camera": {"Position": {"x": -7.124, "y": 99.77, "z": 39.837}, "Direction": {"x": 0.066, "y": -0.93, "z": -0.362}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:55:24", "File": "SmallDesign1.ng3", "Camera": {"Position": {"x": -6.562, "y": 91.905, "z": 36.776}, "Direction": {"x": 0.066, "y": -0.93, "z": -0.362}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:55:25", "File": "SmallDesign1.ng3", "Camera": {"Position": {"x": -6.296, "y": 88.172, "z": 35.323}, "Direction": {"x": 0.066, "y": -0.93, "z": -0.362}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:55:30", "File": "SmallDesign1.ng3", "Add Human": {"Name": "Jack", "ID": 80, "Coordinates": [{"x": 0, "y": 27, "z": 1}]}},
+{"Timestamp": "2020-10-21 22:55:33", "File": "SmallDesign1.ng3", "Spin View": true},
+{"Timestamp": "2020-10-21 22:55:42", "File": "SmallDesign1.ng3", "Spin View": false},
+{"Timestamp": "2020-10-21 22:55:46", "File": "SmallDesign1.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [3.90425,3.82431,3.65835,3.41768,3.11871,2.78181,2.33525,0.07321,0,0,0,0,0,0,0,0,0,1.77262,2.69432,3.03718,3.34767,3.60462,3.79053,3.89273]
+, "Total": 45.25}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.90425,3.82431,3.65835,3.41768,3.11871,2.78181,2.33525,0.07321,0,0,0,0,0,0,0,0,0,1.77262,2.69432,3.03718,3.34767,3.60462,3.79053,3.89273]
+, "Total": 45.25}, "Windows": {"Hourly": [0,0,0,0,0,0,0.09408,4.50194,9.39038,11.95444,13.11818,13.38746,13.33149,13.34305,12.34697,10.15946,5.99203,0.56579,0,0,0,0,0,0]
+, "Total": 108.19}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 1044.01}]},
+{"Timestamp": "2020-10-21 22:55:51", "File": "SmallDesign1.ng3", "Graph Tab": "Cost"}]
+}

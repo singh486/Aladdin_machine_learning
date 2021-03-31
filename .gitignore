@@ -1,0 +1,5 @@
+# Ignore invalid_json.txt
+/invalid_json.txt
+
+# Ignore Mac system files
+.DS_store

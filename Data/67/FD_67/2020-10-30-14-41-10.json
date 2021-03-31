@@ -1,0 +1,87 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 14:41:24", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": -23.17, "y": -21.585, "z": 35.036}]}},
+{"Timestamp": "2020-10-30 14:41:29", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 19, "Coordinates": [{"x": -18.22, "y": -21.585, "z": 35.036}]}},
+{"Timestamp": "2020-10-30 14:41:32", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 20, "Coordinates": [{"x": -13.27, "y": -21.585, "z": 35.036}]}},
+{"Timestamp": "2020-10-30 14:41:34", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 21, "Coordinates": [{"x": -8.815, "y": -21.585, "z": 35.036}]}},
+{"Timestamp": "2020-10-30 14:41:39", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 22, "Coordinates": [{"x": -4.36, "y": -21.585, "z": 35.036}]}},
+{"Timestamp": "2020-10-30 14:42:08", "File": "energyproject.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.19847,1.17615,1.12981,1.06262,0.97915,0.88508,0.78684,0.54866,0.19439,-0.07837,-0.26484,-0.36311,-0.37395,-0.29874,-0.13455,0.11649,0.45364,0.75362,0.86065,0.95638,1.04307,1.11481,1.16672,1.19526]
+, "Total": 14.11}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.19847,1.17615,1.12981,1.06262,0.97915,0.88508,0.78684,0.67446,0.56584,0.48338,0.42649,0.39671,0.39348,0.41543,0.46532,0.54117,0.64364,0.76114,0.86065,0.95638,1.04307,1.11481,1.16672,1.19526]
+, "Total": 19.32}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.1258,0.37145,0.56175,0.69133,0.75983,0.76743,0.71418,0.59987,0.42468,0.19001,0.00752,0,0,0,0,0,0]
+, "Total": 5.21}}, "Solar Potential": [{"Building": 2, "Daily": 731.85}]},
+{"Timestamp": "2020-10-30 14:42:09", "File": "energyproject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 14:42:18", "File": "energyproject.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-30 14:42:22", "File": "energyproject.ng3", "Camera": {"Position": {"x": -25.35, "y": -127.983, "z": 77.074}, "Direction": {"x": 0.136, "y": 0.844, "z": -0.518}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:42:28", "File": "energyproject.ng3", "Camera": {"Position": {"x": -26.825, "y": -128.917, "z": 75.121}, "Direction": {"x": 0.146, "y": 0.85, "z": -0.506}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:42:31", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 23, "Coordinates": [{"x": 0.59, "y": -21.585, "z": 35.036}]}},
+{"Timestamp": "2020-10-30 14:42:34", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 24, "Coordinates": [{"x": 5.045, "y": -21.585, "z": 35.036}]}},
+{"Timestamp": "2020-10-30 14:42:41", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 25, "Coordinates": [{"x": -20.695, "y": -15.15, "z": 39.537}]}},
+{"Timestamp": "2020-10-30 14:42:45", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 26, "Coordinates": [{"x": -15.745, "y": -15.15, "z": 39.723}]}},
+{"Timestamp": "2020-10-30 14:42:48", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 27, "Coordinates": [{"x": -11.29, "y": -15.15, "z": 39.832}]}},
+{"Timestamp": "2020-10-30 14:42:52", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 28, "Coordinates": [{"x": -6.835, "y": -15.15, "z": 39.832}]}},
+{"Timestamp": "2020-10-30 14:42:55", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 29, "Coordinates": [{"x": -1.885, "y": -14.655, "z": 40.201}]}},
+{"Timestamp": "2020-10-30 14:42:58", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 30, "Coordinates": [{"x": 3.065, "y": -15.15, "z": 39.832}]}},
+{"Timestamp": "2020-10-30 14:43:03", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 31, "Coordinates": [{"x": -17.725, "y": -8.715, "z": 44.003}]}},
+{"Timestamp": "2020-10-30 14:43:08", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 32, "Coordinates": [{"x": -12.775, "y": -8.22, "z": 44.524}]}},
+{"Timestamp": "2020-10-30 14:43:10", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 33, "Coordinates": [{"x": -7.825, "y": -8.22, "z": 44.71}]}},
+{"Timestamp": "2020-10-30 14:43:12", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 34, "Coordinates": [{"x": -2.875, "y": -8.22, "z": 44.896}]}},
+{"Timestamp": "2020-10-30 14:43:19", "File": "energyproject.ng3", "Camera": {"Position": {"x": -23.926, "y": -136.448, "z": 61.686}, "Direction": {"x": 0.127, "y": 0.9, "z": -0.417}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:43:24", "File": "energyproject.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 35, "Coordinates": [{"x": -26.5, "y": -25, "z": 23}, {"x": -26.5, "y": -25, "z": 9}, {"x": -14.5, "y": -25, "z": 23}, {"x": -14.5, "y": -25, "z": 9}]}},
+{"Timestamp": "2020-10-30 14:43:47", "File": "energyproject.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 36, "Coordinates": [{"x": 5.5, "y": -25, "z": 23}, {"x": 5.5, "y": -25, "z": 9}, {"x": -6.5, "y": -25, "z": 23}, {"x": -6.5, "y": -25, "z": 9}]}},
+{"Timestamp": "2020-10-30 14:43:52", "File": "energyproject.ng3", "Camera": {"Position": {"x": 30.601, "y": 137.301, "z": 51.897}, "Direction": {"x": -0.233, "y": -0.906, "z": -0.352}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:43:58", "File": "energyproject.ng3", "Add Door": {"Type": "Door", "Building": 2, "ID": 37, "Coordinates": [{"x": -4.543, "y": 10.947, "z": 1}, {"x": -4.543, "y": 10.947, "z": 11}, {"x": -12.531, "y": 11.391, "z": 1}, {"x": -12.531, "y": 11.391, "z": 11}]}},
+{"Timestamp": "2020-10-30 14:44:02", "File": "energyproject.ng3", "Camera": {"Position": {"x": 134.97, "y": 24.526, "z": 51.897}, "Direction": {"x": -0.922, "y": -0.162, "z": -0.352}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:44:09", "File": "energyproject.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 38, "Coordinates": [{"x": 12.5, "y": -21, "z": 19}, {"x": 12.5, "y": -21, "z": 9}, {"x": 12.5, "y": -11, "z": 19}, {"x": 12.5, "y": -11, "z": 9}]}},
+{"Timestamp": "2020-10-30 14:44:11", "File": "energyproject.ng3", "Camera": {"Position": {"x": -147.222, "y": 21.104, "z": 45.463}, "Direction": {"x": 0.94, "y": -0.14, "z": -0.31}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:44:18", "File": "energyproject.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 39, "Coordinates": [{"x": -32.5, "y": -21, "z": 17}, {"x": -32.5, "y": -21, "z": 7}, {"x": -32.5, "y": -11, "z": 17}, {"x": -32.5, "y": -11, "z": 7}]}},
+{"Timestamp": "2020-10-30 14:44:21", "File": "energyproject.ng3", "Camera": {"Position": {"x": -60.394, "y": -111.561, "z": 84.703}, "Direction": {"x": 0.367, "y": 0.736, "z": -0.569}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:44:31", "File": "energyproject.ng3", "Add ParabolicDish": {"Type": "ParabolicDish", "Building": 2, "ID": 40, "Coordinates": [{"x": 37.25, "y": 16.5, "z": 19}]}},
+{"Timestamp": "2020-10-30 14:44:36", "File": "energyproject.ng3", "Camera": {"Position": {"x": -5.118, "y": -129.637, "z": 77.074}, "Direction": {"x": 0.003, "y": 0.855, "z": -0.518}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:44:38", "File": "energyproject.ng3", "Camera": {"Position": {"x": -5.769, "y": -130.025, "z": 76.425}, "Direction": {"x": 0.007, "y": 0.858, "z": -0.514}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:44:40", "File": "energyproject.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.95404,1.91764,1.84209,1.73254,1.59644,1.44307,1.28289,-0.17332,-1.23786,-1.88417,-2.32829,-2.56647,-2.59825,-2.42319,-2.04001,-1.44843,-0.61325,1.1248,1.40324,1.55932,1.70066,1.81764,1.90227,1.94879]
+, "Total": 5.91}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.95404,1.91764,1.84209,1.73254,1.59644,1.44307,1.28289,0.24135,0,0,0,0,0,0,0,0,0.03755,1.15073,1.40324,1.55932,1.70066,1.81764,1.90227,1.94879]
+, "Total": 23.53}, "Windows": {"Hourly": [0,0,0,0,0,0,0,1.24875,2.96504,3.86871,4.29958,4.36688,4.33345,4.34806,4.0146,3.24718,1.77927,0.0913,0,0,0,0,0,0]
+, "Total": 34.56}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.41468,1.23786,1.88417,2.32829,2.56647,2.59825,2.42319,2.04001,1.44843,0.6508,0.02592,0,0,0,0,0,0]
+, "Total": 17.62}}, "Solar Potential": [{"Building": 2, "Daily": 843.08}]},
+{"Timestamp": "2020-10-30 14:44:42", "File": "energyproject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 14:44:46", "File": "energyproject.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 14:44:51", "File": "energyproject.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 14:44:57", "File": "energyproject.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 14:45:01", "File": "energyproject.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-30 14:45:12", "File": "energyproject.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-30 14:45:13", "File": "energyproject.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-30 14:45:26", "File": "energyproject.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-30 14:45:27", "File": "energyproject.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-30 14:45:30", "File": "energyproject.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-30 14:45:34", "File": "energyproject.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.97272,1.93655,1.86145,1.75256,1.61729,1.46485,1.30564,-0.12859,-1.22831,-1.87704,-2.32246,-2.56127,-2.59311,-2.41754,-2.03322,-1.43947,-0.58332,1.16012,1.42526,1.5804,1.72088,1.83715,1.92126,1.96751]
+, "Total": 6.34}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.97272,1.93655,1.86145,1.75256,1.61729,1.46485,1.30564,0.27358,0,0,0,0,0,0,0,0,0.05439,1.18327,1.42526,1.5804,1.72088,1.83715,1.92126,1.96751]
+, "Total": 23.87}, "Windows": {"Hourly": [0,0,0,0,0,0,0,1.21297,2.95064,3.86438,4.29976,4.36937,4.33631,4.34896,4.01171,3.23622,1.74778,0.08186,0,0,0,0,0,0]
+, "Total": 34.46}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.40217,1.22831,1.87704,2.32246,2.56127,2.59311,2.41754,2.03322,1.43947,0.63772,0.02315,0,0,0,0,0,0]
+, "Total": 17.54}}, "Solar Potential": [{"Building": 2, "Daily": 838.34}]},
+{"Timestamp": "2020-10-30 14:46:25", "File": "energyproject.ng3", "Camera": {"Position": {"x": 101.989, "y": -86.155, "z": 63.06}, "Direction": {"x": -0.704, "y": 0.568, "z": -0.426}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:46:27", "File": "energyproject.ng3", "Show Shadow": false},
+{"Timestamp": "2020-10-30 14:46:27", "File": "energyproject.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-30 14:46:42", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 41, "Coordinates": [{"x": 8.951, "y": -25, "z": 6.25}]}},
+{"Timestamp": "2020-10-30 14:46:46", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 42, "Coordinates": [{"x": 9.534, "y": -25, "z": 14.975}]}},
+{"Timestamp": "2020-10-30 14:46:50", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 43, "Coordinates": [{"x": 10.131, "y": -25, "z": 24.162}]}},
+{"Timestamp": "2020-10-30 14:46:51", "File": "energyproject.ng3", "Camera": {"Position": {"x": -19.368, "y": -141.646, "z": 50.476}, "Direction": {"x": 0.097, "y": 0.934, "z": -0.343}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:46:55", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 44, "Coordinates": [{"x": -10.333, "y": -25, "z": 6.024}]}},
+{"Timestamp": "2020-10-30 14:46:58", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 45, "Coordinates": [{"x": -10.416, "y": -25, "z": 15.26}]}},
+{"Timestamp": "2020-10-30 14:47:02", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 46, "Coordinates": [{"x": -10.179, "y": -25, "z": 24.748}]}},
+{"Timestamp": "2020-10-30 14:47:07", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 47, "Coordinates": [{"x": -30.147, "y": -25, "z": 23.965}]}},
+{"Timestamp": "2020-10-30 14:47:11", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 48, "Coordinates": [{"x": -29.993, "y": -25, "z": 14.665}]}},
+{"Timestamp": "2020-10-30 14:47:15", "File": "energyproject.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 49, "Coordinates": [{"x": -29.458, "y": -25, "z": 5.389}]}},
+{"Timestamp": "2020-10-30 14:48:26", "File": "energyproject.ng3", "Camera": {"Position": {"x": -19.472, "y": -142.651, "z": 47.619}, "Direction": {"x": 0.097, "y": 0.941, "z": -0.324}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:48:28", "File": "energyproject.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.97272,1.93655,1.86145,1.75256,1.61729,1.46485,1.30564,-0.41516,-1.96691,-2.90078,-3.5258,-3.85683,-3.89882,-3.65181,-3.11065,-2.26145,-1.00182,1.14155,1.42526,1.5804,1.72088,1.83715,1.92126,1.96751]
+, "Total": -3.08}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.97272,1.93655,1.86145,1.75256,1.61729,1.46485,1.30564,0.27358,0,0,0,0,0,0,0,0,0.05439,1.18327,1.42526,1.5804,1.72088,1.83715,1.92126,1.96751]
+, "Total": 23.87}, "Windows": {"Hourly": [0,0,0,0,0,0,0,1.21297,2.95064,3.86438,4.29976,4.36937,4.33631,4.34896,4.01171,3.23622,1.74778,0.08186,0,0,0,0,0,0]
+, "Total": 34.46}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.68873,1.96691,2.90078,3.5258,3.85683,3.89882,3.65181,3.11065,2.26145,1.05621,0.04172,0,0,0,0,0,0]
+, "Total": 26.96}}, "Solar Potential": [{"Building": 2, "Daily": 847.75}]},
+{"Timestamp": "2020-10-30 14:48:29", "File": "energyproject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 14:48:39", "File": "energyproject.ng3", "Add ParabolicTrough": {"Type": "ParabolicTrough", "Building": 2, "ID": 50, "Coordinates": [{"x": 29, "y": -15, "z": 16}]}}]
+}

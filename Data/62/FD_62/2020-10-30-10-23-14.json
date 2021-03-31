@@ -1,0 +1,210 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 10:23:19", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -8.848, "y": -82.802, "z": 89.164}, "Direction": {"x": 0.218, "y": 0.659, "z": -0.72}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 10:23:24", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -4.683, "y": -119.358, "z": 45.336}, "Direction": {"x": 0.176, "y": 0.921, "z": -0.347}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:23:32", "File": "Design%20Challenge%20Project.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 10:23:42", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [22.49,13.75,-1.14,-10.32,-11.43,-15.12,-16.59,-16.83,-7.87,1.22,17.12,25.8]
+, "Total": 33.21}, "AC": {"Monthly": [0,0,0,2.28,11.68,13.7,11.95,8.9,3.98,0.1,0,0]
+, "Total": 1600.13}, "Heater": {"Monthly": [31.28,25.44,15.89,9.14,4.19,0,0,0,7.23,14.64,24.03,31.53]
+, "Total": 4969.02}, "Windows": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:23:51", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -16.912, "y": -76.154, "z": 98.637}, "Direction": {"x": 0.273, "y": 0.581, "z": -0.767}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:23:56", "File": "Design%20Challenge%20Project.ng3", "Edit Rack": {"Type": "Rack", "Building": 4, "ID": 115, "Coordinates": [{"x": -8.988, "y": -5.663, "z": 33.5}]}},
+{"Timestamp": "2020-10-30 10:24:00", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 1, "Building": 4, "Net": {"Monthly": [25.8]
+, "Total": 784.68}, "AC": {"Monthly": [0]
+, "Total": 0}, "Heater": {"Monthly": [31.53]
+, "Total": 958.94}, "Windows": {"Monthly": [0]
+, "Total": 0}, "Solar Panels": {"Monthly": [5.73]
+, "Total": 174.26}}},
+{"Timestamp": "2020-10-30 10:24:15", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [22.49,13.75,-1.14,-10.32,-11.44,-15.15,-16.6,-16.83,-7.86,1.22,17.13,25.8]
+, "Total": 31.39}, "AC": {"Monthly": [0,0,0,2.28,11.66,13.67,11.94,8.9,4,0.1,0,0]
+, "Total": 1598.56}, "Heater": {"Monthly": [31.28,25.44,15.89,9.14,4.19,0,0,0,7.23,14.64,24.03,31.53]
+, "Total": 4968.77}, "Windows": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:24:33", "File": "Design%20Challenge%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 127, "Coordinates": [{"x": 1.473, "y": -46.737, "z": -0}]}},
+{"Timestamp": "2020-10-30 10:24:33", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -16.299, "y": -86.576, "z": 90.026}, "Direction": {"x": 0.268, "y": 0.663, "z": -0.699}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:24:34", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -21.113, "y": -114.262, "z": 47.115}, "Direction": {"x": 0.306, "y": 0.881, "z": -0.361}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:24:36", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 0.039, "y": -112.462, "z": 62.066}, "Direction": {"x": 0.139, "y": 0.867, "z": -0.479}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:24:50", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -14.41, "y": -123.573, "z": 21.446}, "Direction": {"x": 0.253, "y": 0.954, "z": -0.159}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:24:57", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -17.63, "y": -109.378, "z": 59.826}, "Direction": {"x": 0.278, "y": 0.842, "z": -0.461}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:25:29", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -1.385, "y": -125.25, "z": 27.06}, "Direction": {"x": 0.15, "y": 0.968, "z": -0.203}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:25:32", "File": "Design%20Challenge%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 127, "Coordinates": [{"x": 21.615, "y": -49.097, "z": -0}]}},
+{"Timestamp": "2020-10-30 10:25:43", "File": "Design%20Challenge%20Project.ng3", "Add Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -20.5, "y": -30, "z": 21}, {"x": -20.5, "y": -30, "z": 17}, {"x": -16.5, "y": -30, "z": 21}, {"x": -16.5, "y": -30, "z": 17}]}},
+{"Timestamp": "2020-10-30 10:25:55", "File": "Design%20Challenge%20Project.ng3", "Add Window": {"Type": "Window", "Building": 4, "ID": 129, "Coordinates": [{"x": -12.5, "y": -30, "z": 21}, {"x": -12.5, "y": -30, "z": 17}, {"x": -8.5, "y": -30, "z": 21}, {"x": -8.5, "y": -30, "z": 17}]}},
+{"Timestamp": "2020-10-30 10:25:58", "File": "Design%20Challenge%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 127, "Coordinates": [{"x": -12.673, "y": -43.77, "z": -0}]}},
+{"Timestamp": "2020-10-30 10:26:00", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -100.13, "y": -47.065, "z": 16.421}, "Direction": {"x": 0.929, "y": 0.351, "z": -0.119}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:26:02", "File": "Design%20Challenge%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 127, "Coordinates": [{"x": -13.411, "y": -41.819, "z": -0}]}},
+{"Timestamp": "2020-10-30 10:26:04", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -28.769, "y": -117.425, "z": 28.301}, "Direction": {"x": 0.366, "y": 0.906, "z": -0.213}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:26:17", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [21.97,13.07,-1.49,-9.49,-10.3,-13.9,-15.25,-15.53,-6.78,1.46,16.52,25.7]
+, "Total": 181.74}, "AC": {"Monthly": [0,0,0,2.93,12.69,14.92,13.29,10.2,4.88,0.24,0,0]
+, "Total": 1798.97}, "Heater": {"Monthly": [30.77,24.77,15.53,9.32,4.3,0,0,0,7.42,14.74,23.43,31.43]
+, "Total": 4918.71}, "Windows": {"Monthly": [1.79,1.75,1.77,0.88,1.04,1.11,1.18,1.21,1,0.74,1.59,1.36]
+, "Total": 468.66}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:26:29", "File": "Design%20Challenge%20Project.ng3", "U-Value Change for Selected Part": {"Building":4, "ID":61, "Type": "Wall", "Old Value": 0.126, "New Value": 0.162}},
+{"Timestamp": "2020-10-30 10:26:45", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [23.41,14.28,-0.75,-9.14,-10.06,-13.76,-15.07,-15.43,-6.46,2.09,17.63,27.13]
+, "Total": 422.24}, "AC": {"Monthly": [0,0,0,2.84,12.75,15.07,13.47,10.3,4.88,0.17,0,0]
+, "Total": 1809.08}, "Heater": {"Monthly": [32.21,25.97,16.27,9.75,4.49,0,0,0,7.75,15.44,24.53,32.86]
+, "Total": 5149.09}, "Windows": {"Monthly": [1.79,1.75,1.77,0.88,1.04,1.11,1.18,1.21,1,0.74,1.59,1.36]
+, "Total": 468.66}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:26:59", "File": "Design%20Challenge%20Project.ng3", "Add Window": {"Type": "Window", "Building": 4, "ID": 130, "Coordinates": [{"x": 7.5, "y": -30, "z": 21}, {"x": 7.5, "y": -30, "z": 17}, {"x": 11.5, "y": -30, "z": 21}, {"x": 11.5, "y": -30, "z": 17}]}},
+{"Timestamp": "2020-10-30 10:27:02", "File": "Design%20Challenge%20Project.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 130, "Coordinates": [{"x": 7.5, "y": -30, "z": 21}, {"x": 7.5, "y": -30, "z": 17}, {"x": 11.5, "y": -30, "z": 21}, {"x": 11.5, "y": -30, "z": 17}]}},
+{"Timestamp": "2020-10-30 10:27:06", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -20.5, "y": -30, "z": 21}, {"x": -20.5, "y": -30, "z": 15}, {"x": -14.5, "y": -30, "z": 21}, {"x": -14.5, "y": -30, "z": 15}]}},
+{"Timestamp": "2020-10-30 10:27:13", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 129, "Coordinates": [{"x": -12.5, "y": -30, "z": 21}, {"x": -12.5, "y": -30, "z": 13}, {"x": -4.5, "y": -30, "z": 21}, {"x": -4.5, "y": -30, "z": 13}]}},
+{"Timestamp": "2020-10-30 10:27:16", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -22.5, "y": -30, "z": 21}, {"x": -22.5, "y": -30, "z": 13}, {"x": -14.5, "y": -30, "z": 21}, {"x": -14.5, "y": -30, "z": 13}]}},
+{"Timestamp": "2020-10-30 10:27:31", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [21.91,13.03,-0.26,-6.56,-6.53,-9.98,-10.95,-11.33,-2.73,2.49,16.61,26.97]
+, "Total": 993.77}, "AC": {"Monthly": [0,0,0,4.79,15.9,18.84,17.59,14.4,7.94,0,0,0]
+, "Total": 2416.92}, "Heater": {"Monthly": [30.7,24.72,16.76,10.39,4.87,0,0,0,8.42,16.01,23.52,32.7]
+, "Total": 5112.79}, "Windows": {"Monthly": [7.07,6.99,7.1,3.7,4.31,4.57,4.93,5.13,4.5,3.51,6.17,5.23]
+, "Total": 1922.64}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:27:41", "File": "Design%20Challenge%20Project.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 127, "Coordinates": [{"x": -13.411, "y": -41.819, "z": -0}]}},
+{"Timestamp": "2020-10-30 10:27:42", "File": "Design%20Challenge%20Project.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 129, "Coordinates": [{"x": -12.5, "y": -30, "z": 21}, {"x": -12.5, "y": -30, "z": 13}, {"x": -4.5, "y": -30, "z": 21}, {"x": -4.5, "y": -30, "z": 13}]}},
+{"Timestamp": "2020-10-30 10:27:56", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [22.88,13.59,-0.72,-7.07,-8.02,-11.73,-12.48,-11.87,-2.26,2.79,17,27.01]
+, "Total": 885.34}, "AC": {"Monthly": [0,0,0,4.72,14.67,17.1,16.06,13.86,8.9,1.28,0,0]
+, "Total": 2329.48}, "Heater": {"Monthly": [31.67,25.28,16.3,9.95,4.61,0,0,0,7.93,15.02,23.91,32.74]
+, "Total": 5091.81}, "Windows": {"Monthly": [3.57,3.5,3.55,3.05,2.97,3,3.61,4.66,5.18,5.09,3.18,2.71]
+, "Total": 1340.39}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:28:14", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -22.5, "y": -30, "z": 21}, {"x": -22.5, "y": -30, "z": 15}, {"x": -16.5, "y": -30, "z": 21}, {"x": -16.5, "y": -30, "z": 15}]}},
+{"Timestamp": "2020-10-30 10:28:22", "File": "Design%20Challenge%20Project.ng3", "Add Tree": {"Species": "Dogwood", "ID": 131, "Coordinates": [{"x": -19, "y": -44, "z": 0}]}},
+{"Timestamp": "2020-10-30 10:28:37", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [23.35,14.2,-0.76,-8.92,-9.73,-13.43,-14.72,-15.04,-6.21,2.1,17.55,27.12]
+, "Total": 471.58}, "AC": {"Monthly": [0,0,0,3.05,13.05,15.4,13.82,10.69,5.13,0.23,0,0]
+, "Total": 1866.69}, "Heater": {"Monthly": [32.14,25.89,16.26,9.77,4.51,0,0,0,7.75,15.39,24.46,32.85]
+, "Total": 5140.83}, "Windows": {"Monthly": [2.01,1.97,2,1.12,1.33,1.4,1.5,1.56,1.28,0.88,1.79,1.53]
+, "Total": 558.05}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:28:46", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -22.5, "y": -30, "z": 25}, {"x": -22.5, "y": -30, "z": 19}, {"x": -16.5, "y": -30, "z": 25}, {"x": -16.5, "y": -30, "z": 19}]}},
+{"Timestamp": "2020-10-30 10:28:59", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [23.35,14.2,-0.76,-8.87,-9.75,-13.49,-14.7,-15.02,-6.21,2.1,17.55,27.12]
+, "Total": 471.93}, "AC": {"Monthly": [0,0,0,3.09,13.04,15.34,13.84,10.71,5.13,0.23,0,0]
+, "Total": 1867}, "Heater": {"Monthly": [32.14,25.89,16.26,9.78,4.51,0,0,0,7.75,15.39,24.46,32.85]
+, "Total": 5140.87}, "Windows": {"Monthly": [2.01,1.97,2,1.15,1.31,1.34,1.51,1.58,1.28,0.88,1.79,1.53]
+, "Total": 557.97}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:29:13", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -22.5, "y": -30, "z": 25}, {"x": -22.5, "y": -30, "z": 17}, {"x": -14.5, "y": -30, "z": 25}, {"x": -14.5, "y": -30, "z": 17}]}},
+{"Timestamp": "2020-10-30 10:29:27", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [22.88,13.59,-0.72,-8.06,-8.65,-12.31,-13.41,-13.73,-5.14,2.18,17,27.01]
+, "Total": 628.02}, "AC": {"Monthly": [0,0,0,3.73,14.04,16.52,15.13,12,6.02,0.28,0,0]
+, "Total": 2059.54}, "Heater": {"Monthly": [31.67,25.28,16.3,9.95,4.61,0,0,0,7.93,15.43,23.91,32.74]
+, "Total": 5104.42}, "Windows": {"Monthly": [3.57,3.5,3.55,2.05,2.35,2.43,2.69,2.82,2.33,1.62,3.18,2.71]
+, "Total": 997.55}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:29:41", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -18.5, "y": -30, "z": 25}, {"x": -18.5, "y": -30, "z": 21}, {"x": -14.5, "y": -30, "z": 25}, {"x": -14.5, "y": -30, "z": 21}]}},
+{"Timestamp": "2020-10-30 10:29:54", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [23.68,14.63,-0.64,-9.42,-10.52,-14.29,-15.61,-15.92,-6.9,1.94,17.94,27.19]
+, "Total": 367.68}, "AC": {"Monthly": [0,0,0,2.65,12.34,14.53,12.93,9.81,4.56,0.15,0,0]
+, "Total": 1732.69}, "Heater": {"Monthly": [32.47,26.32,16.39,9.67,4.44,0,0,0,7.64,15.32,24.85,32.92]
+, "Total": 5170.93}, "Windows": {"Monthly": [0.89,0.87,0.89,0.52,0.59,0.6,0.68,0.71,0.59,0.42,0.79,0.68]
+, "Total": 250.69}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:30:04", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -16.5, "y": -30, "z": 29}, {"x": -16.5, "y": -30, "z": 25}, {"x": -12.5, "y": -30, "z": 29}, {"x": -12.5, "y": -30, "z": 25}]}},
+{"Timestamp": "2020-10-30 10:30:06", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -16.5, "y": -30, "z": 27}, {"x": -16.5, "y": -30, "z": 23}, {"x": -12.5, "y": -30, "z": 27}, {"x": -12.5, "y": -30, "z": 23}]}},
+{"Timestamp": "2020-10-30 10:30:15", "File": "Design%20Challenge%20Project.ng3", "Add Window": {"Type": "Window", "Building": 4, "ID": 132, "Coordinates": [{"x": -22.5, "y": -30, "z": 23}, {"x": -22.5, "y": -30, "z": 27}, {"x": -18.5, "y": -30, "z": 23}, {"x": -18.5, "y": -30, "z": 27}]}},
+{"Timestamp": "2020-10-30 10:30:29", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [23.41,14.28,-0.75,-8.91,-10.01,-13.76,-15.02,-15.07,-6.26,1.98,17.63,27.13]
+, "Total": 445.8}, "AC": {"Monthly": [0,0,0,3.08,12.79,15.06,13.52,10.66,5.1,0.21,0,0]
+, "Total": 1837.89}, "Heater": {"Monthly": [32.21,25.97,16.28,9.76,4.49,0,0,0,7.72,15.29,24.53,32.86]
+, "Total": 5143.86}, "Windows": {"Monthly": [1.79,1.75,1.77,1.08,1.06,1.08,1.21,1.53,1.23,0.9,1.59,1.36]
+, "Total": 497.12}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:30:36", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -11.075, "y": -102.847, "z": 73.404}, "Direction": {"x": 0.227, "y": 0.791, "z": -0.568}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:30:38", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -3.224, "y": -124.95, "z": 27.06}, "Direction": {"x": 0.165, "y": 0.965, "z": -0.203}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:30:44", "File": "Design%20Challenge%20Project.ng3", "U-Value Change for Selected Part": {"Building":4, "ID":61, "Type": "Wall", "Old Value": 0.162, "New Value": 0.284}},
+{"Timestamp": "2020-10-30 10:31:02", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [28.3,18.38,1.82,-7.58,-9.17,-13.26,-14.42,-14.72,-5.15,4.12,21.38,31.98]
+, "Total": 1267.44}, "AC": {"Monthly": [0,0,0,2.92,12.99,15.56,14.12,11,5.11,0,0,0]
+, "Total": 1876.88}, "Heater": {"Monthly": [37.09,30.07,18.85,11.23,5.14,0,0,0,8.82,17.64,28.29,37.71]
+, "Total": 5926.5}, "Windows": {"Monthly": [1.79,1.75,1.77,1.08,1.06,1.08,1.21,1.53,1.23,0.9,1.59,1.36]
+, "Total": 497.12}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:31:10", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -0.452, "y": -102.672, "z": 77.013}, "Direction": {"x": 0.143, "y": 0.79, "z": -0.597}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:31:29", "File": "Design%20Challenge%20Project.ng3", "U-Value Change for Selected Part": {"Building":4, "ID":61, "Type": "Wall", "Old Value": 0.284, "New Value": 0.142}},
+{"Timestamp": "2020-10-30 10:31:37", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -47.93, "y": -101.751, "z": 45.336}, "Direction": {"x": 0.517, "y": 0.782, "z": -0.347}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:31:40", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -93.738, "y": -52.477, "z": 35.686}, "Direction": {"x": 0.878, "y": 0.394, "z": -0.271}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:31:47", "File": "Design%20Challenge%20Project.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 132, "Coordinates": [{"x": -22.5, "y": -30, "z": 23}, {"x": -22.5, "y": -30, "z": 27}, {"x": -18.5, "y": -30, "z": 23}, {"x": -18.5, "y": -30, "z": 27}]}},
+{"Timestamp": "2020-10-30 10:31:49", "File": "Design%20Challenge%20Project.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 128, "Coordinates": [{"x": -16.5, "y": -30, "z": 27}, {"x": -16.5, "y": -30, "z": 23}, {"x": -12.5, "y": -30, "z": 27}, {"x": -12.5, "y": -30, "z": 23}]}},
+{"Timestamp": "2020-10-30 10:31:55", "File": "Design%20Challenge%20Project.ng3", "Add Window": {"Type": "Window", "Building": 4, "ID": 133, "Coordinates": [{"x": -32.5, "y": -24, "z": 29}, {"x": -32.5, "y": -24, "z": 25}, {"x": -32.5, "y": -28, "z": 29}, {"x": -32.5, "y": -28, "z": 25}]}},
+{"Timestamp": "2020-10-30 10:31:57", "File": "Design%20Challenge%20Project.ng3", "Edit Window": {"Type": "Window", "Building": 4, "ID": 133, "Coordinates": [{"x": -32.5, "y": -24, "z": 27}, {"x": -32.5, "y": -24, "z": 23}, {"x": -32.5, "y": -28, "z": 27}, {"x": -32.5, "y": -28, "z": 23}]}},
+{"Timestamp": "2020-10-30 10:32:00", "File": "Design%20Challenge%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 131, "Coordinates": [{"x": -40.34, "y": -33.994, "z": 0}]}},
+{"Timestamp": "2020-10-30 10:32:02", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -21.334, "y": -114.899, "z": 45.336}, "Direction": {"x": 0.308, "y": 0.886, "z": -0.347}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:32:16", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [23.37,14.33,-1.06,-9.81,-10.83,-14.5,-15.93,-16.25,-7.24,1.71,17.78,26.8]
+, "Total": 254.42}, "AC": {"Monthly": [0,0,0,2.5,12.14,14.33,12.61,9.47,4.36,0.18,0,0]
+, "Total": 1690.75}, "Heater": {"Monthly": [32.16,26.02,15.96,9.43,4.33,0,0,0,7.49,15.05,24.69,32.53]
+, "Total": 5099.51}, "Windows": {"Monthly": [0.41,0.5,0.68,0.36,0.47,0.52,0.51,0.48,0.38,0.3,0.34,0.28]
+, "Total": 159.04}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.84}}},
+{"Timestamp": "2020-10-30 10:32:30", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -18.844, "y": -120.954, "z": 28.301}, "Direction": {"x": 0.288, "y": 0.934, "z": -0.213}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:34:42", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -80.343, "y": -82.038, "z": 13.898}, "Direction": {"x": 0.773, "y": 0.627, "z": -0.099}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:34:43", "File": "Design%20Challenge%20Project.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 131, "Coordinates": [{"x": -40.34, "y": -33.994, "z": 0}]}},
+{"Timestamp": "2020-10-30 10:34:55", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [23.37,14.33,-1.06,-9.69,-10.27,-13.83,-15.23,-15.58,-6.86,1.47,17.78,26.8]
+, "Total": 341.47}, "AC": {"Monthly": [0,0,0,2.81,12.74,14.99,13.31,10.14,4.8,0.24,0,0]
+, "Total": 1795.59}, "Heater": {"Monthly": [32.16,26.02,15.96,9.24,4.29,0,0,0,7.43,14.76,24.69,32.53]
+, "Total": 5081.82}, "Windows": {"Monthly": [0.41,0.5,0.68,0.84,1.06,1.14,1.16,1.09,0.85,0.64,0.34,0.28]
+, "Total": 273.15}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:35:01", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -43.294, "y": -113.032, "z": 13.898}, "Direction": {"x": 0.481, "y": 0.871, "z": -0.099}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:35:06", "File": "Design%20Challenge%20Project.ng3", "U-Value Change for Selected Part": {"Building":4, "ID":61, "Type": "Wall", "Old Value": 0.142, "New Value": 0.114}},
+{"Timestamp": "2020-10-30 10:35:19", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [22.23,13.38,-1.7,-9.99,-10.46,-13.95,-15.37,-15.67,-7.12,0.96,16.91,25.67]
+, "Total": 148.55}, "AC": {"Monthly": [0,0,0,2.85,12.7,14.87,13.17,10.06,4.79,0.26,0,0]
+, "Total": 1785.65}, "Heater": {"Monthly": [31.02,25.07,15.33,8.91,4.14,0,0,0,7.17,14.22,23.81,31.39]
+, "Total": 4898.84}, "Windows": {"Monthly": [0.41,0.5,0.68,0.84,1.06,1.14,1.16,1.09,0.85,0.64,0.34,0.28]
+, "Total": 273.15}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:35:32", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -18.74, "y": -105.76, "z": 65.379}, "Direction": {"x": 0.287, "y": 0.814, "z": -0.505}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:35:33", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -0.537, "y": -75.657, "z": 103.342}, "Direction": {"x": 0.144, "y": 0.577, "z": -0.804}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:35:35", "File": "Design%20Challenge%20Project.ng3", "Remove Rack": {"Type": "Rack", "Building": 4, "ID": 94, "Coordinates": [{"x": 15.762, "y": -6.075, "z": 33.5}]}},
+{"Timestamp": "2020-10-30 10:35:37", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 39.509, "y": -118.542, "z": 47.706}, "Direction": {"x": -0.172, "y": 0.915, "z": -0.366}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:35:48", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [24.36,16.2,2.51,-4.38,-3.39,-6.47,-7.95,-9,-2.19,4.4,18.58,27.05]
+, "Total": 1816.37}, "AC": {"Monthly": [0,0,0.04,3.04,12.95,15.15,13.46,10.3,4.95,0.35,0,0]
+, "Total": 1832.03}, "Heater": {"Monthly": [30.95,24.97,15.24,8.89,4.14,0,0,0,7.17,14.18,23.76,31.35]
+, "Total": 4886.3}, "Windows": {"Monthly": [0.41,0.5,0.68,0.84,1.06,1.14,1.16,1.09,0.85,0.64,0.34,0.28]
+, "Total": 273.15}, "Solar Panels": {"Monthly": [6.59,8.77,12.77,16.3,20.47,21.62,21.41,19.3,14.32,10.14,5.18,4.3]
+, "Total": 4901.96}}},
+{"Timestamp": "2020-10-30 10:36:57", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 128.026, "y": 2.481, "z": 63.73}, "Direction": {"x": -0.87, "y": -0.039, "z": -0.492}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:36:58", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 108.784, "y": -69.605, "z": 58.698}, "Direction": {"x": -0.718, "y": 0.529, "z": -0.452}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:00", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 27.946, "y": -99.035, "z": 82.981}, "Direction": {"x": -0.081, "y": 0.761, "z": -0.644}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:02", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 130.776, "y": 9.431, "z": 57.563}, "Direction": {"x": -0.891, "y": -0.094, "z": -0.443}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:04", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -23.105, "y": 109.511, "z": 44.74}, "Direction": {"x": 0.322, "y": -0.883, "z": -0.342}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:09", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -87.016, "y": 42.581, "z": 56.994}, "Direction": {"x": 0.825, "y": -0.355, "z": -0.439}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:10", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -69.09, "y": -83.901, "z": 45.336}, "Direction": {"x": 0.684, "y": 0.642, "z": -0.347}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:11", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -34.919, "y": -75.822, "z": 90.479}, "Direction": {"x": 0.415, "y": 0.578, "z": -0.703}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:13", "File": "Design%20Challenge%20Project.ng3", "Add Rack": {"Type": "Rack", "Building": 4, "ID": 134, "Coordinates": [{"x": 17.825, "y": -3.6, "z": 33.5}]}},
+{"Timestamp": "2020-10-30 10:37:14", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -23.571, "y": -62.503, "z": 105.195}, "Direction": {"x": 0.325, "y": 0.473, "z": -0.819}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:15", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -15.693, "y": -48.056, "z": 114.911}, "Direction": {"x": 0.263, "y": 0.359, "z": -0.895}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:16", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -8.472, "y": -37.46, "z": 120.424}, "Direction": {"x": 0.206, "y": 0.276, "z": -0.939}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:18", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -7.004, "y": -34.82, "z": 121.479}, "Direction": {"x": 0.195, "y": 0.255, "z": -0.947}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:19", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 0.556, "y": -24.463, "z": 125.08}, "Direction": {"x": 0.135, "y": 0.173, "z": -0.976}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:20", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 6.751, "y": -17.423, "z": 126.82}, "Direction": {"x": 0.086, "y": 0.118, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:21", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 6.825, "y": -17.477, "z": 126.82}, "Direction": {"x": 0.086, "y": 0.118, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:22", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 7.51, "y": -17.951, "z": 126.82}, "Direction": {"x": 0.08, "y": 0.122, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:22", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 7.666, "y": -18.052, "z": 126.82}, "Direction": {"x": 0.079, "y": 0.123, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:23", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 7.743, "y": -18.101, "z": 126.82}, "Direction": {"x": 0.078, "y": 0.123, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:28", "File": "Design%20Challenge%20Project.ng3", "Edit Rack": {"Type": "Rack", "Building": 4, "ID": 134, "Coordinates": [{"x": 15.35, "y": -5.663, "z": 33.5}]}},
+{"Timestamp": "2020-10-30 10:37:34", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 9.186, "y": -18.932, "z": 126.82}, "Direction": {"x": 0.067, "y": 0.13, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:37", "File": "Design%20Challenge%20Project.ng3", "Edit Rack": {"Type": "Rack", "Building": 4, "ID": 134, "Coordinates": [{"x": 15.762, "y": -5.663, "z": 33.5}]}},
+{"Timestamp": "2020-10-30 10:37:42", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -83.22, "y": -56.12, "z": 56.424}, "Direction": {"x": 0.795, "y": 0.423, "z": -0.434}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:44", "File": "Design%20Challenge%20Project.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 133, "Coordinates": [{"x": -32.5, "y": -24, "z": 27}, {"x": -32.5, "y": -24, "z": 23}, {"x": -32.5, "y": -28, "z": 27}, {"x": -32.5, "y": -28, "z": 23}]}},
+{"Timestamp": "2020-10-30 10:37:48", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -67.113, "y": -93.099, "z": 27.681}, "Direction": {"x": 0.668, "y": 0.714, "z": -0.208}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:37:51", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": -20.326, "y": -91.826, "z": 82.981}, "Direction": {"x": 0.3, "y": 0.704, "z": -0.644}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:38:06", "File": "Design%20Challenge%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 4, "Net": {"Monthly": [21.99,13.33,-1.42,-10.39,-11.49,-15.18,-16.58,-16.78,-7.9,0.96,16.75,25.31]
+, "Total": -42.82}, "AC": {"Monthly": [0,0,0,2.36,11.68,13.65,11.96,8.94,4.07,0.15,0,0]
+, "Total": 1606.49}, "Heater": {"Monthly": [30.79,25.02,15.6,8.99,4.12,0,0,0,7.11,14.33,23.66,31.03]
+, "Total": 4886.64}, "Windows": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Monthly": [8.79,11.69,17.02,21.74,27.3,28.83,28.54,25.73,19.09,13.52,6.91,5.73]
+, "Total": 6535.94}}},
+{"Timestamp": "2020-10-30 10:38:14", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 111.072, "y": 36.097, "z": 78.027}, "Direction": {"x": -0.736, "y": -0.304, "z": -0.605}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:38:16", "File": "Design%20Challenge%20Project.ng3", "Camera": {"Position": {"x": 21.872, "y": 120.834, "z": 30.775}, "Direction": {"x": -0.033, "y": -0.972, "z": -0.232}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:38:35", "File": "Practice.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 6, "Coordinates": [{"x": 39.801, "y": 29.986, "z": 1}, {"x": 39.801, "y": 29.986, "z": 31}, {"x": -40.199, "y": 29.986, "z": 1}, {"x": -40.199, "y": 29.986, "z": 31}]}},
+{"Timestamp": "2020-10-30 10:38:38", "File": "Practice.ng3", "Camera": {"Position": {"x": -132.582, "y": 61.702, "z": 42.84}, "Direction": {"x": 0.87, "y": -0.405, "z": -0.281}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:38:40", "File": "Practice.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 23, "Coordinates": [{"x": -40.199, "y": 23.986, "z": 23}, {"x": -40.199, "y": 23.986, "z": 13}, {"x": -40.199, "y": 7.986, "z": 23}, {"x": -40.199, "y": 7.986, "z": 13}]}},
+{"Timestamp": "2020-10-30 10:38:41", "File": "Practice.ng3", "Camera": {"Position": {"x": 127.974, "y": 79.525, "z": -22.775}, "Direction": {"x": -0.84, "y": -0.522, "z": 0.149}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:38:43", "File": "Practice.ng3", "Camera": {"Position": {"x": 136.218, "y": 56.954, "z": 37.697}, "Direction": {"x": -0.894, "y": -0.374, "z": -0.247}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:38:44", "File": "Practice.ng3", "Remove Window": {"Type": "Window", "Building": 2, "ID": 24, "Coordinates": [{"x": 39.801, "y": 25.986, "z": 23}, {"x": 39.801, "y": 25.986, "z": 13}, {"x": 39.801, "y": 9.986, "z": 23}, {"x": 39.801, "y": 9.986, "z": 13}]}},
+{"Timestamp": "2020-10-30 10:38:46", "File": "Practice.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 5, "Coordinates": [{"x": 39.801, "y": -30.014, "z": 1}, {"x": 39.801, "y": -30.014, "z": 31}, {"x": 39.801, "y": 29.986, "z": 1}, {"x": 39.801, "y": 29.986, "z": 31}]}},
+{"Timestamp": "2020-10-30 10:38:47", "File": "Practice.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 7, "Coordinates": [{"x": -40.199, "y": 29.986, "z": 1}, {"x": -40.199, "y": 29.986, "z": 31}, {"x": -40.199, "y": -30.014, "z": 1}, {"x": -40.199, "y": -30.014, "z": 31}]}},
+{"Timestamp": "2020-10-30 10:38:48", "File": "Practice.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 4, "Coordinates": [{"x": -40.199, "y": -30.014, "z": 1}, {"x": -40.199, "y": -30.014, "z": 31}, {"x": 39.801, "y": -30.014, "z": 1}, {"x": 39.801, "y": -30.014, "z": 31}]}},
+{"Timestamp": "2020-10-30 10:38:49", "File": "Practice.ng3", "Remove Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -40.199, "y": -30.014, "z": 0}, {"x": -40.199, "y": 29.986, "z": 0}, {"x": 39.801, "y": -30.014, "z": 0}, {"x": 39.801, "y": 29.986, "z": 0}, {"x": -40.199, "y": -30.014, "z": 46}, {"x": -40.199, "y": 29.986, "z": 46}, {"x": 39.801, "y": -30.014, "z": 46}, {"x": 39.801, "y": 29.986, "z": 46}, {"x": 42.801, "y": -0.014, "z": 0}, {"x": -43.199, "y": -0.014, "z": 0}, {"x": -0.199, "y": 32.986, "z": 0}, {"x": -0.199, "y": -33.014, "z": 0}]}},
+{"Timestamp": "2020-10-30 10:38:53", "File": "Practice.ng3", "Add Foundation": {"Type": "Foundation", "Building": 32, "ID": 32, "Coordinates": [{"x": -45, "y": -25, "z": 0}, {"x": -45, "y": 25, "z": 0}, {"x": 55, "y": -25, "z": 0}, {"x": 55, "y": 25, "z": 0}, {"x": -45, "y": -25, "z": 1}, {"x": -45, "y": 25, "z": 1}, {"x": 55, "y": -25, "z": 1}, {"x": 55, "y": 25, "z": 1}, {"x": 58, "y": 0, "z": 0}, {"x": -48, "y": 0, "z": 0}, {"x": 5, "y": 28, "z": 0}, {"x": 5, "y": -28, "z": 0}]}},
+{"Timestamp": "2020-10-30 10:38:56", "File": "Practice.ng3", "Camera": {"Position": {"x": 36.287, "y": 119.514, "z": 87.292}, "Direction": {"x": -0.238, "y": -0.784, "z": -0.573}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 10:39:01", "File": "Practice.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 32, "ID": 32, "Coordinates": [{"x": -50.7, "y": -25.515, "z": 0}, {"x": -50.7, "y": 24.485, "z": 0}, {"x": 49.3, "y": -25.515, "z": 0}, {"x": 49.3, "y": 24.485, "z": 0}, {"x": -50.7, "y": -25.515, "z": 1}, {"x": -50.7, "y": 24.485, "z": 1}, {"x": 49.3, "y": -25.515, "z": 1}, {"x": 49.3, "y": 24.485, "z": 1}, {"x": 52.3, "y": -0.515, "z": 0}, {"x": -53.7, "y": -0.515, "z": 0}, {"x": -0.7, "y": 27.485, "z": 0}, {"x": -0.7, "y": -28.515, "z": 0}]}},
+{"Timestamp": "2020-10-30 10:39:10", "File": "Practice.ng3", "Change Size for Selected Foundation": {"Foundation": 32, "Old Length": 20.0, "New Length": 14.0, "Old Width": 10.0, "New Width": 10.0, "Old Height": 0.2, "New Height": 0.2}}]
+}
