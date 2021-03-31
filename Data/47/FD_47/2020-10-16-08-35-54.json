@@ -1,0 +1,27 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-16 08:40:56", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": -104.328, "y": -162.468, "z": 62.652}, "Direction": {"x": 0.408, "y": 0.873, "z": -0.266}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:41:41", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-16 08:43:32", "Project": "Houses with different sizes", "File": "@building-size.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 1, "Net": {"Monthly": [86.9,88.13,69.44,52.25,40.89,42.49,44.61,44.96,35.29,39.55,42.01,66.95]
+, "Total": 19876.14}, "AC": {"Monthly": [0,0,0,0,10.78,25.9,44.61,44.96,35.29,14.96,0,0]
+, "Total": 5368.11}, "Heater": {"Monthly": [86.9,88.13,69.44,52.25,30.11,16.6,0,0,0,24.6,42.01,66.95]
+, "Total": 14508.03}, "Windows": {"Monthly": [15.18,16.11,20.14,19.74,21.41,21.99,22.24,21.32,19.86,19.85,13.42,12.69]
+, "Total": 6812.19}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-16 08:43:53", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Edit Window": {"Type": "Window", "Building": 1, "ID": 115, "Coordinates": [{"x": -59.563, "y": -32.715, "z": 17}, {"x": -59.563, "y": -32.715, "z": 9}, {"x": -56.563, "y": -32.715, "z": 17}, {"x": -56.563, "y": -32.715, "z": 9}]}},
+{"Timestamp": "2020-10-16 08:43:59", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": -104.212, "y": -162.219, "z": 63.636}, "Direction": {"x": 0.408, "y": 0.872, "z": -0.271}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:44:22", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": -26.248, "y": -179.819, "z": 66.581}, "Direction": {"x": 0.026, "y": 0.958, "z": -0.285}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:44:31", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Spin View": true},
+{"Timestamp": "2020-10-16 08:44:39", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Spin View": false},
+{"Timestamp": "2020-10-16 08:44:46", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Spin View": true},
+{"Timestamp": "2020-10-16 08:44:46", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Spin View": false},
+{"Timestamp": "2020-10-16 08:44:48", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Show Annotation": true},
+{"Timestamp": "2020-10-16 08:44:50", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-16 08:45:08", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Add Rack": {"Type": "Rack", "Building": 195, "ID": 236, "Coordinates": [{"x": 41.984, "y": -21.982, "z": 23.113}]}},
+{"Timestamp": "2020-10-16 08:45:10", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": -14.241, "y": -184.239, "z": 57.4}, "Direction": {"x": 0.074, "y": 0.954, "z": -0.292}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:45:16", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Edit Window": {"Type": "Window", "Building": 195, "ID": 199, "Coordinates": [{"x": 60.878, "y": -21.982, "z": 32}, {"x": 60.878, "y": -21.982, "z": 23}, {"x": 57.878, "y": -21.982, "z": 32}, {"x": 57.878, "y": -21.982, "z": 23}]}},
+{"Timestamp": "2020-10-16 08:45:18", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Remove Rack": {"Type": "Rack", "Building": 195, "ID": 236, "Coordinates": [{"x": 41.984, "y": -21.982, "z": 23.113}]}},
+{"Timestamp": "2020-10-16 08:45:26", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Edit Window": {"Type": "Window", "Building": 195, "ID": 199, "Coordinates": [{"x": 60.878, "y": -21.982, "z": 31}, {"x": 60.878, "y": -21.982, "z": 23}, {"x": 56.878, "y": -21.982, "z": 31}, {"x": 56.878, "y": -21.982, "z": 23}]}},
+{"Timestamp": "2020-10-16 08:45:26", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": 9.3, "y": -109.521, "z": 39.537}, "Direction": {"x": 0.496, "y": 0.86, "z": -0.118}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:45:32", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Edit Window": {"Type": "Window", "Building": 195, "ID": 199, "Coordinates": [{"x": 58.878, "y": -21.982, "z": 31}, {"x": 58.878, "y": -21.982, "z": 23}, {"x": 54.878, "y": -21.982, "z": 31}, {"x": 54.878, "y": -21.982, "z": 23}]}}]
+}

@@ -1,0 +1,9 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-14 10:58:49", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Save": "file:/C:/Users/X/Documents/ENGT-180/ENGT%20180%20small%20design%20exercise.ng3*"},
+{"Timestamp": "2020-10-14 10:59:00", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Camera": {"Position": {"x": 91.799, "y": 45.598, "z": 17.065}, "Direction": {"x": -0.883, "y": -0.439, "z": -0.164}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:59:03", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Camera": {"Position": {"x": 18.811, "y": 97.93, "z": 29.213}, "Direction": {"x": -0.181, "y": -0.942, "z": -0.281}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:59:07", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Camera": {"Position": {"x": 5.123, "y": 102.839, "z": 13.983}, "Direction": {"x": -0.049, "y": -0.99, "z": -0.135}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:59:13", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Camera": {"Position": {"x": -0.333, "y": 63.776, "z": 82.037}, "Direction": {"x": 0.003, "y": -0.614, "z": -0.789}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-14 10:59:25", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 33, "Coordinates": [{"x": 0.425, "y": 5.887, "z": 42.648}]}}]
+}

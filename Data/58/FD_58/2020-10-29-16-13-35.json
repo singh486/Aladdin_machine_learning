@@ -1,0 +1,11 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 17:00:31", "File": "week9_energy_project.ng3", "Save": "file:/D:/ENGT%2018000/Homework/Homework%208/week9_energy_project.ng3*"},
+{"Timestamp": "2020-10-29 17:00:41", "File": "week9_energy_project.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-29 17:00:48", "File": "week9_energy_project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [25.25,10.83,-11.21,-21.41,-18.55,-21.67,-23.76,-25.43,-15.94,-11.17,17.17,34.59]
+, "Total": -1864.9}, "AC": {"Monthly": [0,0,0,4.44,21.87,27.82,27.29,24.99,14.09,0,0,0]
+, "Total": 3665.41}, "Heater": {"Monthly": [49.7,39.17,24.77,14.9,7.2,0,0,0,12.62,23.65,37.35,51.86]
+, "Total": 7945.67}, "Windows": {"Monthly": [9.15,9.82,11.59,12.52,14.89,15.89,16.66,17.14,15.61,13.57,7.95,6.7]
+, "Total": 4607.45}, "Solar Panels": {"Monthly": [24.45,28.34,35.98,40.75,47.62,49.49,51.05,50.43,42.65,34.83,20.18,17.27]
+, "Total": 13475.98}}}]
+}

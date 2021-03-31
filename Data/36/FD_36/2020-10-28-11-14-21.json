@@ -1,0 +1,16 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-28 11:14:53", "File": "Design_Challenge_Week_9.ng3", "Save": "file:/C:/Users/X/OneDrive/Desktop/Design_Challenge_Week_9.ng3*"},
+{"Timestamp": "2020-10-28 11:14:56", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": 67.442, "y": -66.824, "z": 40.138}, "Direction": {"x": -0.654, "y": 0.648, "z": -0.389}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 11:14:57", "File": "Design_Challenge_Week_9.ng3", "Edit Human": {"Name": "Jack", "ID": 1, "Coordinates": [{"x": -12, "y": 12, "z": 1}]}},
+{"Timestamp": "2020-10-28 11:14:58", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": 65.366, "y": -64.767, "z": 38.903}, "Direction": {"x": -0.654, "y": 0.648, "z": -0.389}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 11:14:59", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": 59.343, "y": -58.8, "z": 35.318}, "Direction": {"x": -0.654, "y": 0.648, "z": -0.389}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 11:14:59", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": 51.566, "y": -51.093, "z": 30.689}, "Direction": {"x": -0.654, "y": 0.648, "z": -0.389}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 11:14:59", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": 41.593, "y": -41.212, "z": 24.754}, "Direction": {"x": -0.654, "y": 0.648, "z": -0.389}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 11:15:01", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": -4.19, "y": -55.762, "z": 22.984}, "Direction": {"x": 0.069, "y": 0.922, "z": -0.38}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 11:15:03", "File": "Design_Challenge_Week_9.ng3", "Remove Human": {"Name": "Jack", "ID": 1, "Coordinates": [{"x": -12, "y": 12, "z": 1}]}},
+{"Timestamp": "2020-10-28 11:15:04", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": -4.409, "y": -58.679, "z": 24.187}, "Direction": {"x": 0.069, "y": 0.922, "z": -0.38}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 11:15:05", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": -5.075, "y": -67.544, "z": 27.841}, "Direction": {"x": 0.069, "y": 0.922, "z": -0.38}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 11:15:05", "File": "Design_Challenge_Week_9.ng3", "Camera": {"Position": {"x": -5.765, "y": -76.718, "z": 31.622}, "Direction": {"x": 0.069, "y": 0.922, "z": -0.38}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-28 11:15:10", "File": "Design_Challenge_Week_9.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}}]
+}

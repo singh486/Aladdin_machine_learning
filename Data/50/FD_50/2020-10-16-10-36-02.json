@@ -1,0 +1,186 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-16 10:39:53", "File": "@example-modern-house-2.ng3", "Camera": {"Position": {"x": 37.205, "y": -124.62, "z": 30.634}, "Direction": {"x": -0.274, "y": 0.936, "z": -0.223}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:39:57", "File": "@example-modern-house-2.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-16 10:40:03", "File": "@example-modern-house-2.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-16 10:40:29", "File": "@example-modern-house-2.ng3", "Camera": {"Position": {"x": -13.531, "y": -18.463, "z": 132.036}, "Direction": {"x": 0.107, "y": 0.138, "z": -0.985}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:40:30", "File": "@example-modern-house-2.ng3", "Camera": {"Position": {"x": 23.681, "y": -102.721, "z": 82.563}, "Direction": {"x": -0.172, "y": 0.771, "z": -0.613}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:40:57", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -3025.667, "y": -596.084, "z": 1826.49}, "Direction": {"x": 0.805, "y": 0.152, "z": -0.573}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:41:07", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": 3486.798, "y": 351.396, "z": 405.551}, "Direction": {"x": -0.977, "y": -0.108, "z": -0.184}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:42:05", "File": "@white-house.ng3", "Camera": {"Position": {"x": -2.162, "y": -293.101, "z": 126.383}, "Direction": {"x": 0.023, "y": 0.918, "z": -0.396}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:43:03", "File": "@white-house.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 261, "Coordinates": [{"x": -74.062, "y": -2.55, "z": 60}]}},
+{"Timestamp": "2020-10-16 10:43:18", "File": "@white-house.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 263, "Coordinates": [{"x": -61.275, "y": 0.75, "z": 60}]}},
+{"Timestamp": "2020-10-16 10:43:21", "File": "@white-house.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 263, "Coordinates": [{"x": -61.687, "y": -5.025, "z": 60}]}},
+{"Timestamp": "2020-10-16 10:43:25", "File": "@white-house.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 263, "Coordinates": [{"x": 5.321, "y": -5.025, "z": 60}]}},
+{"Timestamp": "2020-10-16 10:43:44", "File": "@white-house.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-16 10:44:19", "File": "@white-house.ng3", "Camera": {"Position": {"x": -4.728, "y": -281.9, "z": 149.587}, "Direction": {"x": 0.031, "y": 0.883, "z": -0.468}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:44:29", "File": "@white-house.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 261, "Coordinates": [{"x": -67.462, "y": 24.262, "z": 60}]}},
+{"Timestamp": "2020-10-16 10:44:33", "File": "@white-house.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 261, "Coordinates": [{"x": 2.515, "y": 24.262, "z": 60}]}},
+{"Timestamp": "2020-10-16 10:44:39", "File": "@white-house.ng3", "Remove Rack": {"Type": "Rack", "Building": 1, "ID": 261, "Coordinates": [{"x": 2.515, "y": 24.262, "z": 60}]}},
+{"Timestamp": "2020-10-16 10:44:52", "File": "@white-house.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-16 10:46:02", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [0,0,0,0,0,4,207.66808,11,420.87665,14,332.32889,15,735.58748,16,132.94766,15,831.88806,15,358.14753,15,227.67097,15,687.17487,16,063.19989,15,873.07707,14,735.12542,12,411.79849,6,445.7255,151.67761,0,0,0,0]
+, "Total": 189614.89}, "AC": {"Hourly": [0,0,0,0,0,4,207.66808,11,420.87665,14,332.32889,15,735.58748,16,132.94766,15,831.88806,15,358.14753,15,227.67097,15,687.17487,16,063.19989,15,873.07707,14,735.12542,12,411.79849,6,445.7255,151.67761,0,0,0,0]
+, "Total": 189614.89}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,75.76955,196.30267,232.42953,257.28407,265.61172,254.27272,228.06358,219.62359,249.11223,264.389,261.36737,238.33448,210.48491,115.16937,2.85592,0,0,0,0]
+, "Total": 3071.07}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-16 10:46:02", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": -1325.356, "y": 332.775, "z": 830.577}, "Direction": {"x": 0.911, "y": -0.237, "z": -0.338}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:46:14", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": 213.919, "y": 1525.341, "z": 408.824}, "Direction": {"x": -0.068, "y": -0.995, "z": -0.07}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:46:29", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": 211.538, "y": 1490.592, "z": 406.389}, "Direction": {"x": -0.068, "y": -0.995, "z": -0.07}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:46:30", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": 201.588, "y": 1345.375, "z": 396.214}, "Direction": {"x": -0.068, "y": -0.995, "z": -0.07}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:46:30", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": 199.196, "y": 1310.457, "z": 393.767}, "Direction": {"x": -0.068, "y": -0.995, "z": -0.07}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:46:30", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": 186.547, "y": 1125.839, "z": 380.831}, "Direction": {"x": -0.068, "y": -0.995, "z": -0.07}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:46:31", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": 179.654, "y": 1025.231, "z": 373.782}, "Direction": {"x": -0.068, "y": -0.995, "z": -0.07}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:46:31", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": 165.766, "y": 822.535, "z": 359.579}, "Direction": {"x": -0.068, "y": -0.995, "z": -0.07}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:46:34", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": -738.039, "y": -163.158, "z": 227.714}, "Direction": {"x": 0.993, "y": 0.085, "z": 0.08}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:46:49", "File": "@u-shape-template.ng3", "Camera": {"Position": {"x": 1.81, "y": -55.058, "z": 10.96}, "Direction": {"x": -0.039, "y": 0.998, "z": -0.044}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:46:56", "File": "@u-shape-template.ng3", "Camera": {"Position": {"x": 16.123, "y": -79.626, "z": 10.464}, "Direction": {"x": -0.201, "y": 0.979, "z": -0.024}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:47:13", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 15.462, "y": -128.606, "z": 29.126}, "Direction": {"x": -0.126, "y": 0.986, "z": -0.112}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:47:21", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [3.67391,3.60424,3.4596,3.24986,2.98931,1.10364,0,0,0,0,0,0,0,0,0,0,0,0,0.40133,2.91825,3.18885,3.41278,3.5748,3.66387]
+, "Total": 35.24}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.67391,3.60424,3.4596,3.24986,2.98931,1.10364,0,0,0,0,0,0,0,0,0,0,0,0,0.40133,2.91825,3.18885,3.41278,3.5748,3.66387]
+, "Total": 35.24}, "Windows": {"Hourly": [0,0,0,0,0,1.97668,6.62495,8.9618,11.19997,12.73282,13.04054,12.45445,12.26867,12.98421,12.94293,11.6624,9.51684,7.32528,3.32001,0,0,0,0,0]
+, "Total": 137.01}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 1, "Daily": 1782.32}]},
+{"Timestamp": "2020-10-16 10:47:34", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-16 10:47:47", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-16 10:48:00", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 10.512, "y": -113.221, "z": 79.019}, "Direction": {"x": -0.089, "y": 0.872, "z": -0.482}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:48:28", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 143, "Coordinates": [{"x": -0.884, "y": -20.917, "z": 34}]}},
+{"Timestamp": "2020-10-16 10:48:34", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Window": {"Type": "Window", "Building": 1, "ID": 134, "Coordinates": [{"x": -35.75, "y": -20.917, "z": 37.4}, {"x": -35.75, "y": -20.917, "z": 27}, {"x": -14.75, "y": -20.917, "z": 37.4}, {"x": -14.75, "y": -20.917, "z": 27}]}},
+{"Timestamp": "2020-10-16 10:48:39", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Window": {"Type": "Window", "Building": 1, "ID": 133, "Coordinates": [{"x": 13.25, "y": -20.917, "z": 37.4}, {"x": 13.25, "y": -20.917, "z": 25}, {"x": 33.05, "y": -20.917, "z": 37.4}, {"x": 33.05, "y": -20.917, "z": 25}]}},
+{"Timestamp": "2020-10-16 10:48:43", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 143, "Coordinates": [{"x": -0.884, "y": -20.917, "z": 30.01}]}},
+{"Timestamp": "2020-10-16 10:48:49", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -0.285, "y": -100.267, "z": 99.162}, "Direction": {"x": -0.009, "y": 0.776, "z": -0.631}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:49:07", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -1.289, "y": -17.401, "z": 147.237}, "Direction": {"x": -0.002, "y": 0.162, "z": -0.987}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:49:09", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -1.996, "y": -14.727, "z": 147.65}, "Direction": {"x": 0.003, "y": 0.143, "z": -0.99}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:49:19", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -23.261, "y": 0.453, "z": 73.555}, "Direction": {"x": -0.272, "y": 0.193, "z": -0.943}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:49:20", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -19.669, "y": -2.099, "z": 85.988}, "Direction": {"x": -0.272, "y": 0.193, "z": -0.943}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:49:21", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -16.651, "y": -4.244, "z": 96.434}, "Direction": {"x": -0.272, "y": 0.193, "z": -0.943}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:49:21", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -15.354, "y": -5.166, "z": 100.927}, "Direction": {"x": -0.272, "y": 0.193, "z": -0.943}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:49:22", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -10.617, "y": -8.532, "z": 117.323}, "Direction": {"x": -0.272, "y": 0.193, "z": -0.943}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:49:24", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -36.852, "y": -24.351, "z": 141.959}, "Direction": {"x": -0.039, "y": 0.274, "z": -0.961}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:49:32", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -29.144, "y": -74.738, "z": 114.897}, "Direction": {"x": -0.095, "y": 0.634, "z": -0.768}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:49:34", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -17.667, "y": -87.825, "z": 100.276}, "Direction": {"x": -0.176, "y": 0.727, "z": -0.663}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:49:51", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 145, "Coordinates": [{"x": -43, "y": -28, "z": 55}]}},
+{"Timestamp": "2020-10-16 10:49:53", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -17.231, "y": -89.625, "z": 101.918}, "Direction": {"x": -0.176, "y": 0.727, "z": -0.663}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:49:56", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -37.148, "y": -62.772, "z": 127.331}, "Direction": {"x": -0.037, "y": 0.539, "z": -0.842}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:49:58", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -28.031, "y": -36.239, "z": 139.975}, "Direction": {"x": -0.101, "y": 0.353, "z": -0.93}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:50:01", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 1, "ID": 145, "Coordinates": [{"x": -43, "y": -28, "z": 55}]}},
+{"Timestamp": "2020-10-16 10:50:13", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 147, "Coordinates": [{"x": -23.2, "y": 12.838, "z": 42.5}]}},
+{"Timestamp": "2020-10-16 10:50:17", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -9.288, "y": -122.363, "z": 32.219}, "Direction": {"x": -0.232, "y": 0.957, "z": -0.174}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:50:18", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -7.277, "y": -121.729, "z": 32.92}, "Direction": {"x": -0.246, "y": 0.952, "z": -0.179}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:50:21", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -34.122, "y": -16.035, "z": 146.457}, "Direction": {"x": -0.058, "y": 0.211, "z": -0.976}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:50:28", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 147, "Coordinates": [{"x": -23.723, "y": 12.838, "z": 42.5}]}},
+{"Timestamp": "2020-10-16 10:50:30", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 147, "Coordinates": [{"x": -23.723, "y": 15.493, "z": 42.5}]}},
+{"Timestamp": "2020-10-16 10:50:36", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -35.184, "y": -18.443, "z": 145.974}, "Direction": {"x": -0.05, "y": 0.228, "z": -0.972}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:50:45", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -32.318, "y": -20.562, "z": 145.281}, "Direction": {"x": -0.071, "y": 0.243, "z": -0.968}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:51:09", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 147, "Coordinates": [{"x": -23.723, "y": 0.858, "z": 42.5}]}},
+{"Timestamp": "2020-10-16 10:51:12", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -31.972, "y": -21.75, "z": 150.013}, "Direction": {"x": -0.071, "y": 0.243, "z": -0.968}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:51:16", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 147, "Coordinates": [{"x": -2.596, "y": 0.858, "z": 42.5}]}},
+{"Timestamp": "2020-10-16 10:51:16", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -30.595, "y": -26.485, "z": 168.885}, "Direction": {"x": -0.071, "y": 0.243, "z": -0.968}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:51:28", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,0.51788,-2.85488,-5.3476,-7.56049,-9.46334,-11.18088,-11.92803,-12.0115,-11.42907,-9.96629,-8.0492,-5.93496,-3.49124,-0.63505,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": -66.73}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,1.06535,0,0,0,0,0,0,0,0,0,0,0,0,0.38652,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": 34.06}, "Windows": {"Hourly": [0,0,0,0,0,1.916,6.42142,8.6779,10.70821,12.00674,12.17374,11.43638,11.2059,12.0908,12.16692,11.11201,9.1946,7.09923,3.21824,0,0,0,0,0]
+, "Total": 129.43}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.54748,2.85488,5.3476,7.56049,9.46334,11.18088,11.92803,12.0115,11.42907,9.96629,8.0492,5.93496,3.49124,1.02157,0,0,0,0,0]
+, "Total": 100.79}}, "Solar Potential": [{"Building": 1, "Daily": 1393.05}]},
+{"Timestamp": "2020-10-16 10:51:43", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-16 10:51:45", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-16 10:51:47", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-16 10:52:00", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-16 10:52:06", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 9.328, "y": -142.852, "z": 48.891}, "Direction": {"x": -0.3, "y": 0.913, "z": -0.277}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:52:11", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Show Shadow": false},
+{"Timestamp": "2020-10-16 10:52:29", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -6.399, "y": -145.084, "z": 55.527}, "Direction": {"x": -0.21, "y": 0.926, "z": -0.315}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:53:05", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,0.51788,-2.85488,-5.3476,-7.56049,-9.46334,-11.18088,-11.92803,-12.0115,-11.42907,-9.96629,-8.0492,-5.93496,-3.49124,-0.63505,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": -66.73}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,1.06535,0,0,0,0,0,0,0,0,0,0,0,0,0.38652,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": 34.06}, "Windows": {"Hourly": [0,0,0,0,0,1.916,6.42142,8.6779,10.70821,12.00674,12.17374,11.43638,11.2059,12.0908,12.16692,11.11201,9.1946,7.09923,3.21824,0,0,0,0,0]
+, "Total": 129.43}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.54748,2.85488,5.3476,7.56049,9.46334,11.18088,11.92803,12.0115,11.42907,9.96629,8.0492,5.93496,3.49124,1.02157,0,0,0,0,0]
+, "Total": 100.79}}},
+{"Timestamp": "2020-10-16 10:53:26", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Show Curve": {"Graph": "BuildingEnergyDailyGraph", "Name": "Windows", "Shown": true}},
+{"Timestamp": "2020-10-16 10:53:54", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -22.846, "y": -139.782, "z": 75.651}, "Direction": {"x": -0.115, "y": 0.895, "z": -0.431}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:53:56", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 94.854, "y": -37.39, "z": 92.405}, "Direction": {"x": -0.793, "y": 0.306, "z": -0.527}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:53:57", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 117.309, "y": 9.617, "z": 67.724}, "Direction": {"x": -0.922, "y": 0.035, "z": -0.385}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:53:58", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 2.394, "y": -145.932, "z": 45.544}, "Direction": {"x": -0.261, "y": 0.931, "z": -0.257}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:54:38", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Human": {"Name": "Jack", "ID": 149, "Coordinates": [{"x": -24, "y": -43, "z": 0}]}},
+{"Timestamp": "2020-10-16 10:54:45", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Human": {"Name": "Jack", "ID": 149, "Coordinates": [{"x": -33, "y": -2, "z": 40}]}},
+{"Timestamp": "2020-10-16 10:54:50", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -7.839, "y": -146.224, "z": 53.048}, "Direction": {"x": -0.202, "y": 0.932, "z": -0.301}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:55:07", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Tree": {"Species": "Dogwood", "ID": 150, "Coordinates": [{"x": -23, "y": -39, "z": -0}]}},
+{"Timestamp": "2020-10-16 10:55:16", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Tree": {"Species": "Dogwood", "ID": 151, "Coordinates": [{"x": 23, "y": -37, "z": 0}]}},
+{"Timestamp": "2020-10-16 10:55:26", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Edit Human": {"Name": "Jack", "ID": 149, "Coordinates": [{"x": -7, "y": -25, "z": 1}]}},
+{"Timestamp": "2020-10-16 10:55:29", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -200.459, "y": -15.261, "z": 66.922}, "Direction": {"x": 0.908, "y": 0.178, "z": -0.38}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:55:33", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Tree": {"Species": "Dogwood", "ID": 152, "Coordinates": [{"x": -56, "y": -10, "z": -0}]}},
+{"Timestamp": "2020-10-16 10:55:35", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 120.783, "y": -17.123, "z": 48.891}, "Direction": {"x": -0.942, "y": 0.189, "z": -0.277}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:55:37", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 124.492, "y": -17.866, "z": 49.98}, "Direction": {"x": -0.942, "y": 0.189, "z": -0.277}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:55:37", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 144.12, "y": -21.8, "z": 55.741}, "Direction": {"x": -0.942, "y": 0.189, "z": -0.277}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:55:43", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Tree": {"Species": "Dogwood", "ID": 153, "Coordinates": [{"x": 53, "y": -10, "z": -0}]}},
+{"Timestamp": "2020-10-16 10:55:47", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -4.05, "y": -162.138, "z": 33.111}, "Direction": {"x": 0.007, "y": 0.993, "z": -0.12}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:55:59", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,0.7834,-2.85488,-5.3476,-7.56049,-9.46334,-11.18088,-11.92803,-12.0115,-11.42907,-9.96629,-8.0492,-5.93496,-3.49124,-0.36834,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": -66.19}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,1.33088,0,0,0,0,0,0,0,0,0,0,0,0,0.65324,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": 34.59}, "Windows": {"Hourly": [0,0,0,0,0,1.24226,4.02315,6.01516,8.75663,10.36186,10.5423,9.54243,9.34144,10.6666,10.75066,9.39834,6.6434,4.48385,2.05772,0,0,0,0,0]
+, "Total": 103.83}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.54748,2.85488,5.3476,7.56049,9.46334,11.18088,11.92803,12.0115,11.42907,9.96629,8.0492,5.93496,3.49124,1.02157,0,0,0,0,0]
+, "Total": 100.79}}, "Solar Potential": [{"Building": 1, "Daily": 1280.45}]},
+{"Timestamp": "2020-10-16 10:56:28", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -3.2, "y": -161.576, "z": 37.35}, "Direction": {"x": 0.002, "y": 0.989, "z": -0.145}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:56:49", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Add Sensor": {"Type": "Sensor", "Building": 1, "ID": 154, "Coordinates": [{"x": -7.5, "y": -20.917, "z": 11.5}]}},
+{"Timestamp": "2020-10-16 10:57:03", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,0.7834,-2.85488,-5.3476,-7.56049,-9.46334,-11.18088,-11.92803,-12.0115,-11.42907,-9.96629,-8.0492,-5.93496,-3.49124,-0.36834,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": -66.19}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.55106,3.48372,3.34392,3.1412,2.88936,1.33088,0,0,0,0,0,0,0,0,0,0,0,0,0.65324,2.82068,3.08222,3.29867,3.45527,3.54136]
+, "Total": 34.59}, "Windows": {"Hourly": [0,0,0,0,0,1.24226,4.02315,6.01516,8.75663,10.36186,10.5423,9.54243,9.34144,10.6666,10.75066,9.39834,6.6434,4.48385,2.05772,0,0,0,0,0]
+, "Total": 103.83}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.54748,2.85488,5.3476,7.56049,9.46334,11.18088,11.92803,12.0115,11.42907,9.96629,8.0492,5.93496,3.49124,1.02157,0,0,0,0,0]
+, "Total": 100.79}}, "Solar Potential": [{"Building": 1, "Daily": 1280.49}]},
+{"Timestamp": "2020-10-16 10:57:47", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 56.352, "y": -145.919, "z": 59.079}, "Direction": {"x": -0.346, "y": 0.898, "z": -0.272}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:58:05", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-16 10:58:20", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [3.40575,3.31526,3.12741,2.85499,2.51659,0.7082,-2.73646,-5.28968,-7.54217,-9.33356,-2.80712,-1.91406,-2.35197,-0.30585,-9.69842,-8.03752,-5.88899,-3.38952,-0.2982,2.4243,2.77574,3.0666,3.27703,3.39271]
+, "Total": -28.73}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,7.77374,9.64375,9.43654,10.49688,0,0,0,0,0,0,0,0,0,0]
+, "Total": 37.35}, "Heater": {"Hourly": [3.40575,3.31526,3.12741,2.85499,2.51659,1.14849,0,0,0,0,0,0,0,0,0,0,0,0,0.5801,2.4243,2.77574,3.0666,3.27703,3.39271]
+, "Total": 31.88}, "Windows": {"Hourly": [0,0,0,0,0,1.04504,3.97808,5.86493,8.3548,9.99576,10.29506,9.4818,9.26197,10.40813,10.33703,8.92526,6.41063,4.46867,1.82736,0,0,0,0,0]
+, "Total": 100.65}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.44029,2.73646,5.28968,7.54217,9.33356,10.58086,11.55781,11.78852,10.80272,9.69842,8.03752,5.88899,3.38952,0.8783,0,0,0,0,0]
+, "Total": 97.96}}, "Solar Potential": [{"Building": 1, "Daily": 1262.91}]},
+{"Timestamp": "2020-10-16 10:58:31", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-16 10:58:34", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 57.937, "y": -150.032, "z": 60.324}, "Direction": {"x": -0.346, "y": 0.898, "z": -0.272}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:58:34", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 67.568, "y": -175.009, "z": 67.883}, "Direction": {"x": -0.346, "y": 0.898, "z": -0.272}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:58:34", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 73.6, "y": -190.652, "z": 72.618}, "Direction": {"x": -0.346, "y": 0.898, "z": -0.272}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:58:35", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 87.923, "y": -227.801, "z": 83.861}, "Direction": {"x": -0.346, "y": 0.898, "z": -0.272}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 10:58:45", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 49.751, "y": -238.62, "z": 101.483}, "Direction": {"x": -0.195, "y": 0.922, "z": -0.334}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:58:54", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Show Annotation": true},
+{"Timestamp": "2020-10-16 10:58:55", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-16 10:58:55", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Show Annotation": true},
+{"Timestamp": "2020-10-16 10:59:09", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [3.40575,3.31526,3.12741,2.85499,2.51659,0.7082,-2.73646,-5.28968,-7.54217,-9.33356,-2.80712,-1.91406,-2.35197,-0.30585,-9.69842,-8.03752,-5.88899,-3.38952,-0.2982,2.4243,2.77574,3.0666,3.27703,3.39271]
+, "Total": -28.73}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,7.77374,9.64375,9.43654,10.49688,0,0,0,0,0,0,0,0,0,0]
+, "Total": 37.35}, "Heater": {"Hourly": [3.40575,3.31526,3.12741,2.85499,2.51659,1.14849,0,0,0,0,0,0,0,0,0,0,0,0,0.5801,2.4243,2.77574,3.0666,3.27703,3.39271]
+, "Total": 31.88}, "Windows": {"Hourly": [0,0,0,0,0,1.04504,3.97808,5.86493,8.3548,9.99576,10.29506,9.4818,9.26197,10.40813,10.33703,8.92526,6.41063,4.46867,1.82736,0,0,0,0,0]
+, "Total": 100.65}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.44029,2.73646,5.28968,7.54217,9.33356,10.58086,11.55781,11.78852,10.80272,9.69842,8.03752,5.88899,3.38952,0.8783,0,0,0,0,0]
+, "Total": 97.96}}, "Solar Potential": [{"Building": 1, "Daily": 1262.91}]},
+{"Timestamp": "2020-10-16 10:59:15", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-16 10:59:18", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-16 10:59:22", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-16 11:00:33", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -0.67, "y": -258.835, "z": 3.239}, "Direction": {"x": -0.003, "y": 0.999, "z": 0.04}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:00:35", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 31.866, "y": -245.058, "z": 91.496}, "Direction": {"x": -0.127, "y": 0.947, "z": -0.296}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:00:49", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change Date": {"Old Date": "5/1", "New Date": "10/16"}},
+{"Timestamp": "2020-10-16 11:00:52", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 69.27, "y": -218.31, "z": 135.229}, "Direction": {"x": -0.269, "y": 0.845, "z": -0.462}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:01:08", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [4.03711,3.94294,3.74744,3.46394,3.11176,2.71489,2.01313,-1.54499,-3.83387,-6.16989,-7.89587,-8.75859,-8.84887,-8.21921,-6.79315,-4.47385,-2.11968,1.21633,2.61183,3.01571,3.38146,3.68415,3.90316,4.02354]
+, "Total": -13.79}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [4.03711,3.94294,3.74744,3.46394,3.11176,2.71489,2.07212,0,0,0,0,0,0,0,0,0,0,1.45524,2.61183,3.01571,3.38146,3.68415,3.90316,4.02354]
+, "Total": 45.17}, "Windows": {"Hourly": [0,0,0,0,0,0,0.21627,4.15157,8.08279,10.49376,10.85823,9.37099,9.30215,11.06101,10.99927,8.92773,5.35338,0.77652,0,0,0,0,0,0]
+, "Total": 89.59}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.05899,1.54499,3.83387,6.16989,7.89587,8.75859,8.84887,8.21921,6.79315,4.47385,2.11968,0.23891,0,0,0,0,0,0]
+, "Total": 58.96}}, "Solar Potential": [{"Building": 1, "Daily": 876.13}]},
+{"Timestamp": "2020-10-16 11:01:26", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -79.347, "y": -246.002, "z": 38.712}, "Direction": {"x": 0.296, "y": 0.95, "z": -0.095}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:02:19", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change Date": {"Old Date": "10/16", "New Date": "11/16"}},
+{"Timestamp": "2020-10-16 11:02:19", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change Date": {"Old Date": "11/16", "New Date": "12/16"}},
+{"Timestamp": "2020-10-16 11:02:33", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [6.68403,6.62089,6.48983,6.29978,6.06368,5.79762,5.51975,4.41358,-0.88402,-2.76425,-3.77462,-4.32853,-4.39085,-3.95784,-3.05635,-1.6579,3.27827,5.45065,5.72853,5.99929,6.24449,6.44741,6.59422,6.67493]
+, "Total": 69.49}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [6.68403,6.62089,6.48983,6.29978,6.06368,5.79762,5.51975,4.54865,0.49331,0,0,0,0,0,0,0.0935,3.613,5.45065,5.72853,5.99929,6.24449,6.44741,6.59422,6.67493]
+, "Total": 95.36}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.67865,4.85439,7.31195,8.30811,8.36184,8.27055,8.39921,7.7251,5.72465,1.52249,0,0,0,0,0,0,0]
+, "Total": 61.16}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.13507,1.37733,2.76425,3.77462,4.32853,4.39085,3.95784,3.05635,1.75141,0.33473,0,0,0,0,0,0,0]
+, "Total": 25.87}}, "Solar Potential": [{"Building": 1, "Daily": 498.6}]},
+{"Timestamp": "2020-10-16 11:02:58", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 219.37, "y": -51.1, "z": 145.601}, "Direction": {"x": -0.839, "y": 0.21, "z": -0.501}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:03:10", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 7.148, "y": -256.675, "z": 47.86}, "Direction": {"x": -0.033, "y": 0.991, "z": -0.13}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 11:04:31", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change Monthly Tilt Angles": null},
+{"Timestamp": "2020-10-16 11:04:48", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "BuildingDailyEnergyGraph": {"Building": 1, "Net": {"Hourly": [6.68403,6.62089,6.48983,6.29978,6.06368,5.79762,5.51975,4.3893,-1.07699,-3.09252,-4.18238,-4.77615,-4.84283,-4.37904,-3.40868,-1.89166,3.22273,5.45065,5.72853,5.99929,6.24449,6.44741,6.59422,6.67493]
+, "Total": 66.58}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [6.68403,6.62089,6.48983,6.29978,6.06368,5.79762,5.51975,4.5491,0.4953,0,0,0,0,0,0,0.09469,3.61429,5.45065,5.72853,5.99929,6.24449,6.44741,6.59422,6.67493]
+, "Total": 95.37}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.67865,4.85439,7.31195,8.30811,8.36184,8.27055,8.39921,7.7251,5.72465,1.52249,0,0,0,0,0,0,0]
+, "Total": 61.16}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.1598,1.57229,3.09252,4.18238,4.77615,4.84283,4.37904,3.40868,1.98636,0.39156,0,0,0,0,0,0,0]
+, "Total": 28.79}}, "Solar Potential": [{"Building": 1, "Daily": 493.5}]},
+{"Timestamp": "2020-10-16 11:04:59", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -204.464, "y": -124.333, "z": 121.02}, "Direction": {"x": 0.772, "y": 0.488, "z": -0.408}, "Mode": "Rotate"}}]
+}

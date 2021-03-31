@@ -1,0 +1,16 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 22:46:25", "File": "House1.ng3", "Camera": {"Position": {"x": 10.916, "y": -534.376, "z": 198.816}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:25", "File": "House1.ng3", "Camera": {"Position": {"x": 10.475, "y": -545.515, "z": 201.587}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:25", "File": "House1.ng3", "Camera": {"Position": {"x": 10.461, "y": -545.865, "z": 201.674}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:26", "File": "House1.ng3", "Camera": {"Position": {"x": 12.799, "y": -486.825, "z": 186.99}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:26", "File": "House1.ng3", "Camera": {"Position": {"x": 24.799, "y": -183.785, "z": 111.619}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:26", "File": "House1.ng3", "Camera": {"Position": {"x": 29.882, "y": -55.435, "z": 79.697}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:26", "File": "House1.ng3", "Camera": {"Position": {"x": 29.231, "y": -71.865, "z": 83.783}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:27", "File": "House1.ng3", "Camera": {"Position": {"x": 27.596, "y": -123.189, "z": 96.548}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:27", "File": "House1.ng3", "Camera": {"Position": {"x": 26.109, "y": -153.197, "z": 104.012}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:27", "File": "House1.ng3", "Camera": {"Position": {"x": 25.433, "y": -167.781, "z": 107.639}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:27", "File": "House1.ng3", "Camera": {"Position": {"x": 24.463, "y": -192.282, "z": 113.733}, "Direction": {"x": 0.038, "y": 0.97, "z": -0.241}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 22:46:37", "File": "House1.ng3", "Camera": {"Position": {"x": 38.064, "y": -222.013, "z": 128.997}, "Direction": {"x": -0.02, "y": 0.963, "z": -0.27}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 22:46:39", "File": "House1.ng3", "Camera": {"Position": {"x": 40.515, "y": -221.601, "z": 130.228}, "Direction": {"x": -0.029, "y": 0.961, "z": -0.275}, "Mode": "Rotate"}}]
+}

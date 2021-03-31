@@ -1,0 +1,41 @@
+{
+"Activities": [
+{"Timestamp": "2020-10-30 11:59:01", "File": "FP.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-30 11:59:04", "File": "FP.ng3", "Camera": {"Position": {"x": 28.363, "y": -123.158, "z": 81.853}, "Direction": {"x": -0.249, "y": 0.855, "z": -0.455}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:59:08", "File": "FP.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 11:59:09", "File": "FP.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 11:59:14", "File": "FP.ng3", "Camera": {"Position": {"x": 92.258, "y": 80.566, "z": 35.565}, "Direction": {"x": -0.729, "y": -0.676, "z": -0.108}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:59:25", "File": "FP.ng3", "Change Height for Selected Wall": {"Building": 147, "ID": 159, "Old Value": 16.71186440677966, "New Value": 15.0}},
+{"Timestamp": "2020-10-30 11:59:33", "File": "FP.ng3", "Change Height for Selected Wall": {"Building": 147, "ID": 159, "Old Value": 15.0, "New Value": 20.0}},
+{"Timestamp": "2020-10-30 11:59:51", "File": "FP.ng3", "Change Height for Selected Wall": {"Building": 147, "ID": 159, "Old Value": 20.0, "New Value": 17.7}},
+{"Timestamp": "2020-10-30 12:00:00", "File": "FP.ng3", "Camera": {"Position": {"x": 99.767, "y": -36.913, "z": 98.879}, "Direction": {"x": -0.785, "y": 0.207, "z": -0.583}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:00:02", "File": "FP.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 12:00:05", "File": "FP.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 147, "ID": 352, "Coordinates": [{"x": 34.93, "y": -30.701, "z": 19.788}]}},
+{"Timestamp": "2020-10-30 12:00:07", "File": "FP.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 147, "ID": 345, "Coordinates": [{"x": 10.13, "y": -30.701, "z": 19.588}]}},
+{"Timestamp": "2020-10-30 12:00:08", "File": "FP.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 147, "ID": 315, "Coordinates": [{"x": 10.13, "y": 8.899, "z": 25.822}]}},
+{"Timestamp": "2020-10-30 12:00:11", "File": "FP.ng3", "Camera": {"Position": {"x": -124.262, "y": 23.539, "z": 69.721}, "Direction": {"x": 0.898, "y": -0.247, "z": -0.364}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:00:13", "File": "FP.ng3", "Camera": {"Position": {"x": -83.077, "y": 25.006, "z": 123.209}, "Direction": {"x": 0.588, "y": -0.258, "z": -0.766}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:00:18", "File": "FP.ng3", "Camera": {"Position": {"x": 7.545, "y": 122.417, "z": 34.904}, "Direction": {"x": -0.093, "y": -0.99, "z": -0.103}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:00:23", "File": "FP.ng3", "Camera": {"Position": {"x": -71.28, "y": 84.39, "z": 88.274}, "Direction": {"x": 0.5, "y": -0.705, "z": -0.504}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:00:26", "File": "FP.ng3", "Camera": {"Position": {"x": -82.526, "y": -111.729, "z": 55.821}, "Direction": {"x": 0.584, "y": 0.769, "z": -0.26}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:00:30", "File": "FP.ng3", "Camera": {"Position": {"x": 68.27, "y": 100.558, "z": 38.209}, "Direction": {"x": -0.549, "y": -0.826, "z": -0.128}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:00:31", "File": "FP.ng3", "Camera": {"Position": {"x": 35.668, "y": 116.261, "z": 38.209}, "Direction": {"x": -0.304, "y": -0.944, "z": -0.128}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:01:03", "File": "FP.ng3", "Camera": {"Position": {"x": -73.127, "y": 18.473, "z": 131.982}, "Direction": {"x": 0.514, "y": -0.209, "z": -0.832}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:01:11", "File": "FP.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 12:01:35", "File": "FP.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 147, "Net": {"Monthly": [32.26,17.88,-5.67,-16.45,-17.79,-23.32,-24.53,-25.65,-11.79,-1.04,24.91,39.26]
+, "Total": -362.77}, "AC": {"Monthly": [0,0,0,5.36,18.11,22.63,21.58,17.07,8.89,0,0,0]
+, "Total": 2848.14}, "Heater": {"Monthly": [49.47,39.41,23.87,14.11,6.55,0,0,0,12.06,23.09,38.56,50.84]
+, "Total": 7846.26}, "Windows": {"Monthly": [2.54,2.85,3.55,3.98,4.7,5.2,5.39,5.27,4.46,3.75,2.15,1.81]
+, "Total": 1388.05}, "Solar Panels": {"Monthly": [17.21,21.53,29.54,35.93,42.44,45.95,46.11,42.72,32.74,24.13,13.65,11.58]
+, "Total": 11057.17}}},
+{"Timestamp": "2020-10-30 12:02:08", "File": "FP.ng3", "Save": "file:/C:/Users/chris/Desktop/FP.ng3*"},
+{"Timestamp": "2020-10-30 12:02:31", "File": "FP.ng3", "Camera": {"Position": {"x": -82.956, "y": 5.574, "z": 128.061}, "Direction": {"x": 0.578, "y": -0.125, "z": -0.806}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:02:40", "File": "FP.ng3", "Camera": {"Position": {"x": -81.846, "y": 4.881, "z": 128.954}, "Direction": {"x": 0.571, "y": -0.12, "z": -0.812}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:02:42", "File": "FP.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 12:02:55", "File": "FP.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 12:03:26", "File": "FP.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 147, "Net": {"Monthly": [32.26,17.88,-5.67,-16.45,-17.79,-23.32,-24.53,-25.65,-11.79,-1.04,24.91,39.26]
+, "Total": -362.77}, "AC": {"Monthly": [0,0,0,5.36,18.11,22.63,21.58,17.07,8.89,0,0,0]
+, "Total": 2848.14}, "Heater": {"Monthly": [49.47,39.41,23.87,14.11,6.55,0,0,0,12.06,23.09,38.56,50.84]
+, "Total": 7846.26}, "Windows": {"Monthly": [2.54,2.85,3.55,3.98,4.7,5.2,5.39,5.27,4.46,3.75,2.15,1.81]
+, "Total": 1388.05}, "Solar Panels": {"Monthly": [17.21,21.53,29.54,35.93,42.44,45.95,46.11,42.72,32.74,24.13,13.65,11.58]
+, "Total": 11057.17}}}
