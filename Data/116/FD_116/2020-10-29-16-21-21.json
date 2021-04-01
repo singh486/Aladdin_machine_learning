@@ -1,0 +1,11 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 16:30:46", "File": "X_SmallDesign.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-29 16:31:25", "File": "X_SmallDesign.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [34.85,20.04,-3.01,-19.59,-20.17,-21.75,-19.78,-19.61,-8.84,-10.14,15.76,39.02]
+, "Total": -402.22}, "AC": {"Monthly": [0,0,0,0,17.44,28.92,32.06,29.02,21.03,0,0,0]
+, "Total": 3907.59}, "Heater": {"Monthly": [56.23,46.45,32.2,21.15,10.47,0,0,0,10.41,22.85,34.33,54.74]
+, "Total": 8785.67}, "Windows": {"Monthly": [12.63,14.5,17.5,15.54,17.46,18.92,19.77,19.62,18.4,16.52,11.27,9.53]
+, "Total": 5829.34}, "Solar Panels": {"Monthly": [21.38,26.42,35.22,40.74,48.08,50.68,51.84,48.64,40.27,32.99,18.57,15.72]
+, "Total": 13095.47}}},
+{"Timestamp": "2020-10-29 16:31:45", "File": "X_SmallDesign.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-29 16:32:11", "File": "X_SmallDesign.ng3", "Graph Tab": "Basics"}

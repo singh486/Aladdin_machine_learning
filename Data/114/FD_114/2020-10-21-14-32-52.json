@@ -1,0 +1,6 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 14:41:50", "File": "@white-house.ng3", "Camera": {"Position": {"x": -82.463, "y": 263.592, "z": 164.991}, "Direction": {"x": 0.272, "y": -0.812, "z": -0.516}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 14:41:51", "File": "@white-house.ng3", "Camera": {"Position": {"x": -85.203, "y": 271.762, "z": 170.178}, "Direction": {"x": 0.272, "y": -0.812, "z": -0.516}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 15:07:55", "File": "ENGT%20test.ng3", "Save": "file:/C:/Users/X/OneDrive/Desktop/PURDUE/ENGT%20180/Work%20ENGT%20180/ENGT%20test.ng3*"}]
+}

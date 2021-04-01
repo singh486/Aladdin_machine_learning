@@ -1,0 +1,6 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 10:45:34", "File": "Energy%20Design%20Project.ng3", "Camera": {"Position": {"x": -48.544, "y": -53.358, "z": 130.237}, "Direction": {"x": 0.326, "y": 0.358, "z": -0.875}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 10:45:35", "File": "Energy%20Design%20Project.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 11, "Coordinates": [{"x": -17.5, "y": -20, "z": 1}, {"x": -17.5, "y": -20, "z": 31}, {"x": 2.5, "y": -17.5, "z": 1}, {"x": 2.5, "y": -17.5, "z": 31}]}},
+{"Timestamp": "2020-10-21 10:45:37", "File": "Energy%20Design%20Project.ng3", "Camera": {"Position": {"x": -10.205, "y": -130.257, "z": 71.374}, "Direction": {"x": 0.069, "y": 0.875, "z": -0.479}, "Mode": "Rotate"}}]
+}

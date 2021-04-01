@@ -1,0 +1,13 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 12:09:00", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 37.743, "y": -115.118, "z": 49.357}, "Direction": {"x": -0.278, "y": 0.916, "z": -0.288}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 12:09:12", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 16.929, "y": -123.948, "z": 28.335}, "Direction": {"x": -0.114, "y": 0.986, "z": -0.122}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 12:09:23", "File": "@white-house.ng3", "Camera": {"Position": {"x": -82.463, "y": 263.592, "z": 164.991}, "Direction": {"x": 0.272, "y": -0.812, "z": -0.516}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 12:09:26", "File": "@white-house.ng3", "Camera": {"Position": {"x": -79.791, "y": 255.626, "z": 159.933}, "Direction": {"x": 0.272, "y": -0.812, "z": -0.516}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 12:09:26", "File": "@white-house.ng3", "Camera": {"Position": {"x": -72.969, "y": 235.281, "z": 147.016}, "Direction": {"x": 0.272, "y": -0.812, "z": -0.516}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 12:09:31", "File": "@white-house.ng3", "Camera": {"Position": {"x": -153.428, "y": 237.32, "z": 67.518}, "Direction": {"x": 0.544, "y": -0.806, "z": -0.235}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 12:09:48", "Project": "Santa Fe Style", "File": "@example-santa-fe.ng3", "Camera": {"Position": {"x": -112.702, "y": -8.573, "z": 18.48}, "Direction": {"x": 0.989, "y": 0.097, "z": -0.11}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 12:09:49", "Project": "Santa Fe Style", "File": "@example-santa-fe.ng3", "Camera": {"Position": {"x": -118.058, "y": -9.097, "z": 19.073}, "Direction": {"x": 0.989, "y": 0.097, "z": -0.11}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 12:09:49", "Project": "Santa Fe Style", "File": "@example-santa-fe.ng3", "Camera": {"Position": {"x": -125.21, "y": -9.797, "z": 19.865}, "Direction": {"x": 0.989, "y": 0.097, "z": -0.11}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 12:09:51", "Project": "Santa Fe Style", "File": "@example-santa-fe.ng3", "Camera": {"Position": {"x": -124.202, "y": -25.069, "z": 41.27}, "Direction": {"x": 0.941, "y": 0.208, "z": -0.267}, "Mode": "Rotate"}}]
+}

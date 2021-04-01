@@ -1,5 +1,110 @@
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-16-09-27-47.json
+JSON object issue: 'utf-8' codec can't decode byte 0xe9 in position 427: invalid continuation byte
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-21-10-45-55.json
+JSON object issue: 'utf-8' codec can't decode byte 0xe9 in position 4416: invalid continuation byte
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-21-14-20-51.json
+JSON object issue: Expecting ',' delimiter: line 145 column 75 (char 27392)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/103/FD_103/2020-10-23-02-32-37.json
+JSON object issue: Expecting value: line 3 column 1 (char 18)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/103/FD_103/2020-10-30-12-31-26.json
+JSON object issue: 'utf-8' codec can't decode byte 0xe9 in position 131299: invalid continuation byte
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/103/FD_103/2020-10-30-14-08-20.json
+JSON object issue: Expecting ',' delimiter: line 106 column 23 (char 18630)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/104/FD_104/2020-10-29-16-13-02.json
+JSON object issue: 'utf-8' codec can't decode byte 0xf3 in position 347505: invalid continuation byte
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/106/FD_106/2020-10-28-11-29-53.json
+JSON object issue: Expecting value: line 1 column 1 (char 0)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-30-11-40-50.json
+JSON object issue: Expecting ',' delimiter: line 17 column 23 (char 1866)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-13-11-40.json
+JSON object issue: Expecting ',' delimiter: line 144 column 87 (char 21603)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-22-51-06.json
+JSON object issue: Expecting value: line 4 column 163 (char 411)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-22-51-48.json
+JSON object issue: Expecting value: line 3 column 163 (char 199)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-22-52-36.json
+JSON object issue: Expecting value: line 24 column 163 (char 4875)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-22-54-10.json
+JSON object issue: Expecting value: line 43 column 163 (char 9065)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-22-58-29.json
+JSON object issue: Expecting value: line 19 column 161 (char 3898)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-20-22-54-42.json
+JSON object issue: 'utf-8' codec can't decode byte 0xe9 in position 10654: invalid continuation byte
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-29-22-02-04.json
+JSON object issue: Expecting value: line 1 column 1 (char 0)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-30-13-03-52.json
+JSON object issue: Expecting ',' delimiter: line 168 column 96 (char 28855)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-29-22-57-25.json
+JSON object issue: Expecting ',' delimiter: line 32 column 208 (char 5908)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-29-21-03-43.json
+JSON object issue: Expecting value: line 1 column 1 (char 0)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-17-00-46.json
+JSON object issue: Expecting ',' delimiter: line 393 column 202 (char 66273)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-29-16-21-21.json
+JSON object issue: Expecting ',' delimiter: line 11 column 89 (char 972)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/117/FD_117/2020-10-15-23-12-25.json
+JSON object issue: Expecting value: line 1 column 1 (char 0)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/117/FD_117/2020-10-26-16-24-58.json
+JSON object issue: Expecting ',' delimiter: line 101 column 205 (char 17804)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/118/FD_118/2020-10-30-11-58-08.json
+JSON object issue: Expecting ',' delimiter: line 21 column 208 (char 3347)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/121/FD_121/2020-10-17-17-11-28.json
+JSON object issue: Expecting value: line 1 column 1 (char 0)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/121/FD_121/2020-10-29-21-17-28.json
+JSON object issue: Expecting ',' delimiter: line 960 column 208 (char 151235)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/90/FD_90/2020-10-27-17-25-33.json
+JSON object issue: Expecting ',' delimiter: line 1142 column 91 (char 221080)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/92/FD_92/2020-10-30-11-42-56.json
+JSON object issue: Expecting value: line 1 column 1 (char 0)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/93/FD_93/2020-10-30-14-31-01.json
+JSON object issue: Expecting ',' delimiter: line 738 column 195 (char 144896)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-30-10-28-40.json
+JSON object issue: Expecting ',' delimiter: line 163 column 213 (char 27409)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/98/FD_98/2020-10-29-10-37-53.json
+JSON object issue: Expecting ',' delimiter: line 181 column 146 (char 27219)
+
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/99/FD_99/2020-10-30-01-18-44.json
+JSON object issue: Expecting ',' delimiter: line 255 column 22 (char 43485)
+
 All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/merged_config.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/92/FD_92/2020-10-29-11-18-26.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/92/FD_92/2020-10-29-12-10-13.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/92/FD_92/2020-10-22-12-48-02.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/92/FD_92/2020-10-22-11-08-13.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/92/FD_92/2020-10-16-11-37-41.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/92/FD_92/2020-10-16-11-38-04.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/66/FD_66/2020-10-18-18-05-44.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/66/FD_66/2020-10-29-19-33-48.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/66/FD_66/2020-10-29-20-21-40.json
@@ -20,6 +125,11 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/66/FD_66/2020-10-23-11-35-24.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/66/FD_66/2020-10-23-11-32-20.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/66/FD_66/2020-10-29-20-23-05.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/104/FD_104/2020-10-27-21-32-52.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/104/FD_104/2020-10-23-13-49-04.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/104/FD_104/2020-10-29-16-08-09.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/104/FD_104/2020-10-14-09-40-13.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/104/FD_104/2020-10-14-09-41-55.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/50/FD_50/2020-10-29-18-59-30.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/50/FD_50/2020-10-21-19-04-26.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/50/FD_50/2020-10-21-19-07-19.json
@@ -30,6 +140,10 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/68/FD_68/2020-10-23-14-09-46.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/68/FD_68/2020-10-30-13-38-12.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/68/FD_68/2020-10-30-13-32-02.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/103/FD_103/2020-10-22-20-57-31.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/103/FD_103/2020-10-29-22-12-13.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/103/FD_103/2020-10-22-20-57-18.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/103/FD_103/2020-10-23-02-33-31.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/57/FD_57/2020-10-21-21-44-13.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/57/FD_57/2020-10-22-20-28-23.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/57/FD_57/2020-10-30-10-44-27.json
@@ -57,6 +171,9 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/67/FD_67/2020-10-30-14-22-47.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/67/FD_67/2020-10-14-15-58-14.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/67/FD_67/2020-10-30-14-48-56.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/93/FD_93/2020-10-22-13-56-42.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/93/FD_93/2020-10-30-13-55-41.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/93/FD_93/2020-10-22-13-56-30.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/60/FD_60/2020-10-23-12-27-14.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/60/FD_60/2020-10-28-16-34-18.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/60/FD_60/2020-10-28-19-34-48.json
@@ -138,9 +255,50 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/89/FD_89/2020-10-29-11-39-59.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/89/FD_89/2020-10-30-11-58-51.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/89/FD_89/2020-10-29-22-28-45.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-16-08-52-37.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-54-32.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-43-41.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-58-31.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-15-22-15-18.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-55-15.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-50-57.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-09-12-58-26.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-27-00-26-47.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-16-20-33-42.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-18-07-45.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-17-00-33.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-27-00-51-47.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-22-22-57-53.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-42-53.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-51-48.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-09-12-58-38.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-54-06.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/116/FD_116/2020-10-26-16-52-42.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-29-21-31-24.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-29-09-12-04.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-27-00-07-33.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-21-14-09.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-29-02-45-01.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-21-02-08-15.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-22-22-48-22.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-22-59-41.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-22-22-50-18.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-29-18-16-22.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-21-02-08-37.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-29-03-36-00.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-21-19-43-14.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-21-19-42-32.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-19-21-13-43.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-22-22-48-51.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-29-09-05-38.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-27-11-53-07.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/111/FD_111/2020-10-22-22-48-07.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/73/FD_73/2020-10-29-14-41-33.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/73/FD_73/2020-10-29-20-31-11.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/73/FD_73/2020-10-23-10-25-11.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/118/FD_118/2020-10-19-11-17-42.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/118/FD_118/2020-10-19-11-17-55.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/118/FD_118/2020-10-29-18-49-24.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/74/FD_74/2020-10-29-13-42-45.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/74/FD_74/2020-10-20-17-02-52.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/74/FD_74/2020-10-22-17-08-31.json
@@ -184,6 +342,11 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/75/FD_75/2020-10-25-19-53-44.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/75/FD_75/2020-10-25-19-31-12.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/75/FD_75/2020-10-23-20-07-25.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/121/FD_121/2020-10-15-14-25-53.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/121/FD_121/2020-10-29-20-12-46.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/121/FD_121/2020-10-25-20-02-18.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/121/FD_121/2020-10-19-19-28-01.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/121/FD_121/2020-10-15-14-26-11.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/86/FD_86/2020-10-23-16-28-35.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/86/FD_86/2020-10-29-18-07-21.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/86/FD_86/2020-10-22-18-41-55.json
@@ -200,6 +363,18 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/72/FD_72/2020-10-22-16-37-22.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/72/FD_72/2020-10-23-13-27-20.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/72/FD_72/2020-10-30-13-13-04.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-36-35.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-45-23.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-28-06.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-22-07.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-11-50-09.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-30-55.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-11-55-24.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-14-08.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-26-10.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-22-12-36-29.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-30-12-23-25.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/110/FD_110/2020-10-22-12-36-14.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/43/FD_43/2020-10-30-10-31-51.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/43/FD_43/2020-10-16-16-27-32.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/43/FD_43/2020-10-23-16-20-30.json
@@ -218,6 +393,9 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/88/FD_88/2020-10-30-10-38-19.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/88/FD_88/2020-10-22-19-51-03.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/88/FD_88/2020-10-30-10-38-43.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/117/FD_117/2020-10-22-10-31-59.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/117/FD_117/2020-10-20-17-27-45.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/117/FD_117/2020-10-20-19-23-26.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/38/FD_38/2020-10-22-23-11-03.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/38/FD_38/2020-10-30-11-25-27.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/38/FD_38/2020-10-22-21-32-57.json
@@ -256,6 +434,47 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/62/FD_62/2020-10-28-17-08-55.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/62/FD_62/2020-10-29-13-11-02.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/62/FD_62/2020-10-28-16-52-05.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-23-12-08-43.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-29-15-38-50.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-23-10-31-56.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-29-16-06-24.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-23-13-21-19.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-29-15-50-00.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-16-10-34-21.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-29-15-35-43.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-22-17-52-15.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-29-15-49-04.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-29-15-40-39.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-16-10-05-17.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-29-16-22-40.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/96/FD_96/2020-10-23-13-42-41.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-24-37.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-11-11-50.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-22-17-21-32.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-18-51.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-15-54.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-04-55.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-23-09-40-16.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-27-17-55-45.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-23-55.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-40-42.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-22-17-33-25.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-03-11.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-23-10-37-54.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-45-20.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-21-15-22-17.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-23-09-41-59.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-22-17-26-53.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-30-09-32-53.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-16-09-36-43.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-28-11-38-03.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-29-14-30-16.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/109/FD_109/2020-10-23-10-38-55.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/98/FD_98/2020-10-29-09-46-49.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/98/FD_98/2020-10-21-14-40-33.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/98/FD_98/2020-10-14-14-33-57.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/98/FD_98/2020-10-14-14-34-19.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/98/FD_98/2020-10-29-09-05-35.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/53/FD_53/2020-10-30-12-43-26.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/53/FD_53/2020-10-30-12-44-55.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/53/FD_53/2020-10-21-19-11-15.json
@@ -274,10 +493,32 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/39/FD_39/2020-10-30-11-36-32.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/39/FD_39/2020-10-30-10-41-18.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/39/FD_39/2020-10-23-12-30-15.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/106/FD_106/2020-10-16-08-33-36.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/106/FD_106/2020-10-27-15-46-11.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/106/FD_106/2020-10-16-08-33-14.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/106/FD_106/2020-10-23-08-27-43.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/99/FD_99/2020-10-30-00-02-06.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/99/FD_99/2020-10-23-11-40-03.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/99/FD_99/2020-10-23-11-39-41.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/52/FD_52/2020-10-23-14-50-54.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/52/FD_52/2020-10-28-18-38-55.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/52/FD_52/2020-10-28-15-40-20.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/52/FD_52/2020-10-23-12-39-13.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-21-14-17-51.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-47-13.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-21-10-43-44.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-42-01.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-54-29.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-38-17.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-21-10-45-22.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-16-09-23-31.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-38-03.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-42-22.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-21-14-18-27.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-21-10-30-57.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-43-45.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-14-10-45-21.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/101/FD_101/2020-10-16-12-38-17.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/64/FD_64/2020-10-21-14-05-20.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/64/FD_64/2020-10-21-14-48-16.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/64/FD_64/2020-10-14-14-34-11.json
@@ -286,6 +527,8 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/64/FD_64/2020-10-14-14-33-46.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/64/FD_64/2020-10-21-15-16-16.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/64/FD_64/2020-10-21-14-43-04.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/90/FD_90/2020-10-16-11-36-55.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/90/FD_90/2020-10-20-16-23-56.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/46/FD_46/2020-10-22-12-32-44.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/46/FD_46/2020-10-29-15-40-05.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/79/FD_79/2020-10-26-13-56-59.json
@@ -309,6 +552,13 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/41/FD_41/2020-10-14-10-47-21.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/41/FD_41/2020-10-14-11-03-39.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/41/FD_41/2020-10-28-10-44-03.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-22-14-43-31.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-21-21-35-29.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-22-15-07-28.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-22-15-06-44.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-21-21-36-17.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-22-14-45-47.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/115/FD_115/2020-10-22-15-02-43.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/83/FD_83/2020-10-21-12-30-53.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/83/FD_83/2020-10-29-14-50-25.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/83/FD_83/2020-10-23-11-31-52.json
@@ -368,6 +618,15 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/40/FD_40/2020-10-30-13-58-18.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/40/FD_40/2020-10-22-22-38-28.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/40/FD_40/2020-10-22-22-11-39.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-22-15-21-39.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-14-14-34-01.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-14-14-34-21.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-21-15-08-31.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-27-15-59-07.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-25-23-31-01.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-28-14-58-37.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-21-14-32-52.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/114/FD_114/2020-10-26-18-30-36.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/47/FD_47/2020-10-16-09-10-37.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/47/FD_47/2020-10-16-08-35-54.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/47/FD_47/2020-10-29-00-06-19.json
@@ -376,6 +635,15 @@ All read json files:
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/47/FD_47/2020-10-22-14-57-17.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/47/FD_47/2020-10-29-17-22-14.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/47/FD_47/2020-10-30-13-57-34.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-22-23-08-42.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-30-13-03-16.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-22-23-08-19.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-30-12-57-48.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-30-00-07-38.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-23-13-41-18.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-30-13-00-55.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-23-00-01-33.json
+/Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/113/FD_113/2020-10-30-13-02-35.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/78/FD_78/2020-10-15-14-59-00.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/78/FD_78/2020-10-30-13-10-14.json
 /Users/jasminesingh/Desktop/Senior - Sem 2/DURI/sustainable_building_project_analysis/Data/78/FD_78/2020-10-15-14-59-19.json

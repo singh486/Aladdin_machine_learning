@@ -1,0 +1,17 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 11:41:07", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -89.883, "y": -18.653, "z": 61.78}, "Direction": {"x": 0.789, "y": 0.08, "z": -0.609}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:41:10", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -103.925, "y": 36.939, "z": -1.018}, "Direction": {"x": 0.912, "y": -0.407, "z": -0.06}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:41:11", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -64.901, "y": 73.408, "z": 36.128}, "Direction": {"x": 0.57, "y": -0.725, "z": -0.385}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:42:16", "File": "X_designproject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 11:42:17", "File": "X_designproject.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 11:42:24", "File": "X_designproject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 11:42:50", "File": "X_designproject.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 11:44:14", "File": "X_designproject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 11:45:03", "File": "X_designproject.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 11:45:27", "File": "X_designproject.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [27.65,14.18,-6.96,-18.67,-18.74,-21.7,-20.84,-17.92,-6.25,4.49,21.43,36.24]
+, "Total": -215.88}, "AC": {"Monthly": [0,0,0,0,19.8,27.66,27.55,21.51,10.05,0,0,0]
+, "Total": 3241.53}, "Heater": {"Monthly": [47.02,38.35,26.29,16.66,7.95,0,0,0,13.19,25.26,36.41,49.46]
+, "Total": 7926.27}, "Windows": {"Monthly": [18.69,19.84,21.99,11.64,14.82,16.14,16.52,15.15,13.07,10.42,15.42,13.58]
+, "Total": 5696.57}, "Solar Panels": {"Monthly": [19.38,24.16,33.25,35.34,46.5,49.36,48.39,39.43,29.49,20.77,14.98,13.21]
+, "Total": 11383.68}}}

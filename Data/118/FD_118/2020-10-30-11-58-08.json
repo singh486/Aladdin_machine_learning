@@ -1,0 +1,21 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 11:58:28", "File": "Energy%20Project.ng3", "Camera": {"Position": {"x": -32.495, "y": -226.103, "z": 73.166}, "Direction": {"x": 0.135, "y": 0.943, "z": -0.305}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:58:29", "File": "Energy%20Project.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-30 11:58:35", "File": "Energy%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 44, "Coordinates": [{"x": 58.223, "y": -10.808, "z": 1}]}},
+{"Timestamp": "2020-10-30 11:58:37", "File": "Energy%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 43, "Coordinates": [{"x": 64.282, "y": 11.161, "z": 1}]}},
+{"Timestamp": "2020-10-30 11:58:40", "File": "Energy%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 49, "Coordinates": [{"x": -73.445, "y": 16.858, "z": 1}]}},
+{"Timestamp": "2020-10-30 11:58:42", "File": "Energy%20Project.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 48, "Coordinates": [{"x": -71.523, "y": 36.714, "z": 1}]}},
+{"Timestamp": "2020-10-30 11:58:48", "File": "Energy%20Project.ng3", "Camera": {"Position": {"x": 213.345, "y": -83.618, "z": 70.878}, "Direction": {"x": -0.889, "y": 0.349, "z": -0.295}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:58:53", "File": "Energy%20Project.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 116, "Coordinates": [{"x": 42.434, "y": 2.449, "z": 9}, {"x": 42.434, "y": 2.449, "z": 5}, {"x": 45.212, "y": 18.206, "z": 9}, {"x": 45.212, "y": 18.206, "z": 5}]}},
+{"Timestamp": "2020-10-30 11:58:55", "File": "Energy%20Project.ng3", "Camera": {"Position": {"x": 6.245, "y": -229.061, "z": 70.878}, "Direction": {"x": -0.026, "y": 0.955, "z": -0.295}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:59:00", "File": "Energy%20Project.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.48347,2.4608,2.41374,2.34548,2.26069,2.16515,2.06536,1.71853,0.17981,-0.76199,-1.66087,-1.74741,-0.87488,-1.52304,-1.31696,-0.03471,1.40673,2.04054,2.14033,2.23757,2.32563,2.3985,2.45122,2.48021]
+, "Total": 27.65}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.48347,2.4608,2.41374,2.34548,2.26069,2.16515,2.06536,1.8525,1.13908,0.72634,0.4953,0.50533,0.62604,0.64397,0.68946,1.09257,1.77268,2.04054,2.14033,2.23757,2.32563,2.3985,2.45122,2.48021]
+, "Total": 41.81}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.11161,0.70793,1.02029,1.17954,1.12992,1.00451,1.01645,1.03448,0.72551,0.16245,0,0,0,0,0,0,0]
+, "Total": 8.09}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.13397,0.95928,1.48833,2.15617,2.25275,1.50092,2.16701,2.00641,1.12728,0.36595,0,0,0,0,0,0,0]
+, "Total": 14.16}}, "Solar Potential": [{"Building": 2, "Daily": 460.15}]},
+{"Timestamp": "2020-10-30 11:59:01", "File": "Energy%20Project.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 11:59:48", "File": "Energy%20Project.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 12:25:12", "File": "Energy%20Project.ng3", "Camera": {"Position": {"x": -51.139, "y": -206.517, "z": 110.757}, "Direction": {"x": 0.213, "y": 0.861, "z": -0.462}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:28:12", "File": "Energy%20Project.ng3", "Camera": {"Position": {"x": -37.245, "y": -138.478, "z": 192.272}, "Direction": {"x": 0.155, "y": 0.577, "z": -0.802}, "Mode": "Rotate"}}

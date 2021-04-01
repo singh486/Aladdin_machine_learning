@@ -1,0 +1,23 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:01:02", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": 4.78, "y": 98.658, "z": 29.473}, "Direction": {"x": -0.046, "y": -0.957, "z": -0.286}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:01:09", "File": "Myhouse_2.ng3", "Add Door": {"Type": "Door", "Building": 2, "ID": 21, "Coordinates": [{"x": 18, "y": 20, "z": 1}, {"x": 18, "y": 20, "z": 11}, {"x": 12, "y": 20, "z": 1}, {"x": 12, "y": 20, "z": 11}]}},
+{"Timestamp": "2020-10-30 13:01:12", "File": "Myhouse_2.ng3", "Add Door": {"Type": "Door", "Building": 2, "ID": 22, "Coordinates": [{"x": 12, "y": 20, "z": 1}, {"x": 12, "y": 20, "z": 11}, {"x": 6, "y": 20, "z": 1}, {"x": 6, "y": 20, "z": 11}]}},
+{"Timestamp": "2020-10-30 13:01:13", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": -3.106, "y": 98.272, "z": 30.951}, "Direction": {"x": 0.03, "y": -0.953, "z": -0.3}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:01:17", "File": "Myhouse_2.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 23, "Coordinates": [{"x": 0, "y": 20, "z": 13}, {"x": 0, "y": 20, "z": 5}, {"x": -6, "y": 20, "z": 13}, {"x": -6, "y": 20, "z": 5}]}},
+{"Timestamp": "2020-10-30 13:01:20", "File": "Myhouse_2.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 24, "Coordinates": [{"x": -10, "y": 20, "z": 13}, {"x": -10, "y": 20, "z": 5}, {"x": -16, "y": 20, "z": 13}, {"x": -16, "y": 20, "z": 5}]}},
+{"Timestamp": "2020-10-30 13:01:24", "File": "Myhouse_2.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 25, "Coordinates": [{"x": -20, "y": 20, "z": 13}, {"x": -20, "y": 20, "z": 5}, {"x": -26, "y": 20, "z": 13}, {"x": -26, "y": 20, "z": 5}]}},
+{"Timestamp": "2020-10-30 13:01:26", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": 16.645, "y": -92.422, "z": 42.499}, "Direction": {"x": -0.161, "y": 0.897, "z": -0.412}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:01:27", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": -4.71, "y": -90.828, "z": 48.509}, "Direction": {"x": 0.046, "y": 0.881, "z": -0.471}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:01:36", "File": "Myhouse_2.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 26, "Coordinates": [{"x": -2.463, "y": -13.913, "z": 22.539}]}},
+{"Timestamp": "2020-10-30 13:01:38", "File": "Myhouse_2.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 28, "Coordinates": [{"x": -5.35, "y": -6.735, "z": 27.728}]}},
+{"Timestamp": "2020-10-30 13:01:42", "File": "Myhouse_2.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 29, "Coordinates": [{"x": 0.59, "y": -6.735, "z": 27.728}]}},
+{"Timestamp": "2020-10-30 13:01:44", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": 20.544, "y": -90.515, "z": 44.833}, "Direction": {"x": -0.199, "y": 0.878, "z": -0.435}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:01:56", "File": "Myhouse_2.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 32, "Coordinates": [{"x": 12.47, "y": -13.665, "z": 22.718}]}},
+{"Timestamp": "2020-10-30 13:01:56", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": 6.72, "y": -91.656, "z": 46.68}, "Direction": {"x": -0.065, "y": 0.889, "z": -0.453}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:02:06", "File": "Myhouse_2.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 33, "Coordinates": [{"x": 21.38, "y": 15.54, "z": 22.461}]}},
+{"Timestamp": "2020-10-30 13:02:07", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": 91.867, "y": -2.537, "z": 46.68}, "Direction": {"x": -0.891, "y": 0.025, "z": -0.453}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:02:09", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": 59.019, "y": 7.859, "z": 84.142}, "Direction": {"x": -0.573, "y": -0.076, "z": -0.816}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:02:10", "File": "Myhouse_2.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 33, "Coordinates": [{"x": 21.38, "y": 15.54, "z": 22.461}]}},
+{"Timestamp": "2020-10-30 13:02:12", "File": "Myhouse_2.ng3", "Camera": {"Position": {"x": 79.755, "y": 3.383, "z": 65.213}, "Direction": {"x": -0.774, "y": -0.033, "z": -0.633}, "Mode": "Rotate"}}]
+}

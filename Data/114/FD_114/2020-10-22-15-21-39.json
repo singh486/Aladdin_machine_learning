@@ -1,0 +1,6 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 15:22:08", "File": "treee.ng3", "Camera": {"Position": {"x": 129.573, "y": -152.844, "z": 175.735}, "Direction": {"x": -0.486, "y": 0.573, "z": -0.659}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 15:22:37", "File": "treee.ng3", "Camera": {"Position": {"x": -163.698, "y": -149.165, "z": 148.277}, "Direction": {"x": 0.614, "y": 0.56, "z": -0.556}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 15:22:46", "File": "treee.ng3", "Camera": {"Position": {"x": -188.391, "y": -124.502, "z": 141.567}, "Direction": {"x": 0.707, "y": 0.467, "z": -0.531}, "Mode": "Rotate"}}]
+}
