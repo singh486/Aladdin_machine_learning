@@ -77,8 +77,12 @@ def parse_dataframe():
                             if subitem in cDictionary:
                                 cDictionary[subitem] = cDictionary[subitem] + 1
                             if subitem == 'EnergyAnnualAnalysis':
+                                # total[filepath].append(
+                                #     item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
+
+                                # Update to the correct total energy value
                                 total[filepath].append(
-                                    item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
+                                    item['EnergyAnnualAnalysis']['Net']["Total"])
 
                 
     
@@ -107,7 +111,8 @@ def parse_dataframe():
             action_df = action_df.drop(key)
             # last_energy_total.append(-1)
         else:
-            last_energy_total.append(temp_list[-1 + len(temp_list)])
+            # last_energy_total.append(temp_list[-1 + len(temp_list)])
+            last_energy_total.append(temp_list[0])
     
     action_df['Last Energy Total'] = last_energy_total
 
