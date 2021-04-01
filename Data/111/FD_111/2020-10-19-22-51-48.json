@@ -1,5 +1,5 @@
 {
 "Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-19 22:52:05", "File": "Energy3Dproject%232.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 34, "Coordinates": [{"x": ?, "y": ?, "z": ?}]}},
+{"Timestamp": "2020-10-19 22:52:05", "File": "Energy3Dproject%232.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 34, "Coordinates": [{"x": 0, "y": 0, "z": 0}]}},
 {"Timestamp": "2020-10-19 22:52:09", "File": "Energy3Dproject%232.ng3", "Camera": {"Position": {"x": 16.311, "y": -145.516, "z": 116.072}, "Direction": {"x": -0.087, "y": 0.779, "z": -0.621}, "Mode": "Zoom"}}]
 }

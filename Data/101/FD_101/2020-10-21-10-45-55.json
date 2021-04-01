@@ -23,8 +23,8 @@
 , "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.00215,0.15191,0.39967,0.59026,0.72013,0.78882,0.79644,0.74304,0.62845,0.45297,0.21779,0.01503,0,0,0,0,0,0]
 , "Total": 5.51}}, "Solar Potential": [{"Building": 2, "Daily": 552.14}]},
 {"Timestamp": "2020-10-21 10:47:21", "File": "Energy%20Design%20Project.ng3", "Change City": {"Old City": "Boston, MA", "New City": "N'Djamena, Chad"}},
-{"Timestamp": "2020-10-21 10:47:25", "File": "Energy%20Design%20Project.ng3", "Change City": {"Old City": "N'Djamena, Chad", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-21 10:47:25", "File": "Energy%20Design%20Project.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-21 10:47:25", "File": "Energy%20Design%20Project.ng3", "Change City": {"Old City": "N'Djamena, Chad", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-21 10:47:25", "File": "Energy%20Design%20Project.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-21 10:47:31", "File": "Energy%20Design%20Project.ng3", "Graph Tab": "Cost"},
 {"Timestamp": "2020-10-21 10:47:32", "File": "Energy%20Design%20Project.ng3", "Graph Tab": "Energy"},
 {"Timestamp": "2020-10-21 10:47:33", "File": "Energy%20Design%20Project.ng3", "Animate Sun": false},

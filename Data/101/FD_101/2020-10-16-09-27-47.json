@@ -1,7 +1,7 @@
 {
 "Version": "8.7.4","Activities": [
 {"Timestamp": "2020-10-16 09:30:07", "File": "Energy%203D%20Small%20design%20exercise%20(week%208).ng3", "Save": "file:/C:/Users/X/Documents/ENGT%20180%20Assignments/Energy%203D%20Small%20design%20exercise%20(week%208).ng3*"},
-{"Timestamp": "2020-10-16 09:33:58", "File": "Energy%203D%20Small%20design%20exercise%20(week%208).ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-16 09:33:58", "File": "Energy%203D%20Small%20design%20exercise%20(week%208).ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-16 09:34:05", "File": "Energy%203D%20Small%20design%20exercise%20(week%208).ng3", "Show Heliodon": true},
 {"Timestamp": "2020-10-16 09:34:07", "File": "Energy%203D%20Small%20design%20exercise%20(week%208).ng3", "Animate Sun": true},
 {"Timestamp": "2020-10-16 09:34:10", "File": "Energy%203D%20Small%20design%20exercise%20(week%208).ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [0.37537,0.36662,0.34844,0.32208,0.28933,0.25243,0.20016,0.01348,0,0,0,0,0,0,0,0,0,0.15655,0.24285,0.2804,0.31441,0.34256,0.36292,0.37411]

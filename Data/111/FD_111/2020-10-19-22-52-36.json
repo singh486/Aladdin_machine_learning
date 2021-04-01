@@ -21,5 +21,5 @@
 {"Timestamp": "2020-10-19 22:53:48", "File": "Energy3Dproject%232.ng3", "Camera": {"Position": {"x": -37.014, "y": -160.161, "z": 88.8}, "Direction": {"x": 0.198, "y": 0.857, "z": -0.475}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-19 22:53:49", "File": "Energy3Dproject%232.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 31, "Coordinates": [{"x": 17.5, "y": -45, "z": 1}, {"x": 17.5, "y": -45, "z": 26}, {"x": 10, "y": -35, "z": 1}, {"x": 10, "y": -35, "z": 26}]}},
 {"Timestamp": "2020-10-19 22:53:51", "File": "Energy3Dproject%232.ng3", "Camera": {"Position": {"x": 41.924, "y": -141.508, "z": 114.601}, "Direction": {"x": -0.224, "y": 0.758, "z": -0.613}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-19 22:53:55", "File": "Energy3Dproject%232.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 34, "Coordinates": [{"x": ?, "y": ?, "z": ?}]}}]
+{"Timestamp": "2020-10-19 22:53:55", "File": "Energy3Dproject%232.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 34, "Coordinates": [{"x": 0, "y": 0, "z": 0}]}}]
 }

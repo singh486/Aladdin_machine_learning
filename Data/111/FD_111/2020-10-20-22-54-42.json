@@ -34,9 +34,9 @@
 , "Total": 85.36}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.4064,1.78534,2.99548,3.55279,4.10289,4.25338,4.08219,3.47778,2.49559,1.26051,0.06214,0,0,0,0,0,0]
 , "Total": 28.47}}, "Solar Potential": [{"Building": 2, "Daily": 2115.39}]},
 {"Timestamp": "2020-10-20 22:56:59", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Camera": {"Position": {"x": 154.308, "y": 6.978, "z": 104.312}, "Direction": {"x": -0.845, "y": 0.008, "z": -0.535}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-20 22:57:07", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-20 22:57:07", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-20 22:57:09", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Move": {"Part": 2, "Displacement": "(0.0, 5.0)"}},
-{"Timestamp": "2020-10-20 22:57:15", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Frankfort, KY"}},
+{"Timestamp": "2020-10-20 22:57:15", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Frankfort, KY"}},
 {"Timestamp": "2020-10-20 22:57:18", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Show Shadow": true},
 {"Timestamp": "2020-10-20 22:57:18", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Show Shadow": false},
 {"Timestamp": "2020-10-20 22:57:25", "File": "Energy3Dproject%233%20higher%20roof%20test.ng3", "Change City": {"Old City": "Frankfort, KY", "New City": "Fort Wayne, IN"}},

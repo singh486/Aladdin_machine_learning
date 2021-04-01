@@ -675,9 +675,9 @@
 , "Total": 29.45}, "Windows": {"Hourly": [0,0,0,0,0,0,0,1.25273,3.34729,4.46587,5.00901,5.09229,4.9862,4.69762,4.07189,3.0642,1.47332,0.04759,0,0,0,0,0,0]
 , "Total": 37.51}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.47706,1.54502,2.44101,3.08994,3.43867,3.47761,3.20585,2.63037,1.78465,0.75113,0.02007,0,0,0,0,0,0]
 , "Total": 22.86}}, "Solar Potential": [{"Building": 2, "Daily": 945.43}]},
-{"Timestamp": "2020-10-30 13:08:51", "File": "HomeworkWk9_400kbudget.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-30 13:08:51", "File": "HomeworkWk9_400kbudget.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-30 13:08:51", "File": "HomeworkWk9_400kbudget.ng3", "Move": {"Part": 2, "Displacement": "(0.0, 5.0)"}},
-{"Timestamp": "2020-10-30 13:08:54", "File": "HomeworkWk9_400kbudget.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-30 13:08:54", "File": "HomeworkWk9_400kbudget.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-30 13:09:00", "File": "HomeworkWk9_400kbudget.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.64214,2.59216,2.48839,2.33792,2.15099,1.94035,1.72034,-0.22042,-1.62285,-2.49372,-3.11612,-3.44988,-3.48711,-3.22711,-2.67553,-1.85613,-0.70082,1.53695,1.88564,2.10001,2.29414,2.4548,2.57104,2.63494]
 , "Total": 8.5}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Heater": {"Hourly": [2.64214,2.59216,2.48839,2.33792,2.15099,1.94035,1.72034,0.35792,0,0,0,0,0,0,0,0,0.15555,1.57563,1.88564,2.10001,2.29414,2.4548,2.57104,2.63494]
