@@ -130,6 +130,9 @@ def linear_regression(action_df, total_df):
     plt.figure(figsize=(15,10))
     plt.tight_layout()
     seabornInstance.distplot(action_df['Last Energy Total'])
+    plt.title("Average Value of Last Energy Totals")
+    plt.ylabel("Density of Values")
+    plt.xlabel("Last Energy Total (kWh)")
     plt.show()
 
 
@@ -150,6 +153,9 @@ def linear_regression(action_df, total_df):
     df1.plot(kind='bar',figsize=(10,8))
     plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
     plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
+    plt.title("Actual and Predicted Last Energy Totals")
+    plt.xlabel("Last Energy Totals")
+    plt.ylabel("kWh")
     plt.show()
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
