@@ -99,6 +99,7 @@ def parse_dataframe():
     total_df = total_df.fillna(0)
 
     action_df = action_df.drop('Actions', 1)
+
     action_df = action_df.transpose()
     action_df.columns = mDictionary.keys()
 
@@ -116,6 +117,9 @@ def parse_dataframe():
     
     action_df['Last Energy Total'] = last_energy_total
 
+    # OPTIONAL: remove an action cateory
+    # action_df = action_df.drop(['Color'], 1)
+
     total_df = total_df.transpose()
 
     return action_df, total_df
@@ -123,9 +127,12 @@ def parse_dataframe():
 
 def linear_regression(action_df, total_df):
     cDictionary = count_dict()
-    mDictionary = merged_dict(cDictionary)
+    cols = list(merged_dict(cDictionary).keys())
 
-    X = action_df[mDictionary.keys()].values
+    # OPTIONAL: remove an action cateory
+    # cols.remove('Color')
+
+    X = action_df[cols].values
     y = action_df['Last Energy Total'].values
     plt.figure(figsize=(15,10))
     plt.tight_layout()
@@ -142,7 +149,7 @@ def linear_regression(action_df, total_df):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
     regressor = LinearRegression()  
     regressor.fit(X_train, y_train)
-    coeff_df = pd.DataFrame(regressor.coef_, mDictionary.keys(), columns=['Coefficient'])  
+    coeff_df = pd.DataFrame(regressor.coef_, cols, columns=['Coefficient'])  
     print(coeff_df)
 
     y_pred = regressor.predict(X_test)
@@ -166,5 +173,5 @@ if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
     action_df, total_df = parse_dataframe()
     print(action_df)
-    print(total_df)
+    # print(total_df)
     linear_regression(action_df, total_df)
