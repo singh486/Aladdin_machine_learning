@@ -1,0 +1,6 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 22:50:25", "File": "X_smalldesign.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-22 22:50:29", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": 116.418, "y": -126.976, "z": 98.659}, "Direction": {"x": -0.579, "y": 0.65, "z": -0.493}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 22:50:29", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": 106.689, "y": -144.664, "z": 83.542}, "Direction": {"x": -0.531, "y": 0.738, "z": -0.417}, "Mode": "Rotate"}}]
+}

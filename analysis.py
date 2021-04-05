@@ -77,8 +77,12 @@ def parse_dataframe():
                             if subitem in cDictionary:
                                 cDictionary[subitem] = cDictionary[subitem] + 1
                             if subitem == 'EnergyAnnualAnalysis':
+                                # total[filepath].append(
+                                #     item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
+
+                                # Update to the correct total energy value
                                 total[filepath].append(
-                                    item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
+                                    item['EnergyAnnualAnalysis']['Net']["Total"])
 
                 
     
@@ -95,6 +99,7 @@ def parse_dataframe():
     total_df = total_df.fillna(0)
 
     action_df = action_df.drop('Actions', 1)
+
     action_df = action_df.transpose()
     action_df.columns = mDictionary.keys()
 
@@ -107,9 +112,13 @@ def parse_dataframe():
             action_df = action_df.drop(key)
             # last_energy_total.append(-1)
         else:
-            last_energy_total.append(temp_list[-1 + len(temp_list)])
+            # last_energy_total.append(temp_list[-1 + len(temp_list)])
+            last_energy_total.append(temp_list[0])
     
     action_df['Last Energy Total'] = last_energy_total
+
+    # OPTIONAL: remove an action cateory
+    # action_df = action_df.drop(['Color'], 1)
 
     total_df = total_df.transpose()
 
@@ -118,13 +127,19 @@ def parse_dataframe():
 
 def linear_regression(action_df, total_df):
     cDictionary = count_dict()
-    mDictionary = merged_dict(cDictionary)
+    cols = list(merged_dict(cDictionary).keys())
 
-    X = action_df[mDictionary.keys()].values
+    # OPTIONAL: remove an action cateory
+    # cols.remove('Color')
+
+    X = action_df[cols].values
     y = action_df['Last Energy Total'].values
     plt.figure(figsize=(15,10))
     plt.tight_layout()
     seabornInstance.distplot(action_df['Last Energy Total'])
+    plt.title("Average Value of Last Energy Totals")
+    plt.ylabel("Density of Values")
+    plt.xlabel("Last Energy Total (kWh)")
     plt.show()
 
 
@@ -134,7 +149,7 @@ def linear_regression(action_df, total_df):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
     regressor = LinearRegression()  
     regressor.fit(X_train, y_train)
-    coeff_df = pd.DataFrame(regressor.coef_, mDictionary.keys(), columns=['Coefficient'])  
+    coeff_df = pd.DataFrame(regressor.coef_, cols, columns=['Coefficient'])  
     print(coeff_df)
 
     y_pred = regressor.predict(X_test)
@@ -145,6 +160,9 @@ def linear_regression(action_df, total_df):
     df1.plot(kind='bar',figsize=(10,8))
     plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
     plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
+    plt.title("Actual and Predicted Last Energy Totals")
+    plt.xlabel("Last Energy Totals")
+    plt.ylabel("kWh")
     plt.show()
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
@@ -155,5 +173,5 @@ if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
     action_df, total_df = parse_dataframe()
     print(action_df)
-    print(total_df)
+    # print(total_df)
     linear_regression(action_df, total_df)

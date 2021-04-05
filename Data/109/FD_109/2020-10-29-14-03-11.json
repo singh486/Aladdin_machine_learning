@@ -1,0 +1,21 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 14:03:29", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -123.921, "y": -78.444, "z": 21.906}, "Direction": {"x": 0.835, "y": 0.531, "z": -0.143}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:03:29", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -87.912, "y": 98.462, "z": 69.053}, "Direction": {"x": 0.593, "y": -0.661, "z": -0.46}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:03:31", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -120.409, "y": -44.449, "z": 74.915}, "Direction": {"x": 0.812, "y": 0.302, "z": -0.5}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:03:32", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -30.718, "y": -113.447, "z": 90.963}, "Direction": {"x": 0.208, "y": 0.766, "z": -0.608}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:03:46", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -118.627, "y": -2.113, "z": 89.779}, "Direction": {"x": 0.8, "y": 0.017, "z": -0.6}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:03:51", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -141.67, "y": -5.432, "z": 44.345}, "Direction": {"x": 0.955, "y": 0.039, "z": -0.294}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:03:57", "File": "X_designproject.ng3", "Edit PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 92, "Coordinates": [{"x": 1.154, "y": -1.217, "z": 41}]}},
+{"Timestamp": "2020-10-29 14:03:58", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -48.302, "y": -115.897, "z": 79.37}, "Direction": {"x": 0.326, "y": 0.783, "z": -0.53}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:03:59", "File": "X_designproject.ng3", "Camera": {"Position": {"x": 40.357, "y": -108.059, "z": 93.883}, "Direction": {"x": -0.271, "y": 0.73, "z": -0.628}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:04:00", "File": "X_designproject.ng3", "Camera": {"Position": {"x": 125.363, "y": -66.548, "z": 44.345}, "Direction": {"x": -0.843, "y": 0.45, "z": -0.294}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:04:05", "File": "X_designproject.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-29 14:04:18", "File": "X_designproject.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-29 14:04:39", "File": "X_designproject.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [45.14,28.21,2.22,-18.03,-12.23,-13.02,-13.77,-17.99,-8,6.03,35.13,53.94]
+, "Total": 2665.8}, "AC": {"Monthly": [0,0,0,0,27.16,40.25,39.96,30.86,13.49,0,0,0]
+, "Total": 4614.67}, "Heater": {"Monthly": [66.1,53.93,37.01,23.62,11.34,0,0,0,18.83,36.59,51.43,68.37]
+, "Total": 11169.6}, "Windows": {"Monthly": [29.48,30.6,34.29,17.85,23.43,25.81,25.45,22.28,17.93,14.16,24.61,21.92]
+, "Total": 8754.33}, "Solar Panels": {"Monthly": [20.96,25.72,34.79,41.66,50.73,53.27,53.73,48.85,40.32,30.55,16.3,14.43]
+, "Total": 13118.47}}}]
+}

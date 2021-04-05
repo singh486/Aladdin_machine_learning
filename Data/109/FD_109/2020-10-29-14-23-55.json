@@ -1,0 +1,11 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 14:24:09", "File": "X_designproject.ng3", "Camera": {"Position": {"x": 134.928, "y": -44.217, "z": 44.879}, "Direction": {"x": -0.906, "y": 0.301, "z": -0.299}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:24:14", "File": "X_designproject.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-29 14:24:16", "File": "X_designproject.ng3", "Camera": {"Position": {"x": -42.734, "y": -99.231, "z": 102.265}, "Direction": {"x": 0.287, "y": 0.67, "z": -0.684}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:24:19", "File": "X_designproject.ng3", "Camera": {"Position": {"x": 145.686, "y": -30.564, "z": 0.892}, "Direction": {"x": -0.978, "y": 0.209, "z": -0.003}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:24:22", "File": "X_designproject.ng3", "Camera": {"Position": {"x": 45.63, "y": -68.205, "z": 124.342}, "Direction": {"x": -0.306, "y": 0.462, "z": -0.832}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:24:24", "File": "X_designproject.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 115, "Coordinates": [{"x": 36.146, "y": -19.039, "z": 32.668}]}},
+{"Timestamp": "2020-10-29 14:24:24", "File": "X_designproject.ng3", "Camera": {"Position": {"x": 37.477, "y": -68.717, "z": 126.762}, "Direction": {"x": -0.251, "y": 0.465, "z": -0.849}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 14:24:29", "File": "X_designproject.ng3", "Camera": {"Position": {"x": 39.727, "y": -87.049, "z": 114.054}, "Direction": {"x": -0.266, "y": 0.589, "z": -0.763}, "Mode": "Rotate"}}]
+}

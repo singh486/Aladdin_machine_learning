@@ -1,0 +1,24 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 14:50:22", "File": "@apple-headquarters.ng3", "Show Annotation": true},
+{"Timestamp": "2020-10-21 14:50:28", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -2558.35, "y": -2400.306, "z": 1020.542}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:28", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -2374.663, "y": -2225.287, "z": 925.048}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:28", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -2076.027, "y": -1940.742, "z": 769.795}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:29", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -1655.58, "y": -1540.133, "z": 551.215}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:29", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -1522.878, "y": -1413.693, "z": 482.227}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:29", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -1364.682, "y": -1262.962, "z": 399.986}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:29", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -1232.232, "y": -1136.761, "z": 331.128}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:30", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -1137.427, "y": -1046.43, "z": 281.842}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:31", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -1046.258, "y": -959.562, "z": 234.445}, "Direction": {"x": 0.678, "y": 0.646, "z": -0.352}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:33", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -235.973, "y": -898.297, "z": 666.108}, "Direction": {"x": 0.129, "y": 0.674, "z": -0.728}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 14:50:33", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -241.578, "y": -927.515, "z": 697.673}, "Direction": {"x": 0.129, "y": 0.674, "z": -0.728}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:33", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -304.654, "y": -1256.277, "z": 1052.846}, "Direction": {"x": 0.129, "y": 0.674, "z": -0.728}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:34", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -414.86, "y": -1830.684, "z": 1673.397}, "Direction": {"x": 0.129, "y": 0.674, "z": -0.728}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:34", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -535.745, "y": -2460.754, "z": 2354.083}, "Direction": {"x": 0.129, "y": 0.674, "z": -0.728}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:36", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": 25.189, "y": -3394.4, "z": 1242.054}, "Direction": {"x": -0.033, "y": 0.919, "z": -0.394}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 14:50:44", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": 400.481, "y": 481.478, "z": 3.393}, "Direction": {"x": 0.121, "y": 0.877, "z": -0.464}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 14:50:49", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": -1924.119, "y": -7471.93, "z": 3128.405}, "Direction": {"x": 0.263, "y": 0.898, "z": -0.353}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:53", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": 179.632, "y": -274.464, "z": 300.498}, "Direction": {"x": 0.263, "y": 0.898, "z": -0.353}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:55", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": 194.227, "y": -224.528, "z": 280.878}, "Direction": {"x": 0.263, "y": 0.898, "z": -0.353}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-21 14:50:58", "File": "@apple-headquarters.ng3", "Camera": {"Position": {"x": 558.905, "y": -78.794, "z": 364.26}, "Direction": {"x": -0.63, "y": 0.542, "z": -0.557}, "Mode": "Rotate"}}]
+}

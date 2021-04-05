@@ -1,0 +1,163 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 10:52:30", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Save": "file:/C:/Users/X/Documents/Purdue%20Stuffs/ENGT180/ENGT180%20HW9%20Energy%203D.ng3*"},
+{"Timestamp": "2020-10-30 12:27:33", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 7.279, "y": 105.684, "z": 20.18}, "Direction": {"x": -0.065, "y": -0.981, "z": -0.184}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:27:36", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 100.103, "y": -13.096, "z": 21.192}, "Direction": {"x": -0.966, "y": 0.172, "z": -0.194}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:27:42", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 12:27:45", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 12:27:47", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 19.882, "y": 104.323, "z": 18.658}, "Direction": {"x": -0.188, "y": -0.968, "z": -0.169}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:27:50", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 102.061, "y": -10.318, "z": 10.996}, "Direction": {"x": -0.985, "y": 0.145, "z": -0.095}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:27:58", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -0.256, "y": 98.915, "z": 42.779}, "Direction": {"x": 0.008, "y": -0.915, "z": -0.403}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:28:05", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 18, "Coordinates": [{"x": 12.825, "y": 21.2, "z": 19.222}]}},
+{"Timestamp": "2020-10-30 12:28:08", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 18, "Coordinates": [{"x": -0.136, "y": 21.2, "z": 19.222}]}},
+{"Timestamp": "2020-10-30 12:28:14", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 18, "Coordinates": [{"x": 0.037, "y": 21.2, "z": 19.222}]}},
+{"Timestamp": "2020-10-30 12:28:19", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 20, "Coordinates": [{"x": 2.512, "y": 14.187, "z": 23.118}]}},
+{"Timestamp": "2020-10-30 12:28:24", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 20, "Coordinates": [{"x": 0.083, "y": 14.187, "z": 23.118}]}},
+{"Timestamp": "2020-10-30 12:28:35", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 93.209, "y": -0.586, "z": 46.054}, "Direction": {"x": -0.899, "y": 0.05, "z": -0.435}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:28:41", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 24, "Coordinates": [{"x": 33.45, "y": -7.675, "z": 18.297}]}},
+{"Timestamp": "2020-10-30 12:28:45", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 24, "Coordinates": [{"x": 33.45, "y": -0.04, "z": 18.297}]}},
+{"Timestamp": "2020-10-30 12:28:53", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 26, "Coordinates": [{"x": 26.025, "y": -2.313, "z": 21.117}]}},
+{"Timestamp": "2020-10-30 12:28:56", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 26, "Coordinates": [{"x": 26.025, "y": 0.128, "z": 21.117}]}},
+{"Timestamp": "2020-10-30 12:29:01", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -93.852, "y": -0.682, "z": 42.307}, "Direction": {"x": 0.916, "y": 0.051, "z": -0.399}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:29:06", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 28, "Coordinates": [{"x": -33.375, "y": 7.587, "z": 18.326}]}},
+{"Timestamp": "2020-10-30 12:29:08", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -51.921, "y": 5.159, "z": 25.555}, "Direction": {"x": 0.921, "y": 0.129, "z": -0.368}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:29:08", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -62.332, "y": 3.702, "z": 29.712}, "Direction": {"x": 0.921, "y": 0.129, "z": -0.368}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:29:09", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -65.318, "y": 3.284, "z": 30.904}, "Direction": {"x": 0.921, "y": 0.129, "z": -0.368}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:29:09", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -77.248, "y": 1.615, "z": 35.667}, "Direction": {"x": 0.921, "y": 0.129, "z": -0.368}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:29:10", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -87.197, "y": 0.223, "z": 39.639}, "Direction": {"x": 0.921, "y": 0.129, "z": -0.368}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:29:10", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -100.57, "y": -1.648, "z": 44.978}, "Direction": {"x": 0.921, "y": 0.129, "z": -0.368}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:29:14", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 28, "Coordinates": [{"x": -33.375, "y": 0.048, "z": 18.326}]}},
+{"Timestamp": "2020-10-30 12:29:14", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -105.085, "y": -2.28, "z": 46.781}, "Direction": {"x": 0.921, "y": 0.129, "z": -0.368}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:29:27", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 30, "Coordinates": [{"x": -25.95, "y": 2.637, "z": 21.146}]}},
+{"Timestamp": "2020-10-30 12:29:31", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 30, "Coordinates": [{"x": -25.95, "y": -0.048, "z": 21.146}]}},
+{"Timestamp": "2020-10-30 12:29:34", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 2.02, "y": 125.145, "z": 28.07}, "Direction": {"x": -0.01, "y": -0.979, "z": -0.205}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:29:48", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [36.14,31.59,11.37,-17.09,-37.05,-36.5,-35.07,-31.72,-20.92,-10.62,9.47,29.39]
+, "Total": -2160.04}, "AC": {"Monthly": [0,0,0,0,4.16,16.52,25.4,21.09,15.68,4.7,0,0]
+, "Total": 2663.13}, "Heater": {"Monthly": [48.06,46.98,36.77,22.91,11.98,6.69,0,0,4.86,12.25,22.34,38.72]
+, "Total": 7651.94}, "Windows": {"Monthly": [3.97,4.52,6.1,8.15,11.01,13.78,14.49,11.73,8.78,6.63,3.76,3.1]
+, "Total": 2921.08}, "Solar Panels": {"Monthly": [11.92,15.39,25.41,40,53.19,59.71,60.47,52.81,41.45,27.57,12.88,9.33]
+, "Total": 12475.11}}},
+{"Timestamp": "2020-10-30 12:30:11", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 29.901, "y": 121.583, "z": 26.943}, "Direction": {"x": -0.252, "y": -0.948, "z": -0.195}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:30:12", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 29.602, "y": 121.663, "z": 26.943}, "Direction": {"x": -0.252, "y": -0.948, "z": -0.195}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 12:30:18", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 29.56, "y": 121.505, "z": 27.766}, "Direction": {"x": -0.252, "y": -0.948, "z": -0.195}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 12:30:30", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Set Texture for Foundations": null},
+{"Timestamp": "2020-10-30 12:30:31", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Set Texture for Foundations": null},
+{"Timestamp": "2020-10-30 12:30:37", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Set Texture for Foundations": null},
+{"Timestamp": "2020-10-30 12:30:38", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Set Texture for Foundations": null},
+{"Timestamp": "2020-10-30 12:30:38", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 77.368, "y": 72.793, "z": 66.075}, "Direction": {"x": -0.668, "y": -0.524, "z": -0.528}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:30:39", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 77.301, "y": 74.28, "z": 64.682}, "Direction": {"x": -0.668, "y": -0.524, "z": -0.528}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 12:30:48", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Set Texture for All Roofs on Selected Foundation": null},
+{"Timestamp": "2020-10-30 12:30:49", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Set Texture for All Roofs on Selected Foundation": null},
+{"Timestamp": "2020-10-30 12:30:56", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -1.721, "y": 124.292, "z": 36.424}, "Direction": {"x": 0.019, "y": -0.959, "z": -0.283}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:31:42", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [35.12,30.45,9.9,-17.67,-33.93,-33.58,-33.03,-29.79,-19.13,-8.52,8.8,28.59]
+, "Total": -1909.98}, "AC": {"Monthly": [0,0,0,0,7.33,19.44,27.44,23.03,17.46,6.87,0,0]
+, "Total": 3089.4}, "Heater": {"Monthly": [47.04,45.84,35.31,22.33,11.93,6.69,0,0,4.86,12.18,21.68,37.92]
+, "Total": 7475.73}, "Windows": {"Monthly": [3.97,4.52,6.1,8.15,11.01,13.78,14.49,11.73,8.78,6.63,3.76,3.1]
+, "Total": 2921.08}, "Solar Panels": {"Monthly": [11.92,15.39,25.41,40,53.19,59.71,60.47,52.81,41.45,27.57,12.88,9.33]
+, "Total": 12475.11}}},
+{"Timestamp": "2020-10-30 12:31:56", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [35.12,30.45,9.9,-17.67,-33.93,-33.58,-33.03,-29.79,-19.13,-8.52,8.8,28.59]
+, "Total": -1909.98}, "AC": {"Monthly": [0,0,0,0,7.33,19.44,27.44,23.03,17.46,6.87,0,0]
+, "Total": 3089.4}, "Heater": {"Monthly": [47.04,45.84,35.31,22.33,11.93,6.69,0,0,4.86,12.18,21.68,37.92]
+, "Total": 7475.73}, "Windows": {"Monthly": [3.97,4.52,6.1,8.15,11.01,13.78,14.49,11.73,8.78,6.63,3.76,3.1]
+, "Total": 2921.08}, "Solar Panels": {"Monthly": [11.92,15.39,25.41,40,53.19,59.71,60.47,52.81,41.45,27.57,12.88,9.33]
+, "Total": 12475.11}}},
+{"Timestamp": "2020-10-30 12:32:02", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -0.067, "y": 124.474, "z": 35.872}, "Direction": {"x": 0.005, "y": -0.961, "z": -0.278}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:33:06", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -0.069, "y": 125.091, "z": 33.655}, "Direction": {"x": 0.005, "y": -0.966, "z": -0.259}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:34:13", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -2.824, "y": 124.265, "z": 36.424}, "Direction": {"x": 0.029, "y": -0.959, "z": -0.283}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:34:14", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 3.76, "y": 123.059, "z": 40.266}, "Direction": {"x": -0.029, "y": -0.948, "z": -0.316}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:41:08", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -25.186, "y": 123.599, "z": 27.5}, "Direction": {"x": 0.223, "y": -0.953, "z": -0.205}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:41:10", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 12:41:18", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -35.743, "y": 121.48, "z": 22.979}, "Direction": {"x": 0.315, "y": -0.935, "z": -0.166}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:41:39", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 30.558, "y": 100.346, "z": 73.675}, "Direction": {"x": -0.262, "y": -0.751, "z": -0.606}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:41:41", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -20.164, "y": 113.264, "z": 58.209}, "Direction": {"x": 0.179, "y": -0.863, "z": -0.472}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:42:06", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -0.662, "y": 128.815, "z": 10.408}, "Direction": {"x": 0.01, "y": -0.998, "z": -0.056}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:42:06", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -3.531, "y": 128.717, "z": 10.982}, "Direction": {"x": 0.035, "y": -0.998, "z": -0.061}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:42:08", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -2.951, "y": 128.523, "z": 13.851}, "Direction": {"x": 0.03, "y": -0.996, "z": -0.086}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:43:07", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -13.062, "y": 117.578, "z": 52.029}, "Direction": {"x": 0.118, "y": -0.901, "z": -0.418}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:49:15", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -4.679, "y": 128.671, "z": 10.982}, "Direction": {"x": 0.045, "y": -0.997, "z": -0.061}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:49:20", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 1.056, "y": 127.852, "z": 20.136}, "Direction": {"x": -0.005, "y": -0.99, "z": -0.141}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:49:24", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-30 12:49:28", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -34.167, "y": 120.304, "z": 30.868}, "Direction": {"x": 0.301, "y": -0.924, "z": -0.234}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:49:37", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Rotate Building": {"Building": 2, "Angle": 180.0}},
+{"Timestamp": "2020-10-30 12:49:40", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -46.162, "y": 113.044, "z": 39.172}, "Direction": {"x": 0.405, "y": -0.861, "z": -0.307}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:49:43", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -9.796, "y": 41.055, "z": 11.145}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:43", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -13.469, "y": 48.32, "z": 13.977}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:43", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -13.921, "y": 49.215, "z": 14.326}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:44", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -17.519, "y": 56.331, "z": 17.099}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:44", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -22.256, "y": 65.701, "z": 20.75}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:45", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -28.373, "y": 77.8, "z": 25.465}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:45", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -30.944, "y": 82.886, "z": 27.447}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:45", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -34.779, "y": 90.472, "z": 30.404}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:46", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -38.59, "y": 98.011, "z": 33.342}, "Direction": {"x": 0.426, "y": -0.843, "z": -0.328}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:49:51", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 7.01, "y": -103.607, "z": 47.453}, "Direction": {"x": 0.012, "y": 0.907, "z": -0.421}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:49:58", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 12:50:05", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [17.1,11.67,-5.98,-26.72,-29.01,-31.44,-33.41,-26.83,-12.59,-3.54,-0.33,14.89]
+, "Total": -3838.52}, "AC": {"Monthly": [0,0,0,0,16.43,22.88,28.08,29.24,30.94,21.41,0,0]
+, "Total": 4531.69}, "Heater": {"Monthly": [37.89,36.84,29.84,21.57,12.35,6.86,0,0,4.86,12.04,20.08,31.13]
+, "Total": 6492.89}, "Windows": {"Monthly": [19.53,20.69,23.6,23.15,19.68,15.12,15.07,18,22.39,23.8,16.66,15.12]
+, "Total": 7081.65}, "Solar Panels": {"Monthly": [20.8,25.16,35.83,48.3,57.79,61.18,61.49,56.08,48.39,36.99,20.41,16.24]
+, "Total": 14863.1}}},
+{"Timestamp": "2020-10-30 12:50:22", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 0.006, "y": -110.109, "z": 28.943}, "Direction": {"x": 0.071, "y": 0.961, "z": -0.266}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:50:31", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 7.521, "y": -107.293, "z": 38.619}, "Direction": {"x": 0.008, "y": 0.938, "z": -0.347}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:50:47", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-30 12:50:54", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 1.771, "y": -109.563, "z": 31.243}, "Direction": {"x": 0.056, "y": 0.957, "z": -0.286}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:51:05", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Tree": {"Species": "Dogwood", "ID": 35, "Coordinates": [{"x": -20, "y": -50, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:51:08", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 12.684, "y": -110.343, "z": 28.943}, "Direction": {"x": -0.035, "y": 0.963, "z": -0.266}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:51:17", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Tree": {"Species": "Dogwood", "ID": 36, "Coordinates": [{"x": 21, "y": -49, "z": -0}]}},
+{"Timestamp": "2020-10-30 12:51:18", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -11.042, "y": -97.397, "z": 55.965}, "Direction": {"x": 0.163, "y": 0.855, "z": -0.492}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:51:33", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [17.21,11.98,-5.98,-26.72,-29.09,-31.44,-33.41,-26.83,-16.15,-11.08,3.12,14.99]
+, "Total": -4057.9}, "AC": {"Monthly": [0,0,0,0,16.35,22.88,28.08,29.24,27.38,12.58,0,0]
+, "Total": 4152.12}, "Heater": {"Monthly": [38.01,37.15,29.85,21.57,12.35,6.86,0,0,4.86,12.04,20.38,31.23]
+, "Total": 6518.17}, "Windows": {"Monthly": [18.51,20.07,23.59,23.15,19.6,15.12,15.07,18,18.87,14.85,9.08,14.42]
+, "Total": 6397.41}, "Solar Panels": {"Monthly": [20.8,25.16,35.83,48.3,57.79,61.18,61.49,56.08,48.39,35.7,17.27,16.24]
+, "Total": 14728.19}}},
+{"Timestamp": "2020-10-30 12:51:59", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -11.189, "y": -98.17, "z": 56.41}, "Direction": {"x": 0.163, "y": 0.855, "z": -0.492}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:51:59", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -11.922, "y": -102.011, "z": 58.622}, "Direction": {"x": 0.163, "y": 0.855, "z": -0.492}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:52:01", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 62.677, "y": -89.79, "z": 33.327}, "Direction": {"x": -0.504, "y": 0.81, "z": -0.3}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:52:03", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 36, "Coordinates": [{"x": 21, "y": -49, "z": -0}]}},
+{"Timestamp": "2020-10-30 12:52:04", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 35, "Coordinates": [{"x": -20, "y": -50, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:52:05", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 4.88, "y": -106.792, "z": 29.113}, "Direction": {"x": 0.023, "y": 0.965, "z": -0.262}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:52:16", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [17.1,11.67,-5.98,-26.72,-29.01,-31.44,-33.41,-26.83,-12.59,-3.54,-0.33,14.89]
+, "Total": -3838.52}, "AC": {"Monthly": [0,0,0,0,16.43,22.88,28.08,29.24,30.94,21.41,0,0]
+, "Total": 4531.69}, "Heater": {"Monthly": [37.89,36.84,29.84,21.57,12.35,6.86,0,0,4.86,12.04,20.08,31.13]
+, "Total": 6492.89}, "Windows": {"Monthly": [19.53,20.69,23.6,23.15,19.68,15.12,15.07,18,22.39,23.8,16.66,15.12]
+, "Total": 7081.65}, "Solar Panels": {"Monthly": [20.8,25.16,35.83,48.3,57.79,61.18,61.49,56.08,48.39,36.99,20.41,16.24]
+, "Total": 14863.1}}},
+{"Timestamp": "2020-10-30 12:52:24", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 9.177, "y": -110.4, "z": 7.494}, "Direction": {"x": -0.016, "y": 0.998, "z": -0.065}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:52:25", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-30 12:52:27", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 4.005, "y": -101.284, "z": 44.622}, "Direction": {"x": 0.031, "y": 0.915, "z": -0.403}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:52:27", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-30 12:52:40", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [17.1,11.67,-5.98,-26.72,-29.01,-31.44,-33.41,-26.83,-12.59,-3.54,-0.33,14.89]
+, "Total": -3838.52}, "AC": {"Monthly": [0,0,0,0,16.43,22.88,28.08,29.24,30.94,21.41,0,0]
+, "Total": 4531.69}, "Heater": {"Monthly": [37.89,36.84,29.84,21.57,12.35,6.86,0,0,4.86,12.04,20.08,31.13]
+, "Total": 6492.89}, "Windows": {"Monthly": [19.53,20.69,23.6,23.15,19.68,15.12,15.07,18,22.39,23.8,16.66,15.12]
+, "Total": 7081.65}, "Solar Panels": {"Monthly": [20.8,25.16,35.83,48.3,57.79,61.18,61.49,56.08,48.39,36.99,20.41,16.24]
+, "Total": 14863.1}}},
+{"Timestamp": "2020-10-30 12:53:02", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": true}},
+{"Timestamp": "2020-10-30 12:53:08", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": false}},
+{"Timestamp": "2020-10-30 12:53:13", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 1.585, "y": -108.913, "z": 18.935}, "Direction": {"x": 0.053, "y": 0.984, "z": -0.169}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:53:21", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 12.408, "y": -98.628, "z": 50.077}, "Direction": {"x": -0.046, "y": 0.891, "z": -0.453}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:53:26", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-30 12:53:30", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 15.958, "y": -106.029, "z": 30.699}, "Direction": {"x": -0.078, "y": 0.958, "z": -0.276}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:53:38", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Tree": {"Species": "Dogwood", "ID": 38, "Coordinates": [{"x": -17, "y": -48, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:53:45", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Add Tree": {"Species": "Dogwood", "ID": 39, "Coordinates": [{"x": 16, "y": -46, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:53:46", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -23.124, "y": -87.501, "z": 60.522}, "Direction": {"x": 0.278, "y": 0.789, "z": -0.548}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:54:01", "File": "ENGT180%20HW9%20Energy%203D.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [17.23,11.99,-5.97,-26.72,-30.34,-31.44,-33.41,-27.23,-18.17,-9.58,4.07,15.03]
+, "Total": -4092.45}, "AC": {"Monthly": [0,0,0,0,15.1,22.88,28.08,28.84,25.36,11.57,0,0]
+, "Total": 4009.95}, "Heater": {"Monthly": [38.03,37.15,29.86,21.57,12.35,6.86,0,0,4.86,12.04,20.38,31.27]
+, "Total": 6520.34}, "Windows": {"Monthly": [18.11,19.67,23.52,23.15,18.37,15.12,15.07,17.6,16.89,13.8,8.67,14.05]
+, "Total": 6205.88}, "Solar Panels": {"Monthly": [20.8,25.16,35.83,48.3,57.79,61.18,61.49,56.08,48.39,33.19,16.31,16.24]
+, "Total": 14622.75}}},
+{"Timestamp": "2020-10-30 12:54:07", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 100.668, "y": -8.298, "z": 57.74}, "Direction": {"x": -0.85, "y": 0.068, "z": -0.522}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:54:13", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 9.566, "y": -103.005, "z": 40.569}, "Direction": {"x": -0.02, "y": 0.93, "z": -0.366}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:58:37", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 1.753, "y": -105.762, "z": 32.278}, "Direction": {"x": 0.051, "y": 0.956, "z": -0.29}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:58:41", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 4.887, "y": -106.5, "z": 30.171}, "Direction": {"x": 0.023, "y": 0.962, "z": -0.271}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:21:40", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 4.351, "y": -106.778, "z": 29.113}, "Direction": {"x": 0.028, "y": 0.965, "z": -0.262}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:40:31", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 19.122, "y": -101.307, "z": 43.11}, "Direction": {"x": -0.107, "y": 0.915, "z": -0.389}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:40:38", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 7.525, "y": -104.188, "z": 37.487}, "Direction": {"x": -0.001, "y": 0.941, "z": -0.338}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:41:36", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 14:41:58", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 14:42:28", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 21.055, "y": -104.353, "z": 34.372}, "Direction": {"x": -0.125, "y": 0.943, "z": -0.31}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:42:51", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": -63.057, "y": -47.256, "z": 70.662}, "Direction": {"x": 0.642, "y": 0.422, "z": -0.64}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:43:12", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 4.855, "y": -107.855, "z": 24.854}, "Direction": {"x": 0.023, "y": 0.975, "z": -0.223}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:43:15", "File": "ENGT180%20HW9%20Energy%203D.ng3", "Camera": {"Position": {"x": 0.307, "y": -107.588, "z": 25.555}, "Direction": {"x": 0.023, "y": 0.975, "z": -0.223}, "Mode": "Pan"}}]}
