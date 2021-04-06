@@ -118,7 +118,7 @@ def parse_dataframe():
     action_df['Last Energy Total'] = last_energy_total
 
     # OPTIONAL: remove an action cateory
-    action_df = action_df.drop(['Window'], 1)
+    # action_df = action_df.drop(['Window'], 1)
 
     total_df = total_df.transpose()
 
@@ -130,7 +130,7 @@ def linear_regression(action_df, total_df):
     cols = list(merged_dict(cDictionary).keys())
 
     # OPTIONAL: remove an action cateory
-    cols.remove('Window')
+    # cols.remove('Window')
 
     X = action_df[cols].values
     y = action_df['Last Energy Total'].values
@@ -140,7 +140,6 @@ def linear_regression(action_df, total_df):
     plt.ylabel("Density of Values", fontsize=15)
     plt.xlabel("Final Net Energy Total (kWh)", fontsize=15)
     plt.show()
-
 
     print(X.shape)
     print(y.shape)
