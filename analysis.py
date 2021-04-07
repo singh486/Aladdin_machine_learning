@@ -129,6 +129,9 @@ def linear_regression(action_df, total_df):
     cDictionary = count_dict()
     cols = list(merged_dict(cDictionary).keys())
 
+    # Cuztomize font size for all plots
+    plt.rcParams.update({'font.size': 15})
+
     # OPTIONAL: remove an action cateory
     # cols.remove('Window')
 
@@ -138,7 +141,7 @@ def linear_regression(action_df, total_df):
     plt.tight_layout()
     seabornInstance.distplot(action_df['Last Energy Total'])
     plt.ylabel("Density of Values", fontsize=15)
-    plt.xlabel("Final Net Energy Total (kWh)", fontsize=15)
+    plt.xlabel("Final Net Energy (kWh)", fontsize=15)
     plt.show()
 
     print(X.shape)
@@ -158,8 +161,13 @@ def linear_regression(action_df, total_df):
     df1.plot(kind='bar',figsize=(10,8))
     plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
     plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
-    plt.xlabel("Students", fontsize=15)
-    plt.ylabel("Final Net Energy Total (kWh)", fontsize=15)
+
+    custom_axis = list(range(1, len(df['Actual']) + 1))
+    old_axis = list(range(0, len(df['Actual']-1)))
+    plt.xticks(old_axis, custom_axis)
+
+    plt.xlabel("Randomly Selected Students", fontsize=15)
+    plt.ylabel("Final Net Energy (kWh)", fontsize=15)
     plt.show()
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
