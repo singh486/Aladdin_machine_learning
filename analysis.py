@@ -130,7 +130,7 @@ def linear_regression(action_df, total_df):
     cols = list(merged_dict(cDictionary).keys())
 
     # Cuztomize font size for all plots
-    plt.rcParams.update({'font.size': 15})
+    plt.rcParams.update({'font.size': 18})
 
     # OPTIONAL: remove an action cateory
     # cols.remove('Window')
@@ -140,12 +140,15 @@ def linear_regression(action_df, total_df):
     plt.figure(figsize=(15,10))
     plt.tight_layout()
     seabornInstance.distplot(action_df['Last Energy Total'])
-    plt.ylabel("Density of Values", fontsize=15)
-    plt.xlabel("Final Net Energy (kWh)", fontsize=15)
+    plt.ylabel("Density of Values", fontsize=18)
+    plt.xlabel("Final Net Energy (kWh)", fontsize=18)
     plt.show()
 
     print(X.shape)
     print(y.shape)
+
+    # Cuztomize font size for second plot
+    plt.rcParams.update({'font.size': 15})
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
     regressor = LinearRegression()  
