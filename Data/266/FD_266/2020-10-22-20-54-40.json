@@ -1,0 +1,27 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 20:54:50", "File": "Small%20Design.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-22 20:55:16", "File": "Small%20Design.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-22 20:58:51", "File": "Small%20Design.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [59.77,49.38,34.48,21.78,34.58,42.78,43.98,39.38,42.85,26.57,39.81,59.85]
+, "Total": 15063.04}, "AC": {"Monthly": [0,0,0,0,23.33,42.78,43.98,39.38,30.26,0,0,0]
+, "Total": 5467}, "Heater": {"Monthly": [59.77,49.38,34.48,21.78,11.24,0,0,0,12.6,26.57,39.81,59.85]
+, "Total": 9596.04}, "Windows": {"Monthly": [19.17,23.42,28.52,23.76,27.35,30.2,30.94,30.34,31.67,28.61,16.81,14.06]
+, "Total": 9272.47}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-22 20:59:45", "File": "Small%20Design.ng3", "Camera": {"Position": {"x": -169.388, "y": -64.321, "z": 108.538}, "Direction": {"x": 0.806, "y": 0.302, "z": -0.509}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 20:59:47", "File": "Small%20Design.ng3", "Remove Tree": {"Species": "Elm", "ID": 16, "Coordinates": [{"x": -54.537, "y": -21.994, "z": 0}]}},
+{"Timestamp": "2020-10-22 20:59:48", "File": "Small%20Design.ng3", "Remove Tree": {"Species": "Elm", "ID": 37, "Coordinates": [{"x": -53.82, "y": 3.174, "z": 0}]}},
+{"Timestamp": "2020-10-22 20:59:48", "File": "Small%20Design.ng3", "Remove Tree": {"Species": "Elm", "ID": 15, "Coordinates": [{"x": -53.409, "y": 26.668, "z": 0}]}},
+{"Timestamp": "2020-10-22 20:59:50", "File": "Small%20Design.ng3", "Camera": {"Position": {"x": 185.807, "y": 26.071, "z": 103.929}, "Direction": {"x": -0.864, "y": -0.123, "z": -0.488}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 20:59:51", "File": "Small%20Design.ng3", "Remove Tree": {"Species": "Elm", "ID": 38, "Coordinates": [{"x": 57.449, "y": 17.032, "z": -0}]}},
+{"Timestamp": "2020-10-22 20:59:51", "File": "Small%20Design.ng3", "Edit Tree": {"Species": "Elm", "ID": 14, "Coordinates": [{"x": 55.574, "y": -5.546, "z": 0}]}},
+{"Timestamp": "2020-10-22 20:59:51", "File": "Small%20Design.ng3", "Remove Tree": {"Species": "Elm", "ID": 14, "Coordinates": [{"x": 55.574, "y": -5.546, "z": 0}]}},
+{"Timestamp": "2020-10-22 20:59:52", "File": "Small%20Design.ng3", "Remove Tree": {"Species": "Elm", "ID": 13, "Coordinates": [{"x": 52.931, "y": -28.386, "z": 0}]}},
+{"Timestamp": "2020-10-22 20:59:54", "File": "Small%20Design.ng3", "Camera": {"Position": {"x": -28.258, "y": -190.669, "z": 89.726}, "Direction": {"x": 0.142, "y": 0.896, "z": -0.421}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 21:04:23", "File": "Small%20Design.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [59.35,49.14,34.43,21.64,39.81,49.5,51.08,46.55,49.72,26.44,39.62,59.56]
+, "Total": 16024.78}, "AC": {"Monthly": [0,0,0,0,28.58,49.5,51.08,46.55,37.14,0,0,0]
+, "Total": 6474.18}, "Heater": {"Monthly": [59.35,49.14,34.43,21.64,11.23,0,0,0,12.59,26.44,39.62,59.56]
+, "Total": 9550.6}, "Windows": {"Monthly": [19.56,23.96,29.17,28.91,33.08,36.23,37.25,36.78,38.14,31.89,17.16,14.33]
+, "Total": 10538.61}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}}]
+}

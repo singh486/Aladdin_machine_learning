@@ -1,0 +1,20 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 19:26:47", "File": "House.ng3", "Save": "file:/C:/Users/X/OneDrive/Desktop/ENGT%20180%203D/House.ng3*"},
+{"Timestamp": "2020-10-29 19:27:06", "File": "House.ng3", "Camera": {"Position": {"x": -142.483, "y": -70.256, "z": 139.288}, "Direction": {"x": 0.674, "y": 0.333, "z": -0.66}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 19:27:12", "File": "House.ng3", "Change Solar Heat Map Color Contrast": {"Old Value": 50, "New Value": 95}},
+{"Timestamp": "2020-10-29 19:27:15", "File": "House.ng3", "Change Solar Heat Map Color Contrast": {"Old Value": 95, "New Value": 58}},
+{"Timestamp": "2020-10-29 19:27:17", "File": "House.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-29 19:27:21", "File": "House.ng3", "Camera": {"Position": {"x": -145.441, "y": -71.718, "z": 142.183}, "Direction": {"x": 0.674, "y": 0.333, "z": -0.66}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 19:27:22", "File": "House.ng3", "Camera": {"Position": {"x": -159.856, "y": -78.843, "z": 156.291}, "Direction": {"x": 0.674, "y": 0.333, "z": -0.66}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 19:27:24", "File": "House.ng3", "Change Time and Date": {"Old Time": "22:11", "New Time": "2:41", "Old Date": "10/29", "New Date": "10/29"}},
+{"Timestamp": "2020-10-29 19:27:24", "File": "House.ng3", "Camera": {"Position": {"x": 53.247, "y": -240.473, "z": 152.792}, "Direction": {"x": -0.184, "y": 0.83, "z": -0.527}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 19:27:26", "File": "House.ng3", "Change Time and Date": {"Old Time": "5:29", "New Time": "5:37", "Old Date": "10/29", "New Date": "10/29"}},
+{"Timestamp": "2020-10-29 19:27:29", "File": "House.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-29 19:27:36", "File": "House.ng3", "Change Time and Date": {"Old Time": "0:33", "New Time": "0:47", "Old Date": "10/29", "New Date": "10/29"}},
+{"Timestamp": "2020-10-29 19:27:39", "File": "House.ng3", "Change Time and Date": {"Old Time": "6:24", "New Time": "6:34", "Old Date": "10/29", "New Date": "10/29"}},
+{"Timestamp": "2020-10-29 19:27:40", "File": "House.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-29 19:27:42", "File": "House.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-29 19:27:42", "File": "House.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-29 19:27:43", "File": "House.ng3", "Show Shadow": false}]
+}

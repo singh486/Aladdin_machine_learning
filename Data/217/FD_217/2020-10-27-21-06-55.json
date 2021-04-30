@@ -1,0 +1,18 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-27 21:42:48", "File": "X_netzero.ng3", "Save": "file:/C:/Users/X/Documents/Engt%20180/Week%208/X_netzero.ng3*"},
+{"Timestamp": "2020-10-27 21:42:57", "File": "X_netzero.ng3", "Camera": {"Position": {"x": -38.332, "y": -94.845, "z": 60.678}, "Direction": {"x": 0.251, "y": 0.846, "z": -0.47}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 22:01:50", "File": "X_netzero.ng3", "Camera": {"Position": {"x": 0.223, "y": -95.217, "z": 64.604}, "Direction": {"x": -0.135, "y": 0.85, "z": -0.509}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 22:01:51", "File": "X_netzero.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-27 22:01:58", "File": "X_netzero.ng3", "Camera": {"Position": {"x": 17.684, "y": -94.35, "z": 58.008}, "Direction": {"x": -0.309, "y": 0.841, "z": -0.443}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 22:02:01", "File": "X_netzero.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 26, "Coordinates": [{"x": -8, "y": -10, "z": 13}, {"x": -8, "y": -10, "z": 5}, {"x": -20, "y": -10, "z": 13}, {"x": -20, "y": -10, "z": 5}]}},
+{"Timestamp": "2020-10-27 22:02:05", "File": "X_netzero.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 27, "Coordinates": [{"x": 24, "y": -10, "z": 13}, {"x": 24, "y": -10, "z": 5}, {"x": 36, "y": -10, "z": 13}, {"x": 36, "y": -10, "z": 5}]}},
+{"Timestamp": "2020-10-27 22:02:18", "File": "X_netzero.ng3", "Camera": {"Position": {"x": -28.493, "y": -94.917, "z": 64.604}, "Direction": {"x": 0.152, "y": 0.847, "z": -0.509}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 22:02:21", "File": "X_netzero.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-27 22:02:21", "File": "X_netzero.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-27 22:02:35", "File": "X_netzero.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-27 22:02:39", "File": "X_netzero.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 34, "Coordinates": [{"x": 75, "y": 7, "z": -0}]}},
+{"Timestamp": "2020-10-27 22:02:54", "File": "X_netzero.ng3", "Camera": {"Position": {"x": 6.724, "y": -107.646, "z": 24.064}, "Direction": {"x": -0.2, "y": 0.974, "z": -0.104}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 22:03:01", "File": "X_netzero.ng3", "Camera": {"Position": {"x": -47.962, "y": -101.558, "z": 34.926}, "Direction": {"x": 0.347, "y": 0.914, "z": -0.212}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 22:09:33", "File": "X_netzero.ng3", "Camera": {"Position": {"x": -99.28, "y": -6.091, "z": 64.604}, "Direction": {"x": 0.86, "y": -0.041, "z": -0.509}, "Mode": "Rotate"}}]
+}

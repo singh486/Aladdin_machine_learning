@@ -1,0 +1,108 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 23:36:20", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 14.219, "y": -139.115, "z": 83.82}, "Direction": {"x": -0.087, "y": 0.853, "z": -0.514}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:36:51", "File": "X_smalldesign2.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 23:37:09", "File": "X_smalldesign2.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [29.55,17.82,1.04,-8.65,7.1,10.53,9.78,0.91,-2.53,0.01,21.3,39.17]
+, "Total": 3832.93}, "AC": {"Monthly": [0,0,0,0,26.34,39.15,40.07,34.94,14.18,0,0,0]
+, "Total": 4704.71}, "Heater": {"Monthly": [52.54,42.01,28.3,17.29,8.48,0,0,0,14.85,27.68,40.85,56.17]
+, "Total": 8765.38}, "Windows": {"Monthly": [18.88,20.4,23.27,22.32,27.67,29.7,30.43,30.11,25.52,22.05,16.38,13.85]
+, "Total": 8534.01}, "Solar Panels": {"Monthly": [22.99,24.19,27.27,25.94,27.73,28.62,30.28,34.04,31.57,27.67,19.55,17.01]
+, "Total": 9637.16}}},
+{"Timestamp": "2020-10-30 23:37:22", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 16.4, "y": -139.712, "z": 82.418}, "Direction": {"x": -0.101, "y": 0.857, "z": -0.506}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:37:25", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -154.932, "y": -31.834, "z": 39.542}, "Direction": {"x": 0.95, "y": 0.195, "z": -0.243}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:37:43", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 12.445, "y": -142.928, "z": 77.445}, "Direction": {"x": -0.076, "y": 0.877, "z": -0.475}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:37:51", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -162.935, "y": 0.902, "z": 5.702}, "Direction": {"x": 0.999, "y": -0.006, "z": -0.035}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:37:52", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 26.445, "y": -160.133, "z": 15.462}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:37:54", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 26.674, "y": -161.516, "z": 15.595}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:37:54", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 28.231, "y": -170.945, "z": 16.506}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:37:54", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 29.802, "y": -180.462, "z": 17.425}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:37:54", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 27.37, "y": -165.732, "z": 16.002}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:37:54", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 21.663, "y": -129.588, "z": 12.512}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:37:55", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 17.472, "y": -102.581, "z": 9.905}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:37:55", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 14.557, "y": -88.144, "z": 8.511}, "Direction": {"x": -0.162, "y": 0.982, "z": -0.095}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:37:56", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -30.886, "y": -52.553, "z": 29.444}, "Direction": {"x": 0.456, "y": 0.776, "z": -0.435}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:37:57", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -30.841, "y": -53.083, "z": 28.526}, "Direction": {"x": 0.456, "y": 0.784, "z": -0.421}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:37:59", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -14.343, "y": -63.74, "z": 17.729}, "Direction": {"x": 0.212, "y": 0.942, "z": -0.262}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:38:02", "File": "X_smalldesign2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 16, "Coordinates": [{"x": -29.845, "y": 10.936, "z": 13}, {"x": -29.845, "y": 10.936, "z": 7}, {"x": -15.845, "y": 10.936, "z": 13}, {"x": -15.845, "y": 10.936, "z": 7}]}},
+{"Timestamp": "2020-10-30 23:38:04", "File": "X_smalldesign2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 16, "Coordinates": [{"x": -29.845, "y": 10.936, "z": 13}, {"x": -29.845, "y": 10.936, "z": 9}, {"x": -19.845, "y": 10.936, "z": 13}, {"x": -19.845, "y": 10.936, "z": 9}]}},
+{"Timestamp": "2020-10-30 23:38:05", "File": "X_smalldesign2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 16, "Coordinates": [{"x": -29.845, "y": 10.936, "z": 13}, {"x": -29.845, "y": 10.936, "z": 7}, {"x": -19.845, "y": 10.936, "z": 13}, {"x": -19.845, "y": 10.936, "z": 7}]}},
+{"Timestamp": "2020-10-30 23:38:05", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -14.323, "y": -63.652, "z": 18.055}, "Direction": {"x": 0.212, "y": 0.94, "z": -0.267}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:38:06", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 24.702, "y": -61.192, "z": 15.102}, "Direction": {"x": -0.365, "y": 0.904, "z": -0.223}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:38:09", "File": "X_smalldesign2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 77, "Coordinates": [{"x": 22.655, "y": 10.936, "z": 13}, {"x": 22.655, "y": 10.936, "z": 7}, {"x": 34.655, "y": 10.936, "z": 13}, {"x": 34.655, "y": 10.936, "z": 7}]}},
+{"Timestamp": "2020-10-30 23:38:11", "File": "X_smalldesign2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 77, "Coordinates": [{"x": 22.655, "y": 10.936, "z": 13}, {"x": 22.655, "y": 10.936, "z": 7}, {"x": 30.655, "y": 10.936, "z": 13}, {"x": 30.655, "y": 10.936, "z": 7}]}},
+{"Timestamp": "2020-10-30 23:38:13", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 6.179, "y": -65.775, "z": 14.772}, "Direction": {"x": -0.091, "y": 0.972, "z": -0.218}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:38:15", "File": "X_smalldesign2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 77, "Coordinates": [{"x": 22.655, "y": 10.936, "z": 13}, {"x": 22.655, "y": 10.936, "z": 7}, {"x": 32.655, "y": 10.936, "z": 13}, {"x": 32.655, "y": 10.936, "z": 7}]}},
+{"Timestamp": "2020-10-30 23:38:26", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -1.466, "y": 66.397, "z": 13.116}, "Direction": {"x": 0.022, "y": -0.981, "z": -0.194}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:38:28", "File": "X_smalldesign2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 149, "Coordinates": [{"x": 7.942, "y": 40.72, "z": 13}, {"x": 7.942, "y": 40.72, "z": 7}, {"x": -8.058, "y": 40.72, "z": 13}, {"x": -8.058, "y": 40.72, "z": 7}]}},
+{"Timestamp": "2020-10-30 23:38:35", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -6.368, "y": -65.902, "z": 14.11}, "Direction": {"x": 0.094, "y": 0.974, "z": -0.208}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:38:57", "File": "X_smalldesign2.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [28.61,15.96,-0.82,-9.84,1.72,3.68,2.58,-5.97,-6.97,-1.94,19.33,37.67]
+, "Total": 2554.94}, "AC": {"Monthly": [0,0,0,0,21.58,32.3,32.86,28.06,10.84,0,0,0]
+, "Total": 3821.61}, "Heater": {"Monthly": [51.6,40.15,26.44,16.1,7.87,0,0,0,13.76,25.72,38.88,54.67]
+, "Total": 8370.49}, "Windows": {"Monthly": [13.69,14.96,17.44,17.41,21.61,23.22,23.76,23.39,19.66,16.62,11.88,10]
+, "Total": 6498.41}, "Solar Panels": {"Monthly": [22.99,24.19,27.27,25.94,27.73,28.62,30.28,34.04,31.57,27.67,19.55,17.01]
+, "Total": 9637.16}}},
+{"Timestamp": "2020-10-30 23:39:20", "File": "X_smalldesign2.ng3", "SHGC Change for Selected Window": {"Building": 2, "ID": 16, "Old Value": 0.5, "New Value": 0.39}},
+{"Timestamp": "2020-10-30 23:39:31", "File": "X_smalldesign2.ng3", "SHGC Change for All Windows of Selected Building": {"Building": 2, "New Value": 0.39}},
+{"Timestamp": "2020-10-30 23:40:04", "File": "X_smalldesign2.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [31.62,18.95,-0.04,-9.59,-1.7,-1.36,-2.64,-11,-9.16,-1.67,21.47,39.87]
+, "Total": 2274.21}, "AC": {"Monthly": [0,0,0,0,18.13,27.26,27.65,23.03,8.59,0,0,0]
+, "Total": 3183.12}, "Heater": {"Monthly": [54.61,43.14,27.23,16.35,7.9,0,0,0,13.82,26,41.02,56.87]
+, "Total": 8728.25}, "Windows": {"Monthly": [10.68,11.67,13.6,13.58,16.86,18.11,18.53,18.25,15.33,12.97,9.26,7.8]
+, "Total": 5068.76}, "Solar Panels": {"Monthly": [22.99,24.19,27.27,25.94,27.73,28.62,30.28,34.04,31.57,27.67,19.55,17.01]
+, "Total": 9637.16}}},
+{"Timestamp": "2020-10-30 23:40:25", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 0.311, "y": 65.674, "z": 16.419}, "Direction": {"x": -0.005, "y": -0.97, "z": -0.243}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:40:29", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 0.303, "y": 63.934, "z": 15.984}, "Direction": {"x": -0.005, "y": -0.97, "z": -0.243}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:40:29", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 0.266, "y": 56.134, "z": 14.034}, "Direction": {"x": -0.005, "y": -0.97, "z": -0.243}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:40:29", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 0.18, "y": 38.049, "z": 9.512}, "Direction": {"x": -0.005, "y": -0.97, "z": -0.243}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:40:30", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 0.276, "y": 58.143, "z": 14.536}, "Direction": {"x": -0.005, "y": -0.97, "z": -0.243}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:40:30", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 0.366, "y": 77.22, "z": 19.305}, "Direction": {"x": -0.005, "y": -0.97, "z": -0.243}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:40:30", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 0.537, "y": 113.251, "z": 28.313}, "Direction": {"x": -0.005, "y": -0.97, "z": -0.243}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:40:32", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 29.999, "y": -104.852, "z": 50.014}, "Direction": {"x": -0.25, "y": 0.874, "z": -0.417}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:41:08", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 15.275, "y": -109.45, "z": 46.72}, "Direction": {"x": -0.127, "y": 0.912, "z": -0.389}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:42:12", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 32.326, "y": 113.301, "z": 22.657}, "Direction": {"x": -0.269, "y": -0.944, "z": -0.189}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:42:15", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 32.916, "y": 115.37, "z": 23.071}, "Direction": {"x": -0.269, "y": -0.944, "z": -0.189}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:42:15", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 35.471, "y": 124.326, "z": 24.862}, "Direction": {"x": -0.269, "y": -0.944, "z": -0.189}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:42:16", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 39.078, "y": 136.968, "z": 27.39}, "Direction": {"x": -0.269, "y": -0.944, "z": -0.189}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:42:17", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 100.913, "y": 97.436, "z": 42.622}, "Direction": {"x": -0.688, "y": -0.665, "z": -0.291}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:42:39", "File": "X_smalldesign2.ng3", "BuildingCost": [{"Foundation": 2, "Amount": 195250.7063225347}]},
+{"Timestamp": "2020-10-30 23:42:42", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 142.79, "y": -14.634, "z": 29.841}, "Direction": {"x": -0.974, "y": 0.1, "z": -0.204}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:42:46", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -0.186, "y": -139.842, "z": 44.022}, "Direction": {"x": 0.001, "y": 0.954, "z": -0.3}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:42:49", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -0.184, "y": -138.489, "z": 43.596}, "Direction": {"x": 0.001, "y": 0.954, "z": -0.3}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:42:49", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -0.178, "y": -133.883, "z": 42.146}, "Direction": {"x": 0.001, "y": 0.954, "z": -0.3}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:42:49", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -0.177, "y": -132.95, "z": 41.853}, "Direction": {"x": 0.001, "y": 0.954, "z": -0.3}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:42:55", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 2.562, "y": -137.203, "z": 52.434}, "Direction": {"x": -0.017, "y": 0.934, "z": -0.357}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:43:07", "File": "X_smalldesign2.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-30 23:43:09", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 2.583, "y": -138.342, "z": 52.869}, "Direction": {"x": -0.017, "y": 0.934, "z": -0.357}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:43:09", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 2.828, "y": -152.432, "z": 58.254}, "Direction": {"x": -0.017, "y": 0.934, "z": -0.357}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:43:09", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 3.171, "y": -169.83, "z": 64.903}, "Direction": {"x": -0.017, "y": 0.934, "z": -0.357}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:43:10", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 3.77, "y": -201.928, "z": 77.17}, "Direction": {"x": -0.017, "y": 0.934, "z": -0.357}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 23:43:16", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -192.427, "y": 79.219, "z": 68.956}, "Direction": {"x": 0.878, "y": -0.361, "z": -0.315}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:43:22", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -110.646, "y": -168.392, "z": 86.374}, "Direction": {"x": 0.505, "y": 0.768, "z": -0.394}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:43:32", "File": "X_smalldesign2.ng3", "Change Time and Date": {"Old Time": "12:0", "New Time": "12:30", "Old Date": "12/28", "New Date": "12/21"}},
+{"Timestamp": "2020-10-30 23:43:42", "File": "X_smalldesign2.ng3", "Change Time and Date": {"Old Time": "12:30", "New Time": "13:0", "Old Date": "12/21", "New Date": "1/24"}},
+{"Timestamp": "2020-10-30 23:43:43", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -1.332, "y": -210.377, "z": 61.632}, "Direction": {"x": 0.006, "y": 0.96, "z": -0.281}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:44:09", "File": "X_smalldesign2.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [32.97,19.71,1.82,-9.49,-3.01,-1.56,-1.94,-8.99,-7.6,-2.51,19.81,39.24]
+, "Total": 2386.21}, "AC": {"Monthly": [0,0,0,0,16.1,27.09,28.27,23.48,11.93,0,0,0]
+, "Total": 3250.79}, "Heater": {"Monthly": [55.61,44.79,29.24,17.74,8.8,0,0,0,12.24,24.45,38.61,56.12]
+, "Total": 8747.7}, "Windows": {"Monthly": [10.51,12.07,13.61,14.04,16.75,18.14,18.7,17.7,15.63,12.55,8.92,7.76]
+, "Total": 5060.37}, "Solar Panels": {"Monthly": [22.64,25.07,27.42,27.23,27.91,28.66,30.21,32.47,31.76,26.96,18.8,16.89]
+, "Total": 9612.28}}},
+{"Timestamp": "2020-10-30 23:44:35", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -18.086, "y": -208.973, "z": 63.732}, "Direction": {"x": 0.083, "y": 0.953, "z": -0.291}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:45:01", "File": "X_smalldesign2.ng3", "Set Solar Cell Efficiency for All Racks": {"New Value": "0.24"}},
+{"Timestamp": "2020-10-30 23:45:28", "File": "X_smalldesign2.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [25.97,11.96,-6.66,-17.91,-11.64,-10.43,-11.28,-19.04,-17.42,-10.85,14,34.02]
+, "Total": -587.15}, "AC": {"Monthly": [0,0,0,0,16.1,27.09,28.27,23.48,11.93,0,0,0]
+, "Total": 3250.79}, "Heater": {"Monthly": [55.61,44.79,29.24,17.74,8.8,0,0,0,12.24,24.45,38.61,56.12]
+, "Total": 8747.7}, "Windows": {"Monthly": [10.51,12.07,13.61,14.04,16.75,18.14,18.7,17.7,15.63,12.55,8.92,7.76]
+, "Total": 5060.37}, "Solar Panels": {"Monthly": [29.64,32.83,35.9,35.66,36.54,37.52,39.55,42.52,41.59,35.3,24.61,22.11]
+, "Total": 12585.64}}},
+{"Timestamp": "2020-10-30 23:45:55", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 110.742, "y": -79.416, "z": 171.72}, "Direction": {"x": -0.505, "y": 0.362, "z": -0.783}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:46:00", "File": "X_smalldesign2.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [3.16214,3.1329,3.07219,2.98415,2.87478,2.75154,2.62282,2.24716,0.40073,-1.08864,-1.9701,-2.45819,-2.51651,-2.17212,-1.32252,-0.03418,1.88456,2.59082,2.71953,2.84496,2.95854,3.05253,3.12054,3.15793]
+, "Total": 34.02}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.16214,3.1329,3.07219,2.98415,2.87478,2.75154,2.62282,2.41015,1.75232,1.37278,1.16635,1.02904,1.00953,1.0816,1.33978,1.64874,2.26804,2.59082,2.71953,2.84496,2.95854,3.05253,3.12054,3.15793]
+, "Total": 56.12}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.08513,0.61566,0.89155,1.02492,1.12277,1.1378,1.09648,0.9032,0.69048,0.19471,0,0,0,0,0,0,0]
+, "Total": 7.76}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.16299,1.35159,2.46141,3.13645,3.48723,3.52604,3.25372,2.6623,1.68291,0.38348,0,0,0,0,0,0,0]
+, "Total": 22.11}}, "Solar Potential": [{"Building": 2, "Daily": 499.62}]},
+{"Timestamp": "2020-10-30 23:46:01", "File": "X_smalldesign2.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 23:46:09", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -0.264, "y": -197.875, "z": 94.362}, "Direction": {"x": 0.001, "y": 0.903, "z": -0.43}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:46:14", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 22.08, "y": -202.386, "z": 81.31}, "Direction": {"x": -0.101, "y": 0.923, "z": -0.371}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:46:15", "File": "X_smalldesign2.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-30 23:46:22", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": -165.321, "y": 77.938, "z": 121.051}, "Direction": {"x": 0.754, "y": -0.356, "z": -0.552}, "Mode": "Rotate"}}

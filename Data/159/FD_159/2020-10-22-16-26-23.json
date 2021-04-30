@@ -1,0 +1,9 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 17:14:05", "File": "error2610412234125715680.ng3", "Change Latitude": {"Old Value": 42, "New Value": 42}},
+{"Timestamp": "2020-10-22 17:14:10", "File": "error2610412234125715680.ng3", "Change City": {"Old City": "", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-22 17:14:16", "File": "error2610412234125715680.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-22 17:14:17", "File": "error2610412234125715680.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-22 17:15:14", "File": "error2610412234125715680.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-22 17:15:15", "File": "error2610412234125715680.ng3", "Show Heliodon": true}]
+}

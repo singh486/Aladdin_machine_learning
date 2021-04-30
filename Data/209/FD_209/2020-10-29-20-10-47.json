@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 20:10:56", "File": "HJS_Energy%252520design%252520challenge.ng3", "Camera": {"Position": {"x": 2.718, "y": -182.168, "z": 150.251}, "Direction": {"x": 0.003, "y": 0.823, "z": -0.567}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:11:02", "File": "HJS_Energy%252520design%252520challenge.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 138, "Coordinates": [{"x": -19.12, "y": 2.27, "z": 36.675}]}}]
+}

@@ -1,0 +1,8 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-24 00:12:43", "File": "error232783468867987192.ng3", "Camera": {"Position": {"x": 142.08, "y": -46.707, "z": 147.948}, "Direction": {"x": -0.675, "y": 0.222, "z": -0.703}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 00:12:45", "File": "error232783468867987192.ng3", "Camera": {"Position": {"x": 161.236, "y": -99.435, "z": 91.501}, "Direction": {"x": -0.766, "y": 0.473, "z": -0.435}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 00:12:48", "File": "error232783468867987192.ng3", "Edit GambrelRoof": {"Type": "GambrelRoof", "Building": 2, "ID": 45, "Coordinates": [{"x": 57.25, "y": 1.262, "z": 41}, {"x": 32.81, "y": -16.966, "z": 36}, {"x": 79.49, "y": -16.99, "z": 41}, {"x": 42.5, "y": -12.5, "z": 41}]}},
+{"Timestamp": "2020-10-24 00:12:49", "File": "error232783468867987192.ng3", "Remove GambrelRoof": {"Type": "GambrelRoof", "Building": 2, "ID": 45, "Coordinates": [{"x": 57.25, "y": 1.262, "z": 41}, {"x": 32.81, "y": -16.966, "z": 36}, {"x": 79.49, "y": -16.99, "z": 41}, {"x": 42.5, "y": -12.5, "z": 41}]}},
+{"Timestamp": "2020-10-24 00:12:51", "File": "error232783468867987192.ng3", "Camera": {"Position": {"x": -116.979, "y": -144.122, "z": 99.003}, "Direction": {"x": 0.556, "y": 0.685, "z": -0.471}, "Mode": "Rotate"}}]
+}

@@ -1,0 +1,11 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-23 09:52:38", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-23 09:52:39", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-23 09:52:40", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-23 09:52:45", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-23 09:52:48", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Show Shadow": false},
+{"Timestamp": "2020-10-23 09:52:48", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-23 09:52:53", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 23, "Coordinates": [{"x": -6.588, "y": 4.65, "z": 41.267}]}},
+{"Timestamp": "2020-10-23 09:52:57", "File": "Energy%20Small%20Design%20Exercise%20-%20X.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 25, "Coordinates": [{"x": 2.075, "y": -1.538, "z": 49.485}]}}]
+}

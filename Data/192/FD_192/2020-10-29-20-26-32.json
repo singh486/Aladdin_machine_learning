@@ -1,0 +1,7 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 20:26:40", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -70.612, "y": -120.154, "z": 166.266}, "Direction": {"x": 0.331, "y": 0.562, "z": -0.758}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:26:44", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -2.424, "y": -201.8, "z": 76.412}, "Direction": {"x": 0.016, "y": 0.939, "z": -0.343}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:26:45", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -2.483, "y": -205.166, "z": 77.641}, "Direction": {"x": 0.016, "y": 0.939, "z": -0.343}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-29 20:26:48", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -33.242, "y": -202.364, "z": 96.948}, "Direction": {"x": 0.151, "y": 0.896, "z": -0.417}, "Mode": "Rotate"}}]
+}

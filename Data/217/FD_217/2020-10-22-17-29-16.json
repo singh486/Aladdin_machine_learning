@@ -1,0 +1,19 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 18:16:41", "File": "sjs_home2.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-22 18:16:47", "File": "sjs_home2.ng3", "Camera": {"Position": {"x": 10.106, "y": -99.76, "z": 43.101}, "Direction": {"x": -0.075, "y": 0.944, "z": -0.32}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:16:55", "File": "sjs_home2.ng3", "Rotate Building": {"Building": 2, "Angle": -20.0}},
+{"Timestamp": "2020-10-22 18:17:10", "File": "sjs_home2.ng3", "Rotate Building": {"Building": 2, "Angle": -225.0}},
+{"Timestamp": "2020-10-22 18:17:11", "File": "sjs_home2.ng3", "Rotate Building": {"Building": 2, "Angle": -10.0}},
+{"Timestamp": "2020-10-22 18:17:11", "File": "sjs_home2.ng3", "Rotate Building": {"Building": 2, "Angle": -10.0}},
+{"Timestamp": "2020-10-22 18:17:12", "File": "sjs_home2.ng3", "Rotate Building": {"Building": 2, "Angle": -5.0}},
+{"Timestamp": "2020-10-22 18:17:13", "File": "sjs_home2.ng3", "Rotate Building": {"Building": 2, "Angle": -5.0}},
+{"Timestamp": "2020-10-22 18:17:14", "File": "sjs_home2.ng3", "Rotate Building": {"Building": 2, "Angle": -5.0}},
+{"Timestamp": "2020-10-22 18:17:15", "File": "sjs_home2.ng3", "Camera": {"Position": {"x": -4.975, "y": -99.724, "z": 43.64}, "Direction": {"x": 0.057, "y": 0.944, "z": -0.325}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:17:24", "File": "sjs_home2.ng3", "Change Time": {"Old Time": "16:15", "New Time": "12:15"}},
+{"Timestamp": "2020-10-22 18:17:27", "File": "sjs_home2.ng3", "Camera": {"Position": {"x": 2.805, "y": -79.967, "z": 79.213}, "Direction": {"x": -0.011, "y": 0.771, "z": -0.637}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:17:33", "File": "sjs_home2.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-22 18:17:40", "File": "sjs_home2.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-22 18:18:04", "File": "sjs_home2.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-22 18:18:06", "File": "sjs_home2.ng3", "Show Shadow": false}]
+}

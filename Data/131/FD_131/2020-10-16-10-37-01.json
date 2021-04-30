@@ -1,0 +1,10 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-16 10:39:38", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Camera": {"Position": {"x": -126.608, "y": -157.469, "z": 30.572}, "Direction": {"x": 0.517, "y": 0.849, "z": -0.109}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 10:40:53", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Show Curve": {"Graph": "PartEnergyAnnualGraph", "Name": "All", "Shown": true}},
+{"Timestamp": "2020-10-16 10:40:54", "Project": "Houses with different sizes", "File": "@building-size.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Part": "HipRoof(68)", "Heat Gain": {"Monthly": [-10.99,-10.77,-6.49,-1.49,5.9,10.77,15.15,14.3,10.83,2.93,-3.9,-8.37]
+, "Total": 543.47}}},
+{"Timestamp": "2020-10-16 10:40:57", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Show Curve": {"Graph": "PartEnergyAnnualGraph", "Name": "All", "Shown": false}},
+{"Timestamp": "2020-10-16 10:40:59", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Show Curve": {"Graph": "PartEnergyAnnualGraph", "Name": "Heat Gain", "Shown": true}},
+{"Timestamp": "2020-10-16 10:43:00", "Project": "Houses with different sizes", "File": "@building-size.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 235, "Coordinates": [{"x": -91.075, "y": -9.863, "z": 45.992}]}}]
+}

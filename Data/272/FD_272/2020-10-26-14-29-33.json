@@ -1,0 +1,9 @@
+{
+"Activities": [
+{"Timestamp": "2020-10-26 14:29:44", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": 5.496, "y": -116.389, "z": 28.511}, "Direction": {"x": -0.046, "y": 0.97, "z": -0.238}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 14:29:49", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": 5.404, "y": -114.46, "z": 28.039}, "Direction": {"x": -0.046, "y": 0.97, "z": -0.238}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-26 14:29:52", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": 5.476, "y": -42.822, "z": 101.877}, "Direction": {"x": -0.049, "y": 0.387, "z": -0.921}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 14:30:00", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": -81.197, "y": -66.062, "z": 35.852}, "Direction": {"x": 0.734, "y": 0.597, "z": -0.324}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 14:30:01", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": -80.866, "y": -66.467, "z": 35.852}, "Direction": {"x": 0.731, "y": 0.601, "z": -0.324}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 14:30:03", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": -7.819, "y": -107.191, "z": 26.299}, "Direction": {"x": 0.071, "y": 0.969, "z": -0.238}, "Mode": "Rotate"}},{"Event String":"O"}]
+}

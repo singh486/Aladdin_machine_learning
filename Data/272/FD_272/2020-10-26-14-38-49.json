@@ -1,0 +1,6 @@
+{
+"Activities": [
+{"Timestamp": "2020-10-26 14:38:58", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": -72.554, "y": -76.671, "z": 56.981}, "Direction": {"x": 0.605, "y": 0.639, "z": -0.475}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 14:39:08", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": -93.393, "y": 59.47, "z": 46.158}, "Direction": {"x": 0.779, "y": -0.496, "z": -0.385}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 14:39:14", "File": "designChallenegeNew.ng3", "Camera": {"Position": {"x": -48.132, "y": -98.927, "z": 47.813}, "Direction": {"x": 0.401, "y": 0.825, "z": -0.399}, "Mode": "Rotate"}},{"Event String":"O"}]
+}

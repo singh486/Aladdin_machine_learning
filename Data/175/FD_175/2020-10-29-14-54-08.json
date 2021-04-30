@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 14:57:32", "File": "Example.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": 1.42, "y": 18.015, "z": 31}]}},
+{"Timestamp": "2020-10-29 14:57:34", "File": "Example.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": 1.42, "y": 18.015, "z": 31}]}}]
+}

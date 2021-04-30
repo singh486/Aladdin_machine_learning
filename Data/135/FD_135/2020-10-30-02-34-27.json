@@ -1,0 +1,9 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:26:14", "File": "house%201.ng3", "Save": "file:/C:/ENGT%20180/house%201.ng3*"},
+{"Timestamp": "2020-10-30 13:26:27", "File": "house%201.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-30 13:26:29", "File": "house%201.ng3", "Camera": {"Position": {"x": -50.391, "y": 131.066, "z": 90.422}, "Direction": {"x": 0.369, "y": -0.859, "z": -0.355}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:26:34", "File": "house%201.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 13:26:36", "File": "house%201.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 13:26:41", "File": "house%201.ng3", "Camera": {"Position": {"x": 29.783, "y": -168.634, "z": 66.09}, "Direction": {"x": -0.121, "y": 0.971, "z": -0.206}, "Mode": "Rotate"}}]
+}

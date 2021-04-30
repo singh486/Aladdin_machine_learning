@@ -1,0 +1,14 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-23 00:09:39", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Camera": {"Position": {"x": -6.215, "y": -115.55, "z": 43.088}, "Direction": {"x": 0.067, "y": 0.942, "z": -0.33}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 00:13:35", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Camera": {"Position": {"x": -1.409, "y": -110.627, "z": 55.613}, "Direction": {"x": 0.028, "y": 0.902, "z": -0.431}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 00:13:39", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 57, "ID": 66, "Coordinates": [{"x": 36.126, "y": -45.645, "z": 1}]}},
+{"Timestamp": "2020-10-23 00:13:42", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 57, "ID": 67, "Coordinates": [{"x": 29.691, "y": -46.14, "z": 1}]}},
+{"Timestamp": "2020-10-23 00:13:50", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "CspProjectDailyEnergyGraph": {"Foundation": 57, "Solar": {"Hourly": [0,0,0,0,0,0,0.05232,1.23638,2.15907,2.56875,2.77426,2.86679,2.87649,2.80619,2.634,2.29063,1.5517,0.21978,0,0,0,0,0,0]
+, "Total": 24.04}}},
+{"Timestamp": "2020-10-23 00:14:08", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Camera": {"Position": {"x": -1.401, "y": -110.36, "z": 56.168}, "Direction": {"x": 0.028, "y": 0.9, "z": -0.436}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 00:14:10", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Camera": {"Position": {"x": -1.594, "y": -116.612, "z": 59.196}, "Direction": {"x": 0.028, "y": 0.9, "z": -0.436}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 00:14:39", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Camera": {"Position": {"x": 1.081, "y": 128.227, "z": 44.477}, "Direction": {"x": 0.007, "y": -0.949, "z": -0.315}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 00:14:40", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Camera": {"Position": {"x": 128.358, "y": -13.757, "z": 44.477}, "Direction": {"x": -0.943, "y": 0.11, "z": -0.315}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 00:14:41", "File": "ENGT%20180%20Energy%203D%20Project.ng3", "Camera": {"Position": {"x": -57.539, "y": -75.581, "z": 94.623}, "Direction": {"x": 0.445, "y": 0.572, "z": -0.69}, "Mode": "Rotate"}}]
+}

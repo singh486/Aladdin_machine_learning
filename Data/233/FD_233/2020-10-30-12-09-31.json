@@ -1,0 +1,8 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 12:24:28", "File": "TheDesignProject.ng3", "Save": "file:/C:/Users/X/OneDrive/Desktop/TheDesignProject.ng3*"},
+{"Timestamp": "2020-10-30 12:24:30", "File": "TheDesignProject.ng3", "Camera": {"Position": {"x": 45.616, "y": 216.243, "z": 61.313}, "Direction": {"x": -0.253, "y": -0.948, "z": -0.194}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:24:30", "File": "TheDesignProject.ng3", "Camera": {"Position": {"x": 46.122, "y": 218.135, "z": 61.7}, "Direction": {"x": -0.253, "y": -0.948, "z": -0.194}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:24:33", "File": "TheDesignProject.ng3", "Camera": {"Position": {"x": 47.706, "y": 224.065, "z": 62.912}, "Direction": {"x": -0.253, "y": -0.948, "z": -0.194}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:24:34", "File": "TheDesignProject.ng3", "Camera": {"Position": {"x": 51.731, "y": 239.123, "z": 65.99}, "Direction": {"x": -0.253, "y": -0.948, "z": -0.194}, "Mode": "Zoom"}}]
+}

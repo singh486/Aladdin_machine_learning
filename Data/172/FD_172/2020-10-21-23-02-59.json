@@ -1,0 +1,10 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 00:42:09", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -77.184, "y": -14.558, "z": 35.473}, "Direction": {"x": 0.983, "y": -0.029, "z": -0.181}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 00:42:10", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -13.142, "y": 50.757, "z": 34.463}, "Direction": {"x": 0.046, "y": -0.985, "z": -0.167}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 00:42:10", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -13.224, "y": 52.534, "z": 34.764}, "Direction": {"x": 0.046, "y": -0.985, "z": -0.167}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-22 00:42:10", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -13.885, "y": 66.788, "z": 37.176}, "Direction": {"x": 0.046, "y": -0.985, "z": -0.167}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-22 00:42:12", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -81.969, "y": -60.688, "z": 44.796}, "Direction": {"x": 0.79, "y": 0.57, "z": -0.225}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 00:42:13", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -85.013, "y": -62.887, "z": 45.665}, "Direction": {"x": 0.79, "y": 0.57, "z": -0.225}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-22 00:42:13", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -97.503, "y": -71.907, "z": 49.231}, "Direction": {"x": 0.79, "y": 0.57, "z": -0.225}, "Mode": "Zoom"}}]
+}

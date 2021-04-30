@@ -1,0 +1,8 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 21:22:47", "File": "X_finaldesign.ng3", "Save": "file:/C:/Users/X/Desktop/Purdue%20Fall%202020/ENGT%2018000/Week%209%20Homework/X_finaldesign.ng3*"},
+{"Timestamp": "2020-10-21 21:22:48", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": -5.518, "y": -73.435, "z": 72.124}, "Direction": {"x": 0.054, "y": 0.712, "z": -0.7}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 21:22:50", "File": "X_finaldesign.ng3", "Add Wall": {"Type": "Wall", "Building": 2, "ID": 9, "Coordinates": [{"x": -40, "y": -20, "z": 1}, {"x": -40, "y": -20, "z": 31}, {"x": 55, "y": -20, "z": 1}, {"x": 55, "y": -20, "z": 31}]}},
+{"Timestamp": "2020-10-21 21:23:00", "File": "X_finaldesign.ng3", "Add Floor": {"Type": "Floor", "Building": 2, "ID": 13, "Coordinates": [{"x": 7.5, "y": 0, "z": 31}]}},
+{"Timestamp": "2020-10-21 21:23:02", "File": "X_finaldesign.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 14, "Coordinates": [{"x": 7.5, "y": 0, "z": 46}]}}]
+}

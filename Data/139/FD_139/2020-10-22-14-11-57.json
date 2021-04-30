@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 14:17:46", "File": "error7202285909229867759.ng3", "Camera": {"Position": {"x": -35.02, "y": -46.75, "z": 254.154}, "Direction": {"x": 0.155, "y": 0.2, "z": -0.967}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 14:17:57", "File": "error7202285909229867759.ng3", "Camera": {"Position": {"x": -208.655, "y": -81.103, "z": 97.95}, "Direction": {"x": 0.886, "y": 0.345, "z": -0.31}, "Mode": "Pan"}}]
+}

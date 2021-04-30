@@ -1,0 +1,22 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-23 10:26:28", "File": "Energy%20House.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 49, "Coordinates": [{"x": -11.785, "y": -5.745, "z": 34.739}]}},
+{"Timestamp": "2020-10-23 10:26:33", "File": "Energy%20House.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 50, "Coordinates": [{"x": 4.55, "y": -5.25, "z": 35.005}]}},
+{"Timestamp": "2020-10-23 10:26:36", "File": "Energy%20House.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 51, "Coordinates": [{"x": -3.37, "y": -5.25, "z": 35.005}]}},
+{"Timestamp": "2020-10-23 10:26:43", "File": "Energy%20House.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.88117,1.84203,1.76077,1.64294,1.49656,1.33161,1.12822,-0.06067,-0.60039,-0.91189,-1.13295,-1.25573,-1.27752,-1.19737,-1.01519,-0.73304,-0.3576,0.75839,1.28877,1.45664,1.60866,1.73447,1.82549,1.87553]
+, "Total": 13.09}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.88117,1.84203,1.76077,1.64294,1.49656,1.33161,1.13006,0.12852,0,0,0,0,0,0,0,0,0,0.78622,1.28877,1.45664,1.60866,1.73447,1.82549,1.87553]
+, "Total": 21.79}, "Windows": {"Hourly": [0,0,0,0,0,0,0.02907,1.16774,2.1543,2.73768,3.75906,4.23423,4.5634,5.28642,5.49966,4.99955,3.28754,0.36274,0,0,0,0,0,0]
+, "Total": 38.08}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.00183,0.1892,0.60039,0.91189,1.13295,1.25573,1.27752,1.19737,1.01519,0.73304,0.3576,0.02782,0,0,0,0,0,0]
+, "Total": 8.7}}, "Solar Potential": [{"Building": 2, "Daily": 613.5}]},
+{"Timestamp": "2020-10-23 10:26:54", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": 0.103, "y": -122.958, "z": 48.377}, "Direction": {"x": -0.018, "y": 0.919, "z": -0.394}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 10:26:57", "File": "Energy%20House.ng3", "Change Solar Heat Map Color Contrast": {"Old Value": 50, "New Value": 95}},
+{"Timestamp": "2020-10-23 10:26:59", "File": "Energy%20House.ng3", "Change Solar Heat Map Color Contrast": {"Old Value": 95, "New Value": 54}},
+{"Timestamp": "2020-10-23 10:27:02", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": 4.074, "y": -121.117, "z": 52.486}, "Direction": {"x": -0.018, "y": 0.919, "z": -0.394}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-23 10:27:03", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": 11.718, "y": -119.598, "z": 55.672}, "Direction": {"x": -0.018, "y": 0.919, "z": -0.394}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-23 10:27:04", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": 2.876, "y": -120.375, "z": 54.272}, "Direction": {"x": -0.018, "y": 0.919, "z": -0.394}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-23 10:27:10", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": -18.014, "y": -121.229, "z": 48.761}, "Direction": {"x": 0.14, "y": 0.925, "z": -0.352}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 10:27:20", "File": "Energy%20House.ng3", "Convert to Gable": {"Type": "HipRoof", "Building": 2, "ID": 36, "Coordinates": [{"x": -5, "y": 1.25, "z": 38.5}, {"x": 6, "y": 1.25, "z": 38.5}, {"x": -16, "y": 1.25, "z": 38.5}]}},
+{"Timestamp": "2020-10-23 10:27:20", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": -18.661, "y": -121.363, "z": 48.143}, "Direction": {"x": 0.145, "y": 0.926, "z": -0.348}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 10:27:29", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": 11.656, "y": -123.236, "z": 45.658}, "Direction": {"x": -0.085, "y": 0.941, "z": -0.329}, "Mode": "Rotate"}}]
+}

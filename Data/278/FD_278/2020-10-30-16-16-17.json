@@ -1,0 +1,30 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 16:50:28", "File": "house.ng3", "Save": "file:/C:/Users/X/Documents/house.ng3*"},
+{"Timestamp": "2020-10-30 16:53:13", "File": "house.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 16:53:21", "File": "house.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [22.56,17.11,-1.35,-22.43,-26.3,-28.7,-31.57,-26.59,-15.19,-9.96,4.2,19.21]
+, "Total": -3011.72}, "AC": {"Monthly": [0,0,0,0,14.91,21.6,26.52,26.64,25.91,12.67,0,0]
+, "Total": 3900.82}, "Heater": {"Monthly": [43.1,41.8,33.46,23.98,13.78,7.55,0,0,5.25,13.12,22.57,35.22]
+, "Total": 7294.64}, "Windows": {"Monthly": [12.24,13.28,15.29,15,12.66,9.36,9.37,11.5,14.03,10.73,5.8,9.5]
+, "Total": 4220.38}, "Solar Panels": {"Monthly": [20.53,24.69,34.81,46.4,54.99,57.85,58.09,53.24,46.35,35.75,18.38,16.02]
+, "Total": 14207.18}}},
+{"Timestamp": "2020-10-30 16:54:39", "File": "house.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 16:59:36", "File": "house.ng3", "Camera": {"Position": {"x": 125.266, "y": -47.981, "z": 66.456}, "Direction": {"x": -0.837, "y": 0.321, "z": -0.444}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:59:37", "File": "house.ng3", "Show Annotation": true},
+{"Timestamp": "2020-10-30 16:59:38", "File": "house.ng3", "Camera": {"Position": {"x": 149.159, "y": 0.627, "z": 12.706}, "Direction": {"x": -0.996, "y": -0.004, "z": -0.085}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:59:39", "File": "house.ng3", "Camera": {"Position": {"x": 147.147, "y": 0.619, "z": 12.535}, "Direction": {"x": -0.996, "y": -0.004, "z": -0.085}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:59:39", "File": "house.ng3", "Camera": {"Position": {"x": 138.477, "y": 0.582, "z": 11.796}, "Direction": {"x": -0.996, "y": -0.004, "z": -0.085}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:59:40", "File": "house.ng3", "Camera": {"Position": {"x": 104.906, "y": 26.14, "z": 59.06}, "Direction": {"x": -0.852, "y": -0.212, "z": -0.479}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:59:40", "File": "house.ng3", "Camera": {"Position": {"x": 103.172, "y": 25.708, "z": 58.084}, "Direction": {"x": -0.852, "y": -0.212, "z": -0.479}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:59:41", "File": "house.ng3", "Camera": {"Position": {"x": 101.082, "y": 40.867, "z": 9.288}, "Direction": {"x": -0.924, "y": -0.373, "z": -0.085}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:59:41", "File": "house.ng3", "Camera": {"Position": {"x": 101.082, "y": 39.408, "z": 8.956}, "Direction": {"x": -0.924, "y": -0.373, "z": -0.085}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:59:42", "File": "house.ng3", "Camera": {"Position": {"x": 80.533, "y": 32.559, "z": 7.4}, "Direction": {"x": -0.924, "y": -0.373, "z": -0.085}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:59:43", "File": "house.ng3", "Camera": {"Position": {"x": 95.776, "y": 38.722, "z": 8.8}, "Direction": {"x": -0.924, "y": -0.373, "z": -0.085}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 17:00:55", "File": "house.ng3", "Camera": {"Position": {"x": 75.199, "y": -73.034, "z": 55.239}, "Direction": {"x": -0.635, "y": 0.616, "z": -0.466}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 17:01:11", "File": "house.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 17:01:25", "File": "house.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [22.56,17.11,-1.35,-22.43,-26.3,-28.7,-31.57,-26.59,-15.19,-9.96,4.2,19.21]
+, "Total": -3011.72}, "AC": {"Monthly": [0,0,0,0,14.91,21.6,26.52,26.64,25.91,12.67,0,0]
+, "Total": 3900.82}, "Heater": {"Monthly": [43.1,41.8,33.46,23.98,13.78,7.55,0,0,5.25,13.12,22.57,35.22]
+, "Total": 7294.64}, "Windows": {"Monthly": [12.24,13.28,15.29,15,12.66,9.36,9.37,11.5,14.03,10.73,5.8,9.5]
+, "Total": 4220.38}, "Solar Panels": {"Monthly": [20.53,24.69,34.81,46.4,54.99,57.85,58.09,53.24,46.35,35.75,18.38,16.02]
+, "Total": 14207.18}}}

@@ -1,0 +1,10 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-27 19:49:49", "File": "error1944562400350933075.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-27 19:49:56", "File": "error1944562400350933075.ng3", "Camera": {"Position": {"x": 2.486, "y": -64.511, "z": 63.886}, "Direction": {"x": 0.14, "y": 0.886, "z": -0.442}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-27 19:50:06", "File": "error1944562400350933075.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-27 19:50:07", "File": "error1944562400350933075.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-27 19:50:07", "File": "error1944562400350933075.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-27 19:50:08", "File": "error1944562400350933075.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-27 19:50:51", "File": "error1944562400350933075.ng3", "Show Annotation": false}]
+}
