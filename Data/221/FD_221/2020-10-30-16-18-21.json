@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 16:18:35", "File": "(X)%20Design.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 67, "Coordinates": [{"x": 1.875, "y": -20.3, "z": 24.528}]}},
+{"Timestamp": "2020-10-30 16:18:39", "File": "(X)%20Design.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 68, "Coordinates": [{"x": 7.815, "y": -20.3, "z": 24.528}]}}]
+}

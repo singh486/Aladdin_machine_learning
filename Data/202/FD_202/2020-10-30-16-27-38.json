@@ -1,0 +1,253 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 16:29:49", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -117.323, "y": 118.325, "z": 141.639}, "Direction": {"x": 0.441, "y": -0.542, "z": -0.715}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:29:50", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -83.536, "y": 87.712, "z": 185.687}, "Direction": {"x": 0.441, "y": -0.542, "z": -0.715}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:29:52", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -66.744, "y": -189.286, "z": 159.414}, "Direction": {"x": 0.368, "y": 0.718, "z": -0.591}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:29:53", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -68.311, "y": -192.346, "z": 161.93}, "Direction": {"x": 0.368, "y": 0.718, "z": -0.591}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:29:53", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -75.854, "y": -207.08, "z": 174.047}, "Direction": {"x": 0.368, "y": 0.718, "z": -0.591}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:29:53", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -24.299, "y": -106.378, "z": 91.233}, "Direction": {"x": 0.368, "y": 0.718, "z": -0.591}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:29:54", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 8.572, "y": -42.171, "z": 38.431}, "Direction": {"x": 0.368, "y": 0.718, "z": -0.591}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:29:54", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 2.758, "y": -53.528, "z": 47.771}, "Direction": {"x": 0.368, "y": 0.718, "z": -0.591}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:30:03", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -1.396, "y": -88.33, "z": 33.932}, "Direction": {"x": 0.317, "y": 0.902, "z": -0.293}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:04", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 62, "Coordinates": [{"x": 15.533, "y": -20.844, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:30:04", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 80.423, "y": -71.725, "z": 45.413}, "Direction": {"x": -0.549, "y": 0.726, "z": -0.414}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:06", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 62, "Coordinates": [{"x": 23.038, "y": -21.639, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:30:06", "File": "Zero%20net%20house.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 62, "Coordinates": [{"x": 23.038, "y": -21.639, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:30:08", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 63, "Coordinates": [{"x": -10.795, "y": -22.507, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:30:08", "File": "Zero%20net%20house.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 63, "Coordinates": [{"x": -10.795, "y": -22.507, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:30:10", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 79.961, "y": -71.826, "z": 45.843}, "Direction": {"x": -0.544, "y": 0.727, "z": -0.419}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:11", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 79.842, "y": -71.667, "z": 46.271}, "Direction": {"x": -0.542, "y": 0.726, "z": -0.423}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:11", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 80.526, "y": -71.151, "z": 46.271}, "Direction": {"x": -0.55, "y": 0.72, "z": -0.423}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:12", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 80.156, "y": -70.666, "z": 47.551}, "Direction": {"x": -0.546, "y": 0.715, "z": -0.437}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:13", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 80.109, "y": -69.91, "z": 48.821}, "Direction": {"x": -0.545, "y": 0.707, "z": -0.45}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:13", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 80.312, "y": -69.483, "z": 49.243}, "Direction": {"x": -0.547, "y": 0.703, "z": -0.455}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:17", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 22, "Coordinates": [{"x": -17.5, "y": -5, "z": 1}, {"x": -17.5, "y": -5, "z": 16}, {"x": 22.5, "y": -5, "z": 1}, {"x": 22.5, "y": -5, "z": 16}]}},
+{"Timestamp": "2020-10-30 16:30:24", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 23, "Coordinates": [{"x": 22.5, "y": -5, "z": 1}, {"x": 22.5, "y": -5, "z": 16}, {"x": 22.5, "y": 15, "z": 1}, {"x": 22.5, "y": 15, "z": 16}]}},
+{"Timestamp": "2020-10-30 16:30:26", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 56.314, "y": -85.116, "z": 53.975}, "Direction": {"x": -0.547, "y": 0.703, "z": -0.455}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:30:29", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.9065,0.04283,-0.49771,-0.84474,-1.00154,-1.02441,-0.97834,-0.71317,-0.21329,0.67196,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 14.93}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.99534,0.58276,0.33354,0.21401,0.18153,0.17249,0.12182,0.17991,0.38793,0.8583,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 22.61}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.07013,0.40063,0.58168,0.65356,0.65968,0.66576,0.73666,0.72089,0.57596,0.1863,0,0,0,0,0,0,0]
+, "Total": 5.25}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.08884,0.53994,0.83125,1.05875,1.18307,1.1969,1.10017,0.89309,0.60123,0.18633,0,0,0,0,0,0,0]
+, "Total": 7.68}}, "Solar Potential": [{"Building": 2, "Daily": 319.71}]},
+{"Timestamp": "2020-10-30 16:30:34", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 41.926, "y": -94.14, "z": 57.354}, "Direction": {"x": -0.547, "y": 0.703, "z": -0.455}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:30:36", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 15.658, "y": -110.414, "z": 52.662}, "Direction": {"x": -0.272, "y": 0.873, "z": -0.405}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:37", "File": "Zero%20net%20house.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-30 16:30:38", "File": "Zero%20net%20house.ng3", "Show Shadow": false},
+{"Timestamp": "2020-10-30 16:30:41", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 30.731, "y": -100.956, "z": 62.936}, "Direction": {"x": -0.272, "y": 0.873, "z": -0.405}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:30:44", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 97.405, "y": -39.343, "z": 28.157}, "Direction": {"x": -0.974, "y": 0.222, "z": -0.037}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:48", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -77.562, "y": -57.153, "z": 48.224}, "Direction": {"x": 0.877, "y": 0.41, "z": -0.249}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:54", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -71.345, "y": -66.188, "z": 52.317}, "Direction": {"x": 0.811, "y": 0.506, "z": -0.293}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:55", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -70.863, "y": -66.952, "z": 52.317}, "Direction": {"x": 0.806, "y": 0.514, "z": -0.293}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:30:57", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 3.401, "y": -13.501, "z": 28.527}, "Direction": {"x": 0.786, "y": 0.565, "z": -0.252}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:30:57", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -22.195, "y": -31.924, "z": 36.726}, "Direction": {"x": 0.786, "y": 0.565, "z": -0.252}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:30:57", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -31.715, "y": -38.776, "z": 39.776}, "Direction": {"x": 0.786, "y": 0.565, "z": -0.252}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:00", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -19.09, "y": -28.662, "z": 35.218}, "Direction": {"x": 0.78, "y": 0.572, "z": -0.256}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:01", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 1.405, "y": -13.604, "z": 28.536}, "Direction": {"x": 0.776, "y": 0.574, "z": -0.26}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:01", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -31.078, "y": -37.644, "z": 39.41}, "Direction": {"x": 0.776, "y": 0.574, "z": -0.26}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:08", "File": "Zero%20net%20house.ng3", "Remove Floor": {"Type": "Floor", "Building": 2, "ID": 126, "Coordinates": [{"x": 2.5, "y": 10, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 16:31:10", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -61.659, "y": -60.877, "z": 48.199}, "Direction": {"x": 0.776, "y": 0.581, "z": -0.245}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:31:13", "File": "Zero%20net%20house.ng3", "Remove Floor": {"Type": "Floor", "Building": 2, "ID": 127, "Coordinates": [{"x": 2.5, "y": 10, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 16:31:16", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.90094,-0.10078,-0.88464,-1.37016,-1.59759,-1.62837,-1.52709,-1.14549,-0.44535,0.65267,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 11.43}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.99527,0.58158,0.3309,0.20928,0.17608,0.16697,0.11695,0.17677,0.38652,0.85807,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 22.58}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.07013,0.40063,0.58168,0.65356,0.65968,0.66576,0.73666,0.72089,0.57596,0.1863,0,0,0,0,0,0,0]
+, "Total": 5.25}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.09432,0.68236,1.21554,1.57945,1.77368,1.79534,1.64405,1.32226,0.83188,0.2054,0,0,0,0,0,0,0]
+, "Total": 11.14}}, "Solar Potential": [{"Building": 2, "Daily": 290.17}]},
+{"Timestamp": "2020-10-30 16:31:19", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -63.001, "y": -61.88, "z": 48.622}, "Direction": {"x": 0.776, "y": 0.581, "z": -0.245}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:19", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -64.355, "y": -62.893, "z": 49.05}, "Direction": {"x": 0.776, "y": 0.581, "z": -0.245}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:19", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -67.547, "y": -65.281, "z": 50.059}, "Direction": {"x": 0.776, "y": 0.581, "z": -0.245}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:21", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -73.171, "y": -64.798, "z": 33.405}, "Direction": {"x": 0.776, "y": 0.581, "z": -0.245}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:31:28", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 103.082, "y": 24.995, "z": 49.511}, "Direction": {"x": -0.879, "y": -0.263, "z": -0.397}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:31:29", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 103.221, "y": 24.527, "z": 49.511}, "Direction": {"x": -0.881, "y": -0.259, "z": -0.397}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:31:31", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 24, "Coordinates": [{"x": 22.5, "y": 15, "z": 1}, {"x": 22.5, "y": 15, "z": 23.5}, {"x": 22.5, "y": 25, "z": 1}, {"x": 22.5, "y": 25, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 16:31:34", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 80.852, "y": 64.366, "z": 73.213}, "Direction": {"x": -0.881, "y": -0.259, "z": -0.397}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:31:35", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 80.713, "y": 64.835, "z": 73.213}, "Direction": {"x": -0.879, "y": -0.263, "z": -0.397}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:31:37", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 20, "Coordinates": [{"x": -17.5, "y": 25, "z": 1}, {"x": -17.5, "y": 25, "z": 23.5}, {"x": 22.5, "y": 25, "z": 1}, {"x": 22.5, "y": 25, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 16:31:39", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 108.684, "y": 39.361, "z": 28.08}, "Direction": {"x": -0.879, "y": -0.263, "z": -0.397}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:31:41", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 18.108, "y": -62.125, "z": 62.798}, "Direction": {"x": -0.029, "y": 0.69, "z": -0.723}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:31:41", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 18.479, "y": -71.106, "z": 72.199}, "Direction": {"x": -0.029, "y": 0.69, "z": -0.723}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:42", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 19.624, "y": -98.792, "z": 101.184}, "Direction": {"x": -0.029, "y": 0.69, "z": -0.723}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:42", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 19.744, "y": -101.685, "z": 104.212}, "Direction": {"x": -0.029, "y": 0.69, "z": -0.723}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:31:44", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.55459,1.53607,1.49762,1.44187,1.37261,1.29456,1.21305,0.9692,0.00016,-0.72585,-1.16947,-1.35091,-1.35057,-1.224,-0.8523,-0.20024,0.77375,1.19278,1.27429,1.35372,1.42565,1.48517,1.52824,1.55192]
+, "Total": 14.59}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.55459,1.53607,1.49762,1.44187,1.37261,1.29456,1.21305,1.05748,0.6255,0.36656,0.24199,0.20803,0.19923,0.15029,0.21294,0.42922,0.91666,1.19278,1.27429,1.35372,1.42565,1.48517,1.52824,1.55192]
+, "Total": 24.13}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.07434,0.42401,0.61514,0.69164,0.69974,0.70603,0.77543,0.75585,0.60271,0.19486,0,0,0,0,0,0,0]
+, "Total": 5.54}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.08828,0.62533,1.09241,1.41146,1.55894,1.5498,1.37429,1.06524,0.62946,0.1429,0,0,0,0,0,0,0]
+, "Total": 9.54}}, "Solar Potential": [{"Building": 2, "Daily": 307.13}]},
+{"Timestamp": "2020-10-30 16:31:51", "File": "Zero%20net%20house.ng3", "Undo": "Edit Wall"},
+{"Timestamp": "2020-10-30 16:31:55", "File": "Zero%20net%20house.ng3", "Undo": "Edit Wall"},
+{"Timestamp": "2020-10-30 16:31:58", "File": "Zero%20net%20house.ng3", "Undo": "Remove Floor"},
+{"Timestamp": "2020-10-30 16:32:02", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 20.1, "y": -98.407, "z": 100.803}, "Direction": {"x": -0.032, "y": 0.69, "z": -0.723}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:03", "File": "Zero%20net%20house.ng3", "Remove Floor": {"Type": "Floor", "Building": 2, "ID": 127, "Coordinates": [{"x": 2.5, "y": 10, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 16:32:05", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 40.312, "y": -98.786, "z": 99.546}, "Direction": {"x": -0.032, "y": 0.69, "z": -0.723}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:32:07", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -24.305, "y": -91.541, "z": 88.134}, "Direction": {"x": 0.422, "y": 0.639, "z": -0.643}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:09", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -24.044, "y": -91.713, "z": 88.134}, "Direction": {"x": 0.422, "y": 0.639, "z": -0.643}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:32:09", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -24.689, "y": -91.281, "z": 88.134}, "Direction": {"x": 0.429, "y": 0.635, "z": -0.643}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:12", "File": "Zero%20net%20house.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 106, "Coordinates": [{"x": -4.938, "y": 7.125, "z": 25.35}]}},
+{"Timestamp": "2020-10-30 16:32:13", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -24.944, "y": -91.658, "z": 87.587}, "Direction": {"x": 0.43, "y": 0.638, "z": -0.639}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:15", "File": "Zero%20net%20house.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 108, "Coordinates": [{"x": -4.938, "y": 14.137, "z": 29.992}]}},
+{"Timestamp": "2020-10-30 16:32:20", "File": "Zero%20net%20house.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 130, "Coordinates": [{"x": -4.938, "y": 21.15, "z": 34.634}]}},
+{"Timestamp": "2020-10-30 16:32:26", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.85603,-0.42571,-1.46347,-2.12228,-2.4422,-2.48329,-2.30997,-1.77514,-0.84149,0.55486,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 6.13}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.99527,0.58158,0.3309,0.20928,0.17608,0.16697,0.11695,0.17677,0.38652,0.85807,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 22.58}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.07013,0.40063,0.58168,0.65356,0.65968,0.66576,0.73666,0.72089,0.57596,0.1863,0,0,0,0,0,0,0]
+, "Total": 5.25}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.13924,1.00729,1.79437,2.33156,2.61828,2.65026,2.42692,1.95191,1.22801,0.30321,0,0,0,0,0,0,0]
+, "Total": 16.45}}, "Solar Potential": [{"Building": 2, "Daily": 295.48}]},
+{"Timestamp": "2020-10-30 16:32:31", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -28.888, "y": -97.503, "z": 93.441}, "Direction": {"x": 0.43, "y": 0.638, "z": -0.639}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:32:33", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -63.465, "y": -93.112, "z": 98.448}, "Direction": {"x": 0.43, "y": 0.638, "z": -0.639}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:32:36", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -14.536, "y": -116.817, "z": 92.442}, "Direction": {"x": 0.111, "y": 0.793, "z": -0.599}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:36", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -7.197, "y": -117.155, "z": 93.053}, "Direction": {"x": 0.063, "y": 0.795, "z": -0.603}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:37", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -6.589, "y": -117.202, "z": 93.053}, "Direction": {"x": 0.059, "y": 0.795, "z": -0.603}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:38", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -6.52, "y": -116.275, "z": 94.269}, "Direction": {"x": 0.058, "y": 0.789, "z": -0.611}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:39", "File": "Zero%20net%20house.ng3", "Remove Rack": {"Type": "Rack", "Building": 2, "ID": 132, "Coordinates": [{"x": -2.463, "y": 21.562, "z": 34.907}]}},
+{"Timestamp": "2020-10-30 16:32:42", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.87849,-0.26325,-1.17406,-1.74622,-2.0199,-2.05583,-1.91853,-1.46032,-0.64342,0.60377,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 8.78}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.99527,0.58158,0.3309,0.20928,0.17608,0.16697,0.11695,0.17677,0.38652,0.85807,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 22.58}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.07013,0.40063,0.58168,0.65356,0.65968,0.66576,0.73666,0.72089,0.57596,0.1863,0,0,0,0,0,0,0]
+, "Total": 5.25}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.11678,0.84483,1.50496,1.9555,2.19598,2.2228,2.03549,1.63709,1.02994,0.25431,0,0,0,0,0,0,0]
+, "Total": 13.8}}, "Solar Potential": [{"Building": 2, "Daily": 292.83}]},
+{"Timestamp": "2020-10-30 16:32:45", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -7.124, "y": -116.229, "z": 94.269}, "Direction": {"x": 0.062, "y": 0.789, "z": -0.611}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:53", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -7.05, "y": -115.29, "z": 95.475}, "Direction": {"x": 0.062, "y": 0.783, "z": -0.619}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:53", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -6.912, "y": -113.547, "z": 94.095}, "Direction": {"x": 0.062, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:32:54", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -5.945, "y": -101.277, "z": 84.387}, "Direction": {"x": 0.062, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:32:54", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -3.507, "y": -70.344, "z": 59.912}, "Direction": {"x": 0.062, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:32:54", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -3.175, "y": -66.125, "z": 56.574}, "Direction": {"x": 0.062, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:32:56", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -3.504, "y": -75.229, "z": 63.754}, "Direction": {"x": 0.058, "y": 0.783, "z": -0.619}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:32:58", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -4.728, "y": -91.824, "z": 76.879}, "Direction": {"x": 0.058, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:32:59", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -5.796, "y": -106.289, "z": 88.32}, "Direction": {"x": 0.058, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:32:59", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -5.551, "y": -102.974, "z": 85.698}, "Direction": {"x": 0.058, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:33:00", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -4.978, "y": -95.214, "z": 79.561}, "Direction": {"x": 0.058, "y": 0.783, "z": -0.619}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:33:01", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -5.112, "y": -90.711, "z": 76.027}, "Direction": {"x": 0.062, "y": 0.783, "z": -0.619}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:03", "File": "Zero%20net%20house.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 114, "Coordinates": [{"x": 9.5, "y": -1.785, "z": 19.452}]}},
+{"Timestamp": "2020-10-30 16:33:03", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -4.622, "y": -90.379, "z": 76.491}, "Direction": {"x": 0.058, "y": 0.78, "z": -0.623}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:05", "File": "Zero%20net%20house.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 116, "Coordinates": [{"x": 9.995, "y": 5.145, "z": 24.039}]}},
+{"Timestamp": "2020-10-30 16:33:07", "File": "Zero%20net%20house.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 117, "Coordinates": [{"x": 9.995, "y": 11.58, "z": 28.299}]}},
+{"Timestamp": "2020-10-30 16:33:07", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -4.594, "y": -90.01, "z": 76.953}, "Direction": {"x": 0.057, "y": 0.777, "z": -0.627}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:08", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -4.567, "y": -89.638, "z": 77.414}, "Direction": {"x": 0.057, "y": 0.774, "z": -0.631}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:10", "File": "Zero%20net%20house.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 115, "Coordinates": [{"x": 14.45, "y": -1.785, "z": 19.452}]}},
+{"Timestamp": "2020-10-30 16:33:11", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -5.452, "y": -89.192, "z": 77.872}, "Direction": {"x": 0.065, "y": 0.77, "z": -0.635}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:12", "File": "Zero%20net%20house.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 119, "Coordinates": [{"x": 18.905, "y": -1.785, "z": 19.452}]}},
+{"Timestamp": "2020-10-30 16:33:13", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -4.567, "y": -89.638, "z": 77.414}, "Direction": {"x": 0.057, "y": 0.774, "z": -0.631}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:15", "File": "Zero%20net%20house.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 118, "Coordinates": [{"x": 15.44, "y": 5.145, "z": 24.039}]}},
+{"Timestamp": "2020-10-30 16:33:20", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 138, "Coordinates": [{"x": 9.995, "y": 19.005, "z": 33.214}]}},
+{"Timestamp": "2020-10-30 16:33:22", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 0.376, "y": -80.172, "z": 89.467}, "Direction": {"x": 0.057, "y": 0.774, "z": -0.631}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:33:23", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 88.194, "y": -37.037, "z": 86.205}, "Direction": {"x": -0.684, "y": 0.41, "z": -0.603}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:30", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 68.037, "y": -59.32, "z": 93.933}, "Direction": {"x": -0.684, "y": 0.41, "z": -0.603}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:33:31", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.87399,-0.29574,-1.23194,-1.82143,-2.10436,-2.14132,-1.99682,-1.52328,-0.68303,0.59398,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 8.25}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.46455,1.4471,1.41088,1.35836,1.29311,1.21959,1.14279,0.99527,0.58158,0.3309,0.20928,0.17608,0.16697,0.11695,0.17677,0.38652,0.85807,1.1237,1.20049,1.27532,1.34308,1.39916,1.43973,1.46204]
+, "Total": 22.58}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.07013,0.40063,0.58168,0.65356,0.65968,0.66576,0.73666,0.72089,0.57596,0.1863,0,0,0,0,0,0,0]
+, "Total": 5.25}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.12127,0.87732,1.56284,2.03072,2.28044,2.30829,2.11377,1.70005,1.06956,0.26409,0,0,0,0,0,0,0]
+, "Total": 14.33}}, "Solar Potential": [{"Building": 2, "Daily": 293.38}]},
+{"Timestamp": "2020-10-30 16:33:35", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 64.483, "y": -72.322, "z": 89.136}, "Direction": {"x": -0.684, "y": 0.41, "z": -0.603}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:33:38", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 74.719, "y": -91.688, "z": 50.705}, "Direction": {"x": -0.771, "y": 0.573, "z": -0.279}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:43", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -6.477, "y": -128.24, "z": 72.648}, "Direction": {"x": -0.085, "y": 0.882, "z": -0.464}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:43", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -5.105, "y": -142.441, "z": 80.128}, "Direction": {"x": -0.085, "y": 0.882, "z": -0.464}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:33:44", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -2.469, "y": -169.72, "z": 94.495}, "Direction": {"x": -0.085, "y": 0.882, "z": -0.464}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:33:45", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -2.395, "y": -170.484, "z": 94.898}, "Direction": {"x": -0.085, "y": 0.882, "z": -0.464}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:33:45", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": -3.705, "y": -156.925, "z": 87.756}, "Direction": {"x": -0.085, "y": 0.882, "z": -0.464}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:33:49", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 104.651, "y": 31.382, "z": 108.735}, "Direction": {"x": -0.751, "y": -0.18, "z": -0.635}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:50", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 104.501, "y": 32, "z": 108.735}, "Direction": {"x": -0.75, "y": -0.184, "z": -0.635}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:51", "File": "Zero%20net%20house.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 24, "Coordinates": [{"x": 22.5, "y": 15, "z": 1}, {"x": 22.5, "y": 15, "z": 23.5}, {"x": 10, "y": 25, "z": 1}, {"x": 10, "y": 25, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 16:33:53", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 104.348, "y": 32.617, "z": 108.735}, "Direction": {"x": -0.749, "y": -0.188, "z": -0.635}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:55", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 23, "Coordinates": [{"x": 22.5, "y": -5, "z": 1}, {"x": 22.5, "y": -5, "z": 16}, {"x": 22.5, "y": 25, "z": 1}, {"x": 22.5, "y": 25, "z": 16}]}},
+{"Timestamp": "2020-10-30 16:33:56", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 103.012, "y": 53.918, "z": 104.012}, "Direction": {"x": -0.749, "y": -0.188, "z": -0.635}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:33:57", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 103.073, "y": 53.667, "z": 104.012}, "Direction": {"x": -0.75, "y": -0.184, "z": -0.635}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:33:59", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 20, "Coordinates": [{"x": -17.5, "y": 25, "z": 1}, {"x": -17.5, "y": 25, "z": 23.5}, {"x": 22.5, "y": 25, "z": 1}, {"x": 22.5, "y": 25, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 16:34:01", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 113.635, "y": 43.14, "z": 94.581}, "Direction": {"x": -0.75, "y": -0.184, "z": -0.635}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:34:03", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 127.157, "y": -1.127, "z": 91.433}, "Direction": {"x": -0.75, "y": -0.184, "z": -0.635}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:34:06", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 33.72, "y": 113.148, "z": 59.682}, "Direction": {"x": -0.183, "y": -0.878, "z": -0.442}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:34:09", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 20, "Coordinates": [{"x": -17.5, "y": 25, "z": 1}, {"x": -17.5, "y": 25, "z": 26}, {"x": 22.5, "y": 25, "z": 1}, {"x": 22.5, "y": 25, "z": 26}]}},
+{"Timestamp": "2020-10-30 16:34:11", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 59.25, "y": 96.38, "z": 82.436}, "Direction": {"x": -0.183, "y": -0.878, "z": -0.442}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:34:13", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 46.298, "y": -183.191, "z": 102.332}, "Direction": {"x": -0.104, "y": 0.82, "z": -0.563}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:34:14", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 46.973, "y": -183.104, "z": 102.332}, "Direction": {"x": -0.108, "y": 0.819, "z": -0.563}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:34:15", "File": "Zero%20net%20house.ng3", "Remove ShedRoof": {"Type": "ShedRoof", "Building": 2, "ID": 101, "Coordinates": [{"x": 2.5, "y": 10, "z": 41}, {"x": -19.49, "y": 26.99, "z": 41}, {"x": 10, "y": 26.99, "z": 41}]}},
+{"Timestamp": "2020-10-30 16:34:17", "File": "Zero%20net%20house.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 35, "Coordinates": [{"x": 22.5, "y": 4, "z": 5}, {"x": 22.5, "y": 4, "z": 11}, {"x": 22.5, "y": 15, "z": 5}, {"x": 22.5, "y": 15, "z": 11}]}},
+{"Timestamp": "2020-10-30 16:34:17", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 47.647, "y": -183.013, "z": 102.332}, "Direction": {"x": -0.112, "y": 0.819, "z": -0.563}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:34:17", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 47.147, "y": -179.37, "z": 99.828}, "Direction": {"x": -0.112, "y": 0.819, "z": -0.563}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:34:17", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 43.636, "y": -153.775, "z": 82.234}, "Direction": {"x": -0.112, "y": 0.819, "z": -0.563}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:34:19", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 39.172, "y": -130.459, "z": 67.941}, "Direction": {"x": -0.103, "y": 0.814, "z": -0.571}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:34:19", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 39.794, "y": -130.378, "z": 67.941}, "Direction": {"x": -0.108, "y": 0.814, "z": -0.571}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:34:22", "File": "Zero%20net%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 8, "Coordinates": [{"x": -17.5, "y": 25, "z": 1}, {"x": -17.5, "y": 25, "z": 16}, {"x": -17.5, "y": -5, "z": 1}, {"x": -17.5, "y": -5, "z": 16}]}},
+{"Timestamp": "2020-10-30 16:34:23", "File": "Zero%20net%20house.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 140, "Coordinates": [{"x": 2.5, "y": 10, "z": 41}]}},
+{"Timestamp": "2020-10-30 16:34:25", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 39.679, "y": -129.508, "z": 69.189}, "Direction": {"x": -0.107, "y": 0.808, "z": -0.579}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:34:26", "File": "Zero%20net%20house.ng3", "Remove PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 140, "Coordinates": [{"x": 2.5, "y": 10, "z": 41}]}},
+{"Timestamp": "2020-10-30 16:34:29", "File": "Zero%20net%20house.ng3", "Add ShedRoof": {"Type": "ShedRoof", "Building": 2, "ID": 141, "Coordinates": [{"x": 2.5, "y": 10, "z": 41}, {"x": -19.49, "y": 26.99, "z": 41}, {"x": 24.49, "y": 26.99, "z": 41}]}},
+{"Timestamp": "2020-10-30 16:34:30", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 41.468, "y": -143.055, "z": 78.9}, "Direction": {"x": -0.107, "y": 0.808, "z": -0.579}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:34:30", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 43.993, "y": -162.17, "z": 92.603}, "Direction": {"x": -0.107, "y": 0.808, "z": -0.579}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:34:35", "File": "Zero%20net%20house.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 142, "Coordinates": [{"x": -4.938, "y": -1.538, "z": 20.018}]}},
+{"Timestamp": "2020-10-30 16:34:41", "File": "Zero%20net%20house.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 144, "Coordinates": [{"x": -4.938, "y": 5.475, "z": 25.175}]}},
+{"Timestamp": "2020-10-30 16:34:45", "File": "Zero%20net%20house.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 146, "Coordinates": [{"x": -4.938, "y": 12.487, "z": 30.333}]}},
+{"Timestamp": "2020-10-30 16:34:49", "File": "Zero%20net%20house.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 148, "Coordinates": [{"x": -4.938, "y": 19.087, "z": 35.188}]}},
+{"Timestamp": "2020-10-30 16:34:59", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 151, "Coordinates": [{"x": 9.995, "y": -1.29, "z": 20.2}]}},
+{"Timestamp": "2020-10-30 16:35:03", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 43.538, "y": -158.723, "z": 90.132}, "Direction": {"x": -0.107, "y": 0.808, "z": -0.579}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:35:09", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 154, "Coordinates": [{"x": 9.995, "y": 5.64, "z": 25.297}]}},
+{"Timestamp": "2020-10-30 16:35:12", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 155, "Coordinates": [{"x": 9.995, "y": 12.57, "z": 30.394}]}},
+{"Timestamp": "2020-10-30 16:35:14", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 156, "Coordinates": [{"x": 9.995, "y": 19.005, "z": 35.127}]}},
+{"Timestamp": "2020-10-30 16:35:19", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,1.02508,-0.20604,-1.1209,-1.65562,-1.87302,-1.87656,-1.70496,-1.23502,-0.4266,0.78797,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 13.24}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,1.13803,0.6022,0.3086,0.19502,0.20179,0.22323,0.22028,0.31816,0.55653,1.03318,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 26.32}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.09533,0.52912,0.73784,0.79136,0.75221,0.72718,0.75532,0.71083,0.55142,0.17497,0,0,0,0,0,0,0]
+, "Total": 5.83}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.11295,0.80824,1.4295,1.85064,2.07481,2.09979,1.92524,1.55318,0.98313,0.2452,0,0,0,0,0,0,0]
+, "Total": 13.08}}, "Solar Potential": [{"Building": 2, "Daily": 307.6}]},
+{"Timestamp": "2020-10-30 16:35:21", "File": "Zero%20net%20house.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 16:35:26", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 157, "Coordinates": [{"x": 15.44, "y": -1.29, "z": 20.2}]}},
+{"Timestamp": "2020-10-30 16:35:30", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 158, "Coordinates": [{"x": 14.945, "y": 5.64, "z": 25.297}]}},
+{"Timestamp": "2020-10-30 16:35:33", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 159, "Coordinates": [{"x": 14.945, "y": 12.075, "z": 30.03}]}},
+{"Timestamp": "2020-10-30 16:35:36", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 160, "Coordinates": [{"x": 14.945, "y": 18.51, "z": 34.763}]}},
+{"Timestamp": "2020-10-30 16:35:38", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 161, "Coordinates": [{"x": 19.895, "y": -1.29, "z": 20.2}]}},
+{"Timestamp": "2020-10-30 16:35:42", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 162, "Coordinates": [{"x": 19.4, "y": 5.64, "z": 25.297}]}},
+{"Timestamp": "2020-10-30 16:35:45", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 163, "Coordinates": [{"x": 19.4, "y": 12.075, "z": 30.03}]}},
+{"Timestamp": "2020-10-30 16:35:48", "File": "Zero%20net%20house.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 164, "Coordinates": [{"x": 19.895, "y": 18.51, "z": 34.763}]}},
+{"Timestamp": "2020-10-30 16:35:50", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,0.98743,-0.47545,-1.5974,-2.2725,-2.56463,-2.57649,-2.3467,-1.75275,-0.75431,0.70624,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 8.88}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,1.13803,0.6022,0.3086,0.19502,0.20179,0.22323,0.22028,0.31816,0.55653,1.03318,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 26.32}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.09533,0.52912,0.73784,0.79136,0.75221,0.72718,0.75532,0.71083,0.55142,0.17497,0,0,0,0,0,0,0]
+, "Total": 5.83}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.1506,1.07765,1.906,2.46752,2.76641,2.79972,2.56699,2.07091,1.31084,0.32694,0,0,0,0,0,0,0]
+, "Total": 17.44}}, "Solar Potential": [{"Building": 2, "Daily": 311.96}]},
+{"Timestamp": "2020-10-30 16:35:52", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 44.811, "y": -168.362, "z": 97.042}, "Direction": {"x": -0.107, "y": 0.808, "z": -0.579}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:36:01", "File": "Zero%20net%20house.ng3", "Add Tree": {"Species": "Dogwood", "ID": 165, "Coordinates": [{"x": -10, "y": -19, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:04", "File": "Zero%20net%20house.ng3", "Add Tree": {"Species": "Dogwood", "ID": 166, "Coordinates": [{"x": 16, "y": -20, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:06", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,0.99869,-0.47524,-1.59725,-2.25247,-2.41664,-2.42701,-2.32612,-1.75259,-0.75408,0.71936,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 9.24}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,1.14166,0.60241,0.30875,0.21505,0.34977,0.37271,0.24087,0.31833,0.55676,1.03686,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 26.67}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.09176,0.52912,0.73784,0.7716,0.60445,0.57794,0.73499,0.71083,0.55142,0.1714,0,0,0,0,0,0,0]
+, "Total": 5.48}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.14297,1.07765,1.906,2.46752,2.76641,2.79972,2.56699,2.07091,1.31084,0.3175,0,0,0,0,0,0,0]
+, "Total": 17.43}}, "Solar Potential": [{"Building": 2, "Daily": 305.16}]},
+{"Timestamp": "2020-10-30 16:36:12", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 166, "Coordinates": [{"x": 16.805, "y": -27.196, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:14", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 165, "Coordinates": [{"x": -8.742, "y": -27.266, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:14", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 47.948, "y": -185.255, "z": 109.238}, "Direction": {"x": -0.111, "y": 0.808, "z": -0.579}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:36:16", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 84.475, "y": -157.211, "z": 141.346}, "Direction": {"x": -0.111, "y": 0.808, "z": -0.579}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-30 16:36:18", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,0.98941,-0.43781,-1.59729,-2.27236,-2.43732,-2.48007,-2.34658,-1.75263,-0.71256,0.70937,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 9.19}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,1.14001,0.63984,0.30871,0.19516,0.32909,0.31965,0.22041,0.31828,0.59828,1.03631,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 26.63}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.09338,0.49158,0.73784,0.79136,0.62503,0.63091,0.75532,0.71083,0.50976,0.17188,0,0,0,0,0,0,0]
+, "Total": 5.52}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.1506,1.07765,1.906,2.46752,2.76641,2.79972,2.56699,2.07091,1.31084,0.32694,0,0,0,0,0,0,0]
+, "Total": 17.44}}, "Solar Potential": [{"Building": 2, "Daily": 307.61}]},
+{"Timestamp": "2020-10-30 16:36:23", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 166, "Coordinates": [{"x": 26.934, "y": -22.746, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:25", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 165, "Coordinates": [{"x": -20.988, "y": -27.048, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:27", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,0.99314,-0.4753,-1.54893,-2.2064,-2.56271,-2.5652,-2.27813,-1.72635,-0.75418,0.71463,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 9.12}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.69684,1.67662,1.63466,1.57381,1.49821,1.41302,1.32405,1.13809,0.60235,0.35707,0.26112,0.2037,0.23452,0.28885,0.34456,0.55666,1.03961,1.30193,1.3909,1.47759,1.5561,1.62107,1.66808,1.69392]
+, "Total": 26.55}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.09533,0.52912,0.68948,0.72534,0.75038,0.71596,0.68682,0.68455,0.55142,0.16864,0,0,0,0,0,0,0]
+, "Total": 5.6}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.14494,1.07765,1.906,2.46752,2.76641,2.79972,2.56699,2.07091,1.31084,0.32498,0,0,0,0,0,0,0]
+, "Total": 17.44}}, "Solar Potential": [{"Building": 2, "Daily": 308.37}]},
+{"Timestamp": "2020-10-30 16:36:29", "File": "Zero%20net%20house.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 166, "Coordinates": [{"x": 26.72, "y": -22.776, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:30", "File": "Zero%20net%20house.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 166, "Coordinates": [{"x": 26.72, "y": -22.776, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:36:32", "File": "Zero%20net%20house.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 165, "Coordinates": [{"x": -20.988, "y": -27.048, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:44:45", "File": "Zero%20net%20house.ng3", "Camera": {"Position": {"x": 86.216, "y": -169.903, "z": 150.451}, "Direction": {"x": -0.111, "y": 0.808, "z": -0.579}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:44:49", "File": "Zero%20net%20house.ng3", "Add Tree": {"Species": "Dogwood", "ID": 167, "Coordinates": [{"x": -10, "y": -25, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:44:52", "File": "Zero%20net%20house.ng3", "Add Tree": {"Species": "Dogwood", "ID": 168, "Coordinates": [{"x": 19, "y": -25, "z": 1}]}},
+{"Timestamp": "2020-10-30 16:44:53", "File": "Zero%20net%20house.ng3", "Change Date": {"Old Date": "12/1", "New Date": "1/1"}},
+{"Timestamp": "2020-10-30 16:44:53", "File": "Zero%20net%20house.ng3", "Change Date": {"Old Date": "1/1", "New Date": "2/1"}},
+{"Timestamp": "2020-10-30 16:44:54", "File": "Zero%20net%20house.ng3", "Change Date": {"Old Date": "2/1", "New Date": "3/1"}},
+{"Timestamp": "2020-10-30 16:44:54", "File": "Zero%20net%20house.ng3", "Change Date": {"Old Date": "3/1", "New Date": "4/1"}},
+{"Timestamp": "2020-10-30 16:44:54", "File": "Zero%20net%20house.ng3", "Change Date": {"Old Date": "4/1", "New Date": "5/1"}},
+{"Timestamp": "2020-10-30 16:44:55", "File": "Zero%20net%20house.ng3", "Change Date": {"Old Date": "5/1", "New Date": "6/1"}},
+{"Timestamp": "2020-10-30 16:44:59", "File": "Zero%20net%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [0.63476,0.60987,0.5582,0.48327,0.36634,-0.27359,-0.94148,-1.44092,-1.82106,-2.37392,-2.99932,-3.51921,-3.62101,-3.24755,-2.72385,-2.02912,-1.51403,-1.22529,-0.37893,0.24074,0.46147,0.54147,0.59936,0.63118]
+, "Total": -22.98}, "AC": {"Hourly": [0,0,0,0,0,0,0,0.67007,1.40453,1.76185,1.77562,1.59806,1.5344,1.64127,1.59861,1.44677,0.88865,0,0,0,0,0,0,0]
+, "Total": 14.32}, "Heater": {"Hourly": [0.63476,0.60987,0.5582,0.48327,0.37287,0.00276,0,0,0,0,0,0,0,0,0,0,0,0,0,0.27737,0.46147,0.54147,0.59936,0.63118]
+, "Total": 5.17}, "Windows": {"Hourly": [0,0,0,0,0.01696,0.68402,1.23392,1.32258,1.28527,1.30874,1.27499,1.07996,1.02858,1.17614,1.2017,1.14068,1.1505,1.14149,0.79948,0.08545,0,0,0,0]
+, "Total": 15.93}, "Solar Panels": {"Hourly": [0,0,0,0,0.00653,0.27635,0.94148,2.11099,3.2256,4.13577,4.77494,5.11727,5.15541,4.88883,4.32246,3.47589,2.40268,1.22529,0.37893,0.03663,0,0,0,0]
+, "Total": 42.48}}, "Solar Potential": [{"Building": 2, "Daily": 901.25}]}]}

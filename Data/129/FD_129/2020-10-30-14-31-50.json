@@ -1,0 +1,64 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 15:44:06", "File": "EGNIT%20small%20desighn.ng3", "Save": "file:/D:/EGNT180000Energy/EGNIT%20small%20desighn.ng3*"},
+{"Timestamp": "2020-10-30 15:44:23", "File": "EGNIT%20small%20desighn.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 15:44:43", "File": "EGNIT%20small%20desighn.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [2.95723,2.92399,2.855,2.75495,2.63065,2.49059,2.34431,2.00951,0.1177,-1.42375,-1.94665,-2.1883,-2.20641,-2.00266,-1.57833,-0.72707,1.55268,2.30793,2.45422,2.59676,2.72584,2.83266,2.90995,2.95244]
+, "Total": 29.34}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.95723,2.92399,2.855,2.75495,2.63065,2.49059,2.34431,2.07804,0.8854,0.054,0,0,0,0,0,0.20381,1.722,2.30793,2.45422,2.59676,2.72584,2.83266,2.90995,2.95244]
+, "Total": 42.68}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.11858,1.1367,1.95047,2.41028,2.62988,2.74402,2.84741,2.62032,1.8878,0.43324,0,0,0,0,0,0,0]
+, "Total": 18.78}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.06853,0.7677,1.47774,1.94665,2.1883,2.20641,2.00266,1.57833,0.93088,0.16932,0,0,0,0,0,0,0]
+, "Total": 13.34}}},
+{"Timestamp": "2020-10-30 15:44:57", "File": "EGNIT%20small%20desighn.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [2.95723,2.92399,2.855,2.75495,2.63065,2.49059,2.34431,2.00951,0.1177,-1.42375,-1.94665,-2.1883,-2.20641,-2.00266,-1.57833,-0.72707,1.55268,2.30793,2.45422,2.59676,2.72584,2.83266,2.90995,2.95244]
+, "Total": 29.34}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.95723,2.92399,2.855,2.75495,2.63065,2.49059,2.34431,2.07804,0.8854,0.054,0,0,0,0,0,0.20381,1.722,2.30793,2.45422,2.59676,2.72584,2.83266,2.90995,2.95244]
+, "Total": 42.68}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.11858,1.1367,1.95047,2.41028,2.62988,2.74402,2.84741,2.62032,1.8878,0.43324,0,0,0,0,0,0,0]
+, "Total": 18.78}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.06853,0.7677,1.47774,1.94665,2.1883,2.20641,2.00266,1.57833,0.93088,0.16932,0,0,0,0,0,0,0]
+, "Total": 13.34}}},
+{"Timestamp": "2020-10-30 15:45:19", "File": "EGNIT%20small%20desighn.ng3", "Show Curve": {"Graph": "BuildingEnergyDailyGraph", "Name": "AC", "Shown": false}},
+{"Timestamp": "2020-10-30 15:45:22", "File": "EGNIT%20small%20desighn.ng3", "Show Curve": {"Graph": "BuildingEnergyDailyGraph", "Name": "AC", "Shown": true}},
+{"Timestamp": "2020-10-30 15:45:29", "File": "EGNIT%20small%20desighn.ng3", "Show Curve": {"Graph": "BuildingEnergyDailyGraph", "Name": "Windows", "Shown": true}},
+{"Timestamp": "2020-10-30 15:45:35", "File": "EGNIT%20small%20desighn.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [2.95723,2.92399,2.855,2.75495,2.63065,2.49059,2.34431,2.00951,0.1177,-1.42375,-1.94665,-2.1883,-2.20641,-2.00266,-1.57833,-0.72707,1.55268,2.30793,2.45422,2.59676,2.72584,2.83266,2.90995,2.95244]
+, "Total": 29.34}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.95723,2.92399,2.855,2.75495,2.63065,2.49059,2.34431,2.07804,0.8854,0.054,0,0,0,0,0,0.20381,1.722,2.30793,2.45422,2.59676,2.72584,2.83266,2.90995,2.95244]
+, "Total": 42.68}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.11858,1.1367,1.95047,2.41028,2.62988,2.74402,2.84741,2.62032,1.8878,0.43324,0,0,0,0,0,0,0]
+, "Total": 18.78}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.06853,0.7677,1.47774,1.94665,2.1883,2.20641,2.00266,1.57833,0.93088,0.16932,0,0,0,0,0,0,0]
+, "Total": 13.34}}},
+{"Timestamp": "2020-10-30 15:46:15", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": 137.205, "y": -0.997, "z": 104.955}, "Direction": {"x": -0.79, "y": 0.003, "z": -0.613}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 15:46:18", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": 91.852, "y": -118.973, "z": 71.475}, "Direction": {"x": -0.493, "y": 0.776, "z": -0.393}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 15:56:34", "File": "EGNIT%20small%20desighn.ng3", "PvAnnualAnalysis": {"Months": 12, "Panel": "All", "Solar": {"Monthly": [16.03,17.71,23.18,24.89,27.54,27.36,26.83,25.9,24.18,21.98,14.43,13.34]
+, "Total": 8010.7}}},
+{"Timestamp": "2020-10-30 16:03:47", "File": "EGNIT%20small%20desighn.ng3", "PvDailyAnalysis": {"Panel": "All", "Solar": {"Hourly": [0,0,0,0,0,0,0,0.06853,0.7677,1.47774,1.94665,2.1883,2.20641,2.00266,1.57833,0.93088,0.16932,0,0,0,0,0,0,0]
+, "Total": 13.34}}},
+{"Timestamp": "2020-10-30 16:04:00", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -48.976, "y": -117.943, "z": 83.854}, "Direction": {"x": 0.429, "y": 0.769, "z": -0.474}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:04:01", "File": "EGNIT%20small%20desighn.ng3", "Undo": "Edit HipRoof"},
+{"Timestamp": "2020-10-30 16:04:02", "File": "EGNIT%20small%20desighn.ng3", "Undo": "Edit HipRoof"},
+{"Timestamp": "2020-10-30 16:04:12", "File": "EGNIT%20small%20desighn.ng3", "PvDailyAnalysis": {"Panel": "All", "Solar": {"Hourly": [0,0,0,0,0,0,0,0.06853,0.7677,1.47774,1.94665,2.1883,2.20641,2.00266,1.57833,0.93088,0.16932,0,0,0,0,0,0,0]
+, "Total": 13.34}}},
+{"Timestamp": "2020-10-30 16:04:24", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "12/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-30 16:04:24", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "8/1", "New Date": "7/1"}},
+{"Timestamp": "2020-10-30 16:04:25", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "4/1", "New Date": "3/1"}},
+{"Timestamp": "2020-10-30 16:04:25", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "12/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-30 16:04:25", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "10/1", "New Date": "9/1"}},
+{"Timestamp": "2020-10-30 16:04:27", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "9/1", "New Date": "10/1"}},
+{"Timestamp": "2020-10-30 16:04:38", "File": "EGNIT%20small%20desighn.ng3", "PvDailyAnalysis": {"Panel": "All", "Solar": {"Hourly": [0,0,0,0,0,0,0.10202,0.8431,1.66465,2.32473,2.78115,3.01897,3.03441,2.82799,2.40438,1.77898,0.99374,0.2058,0,0,0,0,0,0]
+, "Total": 21.98}}},
+{"Timestamp": "2020-10-30 16:04:47", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "10/1", "New Date": "9/1"}},
+{"Timestamp": "2020-10-30 16:04:47", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "9/1", "New Date": "8/1"}},
+{"Timestamp": "2020-10-30 16:04:47", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "8/1", "New Date": "7/1"}},
+{"Timestamp": "2020-10-30 16:04:48", "File": "EGNIT%20small%20desighn.ng3", "Change Date": {"Old Date": "7/1", "New Date": "6/1"}},
+{"Timestamp": "2020-10-30 16:04:57", "File": "EGNIT%20small%20desighn.ng3", "PvDailyAnalysis": {"Panel": "All", "Solar": {"Hourly": [0,0,0,0,0.01087,0.19615,0.68303,1.41959,2.11365,2.67753,3.07033,3.27529,3.28726,3.10626,2.73708,2.19486,1.51656,0.78057,0.25558,0.03844,0,0,0,0]
+, "Total": 27.36}}},
+{"Timestamp": "2020-10-30 16:05:18", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -10.5, "y": -141.974, "z": 62.227}, "Direction": {"x": 0.177, "y": 0.926, "z": -0.333}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:05:22", "File": "EGNIT%20small%20desighn.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 16:05:29", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -116.74, "y": 33.895, "z": 77.732}, "Direction": {"x": 0.872, "y": -0.225, "z": -0.434}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:05:29", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -115.72, "y": 25.977, "z": 83.18}, "Direction": {"x": 0.865, "y": -0.173, "z": -0.47}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:05:30", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -89.703, "y": -101.894, "z": 53.499}, "Direction": {"x": 0.695, "y": 0.664, "z": -0.276}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:05:31", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -70.678, "y": -113.159, "z": 66.525}, "Direction": {"x": 0.571, "y": 0.738, "z": -0.361}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:05:31", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -63.128, "y": -117.248, "z": 69.362}, "Direction": {"x": 0.521, "y": 0.764, "z": -0.38}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:05:36", "File": "EGNIT%20small%20desighn.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-30 16:05:38", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -61.32, "y": -126.416, "z": 49.076}, "Direction": {"x": 0.509, "y": 0.824, "z": -0.247}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:05:47", "File": "EGNIT%20small%20desighn.ng3", "PvDailyAnalysis": {"Panel": "All", "Solar": {"Hourly": [0,0,0,0,0.01087,0.19615,0.68303,1.41959,2.11365,2.67753,3.07033,3.27529,3.28726,3.10626,2.73708,2.19486,1.51656,0.78057,0.25558,0.03844,0,0,0,0]
+, "Total": 27.36}}},
+{"Timestamp": "2020-10-30 16:08:30", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -78.754, "y": 118.925, "z": 10.521}, "Direction": {"x": 0.623, "y": -0.782, "z": 0.006}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:08:32", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -51.206, "y": 110.35, "z": 91.786}, "Direction": {"x": 0.443, "y": -0.726, "z": -0.526}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:12:56", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": 144.189, "y": -76.042, "z": 47.594}, "Direction": {"x": -0.836, "y": 0.495, "z": -0.237}, "Mode": "Rotate"}}]}

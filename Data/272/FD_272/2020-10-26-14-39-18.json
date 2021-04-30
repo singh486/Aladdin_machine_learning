@@ -1,0 +1,44 @@
+{
+"Activities": [
+{"Timestamp": "2020-10-26 15:29:39", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": 0.662, "y": -111.977, "z": 52.045}, "Direction": {"x": 0.005, "y": 0.955, "z": -0.297}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 15:35:59", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -0.61, "y": -114.204, "z": 43.919}, "Direction": {"x": 0.014, "y": 0.972, "z": -0.234}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 15:36:00", "File": "X_smalldesign.ng3", "Zoom": false},
+{"Timestamp": "2020-10-26 15:36:00", "File": "X_smalldesign.ng3", "Zoom": false},
+{"Timestamp": "2020-10-26 15:36:13", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -6.513, "y": -135.072, "z": 40.952}, "Direction": {"x": 0.054, "y": 0.982, "z": -0.18}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 15:36:17", "File": "X_smalldesign.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 73, "Coordinates": [{"x": -21.888, "y": -44.754, "z": 0}]}},
+{"Timestamp": "2020-10-26 15:36:20", "File": "X_smalldesign.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 72, "Coordinates": [{"x": -8.933, "y": -42.892, "z": 0}]}},
+{"Timestamp": "2020-10-26 15:36:22", "File": "X_smalldesign.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 73, "Coordinates": [{"x": -22.128, "y": -43.222, "z": 0}]}},
+{"Timestamp": "2020-10-26 15:36:24", "File": "X_smalldesign.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 71, "Coordinates": [{"x": 11.704, "y": -40.616, "z": -0}]}},
+{"Timestamp": "2020-10-26 15:36:27", "File": "X_smalldesign.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 70, "Coordinates": [{"x": 22.036, "y": -40.52, "z": 0}]}},
+{"Timestamp": "2020-10-26 15:36:29", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -31.564, "y": -118.474, "z": 78.609}, "Direction": {"x": 0.23, "y": 0.865, "z": -0.445}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 15:36:32", "File": "X_smalldesign.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 72, "Coordinates": [{"x": -9.454, "y": -41.792, "z": 0}]}},
+{"Timestamp": "2020-10-26 15:36:34", "File": "X_smalldesign.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 73, "Coordinates": [{"x": -22.305, "y": -41.92, "z": 0}]}},
+{"Timestamp": "2020-10-26 15:36:36", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -24.062, "y": -119.902, "z": 79.245}, "Direction": {"x": 0.177, "y": 0.875, "z": -0.45}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 15:36:48", "File": "X_smalldesign.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [5.68,-4.74,-18.71,7,-24.27,-27.49,-30.02,-32.12,-25.02,-16.32,3.2,13.88]
+, "Total": -4529.74}, "AC": {"Monthly": [0,0,0,49.03,17.61,21.45,20.66,16.77,10.31,0,0,0]
+, "Total": 4131.36}, "Heater": {"Monthly": [30.57,25.14,17.38,0,5.3,0,0,0,8.2,15.75,23.13,31.7]
+, "Total": 4780.67}, "Windows": {"Monthly": [9.86,10.37,12.55,5.8,6.69,7.19,7.54,7.45,6.93,5.84,8.34,7.48]
+, "Total": 2921.09}, "Solar Panels": {"Monthly": [24.88,29.89,36.09,42.02,47.18,48.93,50.69,48.89,43.53,32.08,19.93,17.82]
+, "Total": 13441.77}}},
+{"Timestamp": "2020-10-26 15:36:58", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -0.935, "y": -136.181, "z": 35.337}, "Direction": {"x": 0.015, "y": 0.99, "z": -0.141}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 15:37:00", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "10/26", "New Date": "12/26"}},
+{"Timestamp": "2020-10-26 15:37:00", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "1/26", "New Date": "2/26"}},
+{"Timestamp": "2020-10-26 15:37:01", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "2/26", "New Date": "3/26"}},
+{"Timestamp": "2020-10-26 15:37:01", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "4/26", "New Date": "5/26"}},
+{"Timestamp": "2020-10-26 15:37:01", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "6/26", "New Date": "7/26"}},
+{"Timestamp": "2020-10-26 15:37:02", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "7/26", "New Date": "8/26"}},
+{"Timestamp": "2020-10-26 15:37:02", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "8/26", "New Date": "9/26"}},
+{"Timestamp": "2020-10-26 15:37:03", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "9/26", "New Date": "10/26"}},
+{"Timestamp": "2020-10-26 15:37:10", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -2.359, "y": -136.841, "z": 29.691}, "Direction": {"x": 0.025, "y": 0.995, "z": -0.101}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-26 15:37:11", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "10/26", "New Date": "9/26"}},
+{"Timestamp": "2020-10-26 15:37:12", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "9/26", "New Date": "8/26"}},
+{"Timestamp": "2020-10-26 15:37:12", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "8/26", "New Date": "7/26"}},
+{"Timestamp": "2020-10-26 15:37:13", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "7/26", "New Date": "8/26"}},
+{"Timestamp": "2020-10-26 15:37:13", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "9/26", "New Date": "10/26"}},
+{"Timestamp": "2020-10-26 15:37:14", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "11/26", "New Date": "12/26"}},
+{"Timestamp": "2020-10-26 15:37:15", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "12/26", "New Date": "11/26"}},
+{"Timestamp": "2020-10-26 15:37:15", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "11/26", "New Date": "10/26"}},
+{"Timestamp": "2020-10-26 15:37:16", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "10/26", "New Date": "11/26"}},
+{"Timestamp": "2020-10-26 15:37:18", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "11/26", "New Date": "11/1"}},
+{"Timestamp": "2020-10-26 15:37:22", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "11/1", "New Date": "11/3"}},
+{"Timestamp": "2020-10-26 15:37:24", "File": "X_smalldesign.ng3", "Change Date": {"Old Date": "11/3", "New Date": "11/20"}}]}

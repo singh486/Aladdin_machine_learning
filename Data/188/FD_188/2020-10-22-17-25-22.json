@@ -1,0 +1,62 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 18:01:01", "File": "Energy%20house.ng3", "Save": "file:/C:/Users/X/Documents/Energy%20house.ng3*"},
+{"Timestamp": "2020-10-22 18:01:22", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 9.185, "y": -105.53, "z": 102.712}, "Direction": {"x": -0.062, "y": 0.715, "z": -0.696}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:01:45", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 71.37, "y": -110.904, "z": 66.161}, "Direction": {"x": -0.484, "y": 0.752, "z": -0.448}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:01:46", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 142.619, "y": -14.163, "z": 35.07}, "Direction": {"x": -0.967, "y": 0.096, "z": -0.238}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:01:47", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 142.778, "y": 17.364, "z": 32.916}, "Direction": {"x": -0.968, "y": -0.118, "z": -0.223}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:01:54", "File": "Energy%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 6, "Coordinates": [{"x": 40, "y": -30, "z": 1}, {"x": 40, "y": -30, "z": 36}, {"x": 40, "y": 30, "z": 1}, {"x": 40, "y": 30, "z": 36}]}},
+{"Timestamp": "2020-10-22 18:01:59", "File": "Energy%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 6, "Coordinates": [{"x": 40, "y": -30, "z": 1}, {"x": 40, "y": -30, "z": 38.5}, {"x": 40, "y": 30, "z": 1}, {"x": 40, "y": 30, "z": 38.5}]}},
+{"Timestamp": "2020-10-22 18:02:03", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 57.924, "y": 116.978, "z": 68.786}, "Direction": {"x": -0.393, "y": -0.793, "z": -0.466}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:04", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -51.603, "y": 137.002, "z": 18.392}, "Direction": {"x": 0.35, "y": -0.929, "z": -0.125}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:05", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -134.539, "y": 56.973, "z": 20.586}, "Direction": {"x": 0.912, "y": -0.386, "z": -0.14}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:09", "File": "Energy%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 8, "Coordinates": [{"x": 40, "y": 30, "z": 1}, {"x": 40, "y": 30, "z": 33.5}, {"x": -40, "y": 30, "z": 1}, {"x": -40, "y": 30, "z": 33.5}]}},
+{"Timestamp": "2020-10-22 18:02:11", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -2.224, "y": 146.089, "z": 20.586}, "Direction": {"x": 0.015, "y": -0.99, "z": -0.14}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:13", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -95.482, "y": 106.645, "z": 35.786}, "Direction": {"x": 0.647, "y": -0.723, "z": -0.243}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:18", "File": "Energy%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 9, "Coordinates": [{"x": -40, "y": 30, "z": 1}, {"x": -40, "y": 30, "z": 36}, {"x": -40, "y": -30, "z": 1}, {"x": -40, "y": -30, "z": 36}]}},
+{"Timestamp": "2020-10-22 18:02:20", "File": "Energy%20house.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 9, "Coordinates": [{"x": -40, "y": 30, "z": 1}, {"x": -40, "y": 30, "z": 38.5}, {"x": -40, "y": -30, "z": 1}, {"x": -40, "y": -30, "z": 38.5}]}},
+{"Timestamp": "2020-10-22 18:02:23", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -121.178, "y": -64.546, "z": 54.04}, "Direction": {"x": 0.821, "y": 0.437, "z": -0.366}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:36", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 13.431, "y": -129.143, "z": 70.088}, "Direction": {"x": -0.091, "y": 0.875, "z": -0.475}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:39", "File": "Energy%20house.ng3", "Undo": "Edit Wall"},
+{"Timestamp": "2020-10-22 18:02:40", "File": "Energy%20house.ng3", "Undo": "Edit Wall"},
+{"Timestamp": "2020-10-22 18:02:40", "File": "Energy%20house.ng3", "Undo": "Edit Wall"},
+{"Timestamp": "2020-10-22 18:02:41", "File": "Energy%20house.ng3", "Undo": "Edit Wall"},
+{"Timestamp": "2020-10-22 18:02:41", "File": "Energy%20house.ng3", "Undo": "Edit Wall"},
+{"Timestamp": "2020-10-22 18:02:41", "File": "Energy%20house.ng3", "Undo": "Add Window"},
+{"Timestamp": "2020-10-22 18:02:42", "File": "Energy%20house.ng3", "Undo": "Add Window"},
+{"Timestamp": "2020-10-22 18:02:42", "File": "Energy%20house.ng3", "Undo": "Add ShedRoof"},
+{"Timestamp": "2020-10-22 18:02:45", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -102.896, "y": -81.424, "z": 67.477}, "Direction": {"x": 0.697, "y": 0.552, "z": -0.457}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:02:59", "File": "Energy%20house.ng3", "Add HipRoof": {"Type": "HipRoof", "Building": 2, "ID": 13, "Coordinates": [{"x": 0, "y": 0, "z": 46}, {"x": 0, "y": -16, "z": 46}, {"x": 0, "y": 16, "z": 46}]}},
+{"Timestamp": "2020-10-22 18:03:02", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 3.162, "y": -133.771, "z": 62.176}, "Direction": {"x": -0.021, "y": 0.907, "z": -0.421}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:03:07", "File": "Energy%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.96426,1.92273,1.83651,1.71147,1.55615,1.38112,1.19615,0.94261,0.69938,0.50345,0.3667,0.29645,0.28941,0.34281,0.46378,0.64591,0.87546,1.14178,1.33566,1.51379,1.6751,1.80859,1.90518,1.95828]
+, "Total": 28.33}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.96426,1.92273,1.83651,1.71147,1.55615,1.38112,1.19615,0.94261,0.69938,0.50345,0.3667,0.29645,0.28941,0.34281,0.46378,0.64591,0.87546,1.14178,1.33566,1.51379,1.6751,1.80859,1.90518,1.95828]
+, "Total": 28.33}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 1379.29}]},
+{"Timestamp": "2020-10-22 18:08:50", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 5.191, "y": -134.324, "z": 60.835}, "Direction": {"x": -0.035, "y": 0.91, "z": -0.412}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:08:56", "File": "Energy%20house.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 15, "Coordinates": [{"x": -18, "y": -30, "z": 25}, {"x": -18, "y": -30, "z": 9}, {"x": 14, "y": -30, "z": 25}, {"x": 14, "y": -30, "z": 9}]}},
+{"Timestamp": "2020-10-22 18:09:01", "File": "Energy%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.66371,2.60738,2.49046,2.3209,2.11027,1.87292,1.5882,0.2654,0,0,0,0,0,0,0,0,0.05429,1.36993,1.81127,2.05283,2.27158,2.45261,2.58359,2.65559]
+, "Total": 31.17}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.66371,2.60738,2.49046,2.3209,2.11027,1.87292,1.5882,0.2654,0,0,0,0,0,0,0,0,0.05429,1.36993,1.81127,2.05283,2.27158,2.45261,2.58359,2.65559]
+, "Total": 31.17}, "Windows": {"Hourly": [0,0,0,0,0,0,0.03437,1.34403,2.98321,4.14131,4.92997,5.35328,5.40064,5.07051,4.37224,3.30999,1.8124,0.18092,0,0,0,0,0,0]
+, "Total": 38.93}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 1379.29}]},
+{"Timestamp": "2020-10-22 18:11:43", "File": "Energy%20house.ng3", "Undo": "Add Window"},
+{"Timestamp": "2020-10-22 18:11:45", "File": "Energy%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.09575,2.05143,1.95944,1.82604,1.66031,1.47357,1.27593,0.99463,0.72052,0.49505,0.33603,0.25342,0.24499,0.30811,0.44905,0.65956,0.91923,1.21672,1.42507,1.61512,1.78723,1.92966,2.03271,2.08936]
+, "Total": 29.82}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.09575,2.05143,1.95944,1.82604,1.66031,1.47357,1.27593,0.99463,0.72052,0.49505,0.33603,0.25342,0.24499,0.30811,0.44905,0.65956,0.91923,1.21672,1.42507,1.61512,1.78723,1.92966,2.03271,2.08936]
+, "Total": 29.82}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 1379.29}]},
+{"Timestamp": "2020-10-22 18:22:52", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -13.314, "y": -124.695, "z": 77.747}, "Direction": {"x": 0.09, "y": 0.845, "z": -0.527}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:22:53", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": 22.453, "y": -135.989, "z": 52.664}, "Direction": {"x": -0.152, "y": 0.922, "z": -0.357}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:23:02", "File": "Energy%20house.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 16, "Coordinates": [{"x": -16, "y": -30, "z": 25}, {"x": -16, "y": -30, "z": 7}, {"x": 14, "y": -30, "z": 25}, {"x": 14, "y": -30, "z": 7}]}},
+{"Timestamp": "2020-10-22 18:23:05", "File": "Energy%20house.ng3", "Camera": {"Position": {"x": -0.192, "y": -140.059, "z": 46.411}, "Direction": {"x": 0.001, "y": 0.949, "z": -0.315}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 18:23:08", "File": "Energy%20house.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.69477,2.63779,2.5195,2.34797,2.13488,1.89476,1.60528,0.25057,0,0,0,0,0,0,0,0,0.04315,1.37831,1.83239,2.07677,2.29807,2.48121,2.61372,2.68656]
+, "Total": 31.5}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.69477,2.63779,2.5195,2.34797,2.13488,1.89476,1.60528,0.25057,0,0,0,0,0,0,0,0,0.04315,1.37831,1.83239,2.07677,2.29807,2.48121,2.61372,2.68656]
+, "Total": 31.5}, "Windows": {"Hourly": [0,0,0,0,0,0,0.03625,1.41753,3.14635,4.36778,5.19958,5.64603,5.69599,5.3478,4.61134,3.491,1.91152,0.19081,0,0,0,0,0,0]
+, "Total": 41.06}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 1379.29}]}]
+}

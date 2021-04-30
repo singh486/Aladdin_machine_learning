@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:30:11", "File": "yess.ng3", "Add Wall": {"Type": "Wall", "Building": 2, "ID": 31, "Coordinates": [{"x": -40, "y": -52.5, "z": 1}, {"x": -40, "y": -52.5, "z": 31}, {"x": -32.5, "y": -52.5, "z": 1}, {"x": -32.5, "y": -52.5, "z": 31}]}},
+{"Timestamp": "2020-10-30 13:30:13", "File": "yess.ng3", "Undo": "Add Wall"}]
+}

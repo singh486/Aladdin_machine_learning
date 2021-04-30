@@ -1,0 +1,85 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 11:49:45", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Save": "file:/Users/X/Desktop/Energy%20Project%20(Net%20Zero%20House).ng3*"},
+{"Timestamp": "2020-10-30 11:49:49", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 0.639, "y": -98.854, "z": 19.842}, "Direction": {"x": -0.004, "y": 0.977, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 11:49:49", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 0.585, "y": -85.732, "z": 16.977}, "Direction": {"x": -0.004, "y": 0.977, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 11:49:50", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 0.591, "y": -87.241, "z": 17.306}, "Direction": {"x": -0.004, "y": 0.977, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 11:49:50", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 0.687, "y": -110.552, "z": 22.396}, "Direction": {"x": -0.004, "y": 0.977, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 11:49:51", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 0.697, "y": -113.024, "z": 22.936}, "Direction": {"x": -0.004, "y": 0.977, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:00:19", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 12:00:20", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 12:07:06", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 29, "Coordinates": [{"x": -16.076, "y": -24.712, "z": 13}, {"x": -16.076, "y": -24.712, "z": 5}, {"x": -4.076, "y": -24.712, "z": 13}, {"x": -4.076, "y": -24.712, "z": 5}]}},
+{"Timestamp": "2020-10-30 12:07:06", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 0.666, "y": -105.585, "z": 21.312}, "Direction": {"x": -0.004, "y": 0.977, "z": -0.213}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:07:14", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 12:07:20", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [15.9,12.41,0.6,-12.34,-13.29,-6.46,-4.89,-4.5,1.8,0.89,2.37,13.69]
+, "Total": 187.62}, "AC": {"Monthly": [0,0,0,0,9.88,21.75,28.76,26.91,26.2,14.33,0,0]
+, "Total": 3888}, "Heater": {"Monthly": [30.62,29.58,23.67,16.75,9.58,5.39,0,0,3.9,9.63,16.09,25.14]
+, "Total": 5181.73}, "Windows": {"Monthly": [13.83,15.09,18.29,20.02,18.7,18.03,18.4,18.3,19.87,18.37,11.91,10.75]
+, "Total": 6131.14}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:07:27", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 29, "Coordinates": [{"x": -16.076, "y": -24.712, "z": 13}, {"x": -16.076, "y": -24.712, "z": 5}, {"x": -6.076, "y": -24.712, "z": 13}, {"x": -6.076, "y": -24.712, "z": 5}]}},
+{"Timestamp": "2020-10-30 12:07:41", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [15.58,12.09,0.31,-12.58,-13.91,-7.08,-5.57,-5.28,0.85,-0.07,2.15,13.42]
+, "Total": -2.98}, "AC": {"Monthly": [0,0,0,0,9.4,21.21,28.08,26.12,25.31,13.51,0,0]
+, "Total": 3760.51}, "Heater": {"Monthly": [30.3,29.27,23.38,16.52,9.44,5.32,0,0,3.84,9.49,15.87,24.86]
+, "Total": 5118.61}, "Windows": {"Monthly": [12.95,14.15,17.22,18.97,17.93,17.41,17.78,17.58,18.87,17.29,11.15,10.06]
+, "Total": 5820.34}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:07:49", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 3.184, "y": -101.676, "z": 34.76}, "Direction": {"x": -0.027, "y": 0.941, "z": -0.338}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:21:59", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "U-Factor Change for Whole Building": {"Building":2, "Type": "Wall", "New Value": 0.3}},
+{"Timestamp": "2020-10-30 12:22:11", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [25.39,21.6,7.62,-7.51,-12.11,-5.51,-4.39,-3.99,2.63,1.79,6.89,21.35]
+, "Total": 1635.06}, "AC": {"Monthly": [0,0,0,0,8.4,21.23,29.26,27.41,26.01,12.65,0,0]
+, "Total": 3800.72}, "Heater": {"Monthly": [40.12,38.77,30.68,21.58,12.23,6.87,0,0,4.93,12.21,20.62,32.79]
+, "Total": 6716.43}, "Windows": {"Monthly": [12.95,14.15,17.22,18.97,17.93,17.41,17.78,17.58,18.87,17.29,11.15,10.06]
+, "Total": 5820.34}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:22:46", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "U-Factor Change for Whole Building": {"Building":2, "Type": "Wall", "New Value": 0.15}},
+{"Timestamp": "2020-10-30 12:22:58", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [15.58,12.09,0.31,-12.58,-13.91,-7.08,-5.57,-5.28,0.85,-0.07,2.15,13.42]
+, "Total": -2.98}, "AC": {"Monthly": [0,0,0,0,9.4,21.21,28.08,26.12,25.31,13.51,0,0]
+, "Total": 3760.51}, "Heater": {"Monthly": [30.3,29.27,23.38,16.52,9.44,5.32,0,0,3.84,9.49,15.87,24.86]
+, "Total": 5118.61}, "Windows": {"Monthly": [12.95,14.15,17.22,18.97,17.93,17.41,17.78,17.58,18.87,17.29,11.15,10.06]
+, "Total": 5820.34}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:35:24", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": -37.532, "y": -85.86, "z": 51.853}, "Direction": {"x": 0.351, "y": 0.794, "z": -0.497}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:35:29", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 5.835, "y": 102.718, "z": 29.133}, "Direction": {"x": -0.052, "y": -0.957, "z": -0.286}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:35:30", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 6.103, "y": 107.641, "z": 30.604}, "Direction": {"x": -0.052, "y": -0.957, "z": -0.286}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:35:30", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 7.206, "y": 127.933, "z": 36.668}, "Direction": {"x": -0.052, "y": -0.957, "z": -0.286}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:35:30", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 7.316, "y": 129.953, "z": 37.271}, "Direction": {"x": -0.052, "y": -0.957, "z": -0.286}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:35:31", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 7.376, "y": 131.064, "z": 37.603}, "Direction": {"x": -0.052, "y": -0.957, "z": -0.286}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:35:31", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 8.031, "y": 143.121, "z": 41.206}, "Direction": {"x": -0.052, "y": -0.957, "z": -0.286}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:35:31", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 8.204, "y": 146.309, "z": 42.159}, "Direction": {"x": -0.052, "y": -0.957, "z": -0.286}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 12:35:37", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 116.599, "y": 79.393, "z": 53.902}, "Direction": {"x": -0.77, "y": -0.523, "z": -0.366}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:35:41", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Remove Tree": {"Species": "Dogwood", "ID": 41, "Coordinates": [{"x": 61.374, "y": 31.005, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:35:55", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [15.58,12.09,0.31,-12.58,-13.91,-6.74,-5.49,-5.26,0.86,-0.07,2.15,13.42]
+, "Total": 10.83}, "AC": {"Monthly": [0,0,0,0,9.4,21.55,28.16,26.15,25.32,13.51,0,0]
+, "Total": 3774.42}, "Heater": {"Monthly": [30.3,29.27,23.38,16.52,9.44,5.31,0,0,3.84,9.49,15.87,24.86]
+, "Total": 5118.51}, "Windows": {"Monthly": [12.95,14.15,17.22,18.97,17.94,17.45,17.84,17.59,18.88,17.29,11.15,10.06]
+, "Total": 5824.18}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:36:22", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Add Tree": {"Species": "Dogwood", "ID": 43, "Coordinates": [{"x": 61, "y": 34, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:36:25", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 47.705, "y": 128.631, "z": 62.918}, "Direction": {"x": -0.314, "y": -0.849, "z": -0.426}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:36:42", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [15.58,12.09,0.31,-12.58,-13.91,-7.08,-5.62,-5.31,0.85,-0.07,2.15,13.42]
+, "Total": -5.68}, "AC": {"Monthly": [0,0,0,0,9.4,21.21,28.02,26.1,25.31,13.51,0,0]
+, "Total": 3757.86}, "Heater": {"Monthly": [30.3,29.27,23.38,16.52,9.44,5.31,0,0,3.84,9.49,15.87,24.86]
+, "Total": 5118.56}, "Windows": {"Monthly": [12.95,14.15,17.22,18.97,17.9,17.43,17.81,17.56,18.87,17.29,11.15,10.06]
+, "Total": 5820.26}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:36:48", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 125.96, "y": 70.958, "z": 43.932}, "Direction": {"x": -0.832, "y": -0.467, "z": -0.3}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:36:56", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Edit Tree": {"Species": "Dogwood", "ID": 43, "Coordinates": [{"x": 60.826, "y": 35.758, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:36:58", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 12.467, "y": 122.785, "z": 86.354}, "Direction": {"x": -0.081, "y": -0.81, "z": -0.581}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:37:08", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [15.58,12.09,0.31,-12.58,-13.91,-7.08,-5.64,-5.33,0.85,-0.07,2.15,13.42]
+, "Total": -6.74}, "AC": {"Monthly": [0,0,0,0,9.4,21.21,28.01,26.08,25.31,13.51,0,0]
+, "Total": 3756.8}, "Heater": {"Monthly": [30.3,29.27,23.38,16.52,9.44,5.31,0,0,3.84,9.49,15.87,24.86]
+, "Total": 5118.56}, "Windows": {"Monthly": [12.95,14.15,17.22,18.97,17.88,17.41,17.8,17.54,18.86,17.29,11.15,10.06]
+, "Total": 5817.75}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:37:19", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 10.83, "y": 142.218, "z": 49.66}, "Direction": {"x": -0.07, "y": -0.938, "z": -0.338}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:37:23", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 103.519, "y": 88.523, "z": 64.961}, "Direction": {"x": -0.683, "y": -0.583, "z": -0.439}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 12:37:32", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Edit Tree": {"Species": "Dogwood", "ID": 43, "Coordinates": [{"x": 60.869, "y": 28.514, "z": 0}]}},
+{"Timestamp": "2020-10-30 12:37:43", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [15.58,12.09,0.31,-12.58,-13.91,-7.07,-5.69,-5.29,0.85,-0.07,2.15,13.42]
+, "Total": -6.82}, "AC": {"Monthly": [0,0,0,0,9.4,21.21,27.96,26.12,25.31,13.51,0,0]
+, "Total": 3756.6}, "Heater": {"Monthly": [30.3,29.27,23.38,16.52,9.44,5.32,0,0,3.84,9.49,15.87,24.86]
+, "Total": 5118.68}, "Windows": {"Monthly": [12.95,14.15,17.22,18.97,17.93,17.3,17.65,17.58,18.87,17.29,11.15,10.06]
+, "Total": 5813.26}, "Solar Panels": {"Monthly": [14.73,17.18,23.07,29.09,32.75,33.61,33.65,31.41,28.3,23.07,13.72,11.45]
+, "Total": 8882.1}}},
+{"Timestamp": "2020-10-30 12:37:56", "File": "Energy%20Project%20(Net%20Zero%20House).ng3", "Camera": {"Position": {"x": 41.237, "y": 130.841, "z": 62.918}, "Direction": {"x": -0.271, "y": -0.863, "z": -0.426}, "Mode": "Rotate"}}]
+}

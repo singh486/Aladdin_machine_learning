@@ -1,0 +1,17 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-29 20:07:41", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -4.166, "y": -204.858, "z": 67.265}, "Direction": {"x": 0.024, "y": 0.954, "z": -0.3}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:07:49", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-29 20:08:07", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [23.92,9.54,-7.94,-16.04,-9.23,-9.56,-10.74,-13.6,-8.53,-7.1,15.18,31.98]
+, "Total": -64.36}, "AC": {"Monthly": [0,0,0,7.25,26.78,35.73,35.88,30.75,19.19,0,0,0]
+, "Total": 4732.21}, "Heater": {"Monthly": [45.29,35.6,24.18,14.89,7.48,0,0,0,11.12,20.01,32.41,47.24]
+, "Total": 7246.03}, "Windows": {"Monthly": [11.08,12.76,14.96,16.7,19.75,21.4,22.05,21.12,17.88,13.6,9.24,8.02]
+, "Total": 5735.52}, "Solar Panels": {"Monthly": [21.37,26.06,32.12,38.18,43.49,45.29,46.62,44.35,38.84,27.11,17.23,15.26]
+, "Total": 12042.6}}},
+{"Timestamp": "2020-10-29 20:08:15", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -149.69, "y": 132.18, "z": -80.9}, "Direction": {"x": 0.697, "y": -0.605, "z": 0.385}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:08:18", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": 162.922, "y": 136.836, "z": 49.517}, "Direction": {"x": -0.748, "y": -0.626, "z": -0.218}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:08:19", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": 87.473, "y": -190.673, "z": 51.625}, "Direction": {"x": -0.399, "y": 0.888, "z": -0.228}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:08:22", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -8.865, "y": -208.976, "z": 51.625}, "Direction": {"x": 0.046, "y": 0.973, "z": -0.228}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-29 20:08:23", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-29 20:08:26", "File": "ENGT%20180%20Energy%20Zero%20Home%20.ng3", "Camera": {"Position": {"x": -1.934, "y": -173.364, "z": 129.735}, "Direction": {"x": 0.014, "y": 0.808, "z": -0.589}, "Mode": "Rotate"}}]
+}

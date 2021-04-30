@@ -1,0 +1,12 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-23 04:54:27", "File": "first%20house121.ng3", "Camera": {"Position": {"x": 26.724, "y": -165.161, "z": 83.358}, "Direction": {"x": -0.14, "y": 0.931, "z": -0.337}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 04:54:43", "File": "first%20house121.ng3", "Camera": {"Position": {"x": 114.606, "y": 182.17, "z": 55.787}, "Direction": {"x": -0.542, "y": -0.824, "z": -0.168}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 04:54:49", "File": "first%20house121.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 119, "Coordinates": [{"x": 66.5, "y": 36.736, "z": 32.5}, {"x": 66.5, "y": 36.736, "z": 22.5}, {"x": 32.5, "y": 36.736, "z": 32.5}, {"x": 32.5, "y": 36.736, "z": 22.5}]}},
+{"Timestamp": "2020-10-23 04:54:50", "File": "first%20house121.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 120, "Coordinates": [{"x": 26.5, "y": 36.736, "z": 32.5}, {"x": 26.5, "y": 36.736, "z": 22.5}, {"x": -9.5, "y": 36.736, "z": 32.5}, {"x": -9.5, "y": 36.736, "z": 22.5}]}},
+{"Timestamp": "2020-10-23 04:54:54", "File": "first%20house121.ng3", "Remove Window": {"Type": "Window", "Building": 4, "ID": 121, "Coordinates": [{"x": -13.5, "y": 36.736, "z": 32.5}, {"x": -13.5, "y": 36.736, "z": 22.5}, {"x": -37.5, "y": 36.736, "z": 32.5}, {"x": -37.5, "y": 36.736, "z": 22.5}]}},
+{"Timestamp": "2020-10-23 04:55:04", "File": "first%20house121.ng3", "Camera": {"Position": {"x": 88.111, "y": -177.529, "z": 65.092}, "Direction": {"x": -0.416, "y": 0.884, "z": -0.212}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 04:55:20", "File": "first%20house121.ng3", "Add Tree": {"Species": "Dogwood", "ID": 149, "Coordinates": [{"x": 93, "y": 44, "z": 2.5}]}},
+{"Timestamp": "2020-10-23 04:55:27", "File": "first%20house121.ng3", "Add Tree": {"Species": "Dogwood", "ID": 150, "Coordinates": [{"x": 92, "y": 19, "z": 2.5}]}},
+{"Timestamp": "2020-10-23 04:55:32", "File": "first%20house121.ng3", "Add Tree": {"Species": "Dogwood", "ID": 151, "Coordinates": [{"x": 92, "y": -14, "z": 2.5}]}}]
+}

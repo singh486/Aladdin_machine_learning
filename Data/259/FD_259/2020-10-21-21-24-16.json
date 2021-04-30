@@ -1,0 +1,16 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 21:24:26", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": -74.894, "y": 31.154, "z": 63.603}, "Direction": {"x": 0.727, "y": -0.302, "z": -0.617}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 21:24:28", "File": "X_finaldesign.ng3", "Remove PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 14, "Coordinates": [{"x": 7.5, "y": 0, "z": 46}]}},
+{"Timestamp": "2020-10-21 21:24:32", "File": "X_finaldesign.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 17, "Coordinates": [{"x": -40, "y": -0.683, "z": 15.625}]}},
+{"Timestamp": "2020-10-21 21:24:33", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": -99.275, "y": -18.147, "z": 20.981}, "Direction": {"x": 0.963, "y": 0.176, "z": -0.204}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 21:24:36", "File": "X_finaldesign.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -45, "y": -25, "z": 0}, {"x": -45, "y": 20, "z": 0}, {"x": 55, "y": -25, "z": 0}, {"x": 55, "y": 20, "z": 0}, {"x": -45, "y": -25, "z": 46}, {"x": -45, "y": 20, "z": 46}, {"x": 55, "y": -25, "z": 46}, {"x": 55, "y": 20, "z": 46}, {"x": 58, "y": -2.5, "z": 0}, {"x": -48, "y": -2.5, "z": 0}, {"x": 5, "y": 23, "z": 0}, {"x": 5, "y": -28, "z": 0}], "Height": 6, "Area": 152, "CenterX": 1.5, "CenterY": -0}},
+{"Timestamp": "2020-10-21 21:24:37", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": 72.383, "y": 68.437, "z": 26.497}, "Direction": {"x": -0.702, "y": -0.664, "z": -0.257}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 21:24:38", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": 72.039, "y": 68.798, "z": 26.497}, "Direction": {"x": -0.699, "y": -0.667, "z": -0.257}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 21:24:40", "File": "X_finaldesign.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -45, "y": -25, "z": 0}, {"x": -45, "y": 25, "z": 0}, {"x": 60, "y": -25, "z": 0}, {"x": 60, "y": 25, "z": 0}, {"x": -45, "y": -25, "z": 46}, {"x": -45, "y": 25, "z": 46}, {"x": 60, "y": -25, "z": 46}, {"x": 60, "y": 25, "z": 46}, {"x": 63, "y": 0, "z": 0}, {"x": -48, "y": 0, "z": 0}, {"x": 7.5, "y": 28, "z": 0}, {"x": 7.5, "y": -28, "z": 0}], "Height": 6, "Area": 152, "CenterX": 1.5, "CenterY": -0}},
+{"Timestamp": "2020-10-21 21:24:42", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": 4.553, "y": -85.532, "z": 57.347}, "Direction": {"x": -0.044, "y": 0.83, "z": -0.556}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 21:24:45", "File": "X_finaldesign.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 9, "Coordinates": [{"x": -40, "y": -20, "z": 1}, {"x": -40, "y": -20, "z": 31}, {"x": 55, "y": -20, "z": 1}, {"x": 55, "y": -20, "z": 31}]}},
+{"Timestamp": "2020-10-21 21:24:46", "File": "X_finaldesign.ng3", "Undo": "Remove Wall"},
+{"Timestamp": "2020-10-21 21:24:48", "File": "X_finaldesign.ng3", "Remove Floor": {"Type": "Floor", "Building": 2, "ID": 13, "Coordinates": [{"x": 7.5, "y": 0, "z": 31}]}},
+{"Timestamp": "2020-10-21 21:24:56", "File": "X_finaldesign.ng3", "Change Height for All Walls on Selected Foundation": {"Foundation": 2, "New Value": 15.0}}]
+}

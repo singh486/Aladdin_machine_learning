@@ -1,0 +1,28 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-22 19:00:55", "File": "SmallDesign.ng3", "Camera": {"Position": {"x": -6.298, "y": -136.366, "z": 96.584}, "Direction": {"x": 0.11, "y": 0.925, "z": -0.363}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 19:01:15", "File": "SmallDesign.ng3", "Add Tree": {"Species": "Dogwood", "ID": 49, "Coordinates": [{"x": 32, "y": -20, "z": 1}]}},
+{"Timestamp": "2020-10-22 19:01:18", "File": "SmallDesign.ng3", "Camera": {"Position": {"x": -14.289, "y": -143.06, "z": 77.104}, "Direction": {"x": 0.11, "y": 0.925, "z": -0.363}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-22 19:01:19", "File": "SmallDesign.ng3", "Camera": {"Position": {"x": -18.543, "y": -144.351, "z": 72.528}, "Direction": {"x": 0.11, "y": 0.925, "z": -0.363}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-22 19:01:21", "File": "SmallDesign.ng3", "Camera": {"Position": {"x": 20.993, "y": -138.58, "z": 84.103}, "Direction": {"x": -0.141, "y": 0.889, "z": -0.436}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 19:01:23", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "10/22", "New Date": "9/22"}},
+{"Timestamp": "2020-10-22 19:01:24", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "8/22", "New Date": "7/22"}},
+{"Timestamp": "2020-10-22 19:01:26", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "6/22", "New Date": "7/22"}},
+{"Timestamp": "2020-10-22 19:01:29", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "7/22", "New Date": "6/22"}},
+{"Timestamp": "2020-10-22 19:01:30", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "6/22", "New Date": "7/22"}},
+{"Timestamp": "2020-10-22 19:01:32", "File": "SmallDesign.ng3", "Change Time": {"Old Time": "11:47", "New Time": "12:47"}},
+{"Timestamp": "2020-10-22 19:01:57", "File": "SmallDesign.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-22 19:01:59", "File": "SmallDesign.ng3", "Show Shadow": false},
+{"Timestamp": "2020-10-22 19:02:00", "File": "SmallDesign.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-22 19:02:36", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "7/22", "New Date": "8/22"}},
+{"Timestamp": "2020-10-22 19:02:36", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "8/22", "New Date": "9/22"}},
+{"Timestamp": "2020-10-22 19:02:36", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "9/22", "New Date": "10/22"}},
+{"Timestamp": "2020-10-22 19:02:37", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "10/22", "New Date": "11/22"}},
+{"Timestamp": "2020-10-22 19:02:39", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "11/22", "New Date": "12/22"}},
+{"Timestamp": "2020-10-22 19:02:46", "File": "SmallDesign.ng3", "Camera": {"Position": {"x": 39.075, "y": -145.575, "z": 55.267}, "Direction": {"x": -0.255, "y": 0.933, "z": -0.254}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-22 19:03:17", "File": "SmallDesign.ng3", "Change Time": {"Old Time": "12:47", "New Time": "12:0"}},
+{"Timestamp": "2020-10-22 19:03:17", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "1/1", "New Date": "1/22"}},
+{"Timestamp": "2020-10-22 19:03:19", "File": "SmallDesign.ng3", "Change Date": {"Old Date": "1/22", "New Date": "12/22"}},
+{"Timestamp": "2020-10-22 19:03:21", "File": "SmallDesign.ng3", "Camera": {"Position": {"x": 39.37, "y": -139.636, "z": 76.813}, "Direction": {"x": -0.255, "y": 0.933, "z": -0.254}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-22 19:03:24", "File": "SmallDesign.ng3", "Camera": {"Position": {"x": 5.114, "y": -149.701, "z": 49.609}, "Direction": {"x": -0.042, "y": 0.996, "z": -0.081}, "Mode": "Rotate"}}]
+}

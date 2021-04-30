@@ -1,0 +1,8 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 16:01:36", "File": "(X)%20Design.ng3", "Camera": {"Position": {"x": -11.279, "y": -165.346, "z": 85.781}, "Direction": {"x": 0.04, "y": 0.904, "z": -0.425}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:01:50", "File": "(X)%20Design.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 16:01:53", "File": "(X)%20Design.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 16:01:54", "File": "(X)%20Design.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 16:02:34", "File": "(X)%20Design.ng3", "Spin View": true}]
+}

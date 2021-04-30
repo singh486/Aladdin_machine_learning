@@ -1,0 +1,4 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-23 09:20:29", "File": "@optimization-solar-panel-tilt-angle.ng3", "SolarPanelTiltAngleOptimizer": {"Generations": 5, "Population": 20, "Mutation Rate": 0.1, "Selection Method": "Roulette Wheel", "Search Method": "Global Search Uniform Selection", "Convergence Threshold:": 0.01, "Parameters": [{"Name": "Tilt Angle (3)", "Initial Value": 0.0, "Final Value": -42.971668847530296}], "Initial Objective": 234.91170388287617, "Final Objective": 285.0860565881561, "Time Period": "Annual"}}]
+}

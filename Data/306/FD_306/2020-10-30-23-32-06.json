@@ -1,0 +1,117 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 23:32:13", "File": "house%201.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-30 23:32:23", "File": "house%201.ng3", "Change Date": {"Old Date": "5/29", "New Date": "6/29"}},
+{"Timestamp": "2020-10-30 23:32:24", "File": "house%201.ng3", "Change Date": {"Old Date": "8/29", "New Date": "9/29"}},
+{"Timestamp": "2020-10-30 23:32:25", "File": "house%201.ng3", "Change Date": {"Old Date": "9/29", "New Date": "10/29"}},
+{"Timestamp": "2020-10-30 23:32:25", "File": "house%201.ng3", "Change Date": {"Old Date": "10/29", "New Date": "11/29"}},
+{"Timestamp": "2020-10-30 23:32:32", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:37", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:37", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:41", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:42", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:45", "File": "house%201.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-30 23:32:48", "File": "house%201.ng3", "Change Date": {"Old Date": "11/29", "New Date": "12/29"}},
+{"Timestamp": "2020-10-30 23:32:53", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:55", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:55", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:56", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:32:57", "File": "house%201.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-30 23:32:59", "File": "house%201.ng3", "Change Date": {"Old Date": "12/29", "New Date": "1/29"}},
+{"Timestamp": "2020-10-30 23:33:05", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:06", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:07", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:07", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:08", "File": "house%201.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-30 23:33:15", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:24", "File": "house%201.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-30 23:33:28", "File": "house%201.ng3", "Change Date": {"Old Date": "1/29", "New Date": "2/28"}},
+{"Timestamp": "2020-10-30 23:33:32", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:34", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:35", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:33:38", "File": "house%201.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-30 23:33:40", "File": "house%201.ng3", "Change Date": {"Old Date": "2/28", "New Date": "3/28"}},
+{"Timestamp": "2020-10-30 23:33:56", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:34:00", "File": "house%201.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-30 23:34:04", "File": "house%201.ng3", "Adjust Thermostat": null},
+{"Timestamp": "2020-10-30 23:34:21", "File": "house%201.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [3.30798,3.2501,3.12995,2.95571,2.73927,2.49537,0.42922,-1.16092,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.38755,-0.19592,2.31892,2.86042,2.90503,3.09105,3.22565,3.29964]
+, "Total": 14.42}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.30798,3.2501,3.12995,2.95571,2.73927,2.49537,0.84886,0,0,0,0,0,0,0,0,0,0,0.47086,2.34572,2.86042,2.90503,3.09105,3.22565,3.29964]
+, "Total": 36.93}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}, "Solar Potential": [{"Building": 2, "Daily": 789.06}]},
+{"Timestamp": "2020-10-30 23:34:27", "File": "house%201.ng3", "Camera": {"Position": {"x": -126.516, "y": -30.241, "z": 43.838}, "Direction": {"x": 0.925, "y": 0.209, "z": -0.318}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:34:31", "File": "house%201.ng3", "Camera": {"Position": {"x": 50.652, "y": -90.136, "z": 101.106}, "Direction": {"x": -0.308, "y": 0.626, "z": -0.717}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:34:34", "File": "house%201.ng3", "Camera": {"Position": {"x": -19.508, "y": -136.314, "z": 36.276}, "Direction": {"x": 0.18, "y": 0.947, "z": -0.266}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 23:34:43", "File": "house%201.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [3.30798,3.2501,3.12995,2.95571,2.73927,2.49537,0.42922,-1.16092,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.38755,-0.19592,2.31892,2.86042,2.90503,3.09105,3.22565,3.29964]
+, "Total": 14.42}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.30798,3.2501,3.12995,2.95571,2.73927,2.49537,0.84886,0,0,0,0,0,0,0,0,0,0,0.47086,2.34572,2.86042,2.90503,3.09105,3.22565,3.29964]
+, "Total": 36.93}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}, "Solar Potential": [{"Building": 2, "Daily": 789.06}]},
+{"Timestamp": "2020-10-30 23:34:53", "File": "house%201.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [3.30798,3.2501,3.12995,2.95571,2.73927,2.49537,0.42922,-1.16092,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.38755,-0.19592,2.31892,2.86042,2.90503,3.09105,3.22565,3.29964]
+, "Total": 14.42}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.30798,3.2501,3.12995,2.95571,2.73927,2.49537,0.84886,0,0,0,0,0,0,0,0,0,0,0.47086,2.34572,2.86042,2.90503,3.09105,3.22565,3.29964]
+, "Total": 36.93}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}},
+{"Timestamp": "2020-10-30 23:35:02", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:35:03", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:35:04", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:35:05", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:35:07", "File": "house%201.ng3", "Adjust Thermostat": {"Building": 2}},
+{"Timestamp": "2020-10-30 23:35:12", "File": "house%201.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [3.84851,3.79064,3.67049,3.49625,3.27981,3.0359,0.8736,-1.16092,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.38755,0.19162,2.85946,3.40096,3.44556,3.63159,3.94636,3.84017]
+, "Total": 21.92}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.84851,3.79064,3.67049,3.49625,3.27981,3.0359,1.29323,0,0,0,0,0,0,0,0,0,0,0.85839,2.88625,3.40096,3.44556,3.63159,3.94636,3.84017]
+, "Total": 44.42}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}, "Solar Potential": [{"Building": 2, "Daily": 789.06}]},
+{"Timestamp": "2020-10-30 23:35:19", "File": "house%201.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [3.84851,3.79064,3.67049,3.49625,3.27981,3.0359,0.8736,-1.16092,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.38755,0.19162,2.85946,3.40096,3.44556,3.63159,3.94636,3.84017]
+, "Total": 21.92}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.84851,3.79064,3.67049,3.49625,3.27981,3.0359,1.29323,0,0,0,0,0,0,0,0,0,0,0.85839,2.88625,3.40096,3.44556,3.63159,3.94636,3.84017]
+, "Total": 44.42}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}},
+{"Timestamp": "2020-10-30 23:35:50", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:35:54", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:35:59", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:36:01", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:36:03", "File": "house%201.ng3", "Adjust Thermostat": {"Building": 2}},
+{"Timestamp": "2020-10-30 23:36:10", "File": "house%201.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [4.02869,3.97081,3.85067,3.67643,3.45999,3.21608,1.05378,-1.16092,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.38755,0.34466,3.03963,3.58114,3.62574,3.99195,4.4869,4.02035]
+, "Total": 24.96}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [4.02869,3.97081,3.85067,3.67643,3.45999,3.21608,1.47341,0,0,0,0,0,0,0,0,0,0,1.01143,3.06643,3.58114,3.62574,3.99195,4.4869,4.02035]
+, "Total": 47.46}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}, "Solar Potential": [{"Building": 2, "Daily": 789.06}]},
+{"Timestamp": "2020-10-30 23:36:21", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:36:22", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:36:23", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:36:23", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:36:24", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:36:38", "File": "house%201.ng3", "Adjust Thermostat": {"Building": 2}},
+{"Timestamp": "2020-10-30 23:36:47", "File": "house%201.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [4.74941,4.69153,4.57138,4.39715,4.1807,3.9368,1.7745,-1.06238,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.30283,1.06538,3.76035,4.30186,4.34646,4.71267,5.3878,4.74107]
+, "Total": 35.41}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [4.74941,4.69153,4.57138,4.39715,4.1807,3.9368,2.19413,0.09854,0,0,0,0,0,0,0,0,0.08472,1.73215,3.78715,4.30186,4.34646,4.71267,5.3878,4.74107]
+, "Total": 57.91}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}},
+{"Timestamp": "2020-10-30 23:36:57", "File": "house%201.ng3", "Undo": "Thermostat Adjustment"},
+{"Timestamp": "2020-10-30 23:37:07", "File": "house%201.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [4.56923,4.51135,4.3912,4.21697,4.00052,3.75662,1.59432,-1.10743,-1.68549,-2.1314,-2.54172,-2.77548,-2.81869,-2.66834,-2.33165,-1.88682,-1.34788,0.8852,3.58017,4.12168,4.16628,4.53249,5.20762,4.56089]
+, "Total": 32.8}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [4.56923,4.51135,4.3912,4.21697,4.00052,3.75662,2.01395,0.05349,0,0,0,0,0,0,0,0,0.03967,1.55197,3.60697,4.12168,4.16628,4.53249,5.20762,4.56089]
+, "Total": 55.3}, "Windows": {"Hourly": [0,0,0,0,0,0,1.47579,3.80619,5.21142,6.02596,6.34715,6.11798,5.99903,6.10147,5.74739,4.97122,3.6653,1.86858,0.08551,0,0,0,0,0]
+, "Total": 57.42}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.41963,1.16092,1.68549,2.1314,2.54172,2.77548,2.81869,2.66834,2.33165,1.88682,1.38755,0.66678,0.0268,0,0,0,0,0]
+, "Total": 22.5}}},
+{"Timestamp": "2020-10-30 23:37:16", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:18", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:19", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:19", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:21", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:23", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:26", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:29", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:50", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:37:56", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:38:07", "File": "house%201.ng3", "Thermostat Adjustment": {"Building":2}},
+{"Timestamp": "2020-10-30 23:38:09", "File": "house%201.ng3", "Adjust Thermostat": {"Building": 2}}]
+}

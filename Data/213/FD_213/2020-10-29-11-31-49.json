@@ -1,0 +1,20 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 11:02:17", "File": "expensiive_house.ng3", "Save": "file:/C:/Users/X/Documents/ENGT%2018000/expensiive_house.ng3*"},
+{"Timestamp": "2020-10-30 11:08:54", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-30 11:08:54", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Move": {"Displacement": "(0.0, 5.0)"}},
+{"Timestamp": "2020-10-30 11:08:56", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-30 11:08:59", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change Date": {"Old Date": "7/1", "New Date": "8/1"}},
+{"Timestamp": "2020-10-30 11:08:59", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change Date": {"Old Date": "9/1", "New Date": "10/1"}},
+{"Timestamp": "2020-10-30 11:09:00", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change Date": {"Old Date": "10/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-30 11:09:02", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Camera": {"Position": {"x": -81.023, "y": -103.406, "z": 62.205}, "Direction": {"x": 0.598, "y": 0.751, "z": -0.279}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 11:09:16", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 11:09:17", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 11:09:18", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 11:09:58", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [3.05185,2.99253,2.86937,2.69078,2.46892,2.21891,1.95779,1.70336,1.15927,0.63712,0.1668,-0.78936,-1.30098,-1.67259,-1.57794,-1.3048,-0.60836,0.78215,2.11073,2.40842,2.63882,2.82951,2.96747,3.04331]
+, "Total": 31.44}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [3.05185,2.99253,2.86937,2.69078,2.46892,2.21891,1.95779,1.70336,1.22414,0.78522,0.4522,0.01992,0,0,0,0,0.28786,1.15605,2.12223,2.40842,2.63882,2.82951,2.96747,3.04331]
+, "Total": 39.89}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0.20691,0.41398,0.56911,0.90863,1.17254,1.39365,1.42603,1.34409,1.1122,0.61185,0.02683,0,0,0,0,0]
+, "Total": 9.19}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0.06487,0.14809,0.2854,0.80928,1.30098,1.67259,1.57794,1.3048,0.89621,0.3739,0.01149,0,0,0,0,0]
+, "Total": 8.45}}}]
+}

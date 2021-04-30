@@ -1,0 +1,187 @@
+{
+"Activities": [
+{"Timestamp": "2020-10-23 14:24:43", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 57.43, "y": -106.892, "z": 33.839}, "Direction": {"x": -0.495, "y": 0.842, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:24:43", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 59.873, "y": -111.048, "z": 34.891}, "Direction": {"x": -0.495, "y": 0.842, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:24:43", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 63.025, "y": -116.412, "z": 36.248}, "Direction": {"x": -0.495, "y": 0.842, "z": -0.213}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:25:49", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 44.081, "y": -126.638, "z": 31.538}, "Direction": {"x": -0.357, "y": 0.917, "z": -0.179}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:26:04", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-23 14:26:09", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-23 14:26:15", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-23 14:26:19", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-23 14:26:36", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-23 14:26:37", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-23 14:26:38", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-23 14:26:41", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-23 14:26:47", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 43.666, "y": -125.574, "z": 31.33}, "Direction": {"x": -0.357, "y": 0.917, "z": -0.179}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:26:48", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 40.882, "y": -118.426, "z": 29.936}, "Direction": {"x": -0.357, "y": 0.917, "z": -0.179}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:26:48", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 39.653, "y": -115.269, "z": 29.32}, "Direction": {"x": -0.357, "y": 0.917, "z": -0.179}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:26:48", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 40.849, "y": -118.34, "z": 29.919}, "Direction": {"x": -0.357, "y": 0.917, "z": -0.179}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:26:49", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 42.178, "y": -121.753, "z": 30.585}, "Direction": {"x": -0.357, "y": 0.917, "z": -0.179}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:26:49", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 47.187, "y": -134.616, "z": 33.094}, "Direction": {"x": -0.357, "y": 0.917, "z": -0.179}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:26:50", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-23 14:27:42", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Tree": {"Species": "Dogwood", "ID": 368, "Coordinates": [{"x": 25, "y": -64, "z": 0}]}},
+{"Timestamp": "2020-10-23 14:28:00", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -17.865, "y": -44.419, "z": 23.09}, "Direction": {"x": 0.165, "y": 0.968, "z": -0.187}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:28:01", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -17.959, "y": -44.403, "z": 23.09}, "Direction": {"x": 0.17, "y": 0.967, "z": -0.187}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:28:03", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -17.962, "y": -44.421, "z": 22.996}, "Direction": {"x": 0.17, "y": 0.968, "z": -0.183}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:28:20", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -17.802, "y": -43.508, "z": 22.824}, "Direction": {"x": 0.17, "y": 0.968, "z": -0.183}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:26", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -2.243, "y": -120.781, "z": 13.855}, "Direction": {"x": -0.133, "y": 0.989, "z": 0.061}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:26", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -4.228, "y": -106.026, "z": 14.77}, "Direction": {"x": -0.133, "y": 0.989, "z": 0.061}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:26", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -5.233, "y": -98.555, "z": 15.234}, "Direction": {"x": -0.133, "y": 0.989, "z": 0.061}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:27", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -3.117, "y": -114.29, "z": 14.257}, "Direction": {"x": -0.133, "y": 0.989, "z": 0.061}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:27", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 1.021, "y": -145.049, "z": 12.349}, "Direction": {"x": -0.133, "y": 0.989, "z": 0.061}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:27", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 3.597, "y": -164.201, "z": 11.16}, "Direction": {"x": -0.133, "y": 0.989, "z": 0.061}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:27", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 5.685, "y": -179.72, "z": 10.197}, "Direction": {"x": -0.133, "y": 0.989, "z": 0.061}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:28:31", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 115.568, "y": -123.087, "z": 41.871}, "Direction": {"x": -0.736, "y": 0.668, "z": -0.113}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:28:35", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Tree": {"Species": "Dogwood", "ID": 369, "Coordinates": [{"x": -24, "y": -54, "z": 0}]}},
+{"Timestamp": "2020-10-23 14:28:38", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": -22.987, "y": -180.73, "z": 52.673}, "Direction": {"x": 0.026, "y": 0.985, "z": -0.173}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:28:41", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 369, "Coordinates": [{"x": -15.104, "y": -63.943, "z": 0}]}},
+{"Timestamp": "2020-10-23 14:28:44", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 368, "Coordinates": [{"x": 16.228, "y": -68.146, "z": 0}]}},
+{"Timestamp": "2020-10-23 14:28:45", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 105.08, "y": -130.415, "z": 57.143}, "Direction": {"x": -0.678, "y": 0.708, "z": -0.197}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:29:16", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 105.597, "y": -129.666, "z": 58.034}, "Direction": {"x": -0.681, "y": 0.704, "z": -0.202}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:29:24", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-23 14:29:34", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [39.79,40.67,31.89,23.62,12.95,23.76,34.37,34.73,26.55,12.16,20.39,30.84]
+, "Total": 10090.23}, "AC": {"Monthly": [0,0,0,0,0,15.73,34.37,34.73,26.55,0,0,0]
+, "Total": 3388.09}, "Heater": {"Monthly": [39.79,40.67,31.89,23.62,12.95,8.03,0,0,0,12.16,20.39,30.84]
+, "Total": 6702.14}, "Windows": {"Monthly": [13.76,13.6,17.97,20.76,26.06,29.24,29.82,26.84,22.17,18.41,11.25,11.4]
+, "Total": 7338.44}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:29:49", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 368, "Coordinates": [{"x": 7.838, "y": -62.649, "z": 0}]}},
+{"Timestamp": "2020-10-23 14:29:49", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 106.236, "y": -129.045, "z": 58.034}, "Direction": {"x": -0.684, "y": 0.701, "z": -0.202}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:29:55", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 368, "Coordinates": [{"x": 7.838, "y": -62.649, "z": 0}]}},
+{"Timestamp": "2020-10-23 14:29:57", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Tree": {"Species": "Dogwood", "ID": 369, "Coordinates": [{"x": -15.104, "y": -63.943, "z": 0}]}},
+{"Timestamp": "2020-10-23 14:30:16", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [39.79,40.67,31.89,23.62,12.95,23.76,34.37,34.73,26.55,12.16,20.39,30.84]
+, "Total": 10090.22}, "AC": {"Monthly": [0,0,0,0,0,15.73,34.37,34.73,26.55,0,0,0]
+, "Total": 3388.09}, "Heater": {"Monthly": [39.79,40.67,31.89,23.62,12.95,8.03,0,0,0,12.16,20.39,30.84]
+, "Total": 6702.13}, "Windows": {"Monthly": [13.77,13.6,17.97,20.76,26.06,29.24,29.82,26.84,22.17,18.41,11.3,11.4]
+, "Total": 7340.55}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:30:31", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 120, "ID": 370, "Coordinates": [{"x": -12.932, "y": -28.496, "z": 18.821}]}},
+{"Timestamp": "2020-10-23 14:30:36", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 120, "ID": 372, "Coordinates": [{"x": 17.593, "y": -28.496, "z": 18.824}]}},
+{"Timestamp": "2020-10-23 14:30:42", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 322, "ID": 374, "Coordinates": [{"x": 3.58, "y": -9.237, "z": 29.81}]}},
+{"Timestamp": "2020-10-23 14:31:01", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [39.79,40.67,31.89,23.62,12.95,23.76,34.37,34.73,26.55,12.16,20.39,30.84]
+, "Total": 10090.22}, "AC": {"Monthly": [0,0,0,0,0,15.73,34.37,34.73,26.55,0,0,0]
+, "Total": 3388.09}, "Heater": {"Monthly": [39.79,40.67,31.89,23.62,12.95,8.03,0,0,0,12.16,20.39,30.84]
+, "Total": 6702.13}, "Windows": {"Monthly": [13.77,13.6,17.97,20.76,26.06,29.24,29.82,26.84,22.17,18.41,11.3,11.4]
+, "Total": 7340.55}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:31:17", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-23 14:31:45", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 14:31:53", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Adjust Thermostat": {"Building": 165}},
+{"Timestamp": "2020-10-23 14:32:00", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 106.725, "y": -129.546, "z": 58.179}, "Direction": {"x": -0.684, "y": 0.701, "z": -0.202}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:32:21", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 104.119, "y": -126.878, "z": 57.409}, "Direction": {"x": -0.684, "y": 0.701, "z": -0.202}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:32:25", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 103.508, "y": -127.471, "z": 57.409}, "Direction": {"x": -0.681, "y": 0.704, "z": -0.202}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:32:50", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-23 14:33:00", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [46.08,45.04,32.9,22.62,24.39,33.84,36.91,35.38,33.29,22.33,22.32,37.67]
+, "Total": 11946.86}, "AC": {"Monthly": [0,0,0,0,12.53,26.52,36.91,35.38,27.83,9.09,0,0]
+, "Total": 4509.81}, "Heater": {"Monthly": [46.08,45.04,32.9,22.62,11.86,7.32,0,0,5.46,13.24,22.32,37.67]
+, "Total": 7437.05}, "Windows": {"Monthly": [11.34,11.7,15.77,20.83,25.84,29.09,30.06,26.53,22.17,17.18,9.7,8.45]
+, "Total": 6954.79}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:33:12", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 376, "Coordinates": [{"x": -13.755, "y": 11.281, "z": 25.056}]}},
+{"Timestamp": "2020-10-23 14:33:15", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 378, "Coordinates": [{"x": 16.357, "y": 10.868, "z": 25.302}]}},
+{"Timestamp": "2020-10-23 14:33:19", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 28.469, "y": 109.648, "z": 145.528}, "Direction": {"x": -0.249, "y": -0.66, "z": -0.709}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:33:37", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [45.1,43.78,29.82,15.82,13.85,21.15,23.94,24.6,25.83,17.62,21.16,36.92]
+, "Total": 9720.84}, "AC": {"Monthly": [0,0,0,0,12.53,26.52,36.91,35.37,27.81,8.12,0,0]
+, "Total": 4479.64}, "Heater": {"Monthly": [46.08,45.05,32.91,22.62,11.86,7.32,0,0,5.46,13.24,22.32,37.67]
+, "Total": 7437.49}, "Windows": {"Monthly": [11.34,11.7,15.77,20.83,25.84,29.09,30.06,26.53,22.17,17.18,9.7,8.45]
+, "Total": 6954.79}, "Solar Panels": {"Monthly": [0.98,1.27,3.08,6.8,10.54,12.69,12.97,10.77,7.44,3.74,1.16,0.75]
+, "Total": 2196.28}}},
+{"Timestamp": "2020-10-23 14:33:50", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 28.686, "y": 110.223, "z": 144.913}, "Direction": {"x": -0.251, "y": -0.663, "z": -0.705}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:33:58", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 322, "ID": 374, "Coordinates": [{"x": 3.58, "y": -9.237, "z": 29.81}]}},
+{"Timestamp": "2020-10-23 14:33:59", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 28.479, "y": 109.674, "z": 144.329}, "Direction": {"x": -0.251, "y": -0.663, "z": -0.705}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:33:59", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 25.631, "y": 102.138, "z": 136.31}, "Direction": {"x": -0.251, "y": -0.663, "z": -0.705}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:34:11", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 376, "Coordinates": [{"x": -13.755, "y": 11.281, "z": 25.056}]}},
+{"Timestamp": "2020-10-23 14:34:17", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 378, "Coordinates": [{"x": 16.357, "y": 10.868, "z": 25.302}]}},
+{"Timestamp": "2020-10-23 14:34:18", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 24.088, "y": 98.056, "z": 133.145}, "Direction": {"x": -0.249, "y": -0.66, "z": -0.709}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:34:20", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 120, "ID": 370, "Coordinates": [{"x": -12.932, "y": -28.496, "z": 18.821}]}},
+{"Timestamp": "2020-10-23 14:34:22", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 120, "ID": 372, "Coordinates": [{"x": 17.593, "y": -28.496, "z": 18.824}]}},
+{"Timestamp": "2020-10-23 14:34:41", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 322, "Net": {"Monthly": [17.01,16.5,12.97,9.48,6.03,6.06,4.51,5.16,7.21,8.33,8.49,13.77]
+, "Total": 3513.33}, "AC": {"Monthly": [0,0,0,0,1.31,3.24,4.51,5.16,5.2,3.38,0,0]
+, "Total": 693.67}, "Heater": {"Monthly": [17.01,16.5,12.97,9.48,4.72,2.82,0,0,2.01,4.95,8.49,13.77]
+, "Total": 2819.66}, "Windows": {"Monthly": [4,4.23,4.83,3.19,2.05,2.25,2.31,2.09,3.08,4.87,3.41,3.09]
+, "Total": 1197.99}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:34:59", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 381, "Coordinates": [{"x": -13.343, "y": 5.093, "z": 28.744}]}},
+{"Timestamp": "2020-10-23 14:35:03", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 383, "Coordinates": [{"x": 16.357, "y": 5.506, "z": 28.498}]}},
+{"Timestamp": "2020-10-23 14:35:06", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 385, "Coordinates": [{"x": -12.518, "y": 13.756, "z": 23.58}]}},
+{"Timestamp": "2020-10-23 14:35:09", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 387, "Coordinates": [{"x": 15.945, "y": 13.343, "z": 23.826}]}},
+{"Timestamp": "2020-10-23 14:35:33", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 322, "Net": {"Monthly": [17.01,16.5,12.97,9.48,6.03,6.06,4.51,5.16,7.21,8.33,8.49,13.77]
+, "Total": 3513.33}, "AC": {"Monthly": [0,0,0,0,1.31,3.24,4.51,5.16,5.2,3.38,0,0]
+, "Total": 693.67}, "Heater": {"Monthly": [17.01,16.5,12.97,9.48,4.72,2.82,0,0,2.01,4.95,8.49,13.77]
+, "Total": 2819.66}, "Windows": {"Monthly": [4,4.23,4.83,3.19,2.05,2.25,2.31,2.09,3.08,4.87,3.41,3.09]
+, "Total": 1197.99}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:35:37", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 1, "Building": 322, "Net": {"Monthly": [13.77]
+, "Total": 418.73}, "AC": {"Monthly": [0]
+, "Total": 0}, "Heater": {"Monthly": [13.77]
+, "Total": 418.73}, "Windows": {"Monthly": [3.09]
+, "Total": 94.09}, "Solar Panels": {"Monthly": [0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:35:54", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [44.12,42.51,26.71,9.11,3.31,8.46,10.97,13.83,18.43,13.79,20,36.16]
+, "Total": 7525.06}, "AC": {"Monthly": [0,0,0,0,12.53,26.52,36.91,35.37,27.8,8.09,0,0]
+, "Total": 4477.95}, "Heater": {"Monthly": [46.08,45.05,32.92,22.62,11.86,7.32,0,0,5.46,13.24,22.32,37.67]
+, "Total": 7437.98}, "Windows": {"Monthly": [11.34,11.7,15.77,20.83,25.84,29.09,30.06,26.53,22.17,17.18,9.7,8.45]
+, "Total": 6954.79}, "Solar Panels": {"Monthly": [1.96,2.54,6.21,13.51,21.08,25.38,25.94,21.54,14.82,7.53,2.33,1.51]
+, "Total": 4390.86}}},
+{"Timestamp": "2020-10-23 14:36:06", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 23.943, "y": 97.672, "z": 132.733}, "Direction": {"x": -0.249, "y": -0.66, "z": -0.709}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:36:06", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 19.888, "y": 86.94, "z": 121.201}, "Direction": {"x": -0.249, "y": -0.66, "z": -0.709}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:36:06", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 20.192, "y": 87.744, "z": 122.064}, "Direction": {"x": -0.249, "y": -0.66, "z": -0.709}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:36:10", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 21.147, "y": 91.844, "z": 126.261}, "Direction": {"x": -0.246, "y": -0.661, "z": -0.709}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:36:36", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [44.12,42.51,26.71,9.11,3.31,8.46,10.97,13.83,18.43,13.79,20,36.16]
+, "Total": 7525.06}, "AC": {"Monthly": [0,0,0,0,12.53,26.52,36.91,35.37,27.8,8.09,0,0]
+, "Total": 4477.95}, "Heater": {"Monthly": [46.08,45.05,32.92,22.62,11.86,7.32,0,0,5.46,13.24,22.32,37.67]
+, "Total": 7437.98}, "Windows": {"Monthly": [11.34,11.7,15.77,20.83,25.84,29.09,30.06,26.53,22.17,17.18,9.7,8.45]
+, "Total": 6954.79}, "Solar Panels": {"Monthly": [1.96,2.54,6.21,13.51,21.08,25.38,25.94,21.54,14.82,7.53,2.33,1.51]
+, "Total": 4390.86}}},
+{"Timestamp": "2020-10-23 14:36:46", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 21.342, "y": 92.366, "z": 125.704}, "Direction": {"x": -0.247, "y": -0.664, "z": -0.705}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:36:51", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 385, "Coordinates": [{"x": -12.518, "y": 13.756, "z": 23.58}]}},
+{"Timestamp": "2020-10-23 14:36:52", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 21.147, "y": 91.844, "z": 126.261}, "Direction": {"x": -0.246, "y": -0.661, "z": -0.709}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:36:54", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 387, "Coordinates": [{"x": 15.945, "y": 13.343, "z": 23.826}]}},
+{"Timestamp": "2020-10-23 14:36:55", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 381, "Coordinates": [{"x": -13.343, "y": 5.093, "z": 28.744}]}},
+{"Timestamp": "2020-10-23 14:36:58", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 383, "Coordinates": [{"x": 16.357, "y": 5.506, "z": 28.498}]}},
+{"Timestamp": "2020-10-23 14:37:14", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [46.08,45.04,32.9,22.62,24.39,33.84,36.91,35.38,33.29,22.33,22.32,37.67]
+, "Total": 11946.86}, "AC": {"Monthly": [0,0,0,0,12.53,26.52,36.91,35.38,27.83,9.09,0,0]
+, "Total": 4509.81}, "Heater": {"Monthly": [46.08,45.04,32.9,22.62,11.86,7.32,0,0,5.46,13.24,22.32,37.67]
+, "Total": 7437.05}, "Windows": {"Monthly": [11.34,11.7,15.77,20.83,25.84,29.09,30.06,26.53,22.17,17.18,9.7,8.45]
+, "Total": 6954.79}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:37:25", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 391, "Coordinates": [{"x": 16.357, "y": 8.806, "z": 26.531}]}},
+{"Timestamp": "2020-10-23 14:37:28", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 165, "ID": 393, "Coordinates": [{"x": -13.755, "y": 8.806, "z": 26.531}]}},
+{"Timestamp": "2020-10-23 14:37:46", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 165, "Net": {"Monthly": [45.1,43.77,29.81,15.87,13.85,21.15,23.94,24.6,25.83,17.61,21.16,36.92]
+, "Total": 9721.52}, "AC": {"Monthly": [0,0,0,0,12.53,26.52,36.91,35.37,27.81,8.12,0,0]
+, "Total": 4479.62}, "Heater": {"Monthly": [46.08,45.05,32.91,22.62,11.86,7.32,0,0,5.46,13.24,22.32,37.67]
+, "Total": 7437.48}, "Windows": {"Monthly": [11.34,11.7,15.77,20.83,25.84,29.09,30.06,26.53,22.17,17.18,9.7,8.45]
+, "Total": 6954.79}, "Solar Panels": {"Monthly": [0.98,1.27,3.1,6.75,10.54,12.69,12.97,10.77,7.44,3.75,1.16,0.75]
+, "Total": 2195.59}}},
+{"Timestamp": "2020-10-23 14:37:55", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 393, "Coordinates": [{"x": -13.755, "y": 8.806, "z": 26.531}]}},
+{"Timestamp": "2020-10-23 14:37:59", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 165, "ID": 391, "Coordinates": [{"x": 16.357, "y": 8.806, "z": 26.531}]}},
+{"Timestamp": "2020-10-23 14:38:02", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 322, "ID": 396, "Coordinates": [{"x": -10.032, "y": -17.9, "z": 28.257}]}},
+{"Timestamp": "2020-10-23 14:38:03", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 20.762, "y": 90.808, "z": 125.149}, "Direction": {"x": -0.246, "y": -0.661, "z": -0.709}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:38:03", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 17.575, "y": 82.247, "z": 115.967}, "Direction": {"x": -0.246, "y": -0.661, "z": -0.709}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:38:05", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 25.404, "y": -107.606, "z": 106.503}, "Direction": {"x": -0.309, "y": 0.683, "z": -0.662}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:06", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 322, "ID": 396, "Coordinates": [{"x": -10.032, "y": -17.075, "z": 28.405}]}},
+{"Timestamp": "2020-10-23 14:38:06", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 25.879, "y": -107.389, "z": 106.503}, "Direction": {"x": -0.313, "y": 0.681, "z": -0.662}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:08", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 18.972, "y": -109.771, "z": 107.024}, "Direction": {"x": -0.263, "y": 0.699, "z": -0.665}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:10", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 23.898, "y": -110.744, "z": 103.864}, "Direction": {"x": -0.299, "y": 0.706, "z": -0.643}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:11", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 322, "ID": 396, "Coordinates": [{"x": -9.62, "y": -17.9, "z": 28.257}]}},
+{"Timestamp": "2020-10-23 14:38:13", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 322, "ID": 396, "Coordinates": [{"x": -9.62, "y": -18.725, "z": 28.109}]}},
+{"Timestamp": "2020-10-23 14:38:15", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 322, "ID": 396, "Coordinates": [{"x": -9.62, "y": -18.725, "z": 28.109}]}},
+{"Timestamp": "2020-10-23 14:38:16", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 24.072, "y": -111.155, "z": 103.329}, "Direction": {"x": -0.3, "y": 0.709, "z": -0.639}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:18", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 120, "ID": 398, "Coordinates": [{"x": -11.282, "y": -27.258, "z": 19.12}]}},
+{"Timestamp": "2020-10-23 14:38:21", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Add Rack": {"Type": "Rack", "Building": 120, "ID": 400, "Coordinates": [{"x": 19.243, "y": -26.846, "z": 19.218}]}},
+{"Timestamp": "2020-10-23 14:38:29", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 24.411, "y": -111.956, "z": 104.051}, "Direction": {"x": -0.3, "y": 0.709, "z": -0.639}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:38:29", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 26.827, "y": -117.666, "z": 109.2}, "Direction": {"x": -0.3, "y": 0.709, "z": -0.639}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 14:38:31", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 165, "ID": 165, "Coordinates": [{"x": -34.146, "y": -32.798, "z": 0}, {"x": -34.146, "y": 9.202, "z": 0}, {"x": 35.854, "y": -32.798, "z": 0}, {"x": 35.854, "y": 9.202, "z": 0}, {"x": -34.146, "y": -32.798, "z": 32}, {"x": -34.146, "y": 9.202, "z": 32}, {"x": 35.854, "y": -32.798, "z": 32}, {"x": 35.854, "y": 9.202, "z": 32}, {"x": 44.854, "y": -11.798, "z": 0}, {"x": -37.146, "y": -11.798, "z": 0}, {"x": 0.854, "y": 18.202, "z": 0}, {"x": 0.854, "y": -56.798, "z": 0}], "Height": 6.2, "Area": 84.3, "CenterX": 0, "CenterY": -2.7}},
+{"Timestamp": "2020-10-23 14:38:31", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 27.087, "y": -118.281, "z": 110.822}, "Direction": {"x": -0.299, "y": 0.706, "z": -0.643}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:45", "Project": "Bungalow", "File": "@bungalow-template.ng3", "EnergyAnnualAnalysis": {"Months": 7, "Building": 165, "Net": {"Monthly": [46.08,45.04,32.89,22.62,24.39,33.84,33.84]
+, "Total": 7260.4}, "AC": {"Monthly": [0,0,0,0,12.53,26.52,26.52]
+, "Total": 1994.73}, "Heater": {"Monthly": [46.08,45.04,32.89,22.62,11.86,7.32,7.32]
+, "Total": 5265.67}, "Windows": {"Monthly": [11.34,11.7,15.77,20.83,25.84,29.09,29.09]
+, "Total": 4369.79}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-23 14:38:49", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 49.992, "y": 7.374, "z": 152.609}, "Direction": {"x": -0.438, "y": -0.059, "z": -0.897}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:53", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 165, "ID": 165, "Coordinates": [{"x": -39.647, "y": -12.716, "z": 0}, {"x": -39.647, "y": 29.284, "z": 0}, {"x": 30.353, "y": -12.716, "z": 0}, {"x": 30.353, "y": 29.284, "z": 0}, {"x": -39.647, "y": -12.716, "z": 32}, {"x": -39.647, "y": 29.284, "z": 32}, {"x": 30.353, "y": -12.716, "z": 32}, {"x": 30.353, "y": 29.284, "z": 32}, {"x": 39.353, "y": 8.284, "z": 0}, {"x": -42.647, "y": 8.284, "z": 0}, {"x": -4.647, "y": 38.284, "z": 0}, {"x": -4.647, "y": -36.716, "z": 0}], "Height": 6.2, "Area": 84.3, "CenterX": -1.1, "CenterY": 1.31}},
+{"Timestamp": "2020-10-23 14:38:55", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 50.04, "y": 7.014, "z": 152.609}, "Direction": {"x": -0.438, "y": -0.057, "z": -0.897}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:38:57", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 15.403, "y": 0.938, "z": 47.582}, "Direction": {"x": -0.311, "y": -0.055, "z": -0.949}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 14:39:02", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 24.364, "y": 8.049, "z": 129.466}, "Direction": {"x": -0.108, "y": -0.086, "z": -0.99}, "Mode": "Rotate"}},{"Event String":"OPPPPP_P_YYPY_P_Y_YPY_P_Y_PP_Y_C_PP_Y_PPY_PP_Y_PP_Y_PPY"}]
+}

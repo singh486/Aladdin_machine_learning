@@ -1,0 +1,9 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-28 13:59:55", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": 90.811, "y": -33.467, "z": 34.233}, "Direction": {"x": -0.885, "y": 0.326, "z": -0.333}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 13:59:57", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": 99.748, "y": -12.341, "z": 20.896}, "Direction": {"x": -0.972, "y": 0.12, "z": -0.204}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 13:59:59", "File": "X_finaldesign.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-28 14:00:02", "File": "X_finaldesign.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-28 14:00:07", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": 12.915, "y": -96.749, "z": 31.803}, "Direction": {"x": -0.126, "y": 0.942, "z": -0.31}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 14:00:09", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": -93.996, "y": 11.954, "z": 39.501}, "Direction": {"x": 0.916, "y": -0.116, "z": -0.385}, "Mode": "Rotate"}}]
+}

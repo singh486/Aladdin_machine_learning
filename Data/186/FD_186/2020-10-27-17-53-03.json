@@ -1,0 +1,11 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-27 17:53:09", "File": "error3674673594311748371.ng3", "Camera": {"Position": {"x": -17.914, "y": -125.066, "z": 52.338}, "Direction": {"x": 0.011, "y": 0.956, "z": -0.293}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 17:53:10", "File": "error3674673594311748371.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 42, "Coordinates": [{"x": -0.766, "y": -26.494, "z": 20.999}]}},
+{"Timestamp": "2020-10-27 17:53:11", "File": "error3674673594311748371.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 47, "Coordinates": [{"x": 17.962, "y": -27.236, "z": 20.651}]}},
+{"Timestamp": "2020-10-27 17:53:14", "File": "error3674673594311748371.ng3", "Remove SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 46, "Coordinates": [{"x": -20.153, "y": -27.236, "z": 20.651}]}},
+{"Timestamp": "2020-10-27 17:53:14", "File": "error3674673594311748371.ng3", "Remove Rack": {"Type": "Rack", "Building": 2, "ID": 42, "Coordinates": [{"x": -0.766, "y": -26.494, "z": 20.999}]}},
+{"Timestamp": "2020-10-27 17:53:15", "File": "error3674673594311748371.ng3", "Remove Rack": {"Type": "Rack", "Building": 2, "ID": 44, "Coordinates": [{"x": -0.353, "y": -13.706, "z": 26.993}]}},
+{"Timestamp": "2020-10-27 17:53:17", "File": "error3674673594311748371.ng3", "Camera": {"Position": {"x": 4.94, "y": -122.053, "z": 56.289}, "Direction": {"x": -0.154, "y": 0.934, "z": -0.322}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-27 17:53:30", "File": "Final%20Design.ng3", "Save": "file:/C:/Users/X/Desktop/Final%20Design.ng3*"}]
+}

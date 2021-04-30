@@ -1,0 +1,39 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:50:51", "File": "energydesign%202.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-30 13:50:57", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": 7.631, "y": -99.84, "z": -153.021}, "Direction": {"x": -0.038, "y": 0.554, "z": 0.832}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:50:59", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": 2.84, "y": -159.758, "z": 88.648}, "Direction": {"x": -0.012, "y": 0.879, "z": -0.478}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:51:00", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": 2.86, "y": -161.172, "z": 89.416}, "Direction": {"x": -0.012, "y": 0.879, "z": -0.478}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 13:56:44", "File": "energydesign%202.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-30 13:56:45", "File": "energydesign%202.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-30 13:56:46", "File": "energydesign%202.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-30 13:56:46", "File": "energydesign%202.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-30 13:56:49", "File": "energydesign%202.ng3", "Change Time and Date": {"Old Time": "9:32", "New Time": "13:0", "Old Date": "7/28", "New Date": "7/28"}},
+{"Timestamp": "2020-10-30 13:56:49", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": 3.056, "y": -32.59, "z": 187.402}, "Direction": {"x": -0.013, "y": 0.177, "z": -0.984}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:56:49", "File": "energydesign%202.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-30 13:56:54", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": -4.181, "y": -54.505, "z": 182.06}, "Direction": {"x": 0.025, "y": 0.292, "z": -0.956}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:41:32", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": -0.161, "y": -124.267, "z": 143.111}, "Direction": {"x": 0.004, "y": 0.662, "z": -0.75}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 14:41:51", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": -1.421, "y": -182.441, "z": 47.754}, "Direction": {"x": 0.011, "y": 0.969, "z": -0.245}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 15:23:30", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": -0.393, "y": -163.443, "z": 94.946}, "Direction": {"x": 0.005, "y": 0.869, "z": -0.495}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 15:49:53", "File": "energydesign%202.ng3", "Camera": {"Position": {"x": -0.329, "y": -152.734, "z": 111.642}, "Direction": {"x": 0.005, "y": 0.812, "z": -0.583}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 15:50:02", "File": "energydesign%202.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 15:50:16", "File": "energydesign%202.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [17.3,7.89,-6.63,-13.07,-9.96,-12.12,-15.72,-17.54,-4.69,-11.96,11.87,25.8]
+, "Total": -877}, "AC": {"Monthly": [0,0,0,3.5,17.55,23.4,22.34,23.38,21.68,0,0,0]
+, "Total": 3402.3}, "Heater": {"Monthly": [42.58,34.83,24.22,14.92,7.06,0,0,0,12.24,22.65,33.29,44.4]
+, "Total": 7184.1}, "Windows": {"Monthly": [16.47,16.29,16.64,10.74,10.27,11.16,11.31,16.33,24.34,23.55,14.59,12.44]
+, "Total": 5601}, "Solar Panels": {"Monthly": [25.28,26.94,30.86,31.48,34.58,35.52,38.06,40.92,38.61,34.61,21.42,18.61]
+, "Total": 11463.41}}},
+{"Timestamp": "2020-10-30 15:51:39", "File": "energydesign%202.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 15:51:54", "File": "energydesign%202.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 15:51:56", "File": "energydesign%202.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 15:51:57", "File": "energydesign%202.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-30 15:51:57", "File": "energydesign%202.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 15:52:01", "File": "energydesign%202.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 15:52:05", "File": "energydesign%202.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.82649,2.80062,2.74692,2.66904,2.57229,2.46326,2.3494,1.97238,0.06475,-1.48053,-2.44493,-2.91577,-2.95659,-2.60946,-1.7691,-0.38955,1.60549,2.32108,2.43495,2.5459,2.64638,2.72953,2.78969,2.82277]
+, "Total": 25.8}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.82649,2.80062,2.74692,2.66904,2.57229,2.46326,2.3494,2.11807,1.23952,0.57771,0.18199,0.00795,0,0.1166,0.45801,1.04115,1.94071,2.32108,2.43495,2.5459,2.64638,2.72953,2.78969,2.82277]
+, "Total": 44.4}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.11546,0.85839,1.40858,1.72654,1.87632,1.88888,1.77785,1.50581,1.02564,0.25987,0,0,0,0,0,0,0]
+, "Total": 12.44}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.14569,1.17477,2.05824,2.62692,2.92371,2.95659,2.72606,2.2271,1.4307,0.33522,0,0,0,0,0,0,0]
+, "Total": 18.61}}, "Solar Potential": [{"Building": 2, "Daily": 454.66}]},
+{"Timestamp": "2020-10-30 15:52:07", "File": "energydesign%202.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 15:52:47", "File": "energydesign%202.ng3", "Graph Tab": "Basics"}]}

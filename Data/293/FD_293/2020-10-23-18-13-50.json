@@ -1,0 +1,83 @@
+{
+"Activities": [
+{"Timestamp": "2020-10-23 18:14:34", "File": "small%20design.ng3", "Add Tree": {"Species": "Dogwood", "ID": 28, "Coordinates": [{"x": 16, "y": -46, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:14:42", "File": "small%20design.ng3", "Add Tree": {"Species": "Dogwood", "ID": 29, "Coordinates": [{"x": -15, "y": -49, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:14:59", "File": "small%20design.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-23 18:15:06", "File": "small%20design.ng3", "Change Time and Date": {"Old Time": "13:15", "New Time": "12:0", "Old Date": "2/8", "New Date": "2/20"}},
+{"Timestamp": "2020-10-23 18:15:06", "File": "small%20design.ng3", "Add Rack": {"Type": "Rack", "Building": 2, "ID": 30, "Coordinates": [{"x": -6.588, "y": -11.025, "z": 35.911}]}},
+{"Timestamp": "2020-10-23 18:15:07", "File": "small%20design.ng3", "Camera": {"Position": {"x": 1.511, "y": -151.099, "z": 80.594}, "Direction": {"x": -0.009, "y": 0.882, "z": -0.471}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 18:15:07", "File": "small%20design.ng3", "Camera": {"Position": {"x": 1.555, "y": -155.469, "z": 82.925}, "Direction": {"x": -0.009, "y": 0.882, "z": -0.471}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 18:15:07", "File": "small%20design.ng3", "Camera": {"Position": {"x": 1.597, "y": -159.744, "z": 85.205}, "Direction": {"x": -0.009, "y": 0.882, "z": -0.471}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 18:15:08", "File": "small%20design.ng3", "Camera": {"Position": {"x": 1.642, "y": -164.204, "z": 87.584}, "Direction": {"x": -0.009, "y": 0.882, "z": -0.471}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-23 18:15:25", "File": "small%20design.ng3", "Change Time and Date": {"Old Time": "12:0", "New Time": "11:45", "Old Date": "2/20", "New Date": "3/12"}},
+{"Timestamp": "2020-10-23 18:15:25", "File": "small%20design.ng3", "Camera": {"Position": {"x": 1.738, "y": -173.783, "z": 92.694}, "Direction": {"x": -0.009, "y": 0.882, "z": -0.471}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 18:15:26", "File": "small%20design.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-23 18:15:28", "File": "small%20design.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-23 18:15:28", "File": "small%20design.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-23 18:15:30", "File": "small%20design.ng3", "Change Date": {"Old Date": "2/20", "New Date": "4/12"}},
+{"Timestamp": "2020-10-23 18:15:31", "File": "small%20design.ng3", "Change Date": {"Old Date": "4/12", "New Date": "5/12"}},
+{"Timestamp": "2020-10-23 18:15:31", "File": "small%20design.ng3", "Change Date": {"Old Date": "5/12", "New Date": "6/12"}},
+{"Timestamp": "2020-10-23 18:15:39", "File": "small%20design.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.93048,6.29772,6.92562,6.99052,7.49846,8.05749,8.01858,7.99165,8.22705,7.82677,7.30856,7.19104,6.85057,5.03976,2.06047,1.50973,1.19502,0.95413,0.80347]
+, "Total": 110.01}, "AC": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.9816,6.45907,7.30459,7.57547,8.2454,8.91386,8.93181,8.91113,9.10248,8.60608,7.9387,7.62456,7.06213,5.10999,2.06495,1.50973,1.19502,0.95413,0.80347]
+, "Total": 117.63}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,2.06425,4.11439,4.54409,4.42862,4.76648,5.18151,5.04317,4.97183,5.22081,4.88885,4.48197,4.50385,4.33031,2.80107,0.1858,0,0,0,0]
+, "Total": 61.53}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.05112,0.16135,0.37896,0.58495,0.74695,0.85637,0.91323,0.91948,0.87543,0.77931,0.63014,0.43352,0.21156,0.07023,0.00448,0,0,0,0]
+, "Total": 7.62}}, "Solar Potential": [{"Building": 2, "Daily": 2077.9}]},
+{"Timestamp": "2020-10-23 18:15:49", "File": "small%20design.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-23 18:15:57", "File": "small%20design.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-23 18:16:01", "File": "small%20design.ng3", "Camera": {"Position": {"x": -7.622, "y": -169.274, "z": 100.418}, "Direction": {"x": 0.039, "y": 0.859, "z": -0.51}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 18:16:05", "File": "small%20design.ng3", "Remove Rack": {"Type": "Rack", "Building": 2, "ID": 30, "Coordinates": [{"x": -6.588, "y": -11.025, "z": 35.911}]}},
+{"Timestamp": "2020-10-23 18:16:10", "File": "small%20design.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.9816,6.45944,7.3053,7.57552,8.2455,8.91394,8.93192,8.91125,9.10261,8.60608,7.9387,7.62494,7.06281,5.10999,2.06495,1.50973,1.19502,0.95413,0.80347]
+, "Total": 117.63}, "AC": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.9816,6.45944,7.3053,7.57552,8.2455,8.91394,8.93192,8.91125,9.10261,8.60608,7.9387,7.62494,7.06281,5.10999,2.06495,1.50973,1.19502,0.95413,0.80347]
+, "Total": 117.63}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,2.06425,4.11439,4.54409,4.42862,4.76648,5.18151,5.04317,4.97183,5.22081,4.88885,4.48197,4.50385,4.33031,2.80107,0.1858,0,0,0,0]
+, "Total": 61.53}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 2072.94}]},
+{"Timestamp": "2020-10-23 18:16:31", "File": "small%20design.ng3", "Camera": {"Position": {"x": -4.285, "y": -171.366, "z": 97.009}, "Direction": {"x": 0.022, "y": 0.87, "z": -0.493}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 18:16:35", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 27, "Coordinates": [{"x": 54.013, "y": -53.732, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:16:37", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 28, "Coordinates": [{"x": 45.392, "y": -72.305, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:16:38", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 16, "Coordinates": [{"x": 34.202, "y": -80.43, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:16:40", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 15, "Coordinates": [{"x": -64.757, "y": -64.656, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:16:42", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 29, "Coordinates": [{"x": -60.538, "y": -63.402, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:16:43", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 26, "Coordinates": [{"x": -48.201, "y": -52.957, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:16:47", "File": "small%20design.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.9816,6.45944,7.3053,7.57552,8.2455,8.91394,8.93192,8.91125,9.10261,8.60608,7.9387,7.62494,7.06281,5.10999,2.06495,1.50973,1.19502,0.95413,0.80347]
+, "Total": 117.63}, "AC": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.9816,6.45944,7.3053,7.57552,8.2455,8.91394,8.93192,8.91125,9.10261,8.60608,7.9387,7.62494,7.06281,5.10999,2.06495,1.50973,1.19502,0.95413,0.80347]
+, "Total": 117.63}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,2.06425,4.11439,4.54409,4.42862,4.76648,5.18151,5.04317,4.97183,5.22081,4.88885,4.48197,4.50385,4.33031,2.80107,0.1858,0,0,0,0]
+, "Total": 61.53}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 2072.94}]},
+{"Timestamp": "2020-10-23 18:17:16", "File": "small%20design.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-23 18:17:17", "File": "small%20design.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-23 18:17:21", "File": "small%20design.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-23 18:17:22", "File": "small%20design.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-23 18:17:25", "File": "small%20design.ng3", "Change Time": {"Old Time": "15:27", "New Time": "22:47"}},
+{"Timestamp": "2020-10-23 18:17:26", "File": "small%20design.ng3", "Change Time": {"Old Time": "21:47", "New Time": "20:47"}},
+{"Timestamp": "2020-10-23 18:17:26", "File": "small%20design.ng3", "Change Time": {"Old Time": "19:47", "New Time": "18:47"}},
+{"Timestamp": "2020-10-23 18:17:26", "File": "small%20design.ng3", "Change Time": {"Old Time": "17:47", "New Time": "16:47"}},
+{"Timestamp": "2020-10-23 18:17:30", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 16, "Coordinates": [{"x": 16.324, "y": -51.688, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:17:32", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 27, "Coordinates": [{"x": 25.697, "y": -45.151, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:17:35", "File": "small%20design.ng3", "Camera": {"Position": {"x": -0.88, "y": -176.052, "z": 88.32}, "Direction": {"x": 0.004, "y": 0.894, "z": -0.448}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-23 18:17:38", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 28, "Coordinates": [{"x": 13.759, "y": -55.973, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:17:41", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 26, "Coordinates": [{"x": -18.469, "y": -45.357, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:17:42", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 29, "Coordinates": [{"x": -20.846, "y": -51.365, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:17:47", "File": "small%20design.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 15, "Coordinates": [{"x": -25.758, "y": -53.969, "z": 0}]}},
+{"Timestamp": "2020-10-23 18:17:51", "File": "small%20design.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.9816,6.45944,7.3053,7.57552,8.2455,8.91394,8.93192,8.91125,9.10261,8.60608,7.9387,7.62494,7.06281,5.10999,2.06495,1.50973,1.19502,0.95413,0.80347]
+, "Total": 117.63}, "AC": {"Hourly": [0.75672,0.84167,1.00054,1.21431,1.52175,3.9816,6.45944,7.3053,7.57552,8.2455,8.91394,8.93192,8.91125,9.10261,8.60608,7.9387,7.62494,7.06281,5.10999,2.06495,1.50973,1.19502,0.95413,0.80347]
+, "Total": 117.63}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,2.06425,4.11439,4.54409,4.42862,4.76648,5.18151,5.04317,4.97183,5.22081,4.88885,4.48197,4.50385,4.33031,2.80107,0.1858,0,0,0,0]
+, "Total": 61.53}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 2072.94}]},
+{"Timestamp": "2020-10-23 18:18:03", "File": "small%20design.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-23 18:18:22", "File": "small%20design.ng3", "Change Time and Date": {"Old Time": "16:47", "New Time": "15:0", "Old Date": "6/12", "New Date": "5/3"}},
+{"Timestamp": "2020-10-23 18:18:25", "File": "small%20design.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-23 18:18:35", "File": "small%20design.ng3", "Change City": {"Old City": "Furnace Creek, CA", "New City": "Fort Wayne, IN"}},
+{"Timestamp": "2020-10-23 18:18:40", "File": "small%20design.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.14114,2.08617,1.97206,1.80658,1.60102,0.59749,0,0,0,0,0,0,0,0,0,0,0,0,0.23271,1.54496,1.75844,1.93512,2.06295,2.13322]
+, "Total": 19.87}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.14114,2.08617,1.97206,1.80658,1.60102,0.59749,0,0,0,0,0,0,0,0,0,0,0,0,0.23271,1.54496,1.75844,1.93512,2.06295,2.13322]
+, "Total": 19.87}, "Windows": {"Hourly": [0,0,0,0,0,0.9329,2.85506,3.50223,4.47471,5.13882,5.44601,5.3585,5.30345,5.46618,5.24955,4.67332,3.72879,3.04703,1.54237,0,0,0,0,0]
+, "Total": 56.72}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 1656.31}]},
+{"Timestamp": "2020-10-23 18:19:19", "File": "small%20design.ng3", "Graph Tab": "Basics"},
+{"Timestamp": "2020-10-23 18:19:23", "File": "small%20design.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-23 18:19:25", "File": "small%20design.ng3", "Graph Tab": "Energy"},{"Event String":"O_PP_P_SCC_ASADDDA_PA_PPPPPPA_SAASTTTTTTTPPPPPPA_SC_SCA"}]
+}

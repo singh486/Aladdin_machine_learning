@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-28 14:32:59", "File": "FinalEnergyProject.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-28 14:33:23", "File": "FinalEnergyProject.ng3", "Camera": {"Position": {"x": -16.099, "y": 19.558, "z": 139.271}, "Direction": {"x": -0.023, "y": -0.144, "z": -0.989}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-28 14:33:32", "File": "FinalEnergyProject.ng3", "Camera": {"Position": {"x": -83.032, "y": -71.744, "z": 95.095}, "Direction": {"x": 0.506, "y": 0.578, "z": -0.64}, "Mode": "Rotate"}}]}

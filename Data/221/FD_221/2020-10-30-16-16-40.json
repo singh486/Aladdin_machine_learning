@@ -1,0 +1,21 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 16:16:51", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 57, "Coordinates": [{"x": -13.449, "y": -14.897, "z": 27.55}]}},
+{"Timestamp": "2020-10-30 16:16:51", "File": "(X)%20Design.ng3", "Camera": {"Position": {"x": -16.764, "y": -168.919, "z": 75.331}, "Direction": {"x": 0.109, "y": 0.921, "z": -0.375}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:16:53", "File": "(X)%20Design.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 16:16:59", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 59, "Coordinates": [{"x": 18.667, "y": -17.26, "z": 26.259}]}},
+{"Timestamp": "2020-10-30 16:17:15", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 59, "Coordinates": [{"x": 18.709, "y": -16.15, "z": 26.89}]}},
+{"Timestamp": "2020-10-30 16:17:18", "File": "(X)%20Design.ng3", "Camera": {"Position": {"x": -13.964, "y": -175.61, "z": 56.903}, "Direction": {"x": 0.094, "y": 0.957, "z": -0.276}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:17:24", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 59, "Coordinates": [{"x": 18.57, "y": -19.771, "z": 24.829}]}},
+{"Timestamp": "2020-10-30 16:17:26", "File": "(X)%20Design.ng3", "Camera": {"Position": {"x": -12.644, "y": -162.213, "z": 53.042}, "Direction": {"x": 0.094, "y": 0.957, "z": -0.276}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:17:26", "File": "(X)%20Design.ng3", "Camera": {"Position": {"x": -11.491, "y": -150.515, "z": 49.671}, "Direction": {"x": 0.094, "y": 0.957, "z": -0.276}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-30 16:17:27", "File": "(X)%20Design.ng3", "Camera": {"Position": {"x": 3.708, "y": -121.44, "z": 96.317}, "Direction": {"x": -0.001, "y": 0.805, "z": -0.593}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 16:17:31", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 59, "Coordinates": [{"x": 20.437, "y": -19.888, "z": 24.763}]}},
+{"Timestamp": "2020-10-30 16:17:35", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 57, "Coordinates": [{"x": -11.325, "y": -19.475, "z": 24.998}]}},
+{"Timestamp": "2020-10-30 16:17:36", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 57, "Coordinates": [{"x": -11.294, "y": -18.661, "z": 25.461}]}},
+{"Timestamp": "2020-10-30 16:17:37", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 57, "Coordinates": [{"x": -11.249, "y": -17.501, "z": 26.121}]}},
+{"Timestamp": "2020-10-30 16:17:41", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 57, "Coordinates": [{"x": -17.513, "y": -19.888, "z": 24.763}]}},
+{"Timestamp": "2020-10-30 16:17:44", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 59, "Coordinates": [{"x": 24.562, "y": -19.888, "z": 24.763}]}},
+{"Timestamp": "2020-10-30 16:17:56", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 51, "Coordinates": [{"x": -3.653, "y": -5.606, "z": 32.58}]}},
+{"Timestamp": "2020-10-30 16:18:00", "File": "(X)%20Design.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 51, "Coordinates": [{"x": -12.15, "y": -11.638, "z": 29.272}]}}]
+}

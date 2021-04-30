@@ -1,0 +1,7 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 21:12:21", "File": "X_designchallenge.ng3", "Edit HipRoof": {"Type": "HipRoof", "Building": 2, "ID": 47, "Coordinates": [{"x": 2.5, "y": 0, "z": 36}, {"x": -34.326, "y": 0, "z": 36}, {"x": 21.633, "y": 0, "z": 36}]}},
+{"Timestamp": "2020-10-21 21:12:21", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": 41.894, "y": -98.004, "z": 54.218}, "Direction": {"x": -0.347, "y": 0.814, "z": -0.466}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 21:12:25", "File": "X_designchallenge.ng3", "Add Window": {"Type": "Window", "Building": 2, "ID": 48, "Coordinates": [{"x": 12, "y": -20, "z": 11}, {"x": 12, "y": -20, "z": 7}, {"x": 22, "y": -20, "z": 11}, {"x": 22, "y": -20, "z": 7}]}},
+{"Timestamp": "2020-10-21 21:12:26", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": 3.66, "y": -116.804, "z": 26.893}, "Direction": {"x": -0.027, "y": 0.971, "z": -0.238}, "Mode": "Rotate"}}]
+}

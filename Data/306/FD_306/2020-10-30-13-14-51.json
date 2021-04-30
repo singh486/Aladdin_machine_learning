@@ -1,0 +1,14 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 13:15:51", "File": "house%201.ng3", "Camera": {"Position": {"x": -3.072, "y": 116.46, "z": 23.446}, "Direction": {"x": 0.036, "y": -0.992, "z": -0.123}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:15:59", "File": "house%201.ng3", "Camera": {"Position": {"x": -35.727, "y": 55.519, "z": 100.906}, "Direction": {"x": 0.338, "y": -0.429, "z": -0.838}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:16:11", "File": "house%201.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-30 13:16:18", "File": "house%201.ng3", "Camera": {"Position": {"x": -34.604, "y": 110.37, "z": 24.52}, "Direction": {"x": 0.327, "y": -0.936, "z": -0.133}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:16:21", "File": "house%201.ng3", "Show Annotation": true},
+{"Timestamp": "2020-10-30 13:16:24", "File": "house%201.ng3", "Camera": {"Position": {"x": -35.792, "y": 108.932, "z": 30.402}, "Direction": {"x": 0.338, "y": -0.922, "z": -0.187}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-30 13:16:27", "File": "house%201.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 34, "Coordinates": [{"x": -15.95, "y": 53.804, "z": -0}]}},
+{"Timestamp": "2020-10-30 13:16:30", "File": "house%201.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 35, "Coordinates": [{"x": -58.309, "y": 23.99, "z": 0}]}},
+{"Timestamp": "2020-10-30 13:16:36", "File": "house%201.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 10, "Coordinates": [{"x": 40.208, "y": 27.655, "z": 1}, {"x": 40.208, "y": 27.655, "z": 26}, {"x": -39.792, "y": 27.655, "z": 1}, {"x": -39.792, "y": 27.655, "z": 26}]}},
+{"Timestamp": "2020-10-30 13:16:41", "File": "house%201.ng3", "Edit Wall": {"Type": "Wall", "Building": 2, "ID": 10, "Coordinates": [{"x": 40.208, "y": 27.655, "z": 1}, {"x": 40.208, "y": 27.655, "z": 23.5}, {"x": -39.792, "y": 27.655, "z": 1}, {"x": -39.792, "y": 27.655, "z": 23.5}]}},
+{"Timestamp": "2020-10-30 13:16:45", "File": "house%201.ng3", "Camera": {"Position": {"x": -41.358, "y": 108.43, "z": 18.596}, "Direction": {"x": 0.39, "y": -0.918, "z": -0.078}, "Mode": "Rotate"}}]
+}

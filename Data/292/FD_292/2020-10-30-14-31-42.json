@@ -1,0 +1,48 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-30 14:31:45", "File": "ENGT%20Project.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-30 14:32:00", "File": "ENGT%20Project.ng3", "SHGC Change for Selected Window": {"Building": 2, "ID": 56, "Old Value": 0.39, "New Value": 0.55}},
+{"Timestamp": "2020-10-30 14:32:07", "File": "ENGT%20Project.ng3", "Graph Tab": "Energy"},
+{"Timestamp": "2020-10-30 14:32:14", "File": "ENGT%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [16.03,7.08,-5.79,-10.46,-7.2,-9.9,-12.04,-13.61,-6.47,-4.53,11.49,23.68]
+, "Total": -356.69}, "AC": {"Monthly": [0,0,0,3.98,14.99,18.62,17.47,15.72,9.55,0,0,0]
+, "Total": 2443.18}, "Heater": {"Monthly": [30.68,23.91,15.33,9.22,4.4,0,0,0,8.16,15.28,23.5,34.03]
+, "Total": 5004.01}, "Windows": {"Monthly": [5.53,5.82,6.59,5.83,6.37,7.17,7.6,8.93,8.25,6.72,4.82,4.11]
+, "Total": 2364.53}, "Solar Panels": {"Monthly": [14.65,16.84,21.12,23.66,26.6,28.51,29.5,29.33,24.19,19.81,12.01,10.36]
+, "Total": 7803.88}}},
+{"Timestamp": "2020-10-30 14:32:24", "File": "ENGT%20Project.ng3", "SHGC Change for All Windows of Selected Building": {"Building": 2, "New Value": 0.55}},
+{"Timestamp": "2020-10-30 14:32:34", "File": "ENGT%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [14.68,5.85,-6.14,-9.7,-5.35,-7.49,-9.56,-11.09,-4.78,-4.74,10.51,22.7]
+, "Total": -155.35}, "AC": {"Monthly": [0,0,0,4.9,16.87,21.02,19.94,18.24,11.27,0,0,0]
+, "Total": 2805.62}, "Heater": {"Monthly": [29.33,22.69,14.97,9.07,4.38,0,0,0,8.13,15.07,22.53,33.05]
+, "Total": 4842.9}, "Windows": {"Monthly": [6.87,7.3,8.38,7.66,8.52,9.59,10.08,11.47,10.34,8.25,5.97,5.09]
+, "Total": 3027.08}, "Solar Panels": {"Monthly": [14.65,16.84,21.12,23.66,26.6,28.51,29.5,29.33,24.19,19.81,12.01,10.36]
+, "Total": 7803.88}}},
+{"Timestamp": "2020-10-30 14:32:47", "File": "ENGT%20Project.ng3", "SHGC Change for All Windows of Selected Building": {"Building": 2, "New Value": 0.66}},
+{"Timestamp": "2020-10-30 14:32:56", "File": "ENGT%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [13.31,5.28,-6.34,-8.96,-3.87,-5.58,-7.55,-8.81,-3.04,-4.86,10.06,21.68]
+, "Total": 40.49}, "AC": {"Monthly": [0,0,0,5.72,18.37,22.94,21.95,20.52,13.04,0,0,0]
+, "Total": 3118.68}, "Heater": {"Monthly": [27.96,22.12,14.77,8.99,4.36,0,0,0,8.11,14.95,22.07,32.04]
+, "Total": 4725.69}, "Windows": {"Monthly": [8.24,8.76,10.06,9.19,10.22,11.51,12.1,13.77,12.41,9.9,7.16,6.11]
+, "Total": 3632.49}, "Solar Panels": {"Monthly": [14.65,16.84,21.12,23.66,26.6,28.51,29.5,29.33,24.19,19.81,12.01,10.36]
+, "Total": 7803.88}}},
+{"Timestamp": "2020-10-30 14:33:07", "File": "ENGT%20Project.ng3", "SHGC Change for All Windows of Selected Building": {"Building": 2, "New Value": 0.6}},
+{"Timestamp": "2020-10-30 14:33:16", "File": "ENGT%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [14.06,5.56,-6.24,-9.36,-4.68,-6.62,-8.65,-10.05,-3.99,-4.8,10.28,22.24]
+, "Total": -68.76}, "AC": {"Monthly": [0,0,0,5.27,17.55,21.89,20.85,19.27,12.08,0,0,0]
+, "Total": 2947.92}, "Heater": {"Monthly": [28.71,22.4,14.87,9.03,4.37,0,0,0,8.12,15.01,22.29,32.59]
+, "Total": 4787.2}, "Windows": {"Monthly": [7.5,7.96,9.15,8.35,9.29,10.46,11,12.52,11.28,9,6.51,5.55]
+, "Total": 3302.26}, "Solar Panels": {"Monthly": [14.65,16.84,21.12,23.66,26.6,28.51,29.5,29.33,24.19,19.81,12.01,10.36]
+, "Total": 7803.88}}},
+{"Timestamp": "2020-10-30 14:33:26", "File": "ENGT%20Project.ng3", "SHGC Change for All Windows of Selected Building": {"Building": 2, "New Value": 0.62}},
+{"Timestamp": "2020-10-30 14:33:35", "File": "ENGT%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [13.81,5.46,-6.28,-9.23,-4.41,-6.27,-8.28,-9.64,-3.67,-4.82,10.2,22.05]
+, "Total": -32.93}, "AC": {"Monthly": [0,0,0,5.42,17.82,22.24,21.22,19.69,12.4,0,0,0]
+, "Total": 3004.84}, "Heater": {"Monthly": [28.46,22.3,14.84,9.01,4.36,0,0,0,8.12,14.99,22.21,32.41]
+, "Total": 4766.12}, "Windows": {"Monthly": [7.75,8.23,9.45,8.63,9.6,10.81,11.37,12.93,11.66,9.3,6.73,5.74]
+, "Total": 3412.34}, "Solar Panels": {"Monthly": [14.65,16.84,21.12,23.66,26.6,28.51,29.5,29.33,24.19,19.81,12.01,10.36]
+, "Total": 7803.88}}},
+{"Timestamp": "2020-10-30 14:33:48", "File": "ENGT%20Project.ng3", "SHGC Change for All Windows of Selected Building": {"Building": 2, "New Value": 0.63}},
+{"Timestamp": "2020-10-30 14:33:57", "File": "ENGT%20Project.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [13.68,5.41,-6.29,-9.16,-4.27,-6.1,-8.1,-9.43,-3.52,-4.83,10.16,21.96]
+, "Total": -14.84}, "AC": {"Monthly": [0,0,0,5.49,17.96,22.41,21.4,19.89,12.56,0,0,0]
+, "Total": 3033.3}, "Heater": {"Monthly": [28.33,22.25,14.82,9,4.36,0,0,0,8.11,14.98,22.17,32.31]
+, "Total": 4755.74}, "Windows": {"Monthly": [7.87,8.36,9.6,8.77,9.76,10.99,11.55,13.14,11.84,9.45,6.84,5.83]
+, "Total": 3467.38}, "Solar Panels": {"Monthly": [14.65,16.84,21.12,23.66,26.6,28.51,29.5,29.33,24.19,19.81,12.01,10.36]
+, "Total": 7803.88}}},
+{"Timestamp": "2020-10-30 14:34:22", "File": "ENGT%20Project.ng3", "Graph Tab": "Cost"}]
+}

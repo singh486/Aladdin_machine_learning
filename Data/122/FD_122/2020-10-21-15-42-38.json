@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-21 15:42:44", "File": "Dallas%20House.ng3", "Camera": {"Position": {"x": -84.728, "y": -166.347, "z": 59.189}, "Direction": {"x": 0.435, "y": 0.889, "z": -0.142}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-21 15:42:48", "File": "Dallas%20House.ng3", "Camera": {"Position": {"x": -0.927, "y": -187.647, "z": 36.165}, "Direction": {"x": -0, "y": 1, "z": -0.023}, "Mode": "Rotate"}}]
+}

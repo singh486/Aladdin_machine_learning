@@ -1,0 +1,21 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-24 01:07:09", "File": "X_designchallenge.ng3", "Show Annotation": false},
+{"Timestamp": "2020-10-24 01:07:14", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -0.457, "y": -123.16, "z": 55.153}, "Direction": {"x": -0.05, "y": 0.948, "z": -0.315}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:07:24", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -0.491, "y": -101.109, "z": 96.683}, "Direction": {"x": -0.049, "y": 0.792, "z": -0.609}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:07:31", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -144.857, "y": -15.673, "z": 28.383}, "Direction": {"x": 0.975, "y": 0.185, "z": -0.125}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:07:50", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -119.869, "y": -56.616, "z": 63.097}, "Direction": {"x": 0.797, "y": 0.476, "z": -0.371}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:07:56", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -108.942, "y": 68.177, "z": 89.825}, "Direction": {"x": 0.72, "y": -0.409, "z": -0.56}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:07:57", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -109.572, "y": 67.862, "z": 89.24}, "Direction": {"x": 0.724, "y": -0.407, "z": -0.556}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:08:13", "File": "X_designchallenge.ng3", "Texture Change": {"Foundation": 2, "ID": 13, "Type": "HipRoof", "Old Texture": 0, "New Texture": 0}},
+{"Timestamp": "2020-10-24 01:08:15", "File": "X_designchallenge.ng3", "Edit Tree": {"Species": "Dogwood", "ID": 62, "Coordinates": [{"x": -53.152, "y": -15.787, "z": -0}]}},
+{"Timestamp": "2020-10-24 01:08:16", "File": "X_designchallenge.ng3", "Undo": "Edit Tree"},
+{"Timestamp": "2020-10-24 01:08:22", "File": "X_designchallenge.ng3", "Graph Tab": "Cost"},
+{"Timestamp": "2020-10-24 01:08:27", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": 104.834, "y": -15.049, "z": 92.144}, "Direction": {"x": -0.796, "y": 0.181, "z": -0.577}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:08:32", "File": "X_designchallenge.ng3", "Texture Change": {"Foundation": 2, "ID": 13, "Type": "HipRoof", "Old Texture": 3, "New Texture": 3}},
+{"Timestamp": "2020-10-24 01:08:45", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -140.58, "y": -19.276, "z": 46.367}, "Direction": {"x": 0.944, "y": 0.211, "z": -0.252}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:08:51", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": 10.147, "y": 145.754, "z": 46.367}, "Direction": {"x": -0.125, "y": -0.96, "z": -0.252}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:08:57", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": 4.515, "y": -126.265, "z": 42.946}, "Direction": {"x": -0.085, "y": 0.97, "z": -0.228}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:10:32", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": 130.567, "y": 37.945, "z": 19.26}, "Direction": {"x": -0.979, "y": -0.195, "z": -0.06}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-24 01:10:42", "File": "X_designchallenge.ng3", "Camera": {"Position": {"x": -34.719, "y": 148.071, "z": 24.881}, "Direction": {"x": 0.193, "y": -0.976, "z": -0.1}, "Mode": "Rotate"}}]
+}

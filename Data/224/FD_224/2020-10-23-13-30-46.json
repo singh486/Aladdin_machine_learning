@@ -1,0 +1,5 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-28 15:21:20", "File": "trash.ng3", "BuildingCost": [{"Foundation": 81, "Amount": 74666.25673276243}, {"Foundation": 83, "Amount": 57481.71941496202}]},
+{"Timestamp": "2020-10-28 15:21:38", "File": "trash.ng3", "Camera": {"Position": {"x": 75.343, "y": -143.255, "z": 90.202}, "Direction": {"x": -0.234, "y": 0.911, "z": -0.341}, "Mode": "Rotate"}}]
+}

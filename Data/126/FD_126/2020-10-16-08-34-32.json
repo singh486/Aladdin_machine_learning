@@ -1,0 +1,171 @@
+{
+"Version": "8.7.4","Activities": [
+{"Timestamp": "2020-10-16 08:37:44", "File": "@white-house.ng3", "Camera": {"Position": {"x": -54.835, "y": 308.402, "z": 77.686}, "Direction": {"x": 0.187, "y": -0.952, "z": -0.244}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:37:56", "File": "@example-solar-canopy-parking-garage-1.ng3", "Camera": {"Position": {"x": 288.41, "y": -413.049, "z": 147.162}, "Direction": {"x": -0.552, "y": 0.751, "z": -0.362}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:38:14", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": -1228.662, "y": -859.505, "z": 424.501}, "Direction": {"x": 0.849, "y": 0.522, "z": -0.08}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:38:22", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Remove Foundations": null},
+{"Timestamp": "2020-10-16 08:38:38", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Add Foundation": {"Type": "Foundation", "Building": 75, "ID": 75, "Coordinates": [{"x": 5, "y": 0, "z": 0}, {"x": 5, "y": 645, "z": 0}, {"x": 485, "y": 0, "z": 0}, {"x": 485, "y": 645, "z": 0}, {"x": 5, "y": 0, "z": 1}, {"x": 5, "y": 645, "z": 1}, {"x": 485, "y": 0, "z": 1}, {"x": 485, "y": 645, "z": 1}, {"x": 488, "y": 322.5, "z": 0}, {"x": 2, "y": 322.5, "z": 0}, {"x": 245, "y": 648, "z": 0}, {"x": 245, "y": -3, "z": 0}]}},
+{"Timestamp": "2020-10-16 08:38:40", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": -1211.417, "y": -848.913, "z": 422.883}, "Direction": {"x": 0.849, "y": 0.522, "z": -0.08}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 08:38:40", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": -1158.17, "y": -816.209, "z": 417.886}, "Direction": {"x": 0.849, "y": 0.522, "z": -0.08}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 08:38:43", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Camera": {"Position": {"x": -1115.611, "y": -509.752, "z": 959.369}, "Direction": {"x": 0.833, "y": 0.319, "z": -0.453}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:38:50", "Project": "One World Trade Center", "File": "@one-world-trade-center.ng3", "Add Wall": {"Type": "Wall", "Building": 75, "ID": 77, "Coordinates": [{"x": 90, "y": 490, "z": 1}, {"x": 90, "y": 490, "z": 31}, {"x": 385, "y": 505, "z": 1}, {"x": 385, "y": 505, "z": 31}]}},
+{"Timestamp": "2020-10-16 08:39:10", "File": "@example-campus-1.ng3", "Camera": {"Position": {"x": -80.159, "y": -68.908, "z": 42.368}, "Direction": {"x": 0.769, "y": 0.569, "z": -0.292}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:39:54", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -84.84, "y": -89.287, "z": 28.963}, "Direction": {"x": 0.691, "y": 0.712, "z": -0.127}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:39:57", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -13.195, "y": -124.255, "z": 23.931}, "Direction": {"x": 0.124, "y": 0.988, "z": -0.087}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:40:09", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -37.22, "y": -93.196, "z": -61.925}, "Direction": {"x": 0.314, "y": 0.743, "z": 0.591}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:40:11", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -38.973, "y": -116.495, "z": 35.837}, "Direction": {"x": 0.328, "y": 0.927, "z": -0.182}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:40:17", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Remove Wall": {"Type": "Wall", "Building": 1, "ID": 6, "Coordinates": [{"x": -33.647, "y": -21.783, "z": 1}, {"x": -33.647, "y": -21.783, "z": 17.993}, {"x": 36.665, "y": -21.783, "z": 1}, {"x": 36.665, "y": -21.783, "z": 17.993}]}},
+{"Timestamp": "2020-10-16 08:40:20", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Undo": "Remove Wall"},
+{"Timestamp": "2020-10-16 08:40:37", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Remove HipRoof": {"Type": "HipRoof", "Building": 1, "ID": 153, "Coordinates": [{"x": 1.509, "y": 0.092, "z": 42.993}, {"x": -35.637, "y": 0.092, "z": 42.993}, {"x": 38.655, "y": 0.092, "z": 42.993}]}},
+{"Timestamp": "2020-10-16 08:40:59", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Add GambrelRoof": {"Type": "GambrelRoof", "Building": 1, "ID": 156, "Coordinates": [{"x": 1.509, "y": 0.092, "z": 37.993}, {"x": -35.637, "y": -11.846, "z": 32.993}, {"x": -35.637, "y": 0.092, "z": 37.993}, {"x": -35.637, "y": 12.029, "z": 32.993}, {"x": 38.655, "y": -11.846, "z": 32.993}, {"x": 38.655, "y": 0.092, "z": 37.993}, {"x": 38.655, "y": 12.029, "z": 32.993}]}},
+{"Timestamp": "2020-10-16 08:41:09", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -36.562, "y": -119.134, "z": 22.67}, "Direction": {"x": 0.309, "y": 0.948, "z": -0.078}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:41:11", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -67.451, "y": -96.177, "z": 54.173}, "Direction": {"x": 0.553, "y": 0.766, "z": -0.326}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:41:36", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 158, "Coordinates": [{"x": -21.075, "y": -14.325, "z": 29.876}]}},
+{"Timestamp": "2020-10-16 08:41:43", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -99.602, "y": -13.665, "z": 86.13}, "Direction": {"x": 0.807, "y": 0.114, "z": -0.579}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:41:45", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -92.544, "y": -51.845, "z": 77.653}, "Direction": {"x": 0.751, "y": 0.416, "z": -0.512}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:41:46", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -6.254, "y": -86.675, "z": 103.855}, "Direction": {"x": 0.069, "y": 0.691, "z": -0.719}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:41:49", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -10.272, "y": -109.945, "z": 72.698}, "Direction": {"x": 0.101, "y": 0.875, "z": -0.473}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:41:50", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 1, "ID": 158, "Coordinates": [{"x": -21.075, "y": -14.325, "z": 29.876}]}},
+{"Timestamp": "2020-10-16 08:41:56", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 160, "Coordinates": [{"x": -20.663, "y": -6.487, "z": 35.237}]}},
+{"Timestamp": "2020-10-16 08:42:01", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Show Shadow": true},
+{"Timestamp": "2020-10-16 08:42:05", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -4.428, "y": -98.318, "z": 91.194}, "Direction": {"x": 0.055, "y": 0.783, "z": -0.619}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:42:09", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-16 08:42:11", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-16 08:42:13", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-16 08:42:22", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-16 08:42:29", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Animate Sun": true},
+{"Timestamp": "2020-10-16 08:42:42", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Animate Sun": false},
+{"Timestamp": "2020-10-16 08:42:47", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Show Heliodon": true},
+{"Timestamp": "2020-10-16 08:42:47", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Show Heliodon": false},
+{"Timestamp": "2020-10-16 08:42:51", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "5:4", "New Time": "23:30"}},
+{"Timestamp": "2020-10-16 08:42:52", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "23:30", "New Time": "22:30"}},
+{"Timestamp": "2020-10-16 08:42:53", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "21:30", "New Time": "20:30"}},
+{"Timestamp": "2020-10-16 08:42:53", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "20:30", "New Time": "19:30"}},
+{"Timestamp": "2020-10-16 08:42:54", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "18:30", "New Time": "17:30"}},
+{"Timestamp": "2020-10-16 08:42:54", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "16:30", "New Time": "15:30"}},
+{"Timestamp": "2020-10-16 08:42:54", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "14:30", "New Time": "13:30"}},
+{"Timestamp": "2020-10-16 08:42:55", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Time": {"Old Time": "12:30", "New Time": "11:30"}},
+{"Timestamp": "2020-10-16 08:43:04", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Add Window": {"Type": "Window", "Building": 1, "ID": 162, "Coordinates": [{"x": 9, "y": -4, "z": 36.279}, {"x": 9, "y": -10, "z": 33.766}, {"x": 31, "y": -4, "z": 36.279}, {"x": 31, "y": -10, "z": 33.766}]}},
+{"Timestamp": "2020-10-16 08:43:41", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 53.12, "y": -114.049, "z": 28.963}, "Direction": {"x": -0.4, "y": 0.908, "z": -0.127}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:43:47", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 18.513, "y": -112.684, "z": 66.479}, "Direction": {"x": -0.126, "y": 0.897, "z": -0.424}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:44:09", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 7.419, "y": -121.613, "z": 44.483}, "Direction": {"x": -0.039, "y": 0.967, "z": -0.25}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:44:34", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [1.66289,1.6288,1.55801,1.45536,1.32784,0.70966,-0.08734,-0.35331,-0.53749,-0.68774,-0.7934,-0.8501,-0.85643,-0.81226,-0.71858,-0.5788,-0.40157,-0.20622,0.37859,1.29307,1.4255,1.5351,1.61439,1.65798]
+, "Total": 9.36}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [1.66289,1.6288,1.55801,1.45536,1.32784,0.73027,0,0,0,0,0,0,0,0,0,0,0,0,0.42386,1.29307,1.4255,1.5351,1.61439,1.65798]
+, "Total": 16.31}, "Windows": {"Hourly": [0,0,0,0,0,0.43619,1.5488,2.28545,3.04746,3.62635,4.04094,4.17707,4.16026,4.1053,3.72596,3.2179,2.47425,1.68898,0.72342,0,0,0,0,0]
+, "Total": 39.26}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.02062,0.08734,0.35331,0.53749,0.68774,0.7934,0.8501,0.85643,0.81226,0.71858,0.5788,0.40157,0.20622,0.04527,0,0,0,0,0]
+, "Total": 6.95}}},
+{"Timestamp": "2020-10-16 08:45:21", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-16 08:45:39", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [1.58932,1.5435,1.44838,1.31044,1.13909,0.54954,-0.07561,-0.34418,-0.52782,-0.67671,3.13911,3.14105,3.1205,3.14282,0.24744,-0.56884,-0.39241,-0.19692,0.27399,1.09236,1.27031,1.41759,1.52414,1.58271]
+, "Total": 24.75}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,3.91998,3.97759,3.96324,3.94222,0.9546,0,0,0,0,0,0,0,0,0]
+, "Total": 16.76}, "Heater": {"Hourly": [1.58932,1.5435,1.44838,1.31044,1.13909,0.56672,0,0,0,0,0,0,0,0,0,0,0,0,0.31234,1.09236,1.27031,1.41759,1.52414,1.58271]
+, "Total": 14.8}, "Windows": {"Hourly": [0,0,0,0,0,0.36529,1.51827,2.26947,2.92411,3.56648,3.85424,3.84609,3.825,3.85449,3.66372,3.10974,2.43255,1.65908,0.64311,0,0,0,0,0]
+, "Total": 37.53}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.01718,0.07561,0.34418,0.52782,0.67671,0.78086,0.83654,0.84274,0.79939,0.70716,0.56884,0.39241,0.19692,0.03835,0,0,0,0,0]
+, "Total": 6.8}}},
+{"Timestamp": "2020-10-16 08:46:17", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 7.361, "y": -120.167, "z": 44.11}, "Direction": {"x": -0.039, "y": 0.967, "z": -0.25}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 08:46:19", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 163, "Coordinates": [{"x": 8.625, "y": -6.9, "z": 35.064}]}},
+{"Timestamp": "2020-10-16 08:46:21", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 7.67, "y": -29.801, "z": 133.767}, "Direction": {"x": -0.042, "y": 0.267, "z": -0.963}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:46:22", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Remove Window": {"Type": "Window", "Building": 1, "ID": 162, "Coordinates": [{"x": 9, "y": -4, "z": 36.279}, {"x": 9, "y": -10, "z": 33.766}, {"x": 31, "y": -4, "z": 36.279}, {"x": 31, "y": -10, "z": 33.766}]}},
+{"Timestamp": "2020-10-16 08:46:24", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -6.861, "y": -32.07, "z": 133.767}, "Direction": {"x": -0.042, "y": 0.267, "z": -0.963}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-16 08:46:25", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 1, "ID": 163, "Coordinates": [{"x": 8.625, "y": -6.9, "z": 35.064}]}},
+{"Timestamp": "2020-10-16 08:46:31", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 165, "Coordinates": [{"x": 16.05, "y": -6.075, "z": 35.41}]}},
+{"Timestamp": "2020-10-16 08:46:35", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 165, "Coordinates": [{"x": 19.911, "y": -6.075, "z": 35.41}]}},
+{"Timestamp": "2020-10-16 08:46:43", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 160, "Coordinates": [{"x": -18.573, "y": -6.487, "z": 35.237}]}},
+{"Timestamp": "2020-10-16 08:46:47", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 160, "Coordinates": [{"x": -19.072, "y": -6.487, "z": 35.237}]}},
+{"Timestamp": "2020-10-16 08:46:55", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -3.264, "y": -63.647, "z": 119.934}, "Direction": {"x": -0.07, "y": 0.516, "z": -0.853}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:46:56", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": -3.076, "y": -65.028, "z": 122.217}, "Direction": {"x": -0.07, "y": 0.516, "z": -0.853}, "Mode": "Zoom"}},
+{"Timestamp": "2020-10-16 08:47:26", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [1.45481,1.41287,1.3258,1.19954,1.04269,0.47617,-0.3162,-0.89487,-1.37233,-1.23768,0.10479,-0.13934,-0.18758,0.02711,-0.78665,-1.47899,-1.02026,-0.39238,0.19994,0.99991,1.16281,1.29762,1.39515,1.44877]
+, "Total": 5.72}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0.52177,2.13503,2.03566,2.00355,2.10553,1.05197,0,0,0,0,0,0,0,0,0]
+, "Total": 9.85}, "Heater": {"Hourly": [1.45481,1.41287,1.3258,1.19954,1.04269,0.52211,0,0,0,0,0,0,0,0,0,0,0,0,0.28856,0.99991,1.16281,1.29762,1.39515,1.44877]
+, "Total": 13.55}, "Windows": {"Hourly": [0,0,0,0,0,0.32894,1.21083,1.53967,1.76801,2.04068,2.05447,1.89386,1.85552,2.00447,2.05923,1.85412,1.59364,1.3235,0.57798,0,0,0,0,0]
+, "Total": 22.1}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.04594,0.3162,0.89487,1.37233,1.75945,2.03024,2.17501,2.19113,2.07842,1.83862,1.47899,1.02026,0.39238,0.08862,0,0,0,0,0]
+, "Total": 17.68}}},
+{"Timestamp": "2020-10-16 08:48:15", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [1.45481,1.41287,1.3258,1.19954,1.04269,0.47617,-0.3162,-0.89487,-1.37233,-1.23768,0.10479,-0.13934,-0.18758,0.02711,-0.78665,-1.47899,-1.02026,-0.39238,0.19994,0.99991,1.16281,1.29762,1.39515,1.44877]
+, "Total": 5.72}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0.52177,2.13503,2.03566,2.00355,2.10553,1.05197,0,0,0,0,0,0,0,0,0]
+, "Total": 9.85}, "Heater": {"Hourly": [1.45481,1.41287,1.3258,1.19954,1.04269,0.52211,0,0,0,0,0,0,0,0,0,0,0,0,0.28856,0.99991,1.16281,1.29762,1.39515,1.44877]
+, "Total": 13.55}, "Windows": {"Hourly": [0,0,0,0,0,0.32894,1.21083,1.53967,1.76801,2.04068,2.05447,1.89386,1.85552,2.00447,2.05923,1.85412,1.59364,1.3235,0.57798,0,0,0,0,0]
+, "Total": 22.1}, "Solar Panels": {"Hourly": [0,0,0,0,0,0.04594,0.3162,0.89487,1.37233,1.75945,2.03024,2.17501,2.19113,2.07842,1.83862,1.47899,1.02026,0.39238,0.08862,0,0,0,0,0]
+, "Total": 17.68}}},
+{"Timestamp": "2020-10-16 08:49:10", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "5/1", "New Date": "6/1"}},
+{"Timestamp": "2020-10-16 08:49:11", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "8/1", "New Date": "9/1"}},
+{"Timestamp": "2020-10-16 08:49:15", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "9/1", "New Date": "10/1"}},
+{"Timestamp": "2020-10-16 08:49:15", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "10/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-16 08:49:16", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "1/1", "New Date": "2/1"}},
+{"Timestamp": "2020-10-16 08:49:16", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "4/1", "New Date": "5/1"}},
+{"Timestamp": "2020-10-16 08:49:16", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "7/1", "New Date": "8/1"}},
+{"Timestamp": "2020-10-16 08:49:16", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "10/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-16 08:49:17", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "2/1", "New Date": "3/1"}},
+{"Timestamp": "2020-10-16 08:49:17", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "6/1", "New Date": "7/1"}},
+{"Timestamp": "2020-10-16 08:49:17", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "9/1", "New Date": "10/1"}},
+{"Timestamp": "2020-10-16 08:49:17", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "1/1", "New Date": "2/1"}},
+{"Timestamp": "2020-10-16 08:49:18", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "4/1", "New Date": "5/1"}},
+{"Timestamp": "2020-10-16 08:49:18", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "8/1", "New Date": "9/1"}},
+{"Timestamp": "2020-10-16 08:49:18", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "11/1", "New Date": "12/1"}},
+{"Timestamp": "2020-10-16 08:49:18", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "3/1", "New Date": "4/1"}},
+{"Timestamp": "2020-10-16 08:49:19", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "7/1", "New Date": "8/1"}},
+{"Timestamp": "2020-10-16 08:49:19", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "10/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-16 08:49:19", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "2/1", "New Date": "3/1"}},
+{"Timestamp": "2020-10-16 08:49:19", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "6/1", "New Date": "7/1"}},
+{"Timestamp": "2020-10-16 08:49:20", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "10/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-16 08:49:20", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "2/1", "New Date": "3/1"}},
+{"Timestamp": "2020-10-16 08:49:20", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "6/1", "New Date": "7/1"}},
+{"Timestamp": "2020-10-16 08:49:20", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "10/1", "New Date": "11/1"}},
+{"Timestamp": "2020-10-16 08:49:20", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "2/1", "New Date": "3/1"}},
+{"Timestamp": "2020-10-16 08:49:21", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "5/1", "New Date": "6/1"}},
+{"Timestamp": "2020-10-16 08:49:21", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change Date": {"Old Date": "9/1", "New Date": "10/1"}},
+{"Timestamp": "2020-10-16 08:49:26", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 1.894, "y": -81.711, "z": 112.762}, "Direction": {"x": -0.104, "y": 0.627, "z": -0.772}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:49:45", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [2.05726,2.01727,1.93425,1.81386,1.6643,1.49577,1.31975,1.14824,0.33688,-0.49313,-0.78247,-0.98877,-1.10174,-1.11623,-1.03108,-0.84911,-0.57843,0.30317,1.41314,1.62351,1.77883,1.90737,2.00037,2.0515]
+, "Total": 17.92}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Heater": {"Hourly": [2.05726,2.01727,1.93425,1.81386,1.6643,1.49577,1.31975,1.14824,0.48612,0,0,0,0,0,0,0,0,0.54046,1.42022,1.62351,1.77883,1.90737,2.00037,2.0515]
+, "Total": 25.26}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0.48791,1.18963,1.53117,1.67225,1.648,1.63051,1.67441,1.58246,1.29949,0.70738,0.03069,0,0,0,0,0]
+, "Total": 13.45}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0.14924,0.49313,0.78247,0.98877,1.10174,1.11623,1.03108,0.84911,0.57843,0.23729,0.00707,0,0,0,0,0]
+, "Total": 7.33}}},
+{"Timestamp": "2020-10-16 08:50:40", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 17.148, "y": -115.877, "z": 66.86}, "Direction": {"x": -0.213, "y": 0.869, "z": -0.446}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:50:53", "File": "@hexagonal-template.ng3", "Camera": {"Position": {"x": -41.955, "y": -66.176, "z": 23.776}, "Direction": {"x": 0.482, "y": 0.843, "z": -0.237}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:51:13", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": -0.732, "y": -144.971, "z": 67.238}, "Direction": {"x": 0.036, "y": 0.929, "z": -0.368}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:51:27", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add Rack": {"Type": "Rack", "Building": 1, "ID": 197, "Coordinates": [{"x": 0.312, "y": -11.025, "z": 41.658}]}},
+{"Timestamp": "2020-10-16 08:51:31", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 197, "Coordinates": [{"x": -11.285, "y": -11.025, "z": 41.658}]}},
+{"Timestamp": "2020-10-16 08:51:31", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": -0.72, "y": -144.682, "z": 67.965}, "Direction": {"x": 0.036, "y": 0.927, "z": -0.373}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:51:35", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 197, "Coordinates": [{"x": -0.198, "y": -11.025, "z": 41.658}]}},
+{"Timestamp": "2020-10-16 08:51:38", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 197, "Coordinates": [{"x": -0.198, "y": -9.378, "z": 42.693}]}},
+{"Timestamp": "2020-10-16 08:51:42", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Edit Rack": {"Type": "Rack", "Building": 1, "ID": 197, "Coordinates": [{"x": -0.198, "y": -13.858, "z": 39.879}]}},
+{"Timestamp": "2020-10-16 08:52:14", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [0,0,0,0,-0.0246,0.61469,0.8163,0.49681,-0.23753,-0.78815,-1.2082,-1.53654,-1.6149,-1.39291,-1.04694,-0.58695,0.05354,0.95109,0.90842,-0.06794,0,0,0,0]
+, "Total": -4.66}, "AC": {"Hourly": [0,0,0,0,0,0.90147,1.71268,2.46965,2.67804,2.89597,3.01604,2.97727,2.93119,2.92763,2.79489,2.53997,2.27353,2.08045,1.29049,0,0,0,0,0]
+, "Total": 33.49}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0.09769,1.05743,1.58102,1.60217,1.64349,1.72884,1.76677,1.70214,1.68323,1.75665,1.75142,1.66626,1.59577,1.61243,1.26324,0.26614,0,0,0,0]
+, "Total": 22.77}, "Solar Panels": {"Hourly": [0,0,0,0,0.0246,0.28678,0.89637,1.97284,2.91557,3.68413,4.22424,4.51381,4.54609,4.32055,3.84183,3.12692,2.21999,1.12935,0.38207,0.06794,0,0,0,0]
+, "Total": 38.15}}},
+{"Timestamp": "2020-10-16 08:53:20", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Remove Rack": {"Type": "Rack", "Building": 1, "ID": 197, "Coordinates": [{"x": -0.198, "y": -13.858, "z": 39.879}]}},
+{"Timestamp": "2020-10-16 08:53:50", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [0,0,0,0,0,0.9015,1.71877,2.46965,2.67804,2.89597,3.01604,2.97727,2.93119,2.92763,2.79489,2.53997,2.27353,2.08608,1.29105,0,0,0,0,0]
+, "Total": 33.5}, "AC": {"Hourly": [0,0,0,0,0,0.9015,1.71877,2.46965,2.67804,2.89597,3.01604,2.97727,2.93119,2.92763,2.79489,2.53997,2.27353,2.08608,1.29105,0,0,0,0,0]
+, "Total": 33.5}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0.09769,1.05743,1.58102,1.60217,1.64349,1.72884,1.76677,1.70214,1.68323,1.75665,1.75142,1.66626,1.59577,1.61243,1.26324,0.26614,0,0,0,0]
+, "Total": 22.77}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}}},
+{"Timestamp": "2020-10-16 08:55:55", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": 95.94, "y": -110.812, "z": 71.575}, "Direction": {"x": -0.582, "y": 0.711, "z": -0.396}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 08:59:51", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 1, "ID": 200, "Coordinates": [{"x": 16.4, "y": -11.19, "z": 41.555}]}},
+{"Timestamp": "2020-10-16 09:00:20", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 1, "ID": 1, "Coordinates": [{"x": -43, "y": -35, "z": 0}, {"x": -43, "y": 30, "z": 0}, {"x": 75, "y": -35, "z": 0}, {"x": 75, "y": 30, "z": 0}, {"x": -43, "y": -35, "z": 48.5}, {"x": -43, "y": 30, "z": 48.5}, {"x": 75, "y": -35, "z": 48.5}, {"x": 75, "y": 30, "z": 48.5}, {"x": 78, "y": -2.5, "z": 0}, {"x": -46, "y": -2.5, "z": 0}, {"x": 16, "y": 33, "z": 0}, {"x": 16, "y": -38, "z": 0}], "Height": 9.5, "Area": 123.05, "CenterX": -0.05, "CenterY": -0.03}},
+{"Timestamp": "2020-10-16 09:00:27", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add ParabolicDish": {"Type": "ParabolicDish", "Building": 1, "ID": 202, "Coordinates": [{"x": 52.25, "y": 7.75, "z": 19}]}},
+{"Timestamp": "2020-10-16 09:00:29", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": 141.221, "y": -11.248, "z": 85.606}, "Direction": {"x": -0.871, "y": 0.074, "z": -0.486}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 09:00:32", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": 117.854, "y": -100.663, "z": 48.656}, "Direction": {"x": -0.722, "y": 0.646, "z": -0.249}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 09:00:36", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": 127.196, "y": -90.418, "z": 48.154}, "Direction": {"x": -0.722, "y": 0.646, "z": -0.249}, "Mode": "Pan"}},
+{"Timestamp": "2020-10-16 09:01:14", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add ParabolicTrough": {"Type": "ParabolicTrough", "Building": 1, "ID": 205, "Coordinates": [{"x": 59, "y": -19, "z": 16}]}},
+{"Timestamp": "2020-10-16 09:01:17", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Edit Window": {"Type": "Window", "Building": 1, "ID": 116, "Coordinates": [{"x": 24.573, "y": -22.011, "z": 11}, {"x": 24.573, "y": -22.011, "z": 3}, {"x": 28.573, "y": -22.011, "z": 11}, {"x": 28.573, "y": -22.011, "z": 3}]}},
+{"Timestamp": "2020-10-16 09:01:17", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": 126.509, "y": -91.185, "z": 48.154}, "Direction": {"x": -0.722, "y": 0.646, "z": -0.249}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 09:01:24", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Edit Window": {"Type": "Window", "Building": 1, "ID": 116, "Coordinates": [{"x": 22.573, "y": -22.011, "z": 15}, {"x": 22.573, "y": -22.011, "z": 7}, {"x": 26.573, "y": -22.011, "z": 15}, {"x": 26.573, "y": -22.011, "z": 7}]}},
+{"Timestamp": "2020-10-16 09:01:28", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": 160.609, "y": 15.722, "z": 62.348}, "Direction": {"x": -0.94, "y": -0.038, "z": -0.34}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 09:01:35", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Remove ParabolicDish": {"Type": "ParabolicDish", "Building": 1, "ID": 202, "Coordinates": [{"x": 52.25, "y": 7.75, "z": 19}]}},
+{"Timestamp": "2020-10-16 09:01:36", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Remove ParabolicTrough": {"Type": "ParabolicTrough", "Building": 1, "ID": 205, "Coordinates": [{"x": 59, "y": -19, "z": 16}]}},
+{"Timestamp": "2020-10-16 09:01:44", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add Mirror": {"Type": "Mirror", "Building": 1, "ID": 206, "Coordinates": [{"x": 74, "y": -33.5, "z": 11}]}},
+{"Timestamp": "2020-10-16 09:01:51", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add Mirror": {"Type": "Mirror", "Building": 1, "ID": 207, "Coordinates": [{"x": 74, "y": -18.5, "z": 11}]}},
+{"Timestamp": "2020-10-16 09:01:56", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add Mirror": {"Type": "Mirror", "Building": 1, "ID": 208, "Coordinates": [{"x": 74, "y": -3.5, "z": 11}]}},
+{"Timestamp": "2020-10-16 09:02:02", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add Mirror": {"Type": "Mirror", "Building": 1, "ID": 209, "Coordinates": [{"x": 74, "y": 11.5, "z": 11}]}},
+{"Timestamp": "2020-10-16 09:02:09", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Add Mirror": {"Type": "Mirror", "Building": 1, "ID": 210, "Coordinates": [{"x": 74, "y": 26.5, "z": 11}]}},
+{"Timestamp": "2020-10-16 09:02:19", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": 22.584, "y": -116.515, "z": 100.929}, "Direction": {"x": -0.057, "y": 0.808, "z": -0.587}, "Mode": "Rotate"}},
+{"Timestamp": "2020-10-16 09:02:48", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "EnergyDailyAnalysis": {"Building": 1, "Net": {"Hourly": [0,0,0,0,-0.00088,0.89078,1.68329,2.39919,2.57393,2.76445,2.86519,2.81607,2.76885,2.77334,2.65772,2.42829,2.19425,2.04759,1.27866,-0.00243,0,0,0,0]
+, "Total": 32.14}, "AC": {"Hourly": [0,0,0,0,0,0.90107,1.71798,2.46965,2.67806,2.89603,3.01605,2.97728,2.93121,2.92765,2.79493,2.53997,2.27353,2.08588,1.29103,0,0,0,0,0]
+, "Total": 33.5}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+, "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0.09646,1.05477,1.58102,1.60217,1.64349,1.72884,1.76677,1.70214,1.68323,1.75665,1.75142,1.66626,1.59577,1.61243,1.26324,0.26614,0,0,0,0]
+, "Total": 22.77}, "Solar Panels": {"Hourly": [0,0,0,0,0.00088,0.0103,0.03469,0.07046,0.10413,0.13158,0.15087,0.16121,0.16236,0.15431,0.13721,0.11168,0.07929,0.0383,0.01237,0.00243,0,0,0,0]
+, "Total": 1.36}}}]
+}
