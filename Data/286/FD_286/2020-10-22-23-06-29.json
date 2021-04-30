@@ -180,8 +180,8 @@
 , "Total": 28.69}, "Windows": {"Hourly": [0,0,0,0,0,0,0,2.64107,6.48899,9.21488,11.08752,12.09281,12.2053,11.42126,9.76317,7.25396,3.72754,0.23001,0,0,0,0,0,0]
 , "Total": 86.13}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 957.24}]},
-{"Timestamp": "2020-10-23 00:31:07", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-23 00:31:09", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 00:31:07", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-23 00:31:09", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 00:31:18", "File": "Week%208%20Hw.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.70195,2.64482,2.52622,2.35423,2.14057,1.89981,1.57236,0.05091,0,0,0,0,0,0,0,0,0,1.18764,1.83728,2.0823,2.30419,2.48783,2.62069,2.69372]
 , "Total": 31.1}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Heater": {"Hourly": [2.70195,2.64482,2.52622,2.35423,2.14057,1.89981,1.57236,0.05091,0,0,0,0,0,0,0,0,0,1.18764,1.83728,2.0823,2.30419,2.48783,2.62069,2.69372]
@@ -247,7 +247,7 @@
 , "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,0,0.0702,2.77638,6.15532,8.54249,10.17451,11.05027,11.14825,10.46528,9.02042,6.82166,3.75136,0.37072,0,0,0,0,0,0]
 , "Total": 80.35}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 920.66}]},
-{"Timestamp": "2020-10-23 11:31:13", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Cairns, Australia"}},
+{"Timestamp": "2020-10-23 11:31:13", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Cairns, Australia"}},
 {"Timestamp": "2020-10-23 11:31:14", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Cairns, Australia", "New City": "Cairo, Egypt"}},
 {"Timestamp": "2020-10-23 11:31:15", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Cairo, Egypt", "New City": "Cairo, IL"}},
 {"Timestamp": "2020-10-23 11:31:15", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Cairo, IL", "New City": "Calama, Chile"}},
@@ -268,8 +268,8 @@
 {"Timestamp": "2020-10-23 11:31:23", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Catania, Italy", "New City": "Cayenne, French Guiana"}},
 {"Timestamp": "2020-10-23 11:31:23", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Cayenne, French Guiana", "New City": "Changchun, China"}},
 {"Timestamp": "2020-10-23 11:31:23", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Changchun, China", "New City": "Changsha, China"}},
-{"Timestamp": "2020-10-23 11:31:25", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Changsha, China", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-23 11:31:25", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 11:31:25", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Changsha, China", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-23 11:31:25", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 11:31:26", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Indianapolis, IN", "New City": "Indore, India"}},
 {"Timestamp": "2020-10-23 11:31:26", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Indore, India", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 11:31:33", "File": "Week%208%20Hw.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.70213,2.64499,2.52638,2.35438,2.14071,1.89993,1.57246,0.05092,0,0,0,0,0,0,0,0,0,1.18773,1.8374,2.08244,2.30434,2.48799,2.62086,2.6939]
@@ -337,7 +337,7 @@
 , "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 920.62}]},
-{"Timestamp": "2020-10-23 11:33:57", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 11:33:57", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 11:34:00", "File": "Week%208%20Hw.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.53071,1.49834,1.43115,1.33371,1.21267,1.07628,0.92667,0.55523,0.22058,0.03766,0.07601,0.09616,0.09115,0.08642,0.03046,0.16354,0.45412,0.86251,1.04085,1.17966,1.30537,1.4094,1.48467,1.52604]
 , "Total": 19.63}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0.00668,0.07601,0.09616,0.09115,0.08642,0.01844,0,0,0,0,0,0,0,0,0]
 , "Total": 0.37}, "Heater": {"Hourly": [1.53071,1.49834,1.43115,1.33371,1.21267,1.07628,0.92667,0.55523,0.22058,0.03098,0,0,0,0,0.01201,0.16354,0.45412,0.86251,1.04085,1.17966,1.30537,1.4094,1.48467,1.52604]
@@ -360,7 +360,7 @@
 , "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,0,0.04762,1.48991,2.73284,3.19054,3.49823,3.30379,3.78547,4.51713,4.2014,3.66029,2.40609,0.29078,0,0,0,0,0,0]
 , "Total": 33.12}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 777.62}]},
-{"Timestamp": "2020-10-23 11:34:53", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 11:34:53", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 11:35:01", "File": "Week%208%20Hw.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [2.70213,2.64499,2.52638,2.35438,2.14071,1.89993,1.5952,0.16358,0,0,0,0,0,0,0,0,0,1.26801,1.8374,2.08244,2.30434,2.48799,2.62086,2.6939]
 , "Total": 31.32}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Heater": {"Hourly": [2.70213,2.64499,2.52638,2.35438,2.14071,1.89993,1.5952,0.16358,0,0,0,0,0,0,0,0,0,1.26801,1.8374,2.08244,2.30434,2.48799,2.62086,2.6939]
@@ -424,7 +424,7 @@
 {"Timestamp": "2020-10-23 11:37:18", "File": "Week%208%20Hw.ng3", "Camera": {"Position": {"x": -113.624, "y": -124.796, "z": 78.26}, "Direction": {"x": 0.611, "y": 0.666, "z": -0.428}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-23 11:37:20", "File": "Week%208%20Hw.ng3", "Camera": {"Position": {"x": -42.961, "y": -175.481, "z": 46.805}, "Direction": {"x": 0.232, "y": 0.937, "z": -0.26}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-23 11:37:25", "File": "Week%208%20Hw.ng3", "Camera": {"Position": {"x": -58.26, "y": -162.311, "z": 70.6}, "Direction": {"x": 0.314, "y": 0.867, "z": -0.387}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 11:37:35", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 11:37:35", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 11:37:36", "File": "Week%208%20Hw.ng3", "Camera": {"Position": {"x": 6.522, "y": -167.017, "z": 82.447}, "Direction": {"x": -0.033, "y": 0.892, "z": -0.451}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-23 11:37:40", "File": "Week%208%20Hw.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.99218,1.95005,1.86261,1.7358,1.57826,1.40075,1.19522,0.43354,0.00434,0,0,0,0,0,0,0,0.21176,1.06432,1.35464,1.5353,1.6989,1.8343,1.93226,1.98611]
 , "Total": 23.77}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
@@ -469,8 +469,8 @@
 , "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 1075.43}]},
-{"Timestamp": "2020-10-23 11:38:37", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Casablanca, Morocco", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-23 11:38:39", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 11:38:37", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Casablanca, Morocco", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-23 11:38:39", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 11:38:43", "File": "Week%208%20Hw.ng3", "Change Date": {"Old Date": "10/22", "New Date": "11/22"}},
 {"Timestamp": "2020-10-23 11:38:44", "File": "Week%208%20Hw.ng3", "Change Date": {"Old Date": "11/22", "New Date": "12/22"}},
 {"Timestamp": "2020-10-23 11:38:44", "File": "Week%208%20Hw.ng3", "Change Date": {"Old Date": "12/22", "New Date": "1/22"}},
@@ -509,8 +509,8 @@
 , "Total": 14.86}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.36289,2.87912,4.8536,6.04692,6.65568,6.72272,6.25106,5.21262,3.47057,0.83655,0,0,0,0,0,0,0]
 , "Total": 43.29}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}, "Solar Potential": [{"Building": 2, "Daily": 777.18}]},
-{"Timestamp": "2020-10-23 11:40:02", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Casablanca, Morocco", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-23 11:40:04", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-23 11:40:02", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Casablanca, Morocco", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-23 11:40:04", "File": "Week%208%20Hw.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-23 11:40:07", "File": "Week%208%20Hw.ng3", "Change Date": {"Old Date": "12/22", "New Date": "10/22"}},
 {"Timestamp": "2020-10-23 11:40:07", "File": "Week%208%20Hw.ng3", "Change Date": {"Old Date": "11/22", "New Date": "12/22"}},
 {"Timestamp": "2020-10-23 11:40:07", "File": "Week%208%20Hw.ng3", "Change Date": {"Old Date": "12/22", "New Date": "1/22"}},

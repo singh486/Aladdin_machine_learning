@@ -47,8 +47,8 @@
 , "Total": 4290.46}, "Windows": {"Monthly": [19.84,21.51,24.92,16.2,18.11,19.16,21.04,19.74,17.05,15.16,16.91,16.95]
 , "Total": 6892.29}, "Solar Panels": {"Monthly": [22.04,25.93,32.88,30.45,35.61,36.72,38.23,32.41,25.38,18.86,17.71,17.97]
 , "Total": 10164.57}}},
-{"Timestamp": "2020-10-29 18:06:22", "File": "Energy3D_Net_Zero_House.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-29 18:06:22", "File": "Energy3D_Net_Zero_House.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-29 18:06:22", "File": "Energy3D_Net_Zero_House.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-29 18:06:22", "File": "Energy3D_Net_Zero_House.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-29 18:06:45", "File": "Energy3D_Net_Zero_House.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [6.92,-0.99,-13.49,-14.04,-7.58,-8.23,-9.21,-8.3,-4,-6.87,5.43,13.65]
 , "Total": -1420.71}, "AC": {"Monthly": [0,0,0,6.28,22.81,29.38,28.96,25.95,13.92,0,0,0]
 , "Total": 3871.83}, "Heater": {"Monthly": [26.77,21.71,14.83,9.16,4.46,0,0,0,8.29,13.03,21.73,27.72]

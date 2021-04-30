@@ -309,8 +309,8 @@
 , "Total": 15.14}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0.01563,1.20098,3.50105,5.47981,6.892,7.65368,7.73415,7.13102,5.86797,4.01397,1.75063,0.10733,0,0,0,0,0,0]
 , "Total": 51.35}}, "Solar Potential": [{"Building": 2, "Daily": 782.73}]},
 {"Timestamp": "2020-10-22 08:27:04", "File": "smalldesignexcercise.ng3", "Camera": {"Position": {"x": -9.047, "y": -176.825, "z": 56.101}, "Direction": {"x": 0.026, "y": 0.925, "z": -0.379}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 08:27:11", "File": "smalldesignexcercise.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-22 08:27:11", "File": "smalldesignexcercise.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-22 08:27:11", "File": "smalldesignexcercise.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-22 08:27:11", "File": "smalldesignexcercise.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-22 08:27:14", "File": "smalldesignexcercise.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.31041,1.28179,1.22237,1.13621,1.02918,0.90856,0.7216,-1.3044,-3.66587,-5.5944,-6.96194,-7.69698,-7.77456,-7.19283,-5.97092,-4.16718,-1.9362,0.46116,0.87724,0.99999,1.11114,1.20314,1.2697,1.30628]
 , "Total": -37.43}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Heater": {"Hourly": [1.31041,1.28179,1.22237,1.13621,1.02918,0.90856,0.75247,0.07513,0,0,0,0,0,0,0,0,0,0.62016,0.87724,0.99999,1.11114,1.20314,1.2697,1.30628]

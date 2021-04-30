@@ -545,7 +545,7 @@
 {"Timestamp": "2020-10-30 14:55:48", "File": "week%209%20hw.ng3", "Camera": {"Position": {"x": 77.868, "y": -105.533, "z": 13.201}, "Direction": {"x": -0.599, "y": 0.793, "z": -0.11}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 14:55:50", "File": "week%209%20hw.ng3", "Camera": {"Position": {"x": -108.852, "y": 78.009, "z": -4.692}, "Direction": {"x": 0.807, "y": -0.589, "z": 0.025}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 14:55:51", "File": "week%209%20hw.ng3", "Camera": {"Position": {"x": -27.665, "y": 118.708, "z": 51.545}, "Direction": {"x": 0.196, "y": -0.896, "z": -0.399}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 14:57:19", "File": "week%209%20hw.ng3", "Save": "file:/D:/ÕâÀï²ÅÊÇÓÐÓÃµÄÎÄ¼þ/Purdue/ENGT180/week%209%20engt%20180/week%209%20hw.ng3*"},
+{"Timestamp": "2020-10-30 14:57:19", "File": "week%209%20hw.ng3", "Save": "file:/D:/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ãµï¿½ï¿½Ä¼ï¿½/Purdue/ENGT180/week%209%20engt%20180/week%209%20hw.ng3*"},
 {"Timestamp": "2020-10-30 14:57:24", "File": "week%209%20hw.ng3", "Camera": {"Position": {"x": 48.201, "y": -91.101, "z": 81.586}, "Direction": {"x": -0.376, "y": 0.684, "z": -0.625}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 14:57:28", "File": "week%209%20hw.ng3", "Camera": {"Position": {"x": -124.288, "y": -27.356, "z": 41.646}, "Direction": {"x": 0.924, "y": 0.204, "z": -0.324}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 14:57:35", "File": "week%209%20hw.ng3", "Plant Type Change": null},
@@ -576,4 +576,4 @@
 , "Total": 8302.98}, "Windows": {"Monthly": [13.68,14,15.33,14.29,15.14,16.34,18.34,20.69,20.31,17.3,11.95,10.19]
 , "Total": 5705.05}, "Solar Panels": {"Monthly": [23.7,27.8,35.68,40.88,46.6,50.08,51.38,50.13,41.53,33.49,19.28,16.56]
 , "Total": 13295.16}}},
-{"Timestamp": "2020-10-30 15:00:39", "File": "week%209%20hw.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": true}}
+{"Timestamp": "2020-10-30 15:00:39", "File": "week%209%20hw.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": true}}]}

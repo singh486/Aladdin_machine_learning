@@ -19,8 +19,8 @@
 {"Timestamp": "2020-10-27 22:45:18", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Graph Tab": "Energy"},
 {"Timestamp": "2020-10-27 22:45:20", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 5.603, "y": -68.934, "z": 127.075}, "Direction": {"x": -0.053, "y": 0.544, "z": -0.837}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-27 22:45:21", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": -9.672, "y": -114.84, "z": 76.639}, "Direction": {"x": 0.06, "y": 0.884, "z": -0.464}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-27 22:45:32", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-27 22:45:32", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-27 22:45:32", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-27 22:45:32", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-27 22:46:19", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 1, "Net": {"Monthly": [75.24,64.46,27.71,-18.18,-15.34,29.48,45.33,56.37,83.37,54.85,26.99,62.87]
 , "Total": 14999.63}, "AC": {"Monthly": [0,0,0,0,45.34,112.55,147.86,147.9,145.31,75.96,0,0]
 , "Total": 20528.81}, "Heater": {"Monthly": [101.53,97.92,78.91,55.96,32.6,18.55,0,0,13.52,32.97,54.56,83.53]

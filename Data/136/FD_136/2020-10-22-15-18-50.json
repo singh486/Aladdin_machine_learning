@@ -594,7 +594,7 @@
 {"Timestamp": "2020-10-22 16:44:00", "File": "Small%20Design%20Energy%20Project%20ENGT.ng3", "Edit Rack": {"Type": "Rack", "Building": 459, "ID": 101, "Coordinates": [{"x": -0.837, "y": -3.825, "z": 35.582}]}},
 {"Timestamp": "2020-10-22 16:44:07", "File": "Small%20Design%20Energy%20Project%20ENGT.ng3", "Camera": {"Position": {"x": 54.754, "y": -65.881, "z": 38.99}, "Direction": {"x": -0.65, "y": 0.704, "z": -0.286}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-22 16:44:09", "File": "Small%20Design%20Energy%20Project%20ENGT.ng3", "Camera": {"Position": {"x": 5.224, "y": -90.063, "z": 40.985}, "Direction": {"x": -0.175, "y": 0.936, "z": -0.305}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 16:44:20", "File": "Small%20Design%20Energy%20Project%20ENGT.ng3", "CspProjectDailyEnergyGraph": },
+{"Timestamp": "2020-10-22 16:44:20", "File": "Small%20Design%20Energy%20Project%20ENGT.ng3"},
 {"Timestamp": "2020-10-22 16:44:28", "File": "Small%20Design%20Energy%20Project%20ENGT.ng3", "Camera": {"Position": {"x": 11.533, "y": -88.574, "z": 41.931}, "Direction": {"x": -0.175, "y": 0.936, "z": -0.305}, "Mode": "Pan"}},
 {"Timestamp": "2020-10-22 16:44:52", "File": "Small%20Design%20Energy%20Project%20ENGT.ng3", "EnergyDailyAnalysis": {"Building": 459, "Net": {"Hourly": [1.15158,1.12762,1.07788,1.00575,0.91614,0.81516,0.67648,-0.35594,-0.97072,-1.38515,-1.66351,-1.80995,-1.82618,-1.7124,-1.46725,-1.0876,-0.53256,0.54865,0.78894,0.8917,0.98476,1.06178,1.1175,1.14813]
 , "Total": 0.5}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]

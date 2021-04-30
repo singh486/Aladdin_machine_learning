@@ -2522,4 +2522,4 @@
 {"Timestamp": "2020-10-30 12:41:27", "File": "zero.ng3", "Camera": {"Position": {"x": -90.797, "y": -156.576, "z": 66.756}, "Direction": {"x": 0.586, "y": 0.751, "z": -0.306}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 12:41:28", "File": "zero.ng3", "Camera": {"Position": {"x": 6.915, "y": -197.982, "z": 60.036}, "Direction": {"x": 0.098, "y": 0.957, "z": -0.272}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 12:41:47", "File": "zero.ng3", "Camera": {"Position": {"x": -58.308, "y": -166.273, "z": 90.992}, "Direction": {"x": 0.424, "y": 0.799, "z": -0.427}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 13:10:34", "File": "zero.ng3", "Camera": {"Position": {"x": -113.546, "y": -147.036, "z": 31.577}, "Direction": {"x": 0.699, "y": 0.703, "z": -0.131}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-30 13:10:34", "File": "zero.ng3", "Camera": {"Position": {"x": -113.546, "y": -147.036, "z": 31.577}, "Direction": {"x": 0.699, "y": 0.703, "z": -0.131}, "Mode": "Rotate"}}]}

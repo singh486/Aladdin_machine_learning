@@ -83,8 +83,8 @@
 , "Total": 0}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}},
 {"Timestamp": "2020-10-29 21:17:55", "File": "ENGT180%20Week%209.ng3", "Camera": {"Position": {"x": -20.535, "y": -117.383, "z": 68.226}, "Direction": {"x": 0.15, "y": 0.855, "z": -0.497}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 21:17:58", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-29 21:17:59", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-29 21:17:58", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhï¿½us, Brazil"}},
+{"Timestamp": "2020-10-29 21:17:59", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Ilhï¿½us, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-29 21:17:59", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Indianapolis, IN", "New City": "Indore, India"}},
 {"Timestamp": "2020-10-29 21:18:00", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Indore, India", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-29 21:18:04", "File": "ENGT180%20Week%209.ng3", "Camera": {"Position": {"x": -9.308, "y": -118.802, "z": 68.226}, "Direction": {"x": 0.068, "y": 0.865, "z": -0.497}, "Mode": "Rotate"}},
@@ -559,8 +559,8 @@
 , "Total": 14807.75}}},
 {"Timestamp": "2020-10-30 00:04:31", "File": "ENGT180%20Week%209.ng3", "Show Run": {"Graph": "BuildingEnergyAnnualGraph", "ID": "All", "Shown": false}},
 {"Timestamp": "2020-10-30 00:04:37", "File": "ENGT180%20Week%209.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": true}},
-{"Timestamp": "2020-10-30 00:07:26", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "San Francisco, CA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-30 00:07:30", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-30 00:07:26", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "San Francisco, CA", "New City": "Ilhï¿½us, Brazil"}},
+{"Timestamp": "2020-10-30 00:07:30", "File": "ENGT180%20Week%209.ng3", "Change City": {"Old City": "Ilhï¿½us, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-30 00:08:03", "File": "ENGT180%20Week%209.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [30.67,15.64,-7.37,-20.32,-20.77,-25.08,-26.15,-26.99,-15.81,-5.26,21.47,43.12]
 , "Total": -1121}, "AC": {"Monthly": [0,0,0,3.97,18.35,24.17,24.22,19.1,9.81,0,0,0]
 , "Total": 3030.08}, "Heater": {"Monthly": [50.1,39.84,25.3,15.37,7.34,0,0,0,12.08,23.3,37.11,56.72]
@@ -569,4 +569,4 @@
 , "Total": 12276.82}}},
 {"Timestamp": "2020-10-30 00:08:13", "File": "ENGT180%20Week%209.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": true}},
 {"Timestamp": "2020-10-30 00:08:17", "File": "ENGT180%20Week%209.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": false}},
-{"Timestamp": "2020-10-30 00:08:19", "File": "ENGT180%20Week%209.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": true}}
+{"Timestamp": "2020-10-30 00:08:19", "File": "ENGT180%20Week%209.ng3", "Show Curve": {"Graph": "BuildingEnergyAnnualGraph", "Name": "Windows", "Shown": true}}]}

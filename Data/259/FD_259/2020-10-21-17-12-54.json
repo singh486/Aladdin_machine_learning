@@ -124,4 +124,4 @@
 {"Timestamp": "2020-10-21 17:31:49", "File": "X_smalldesign2.ng3", "Add Rack": {"Type": "Rack", "Building": 100, "ID": 122, "Coordinates": [{"x": 47.5, "y": 1.662, "z": 21.153}]}},
 {"Timestamp": "2020-10-21 17:31:53", "File": "X_smalldesign2.ng3", "Edit Rack": {"Type": "Rack", "Building": 100, "ID": 122, "Coordinates": [{"x": 47.5, "y": 7.005, "z": 21.153}]}},
 {"Timestamp": "2020-10-21 17:31:59", "File": "X_smalldesign2.ng3", "Edit Rack": {"Type": "Rack", "Building": 100, "ID": 122, "Coordinates": [{"x": 47.5, "y": 2.487, "z": 21.153}]}},
-{"Timestamp": "2020-10-21 17:32:04", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 101.386, "y": 38.555, "z": 56.021}, "Direction": {"x": -0.902, "y": -0.322, "z": -0.286}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-21 17:32:04", "File": "X_smalldesign2.ng3", "Camera": {"Position": {"x": 101.386, "y": 38.555, "z": 56.021}, "Direction": {"x": -0.902, "y": -0.322, "z": -0.286}, "Mode": "Rotate"}}]}

@@ -1378,4 +1378,4 @@
 {"Timestamp": "2020-10-29 18:04:26", "File": "Example.ng3", "Camera": {"Position": {"x": -2.413, "y": 142.948, "z": 26.263}, "Direction": {"x": 0.058, "y": -0.99, "z": -0.126}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 18:04:44", "File": "Example.ng3", "Camera": {"Position": {"x": -124.149, "y": -60.742, "z": 30.571}, "Direction": {"x": 0.897, "y": 0.414, "z": -0.156}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 18:04:48", "File": "Example.ng3", "Camera": {"Position": {"x": -129.216, "y": -17.326, "z": 57.906}, "Direction": {"x": 0.932, "y": 0.115, "z": -0.344}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 18:28:15", "File": "X_Example.ng3", "Save": "file:/C:/Energy3D/X_Example.ng3*"}
+{"Timestamp": "2020-10-29 18:28:15", "File": "X_Example.ng3", "Save": "file:/C:/Energy3D/X_Example.ng3*"}]}

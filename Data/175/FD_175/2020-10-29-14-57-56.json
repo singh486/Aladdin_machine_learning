@@ -116,8 +116,8 @@
 {"Timestamp": "2020-10-29 15:03:05", "File": "Example.ng3", "Camera": {"Position": {"x": 0.607, "y": -20.43, "z": 132.568}, "Direction": {"x": 0.017, "y": 0.144, "z": -0.989}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 15:03:08", "File": "Example.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 18, "Coordinates": [{"x": -3.035, "y": 0.69, "z": 31}]}},
 {"Timestamp": "2020-10-29 15:03:12", "File": "Example.ng3", "Edit SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 31, "Coordinates": [{"x": 2.41, "y": 0.69, "z": 31}]}},
-{"Timestamp": "2020-10-29 15:03:17", "File": "Example.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-29 15:03:17", "File": "Example.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-29 15:03:17", "File": "Example.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-29 15:03:17", "File": "Example.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-29 15:03:25", "File": "Example.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [0,0,0,0,-0.00857,-0.18662,0.08647,-0.48876,-1.02127,-1.45642,-1.77395,-2.01258,-2.0927,-1.97956,-1.76386,-1.43379,-0.97605,-0.42748,0.08613,-0.02478,0,0,0,0]
 , "Total": -15.47}, "AC": {"Hourly": [0,0,0,0,0,0.22483,1.28144,1.48501,1.63605,1.74303,1.80222,1.76471,1.70698,1.66356,1.54586,1.37357,1.17982,0.96744,0.68412,0.0204,0,0,0,0]
 , "Total": 19.08}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]

@@ -164,11 +164,11 @@
 , "Total": 7378.12}, "Windows": {"Monthly": [12.04,13.02,16.92,17.92,20.44,21.35,21.56,20.51,18.67,16.93,10.93,10.09]
 , "Total": 6094.59}, "Solar Panels": {"Monthly": [33.4,36.81,48.02,51.29,56.55,56.09,54.99,53.14,49.79,45.46,29.96,27.78]
 , "Total": 16524.77}}},
-{"Timestamp": "2020-10-27 11:05:59", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-27 11:05:59", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-27 11:05:59", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-27 11:05:59", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-27 11:06:01", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Indianapolis, IN", "New City": "Honolulu, HI"}},
-{"Timestamp": "2020-10-27 11:06:03", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Honolulu, HI", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-27 11:06:03", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-27 11:06:03", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Honolulu, HI", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-27 11:06:03", "Project": "Gambrel", "File": "@gambrel-template.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-27 11:06:31", "Project": "Gambrel", "File": "@gambrel-template.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 1, "Net": {"Monthly": [21.63,15.49,-6.18,-25.62,-22.79,-18.29,-20.76,-18.1,-14.67,-12.67,-1.85,18.48]
 , "Total": -2595.69}, "AC": {"Monthly": [0,0,0,0,19.02,28.03,33.49,33.85,28.83,15.26,0,0]
 , "Total": 4820.38}, "Heater": {"Monthly": [50.8,48.66,36.41,25.17,13.05,8.12,0,0,5.86,14.47,24.49,41.1]
@@ -1201,11 +1201,11 @@
 , "Total": 7746.57}, "Windows": {"Monthly": [17.96,18.98,23.59,23.29,23.83,22.99,22.98,22.76,23.72,23.17,15.79,15]
 , "Total": 7727.93}, "Solar Panels": {"Monthly": [0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}},
-{"Timestamp": "2020-10-27 11:58:01", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-27 11:58:01", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-27 11:58:01", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-27 11:58:01", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-27 11:58:04", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Indianapolis, IN", "New City": "Hiroshima, Japan"}},
-{"Timestamp": "2020-10-27 11:58:07", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Hiroshima, Japan", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-27 11:58:07", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-27 11:58:07", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Hiroshima, Japan", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-27 11:58:07", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-27 11:58:10", "Project": "Cape Cod", "File": "@cape-cod-template.ng3", "Camera": {"Position": {"x": 9.64, "y": -117.728, "z": 56.556}, "Direction": {"x": -0.056, "y": 0.937, "z": -0.345}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-27 11:58:31", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "Camera": {"Position": {"x": 2.585, "y": -124.34, "z": 54.204}, "Direction": {"x": -0.031, "y": 0.954, "z": -0.298}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-27 11:58:50", "Project": "Flatroof", "File": "@flat-roof-template.ng3", "EnergyAnnualAnalysis": {"Months": 5, "Building": 1, "Net": {"Monthly": [94.71,93.42,77.15,57.96,57.96]

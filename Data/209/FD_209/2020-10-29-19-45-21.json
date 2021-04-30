@@ -21,7 +21,7 @@
 {"Timestamp": "2020-10-29 19:46:22", "File": "HJS_Energy%252520design%252520challenge.ng3", "Graph Tab": "Cost"},
 {"Timestamp": "2020-10-29 19:46:26", "File": "HJS_Energy%252520design%252520challenge.ng3", "Camera": {"Position": {"x": -6.545, "y": -147.375, "z": 144.096}, "Direction": {"x": 0.028, "y": 0.72, "z": -0.693}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 19:46:30", "File": "HJS_Energy%252520design%252520challenge.ng3", "Camera": {"Position": {"x": 13.561, "y": -186.96, "z": 84.465}, "Direction": {"x": -0.069, "y": 0.912, "z": -0.404}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 19:47:07", "File": "HJS_Energy%252520design%252520challenge.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-29 19:47:07", "File": "HJS_Energy%252520design%252520challenge.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-29 19:47:12", "File": "HJS_Energy%252520design%252520challenge.ng3", "Camera": {"Position": {"x": 6.019, "y": -101.079, "z": 180.117}, "Direction": {"x": -0.033, "y": 0.496, "z": -0.868}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 19:47:17", "File": "HJS_Energy%252520design%252520challenge.ng3", "Camera": {"Position": {"x": -1.421, "y": -165.377, "z": 122.792}, "Direction": {"x": 0.003, "y": 0.807, "z": -0.59}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 19:47:20", "File": "HJS_Energy%252520design%252520challenge.ng3", "Paste SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 93, "Coordinates": [{"x": -39.905, "y": -10.155, "z": 44.883}]}},

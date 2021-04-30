@@ -33,7 +33,7 @@
 {"Timestamp": "2020-10-24 03:07:03", "File": "a.ng3", "Camera": {"Position": {"x": 57.166, "y": 35.564, "z": 77.103}, "Direction": {"x": -0.561, "y": -0.347, "z": -0.752}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-24 03:07:08", "File": "a.ng3", "Camera": {"Position": {"x": 9.191, "y": 100.715, "z": 15.196}, "Direction": {"x": -0.091, "y": -0.985, "z": -0.145}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-24 03:07:13", "File": "a.ng3", "Camera": {"Position": {"x": -79.474, "y": 6.343, "z": 64.213}, "Direction": {"x": 0.778, "y": -0.061, "z": -0.625}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-24 03:07:20", "File": "a.ng3", "Change City": {"Old City": "Beijing, China", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-24 03:07:20", "File": "a.ng3", "Change City": {"Old City": "Beijing, China", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-24 03:07:25", "File": "a.ng3", "Camera": {"Position": {"x": -27.457, "y": 92.555, "z": 34}, "Direction": {"x": 0.268, "y": -0.905, "z": -0.329}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-24 03:07:27", "File": "a.ng3", "Camera": {"Position": {"x": 24.358, "y": 91.314, "z": 39.247}, "Direction": {"x": -0.239, "y": -0.893, "z": -0.381}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-24 03:07:29", "File": "a.ng3", "Camera": {"Position": {"x": 27.179, "y": 89.248, "z": 42.06}, "Direction": {"x": -0.267, "y": -0.873, "z": -0.408}, "Mode": "Rotate"}},

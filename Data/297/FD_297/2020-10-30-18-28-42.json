@@ -28,4 +28,4 @@
 {"Timestamp": "2020-10-30 18:56:08", "Project": "Box Gabled Roof", "File": "@box-gabled-template.ng3", "Camera": {"Position": {"x": -13.297, "y": -153.965, "z": 37.363}, "Direction": {"x": 0.093, "y": 0.98, "z": -0.176}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 18:57:15", "File": "@white-house.ng3", "Camera": {"Position": {"x": -46.759, "y": 316.932, "z": 41.37}, "Direction": {"x": 0.161, "y": -0.978, "z": -0.131}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 18:57:18", "File": "@white-house.ng3", "Graph Tab": "Cost"},
-{"Timestamp": "2020-10-30 18:57:23", "File": "@white-house.ng3", "Camera": {"Position": {"x": -225.078, "y": -213.436, "z": 61.996}, "Direction": {"x": 0.716, "y": 0.67, "z": -0.196}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-30 18:57:23", "File": "@white-house.ng3", "Camera": {"Position": {"x": -225.078, "y": -213.436, "z": 61.996}, "Direction": {"x": 0.716, "y": 0.67, "z": -0.196}, "Mode": "Rotate"}}]}

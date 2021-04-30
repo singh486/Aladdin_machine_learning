@@ -109,4 +109,4 @@
 {"Timestamp": "2020-10-30 10:34:08", "File": "fin2.ng3", "Edit Rack": {"Type": "Rack", "Building": 2, "ID": 17, "Coordinates": [{"x": -43.379, "y": 5.637, "z": 23.466}]}},
 {"Timestamp": "2020-10-30 10:56:15", "File": "fin2.ng3", "Camera": {"Position": {"x": -39.448, "y": -154.04, "z": 151.99}, "Direction": {"x": 0.041, "y": 0.659, "z": -0.751}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 10:56:16", "File": "fin2.ng3", "Camera": {"Position": {"x": -38.041, "y": -154.947, "z": 151.262}, "Direction": {"x": 0.035, "y": 0.663, "z": -0.748}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 10:56:17", "File": "fin2.ng3", "Camera": {"Position": {"x": -47.72, "y": -206.934, "z": 81.418}, "Direction": {"x": 0.079, "y": 0.899, "z": -0.43}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-30 10:56:17", "File": "fin2.ng3", "Camera": {"Position": {"x": -47.72, "y": -206.934, "z": 81.418}, "Direction": {"x": 0.079, "y": 0.899, "z": -0.43}, "Mode": "Rotate"}}]}

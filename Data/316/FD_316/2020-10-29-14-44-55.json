@@ -97,7 +97,7 @@
 {"Timestamp": "2020-10-29 14:51:43", "File": "House1.ng3", "Camera": {"Position": {"x": -3.548, "y": 99.439, "z": 34.08}, "Direction": {"x": 0.034, "y": -0.945, "z": -0.324}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 14:51:45", "File": "House1.ng3", "Show Heliodon": true},
 {"Timestamp": "2020-10-29 14:51:47", "File": "House1.ng3", "Camera": {"Position": {"x": -71.875, "y": 63.695, "z": 42.885}, "Direction": {"x": 0.683, "y": -0.606, "z": -0.408}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 14:51:49", "File": "House1.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-29 14:51:49", "File": "House1.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-29 14:51:53", "File": "House1.ng3", "Camera": {"Position": {"x": -71.556, "y": 64.053, "z": 42.885}, "Direction": {"x": 0.68, "y": -0.609, "z": -0.408}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 14:51:53", "File": "House1.ng3", "Camera": {"Position": {"x": -22.448, "y": -93.376, "z": 42.885}, "Direction": {"x": 0.213, "y": 0.888, "z": -0.408}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 14:51:55", "File": "House1.ng3", "Camera": {"Position": {"x": 12.438, "y": -103.961, "z": 9.975}, "Direction": {"x": -0.118, "y": 0.988, "z": -0.095}, "Mode": "Rotate"}},
@@ -617,7 +617,7 @@
 {"Timestamp": "2020-10-29 15:45:18", "File": "House%202.ng3", "Show Heliodon": false},
 {"Timestamp": "2020-10-29 15:45:19", "File": "House%202.ng3", "Camera": {"Position": {"x": -1.395, "y": 91.657, "z": 47.139}, "Direction": {"x": 0.014, "y": -0.889, "z": -0.457}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 15:45:56", "File": "Successful_House_1.ng3", "Camera": {"Position": {"x": 39.503, "y": -129.41, "z": 41.019}, "Direction": {"x": -0.263, "y": 0.918, "z": -0.297}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 15:46:04", "File": "House%202.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-29 15:46:04", "File": "House%202.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhï¿½us, Brazil"}},
 {"Timestamp": "2020-10-29 15:46:08", "File": "House%202.ng3", "Camera": {"Position": {"x": -1.395, "y": 91.657, "z": 47.139}, "Direction": {"x": 0.014, "y": -0.889, "z": -0.457}, "Mode": "Zoom"}},
 {"Timestamp": "2020-10-29 15:46:09", "File": "House%202.ng3", "Show Heliodon": true},
 {"Timestamp": "2020-10-29 15:46:09", "File": "House%202.ng3", "Show Heliodon": false},
@@ -2261,4 +2261,4 @@
 {"Timestamp": "2020-10-29 21:12:23", "File": "Successful_House_1.ng3", "Camera": {"Position": {"x": -78.85, "y": -120.887, "z": 47.661}, "Direction": {"x": 0.519, "y": 0.796, "z": -0.312}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 21:12:24", "File": "Successful_House_1.ng3", "Camera": {"Position": {"x": 29.541, "y": -143.866, "z": 38.917}, "Direction": {"x": -0.195, "y": 0.947, "z": -0.254}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 21:12:29", "File": "Successful_House_1.ng3", "Camera": {"Position": {"x": 54.954, "y": 125.26, "z": 66.664}, "Direction": {"x": -0.362, "y": -0.824, "z": -0.437}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 21:12:39", "File": "Successful_House_1.ng3", "Camera": {"Position": {"x": 0.323, "y": -136.606, "z": 66.664}, "Direction": {"x": -0.002, "y": 0.9, "z": -0.437}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-29 21:12:39", "File": "Successful_House_1.ng3", "Camera": {"Position": {"x": 0.323, "y": -136.606, "z": 66.664}, "Direction": {"x": -0.002, "y": 0.9, "z": -0.437}, "Mode": "Rotate"}}]}

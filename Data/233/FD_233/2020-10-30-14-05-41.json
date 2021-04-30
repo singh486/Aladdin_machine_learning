@@ -157,8 +157,8 @@
 , "Total": 27.15}, "Windows": {"Hourly": [0,0,0,0,0,0,0,0.64646,1.73591,2.25087,2.27721,1.86144,1.71334,2.13594,2.29963,1.9558,1.05958,0.03716,0,0,0,0,0,0]
 , "Total": 17.97}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.71154,2.33502,3.55736,4.37335,4.80137,4.84879,4.51642,3.79853,2.68093,1.12998,0.02707,0,0,0,0,0,0]
 , "Total": 32.78}}},
-{"Timestamp": "2020-10-30 14:30:17", "File": "XDesignProject.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
-{"Timestamp": "2020-10-30 14:30:17", "File": "XDesignProject.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-30 14:30:17", "File": "XDesignProject.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
+{"Timestamp": "2020-10-30 14:30:17", "File": "XDesignProject.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-30 14:30:24", "File": "XDesignProject.ng3", "EnergyDailyAnalysis": {"Building": 2, "Net": {"Hourly": [2.41456,2.36959,2.27623,2.14086,1.97268,1.78317,1.58524,-0.36676,-2.39915,-3.53342,-4.29112,-4.68869,-4.73273,-4.42401,-3.75733,-2.7201,-1.12423,1.39494,1.73396,1.92682,2.10147,2.24601,2.35059,2.40808]
 , "Total": -3.33}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Heater": {"Hourly": [2.41456,2.36959,2.27623,2.14086,1.97268,1.78317,1.58524,0.48732,0,0,0,0,0,0,0,0,0.1474,1.44893,1.73396,1.92682,2.10147,2.24601,2.35059,2.40808]

@@ -29,9 +29,9 @@
 , "Total": 6.65}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.0335,0.58598,1.28497,1.86601,2.20107,2.25147,2.01164,1.50108,0.80903,0.11911,0,0,0,0,0,0,0]
 , "Total": 12.66}}, "Solar Potential": [{"Building": 2, "Daily": 581.86}]},
 {"Timestamp": "2020-10-28 00:02:26", "File": "Design%20Project%20ENGT%20180.ng3", "Camera": {"Position": {"x": -119.625, "y": -39.684, "z": 69.671}, "Direction": {"x": 0.831, "y": 0.276, "z": -0.484}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-28 00:02:30", "File": "Design%20Project%20ENGT%20180.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-28 00:02:30", "File": "Design%20Project%20ENGT%20180.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-28 00:02:30", "File": "Design%20Project%20ENGT%20180.ng3", "Move": {"Displacement": "(0.0, 5.0)"}},
-{"Timestamp": "2020-10-28 00:02:33", "File": "Design%20Project%20ENGT%20180.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-28 00:02:33", "File": "Design%20Project%20ENGT%20180.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-28 00:02:49", "File": "Design%20Project%20ENGT%20180.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [29.52,16.36,-5.89,-22.39,-25.68,-30.76,-30.33,-27.05,-12.89,-3.45,21.74,35.73]
 , "Total": -1675.66}, "AC": {"Monthly": [0,0,0,0.56,14.28,18.45,18.62,15.92,9.83,0,0,0]
 , "Total": 2362.13}, "Heater": {"Monthly": [45.06,36.69,23.4,14.21,6.59,0,0,0,10.79,20.66,33.59,46.05]

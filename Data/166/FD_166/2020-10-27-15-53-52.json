@@ -9,7 +9,7 @@
 {"Timestamp": "2020-10-27 15:56:43", "Project": "Mansard Roof", "File": "@mansard-template.ng3", "Camera": {"Position": {"x": 6.682, "y": -120.528, "z": 48.687}, "Direction": {"x": -0.043, "y": 0.947, "z": -0.319}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-27 15:57:12", "Project": "Hip & Valley Roof", "File": "@hip-valley-template.ng3", "Camera": {"Position": {"x": 48.156, "y": -107.849, "z": 138.547}, "Direction": {"x": -0.29, "y": 0.593, "z": -0.751}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-27 15:57:34", "File": "@hexagonal-template.ng3", "Camera": {"Position": {"x": 12.285, "y": -75.668, "z": 22.181}, "Direction": {"x": -0.18, "y": 0.959, "z": -0.217}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-27 15:58:00", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-27 15:58:00", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-27 15:58:20", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Show Heliodon": true},
 {"Timestamp": "2020-10-27 15:58:22", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 26.054, "y": -89.413, "z": 90.977}, "Direction": {"x": -0.246, "y": 0.704, "z": -0.667}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-27 15:58:22", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Camera": {"Position": {"x": 26.584, "y": -90.928, "z": 92.413}, "Direction": {"x": -0.246, "y": 0.704, "z": -0.667}, "Mode": "Zoom"}},

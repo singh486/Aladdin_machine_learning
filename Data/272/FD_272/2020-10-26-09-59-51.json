@@ -683,5 +683,5 @@
 , "Total": 24.84}}, "Solar Potential": [{"Building": 2, "Daily": 1012.16}]},
 {"Timestamp": "2020-10-26 10:27:24", "File": "designChallengeHouse.ng3", "Graph Tab": "Cost"},
 {"Timestamp": "2020-10-26 10:27:45", "File": "designChallengeHouse.ng3", "Graph Tab": "Basics"},
-{"Timestamp": "2020-10-26 10:30:01", "File": "designChallengeHouse.ng3", "Graph Tab": "Energy"}{"Event String":"OHHNNN_ONPPP_PPPPPPP_PA_PAPAPAPPAPPPPPPPPPA_PAPPAPPPPAP"}]
+{"Timestamp": "2020-10-26 10:30:01", "File": "designChallengeHouse.ng3", "Graph Tab": "Energy"},{"Event String":"OHHNNN_ONPPP_PPPPPPP_PA_PAPAPAPPAPPPPPPPPPA_PAPPAPPPPAP"}]
 }

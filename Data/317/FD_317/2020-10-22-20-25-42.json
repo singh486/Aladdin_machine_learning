@@ -35,7 +35,7 @@
 {"Timestamp": "2020-10-22 20:28:34", "File": "House.ng3", "Change City": {"Old City": "Tbilisi, Georgia", "New City": "Temuco, Chile"}},
 {"Timestamp": "2020-10-22 20:28:44", "File": "House.ng3", "Change Time and Date": {"Old Time": "14:7", "New Time": "23:17", "Old Date": "10/25", "New Date": "10/25"}},
 {"Timestamp": "2020-10-22 20:28:44", "File": "House.ng3", "Camera": {"Position": {"x": 36.744, "y": -124.647, "z": 75.359}, "Direction": {"x": -0.247, "y": 0.832, "z": -0.497}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 20:28:46", "File": "House.ng3", "Change City": {"Old City": "Temuco, Chile", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-22 20:28:46", "File": "House.ng3", "Change City": {"Old City": "Temuco, Chile", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-22 20:28:56", "File": "House.ng3", "Change Time and Date": {"Old Time": "18:43", "New Time": "21:35", "Old Date": "10/25", "New Date": "10/25"}},
 {"Timestamp": "2020-10-22 20:28:56", "File": "House.ng3", "Camera": {"Position": {"x": -4.493, "y": -130.337, "z": 74.706}, "Direction": {"x": 0.028, "y": 0.87, "z": -0.492}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-22 20:28:59", "File": "House.ng3", "BuildingDailyEnergyGraph": {"Building": 2, "Net": {"Hourly": [1.08464,1.06313,1.01847,0.95371,0.87325,0.78259,0.6879,0.45638,0.15042,-0.08397,-0.2448,-0.32992,-0.33918,-0.27331,-0.13118,0.08499,0.37393,0.65295,0.75905,0.85131,0.93486,1.00401,1.05404,1.08154]

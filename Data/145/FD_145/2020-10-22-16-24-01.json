@@ -194,7 +194,7 @@
 {"Timestamp": "2020-10-22 16:36:14", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change Solar Heat Map Color Contrast": {"Old Value": 15, "New Value": 15}},
 {"Timestamp": "2020-10-22 16:36:16", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change Solar Heat Map Color Contrast": {"Old Value": 15, "New Value": 93}},
 {"Timestamp": "2020-10-22 16:36:17", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change Solar Heat Map Color Contrast": {"Old Value": 93, "New Value": 82}},
-{"Timestamp": "2020-10-22 16:36:27", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-22 16:36:27", "Project": "Bungalow", "File": "@bungalow-template.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-22 16:36:28", "Project": "Bungalow", "File": "@bungalow-template.ng3", "BuildingDailyEnergyGraph": {"Building": 120, "Net": {"Hourly": [0.72098,0.71106,0.69046,0.66059,0.62349,0.58167,0.53346,0.48037,0.43386,0.39386,0.36491,0.34909,0.34749,0.36023,0.38638,0.42406,0.47051,0.52203,0.57075,0.61337,0.6519,0.68379,0.70687,0.71955]
 , "Total": 13}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Heater": {"Hourly": [0.72098,0.71106,0.69046,0.66059,0.62349,0.58167,0.53346,0.48037,0.43386,0.39386,0.36491,0.34909,0.34749,0.36023,0.38638,0.42406,0.47051,0.52203,0.57075,0.61337,0.6519,0.68379,0.70687,0.71955]
@@ -485,7 +485,7 @@
 , "Total": 0}, "Windows": {"Hourly": [0,0,0,0,0,0.21152,1.20445,1.76238,2.04023,2.1968,2.28527,2.32745,2.33196,2.29966,2.22413,2.13922,2.83143,2.83064,0.90101,0,0,0,0,0]
 , "Total": 27.59}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}}, "Solar Potential": [{"Building": 165, "Daily": 627.61}, {"Building": 247, "Daily": 73.43}]},
-{"Timestamp": "2020-10-22 17:55:55", "Project": "Bungalow", "File": "X_smalldesign.ng3", "Change City": {"Old City": "", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-22 17:55:55", "Project": "Bungalow", "File": "X_smalldesign.ng3", "Change City": {"Old City": "", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-22 17:55:59", "Project": "Bungalow", "File": "X_smalldesign.ng3", "BuildingDailyEnergyGraph": {"Building": 165, "Net": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "AC": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 , "Total": 0}, "Heater": {"Hourly": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]

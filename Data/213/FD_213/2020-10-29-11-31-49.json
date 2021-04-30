@@ -1,9 +1,9 @@
 {
 "Version": "8.7.4","Activities": [
 {"Timestamp": "2020-10-30 11:02:17", "File": "expensiive_house.ng3", "Save": "file:/C:/Users/X/Documents/ENGT%2018000/expensiive_house.ng3*"},
-{"Timestamp": "2020-10-30 11:08:54", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-30 11:08:54", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-30 11:08:54", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Move": {"Displacement": "(0.0, 5.0)"}},
-{"Timestamp": "2020-10-30 11:08:56", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change City": {"Old City": "Ilhéus, Brazil", "New City": "Indianapolis, IN"}},
+{"Timestamp": "2020-10-30 11:08:56", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change City": {"Old City": "Ilheus, Brazil", "New City": "Indianapolis, IN"}},
 {"Timestamp": "2020-10-30 11:08:59", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change Date": {"Old Date": "7/1", "New Date": "8/1"}},
 {"Timestamp": "2020-10-30 11:08:59", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change Date": {"Old Date": "9/1", "New Date": "10/1"}},
 {"Timestamp": "2020-10-30 11:09:00", "Project": "Colonial", "File": "colonial-chimney-inside.ng3", "Change Date": {"Old Date": "10/1", "New Date": "11/1"}},

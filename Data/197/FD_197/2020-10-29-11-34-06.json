@@ -1972,6 +1972,6 @@
 {"Timestamp": "2020-10-29 14:11:02", "File": "Final%2525252520design%2525252520project.ng3", "Camera": {"Position": {"x": 31.829, "y": -60.811, "z": 86.478}, "Direction": {"x": -0.289, "y": 0.549, "z": -0.784}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 14:11:03", "File": "Final%2525252520design%2525252520project.ng3", "Camera": {"Position": {"x": 80.933, "y": -34.706, "z": 66.452}, "Direction": {"x": -0.735, "y": 0.312, "z": -0.603}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 14:11:08", "File": "Final%2525252520design%2525252520project.ng3", "Camera": {"Position": {"x": 72.536, "y": -46.987, "z": 68.629}, "Direction": {"x": -0.658, "y": 0.423, "z": -0.622}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 14:11:32", "File": "Final%2525252520design%2525252520project.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 11, "ID": 269, "Coordinates": [{"x": ?, "y": ?, "z": ?}]}},
+{"Timestamp": "2020-10-29 14:11:32", "File": "Final%2525252520design%2525252520project.ng3", "Add PyramidRoof": {"Type": "PyramidRoof", "Building": 11, "ID": 269, "Coordinates": [{"x": 0, "y": 0, "z": 0}]}},
 {"Timestamp": "2020-10-29 14:11:36", "File": "Final%2525252520design%2525252520project.ng3", "Camera": {"Position": {"x": 66.845, "y": -50.262, "z": 72.022}, "Direction": {"x": -0.607, "y": 0.453, "z": -0.653}, "Mode": "Zoom"}}]
 }

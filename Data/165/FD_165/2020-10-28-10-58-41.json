@@ -245,7 +245,7 @@
 {"Timestamp": "2020-10-29 15:14:35", "File": "house.ng3", "Camera": {"Position": {"x": 62.17, "y": -157.043, "z": 58.829}, "Direction": {"x": -0.09, "y": 0.887, "z": -0.452}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 15:15:00", "File": "house.ng3", "Camera": {"Position": {"x": 163.406, "y": -119.561, "z": 40.264}, "Direction": {"x": -0.639, "y": 0.684, "z": -0.352}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-29 15:15:23", "File": "house.ng3", "Graph Tab": "Cost"},
-{"Timestamp": "2020-10-29 15:20:33", "File": "house.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-29 15:20:33", "File": "house.ng3", "Change City": {"Old City": "Boston, MA", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-29 15:20:45", "File": "house.ng3", "Graph Tab": "Energy"},
 {"Timestamp": "2020-10-29 15:20:52", "File": "house.ng3", "Clear Graph Data": "BuildingEnergyDailyGraph"},
 {"Timestamp": "2020-10-29 15:21:23", "File": "house.ng3", "EnergyAnnualAnalysis": {"Months": 12, "Building": 2, "Net": {"Monthly": [38.87,25.16,5.85,-7.88,-2.93,-5.07,-6.01,-9.28,-0.44,9.07,28.85,44.73]

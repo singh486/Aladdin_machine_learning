@@ -293,4 +293,4 @@
 , "Total": 11991.1}}},
 {"Timestamp": "2020-10-29 22:44:26", "File": "Project%20Design.ng3", "Plant Type Change": null},
 {"Timestamp": "2020-10-29 22:44:39", "File": "Project%20Design.ng3", "Camera": {"Position": {"x": -253.842, "y": -198.201, "z": 62.396}, "Direction": {"x": 0.779, "y": 0.603, "z": -0.172}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 22:44:49", "File": "Project%20Design.ng3", "Camera": {"Position": {"x": 31.704, "y": -318.811, "z": 86.763}, "Direction": {"x": -0.08, "y": 0.966, "z": -0.246}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-29 22:44:49", "File": "Project%20Design.ng3", "Camera": {"Position": {"x": 31.704, "y": -318.811, "z": 86.763}, "Direction": {"x": -0.08, "y": 0.966, "z": -0.246}, "Mode": "Rotate"}}]}

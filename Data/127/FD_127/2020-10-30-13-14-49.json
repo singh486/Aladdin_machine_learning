@@ -1122,7 +1122,7 @@
 , "Total": 25.93}}},
 {"Timestamp": "2020-10-30 15:24:49", "File": "House.ng3", "Camera": {"Position": {"x": -63.121, "y": -160.822, "z": 105.487}, "Direction": {"x": 0.332, "y": 0.811, "z": -0.482}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 15:25:25", "File": "House.ng3", "Change Latitude": {"Old Value": 39, "New Value": 39}},
-{"Timestamp": "2020-10-30 15:25:28", "File": "House.ng3", "Change City": {"Old City": "", "New City": "Ilhéus, Brazil"}},
+{"Timestamp": "2020-10-30 15:25:28", "File": "House.ng3", "Change City": {"Old City": "", "New City": "Ilheus, Brazil"}},
 {"Timestamp": "2020-10-30 15:25:34", "File": "House.ng3", "Camera": {"Position": {"x": -66.938, "y": -166.936, "z": 91.257}, "Direction": {"x": 0.351, "y": 0.841, "z": -0.411}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 15:25:34", "File": "House.ng3", "Camera": {"Position": {"x": -60.955, "y": -169.313, "z": 91.257}, "Direction": {"x": 0.322, "y": 0.853, "z": -0.411}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 15:25:35", "File": "House.ng3", "Camera": {"Position": {"x": -61.815, "y": -168.986, "z": 91.257}, "Direction": {"x": 0.326, "y": 0.851, "z": -0.411}, "Mode": "Rotate"}},

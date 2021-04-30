@@ -36,4 +36,4 @@
 , "Total": 12.44}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.14569,1.17477,2.05824,2.62692,2.92371,2.95659,2.72606,2.2271,1.4307,0.33522,0,0,0,0,0,0,0]
 , "Total": 18.61}}, "Solar Potential": [{"Building": 2, "Daily": 454.66}]},
 {"Timestamp": "2020-10-30 15:52:07", "File": "energydesign%202.ng3", "Graph Tab": "Cost"},
-{"Timestamp": "2020-10-30 15:52:47", "File": "energydesign%202.ng3", "Graph Tab": "Basics"}
+{"Timestamp": "2020-10-30 15:52:47", "File": "energydesign%202.ng3", "Graph Tab": "Basics"}]}

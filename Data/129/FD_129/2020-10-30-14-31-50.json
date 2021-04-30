@@ -61,4 +61,4 @@
 , "Total": 27.36}}},
 {"Timestamp": "2020-10-30 16:08:30", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -78.754, "y": 118.925, "z": 10.521}, "Direction": {"x": 0.623, "y": -0.782, "z": 0.006}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-30 16:08:32", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": -51.206, "y": 110.35, "z": 91.786}, "Direction": {"x": 0.443, "y": -0.726, "z": -0.526}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 16:12:56", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": 144.189, "y": -76.042, "z": 47.594}, "Direction": {"x": -0.836, "y": 0.495, "z": -0.237}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-30 16:12:56", "File": "EGNIT%20small%20desighn.ng3", "Camera": {"Position": {"x": 144.189, "y": -76.042, "z": 47.594}, "Direction": {"x": -0.836, "y": 0.495, "z": -0.237}, "Mode": "Rotate"}}]}

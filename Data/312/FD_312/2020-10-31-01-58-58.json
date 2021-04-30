@@ -782,4 +782,4 @@
 , "Total": 20.59}}, "Solar Potential": [{"Building": 2, "Daily": 957.03}]},
 {"Timestamp": "2020-10-31 02:37:17", "File": "error6419189686956061325.ng3", "Camera": {"Position": {"x": -75.263, "y": -93.288, "z": 42.259}, "Direction": {"x": 0.593, "y": 0.733, "z": -0.333}, "Mode": "Rotate"}},
 {"Timestamp": "2020-10-31 02:37:18", "File": "error6419189686956061325.ng3", "Camera": {"Position": {"x": 18.946, "y": -109.841, "z": 61.377}, "Direction": {"x": -0.147, "y": 0.863, "z": -0.484}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-31 02:37:22", "File": "error6419189686956061325.ng3", "Camera": {"Position": {"x": -28.442, "y": -116.766, "z": 41.659}, "Direction": {"x": 0.225, "y": 0.917, "z": -0.329}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-31 02:37:22", "File": "error6419189686956061325.ng3", "Camera": {"Position": {"x": -28.442, "y": -116.766, "z": 41.659}, "Direction": {"x": 0.225, "y": 0.917, "z": -0.329}, "Mode": "Rotate"}}]}
