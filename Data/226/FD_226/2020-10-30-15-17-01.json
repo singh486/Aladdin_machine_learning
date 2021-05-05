@@ -613,4 +613,4 @@
 , "Total": 7.24}, "Solar Panels": {"Hourly": [0,0,0,0,0,0,0,0.41496,1.37082,2.19362,2.77788,3.0929,3.1281,2.88252,2.36376,1.5958,0.64822,0.02153,0,0,0,0,0,0]
 , "Total": 20.49}}, "Solar Potential": [{"Building": 2, "Daily": 1084.45}]},
 {"Timestamp": "2020-10-30 15:40:55", "File": "week9HW.ng3", "Camera": {"Position": {"x": 208.614, "y": -192.573, "z": 63.24}, "Direction": {"x": -0.752, "y": 0.57, "z": -0.331}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 15:41:32", "File": "week9HW.ng3", "Camera": {"Position": {"x": 55.205, "y": -224.699, "z": 169.004}, "Direction": {"x": -0.22, "y": 0.682, "z": -0.698}, "Mode": "Rotate"}}
+{"Timestamp": "2020-10-30 15:41:32", "File": "week9HW.ng3", "Camera": {"Position": {"x": 55.205, "y": -224.699, "z": 169.004}, "Direction": {"x": -0.22, "y": 0.682, "z": -0.698}, "Mode": "Rotate"}}]}
