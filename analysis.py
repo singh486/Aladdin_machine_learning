@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as seabornInstance 
 from sklearn.model_selection import train_test_split 
 from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
 from sklearn import metrics
 
 def count_dict():
@@ -103,19 +104,19 @@ def parse_dataframe():
     action_df = action_df.transpose()
     action_df.columns = mDictionary.keys()
 
-    last_energy_total = []
+    final_net_energy = []
 
     for key in total:
         temp_list = total[key]
         if len(temp_list) == 0:
             # Remove energy totals with 0
             action_df = action_df.drop(key)
-            # last_energy_total.append(-1)
+            # final_net_energy.append(-1)
         else:
-            # last_energy_total.append(temp_list[-1 + len(temp_list)])
-            last_energy_total.append(temp_list[0])
+            # final_net_energy.append(temp_list[-1 + len(temp_list)])
+            final_net_energy.append(temp_list[0])
     
-    action_df['Last Energy Total'] = last_energy_total
+    action_df['Final Net Energy'] = final_net_energy
 
     # OPTIONAL: remove an action cateory
     # action_df = action_df.drop(['Window'], 1)
@@ -136,10 +137,10 @@ def linear_regression(action_df, total_df):
     # cols.remove('Window')
 
     X = action_df[cols].values
-    y = action_df['Last Energy Total'].values
+    y = action_df['Final Net Energy'].values
     plt.figure(figsize=(15,10))
     plt.tight_layout()
-    seabornInstance.distplot(action_df['Last Energy Total'])
+    seabornInstance.distplot(action_df['Final Net Energy'])
     plt.ylabel("Density of Values", fontsize=18)
     plt.xlabel("Final Net Energy (kWh)", fontsize=18)
     plt.show()
@@ -176,10 +177,73 @@ def linear_regression(action_df, total_df):
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
+def logistic_regression(action_df, total_df):
+    cDictionary = count_dict()
+    cols = list(merged_dict(cDictionary).keys())
+
+    # Cuztomize font size for all plots
+    plt.rcParams.update({'font.size': 18})
+
+    # OPTIONAL: remove an action cateory
+    # cols.remove('Window')
+
+    X = action_df[cols].values
+    y = action_df['Final Net Energy'].values
+    plt.figure(figsize=(15,10))
+    plt.tight_layout()
+    seabornInstance.distplot(action_df['Final Net Energy'])
+    plt.ylabel("Density of Values", fontsize=18)
+    plt.xlabel("Final Net Energy (kWh)", fontsize=18)
+    plt.show()
+
+    print(X.shape)
+    print(y.shape)
+
+    # Cuztomize font size for second plot
+    plt.rcParams.update({'font.size': 15})
+
+    print(action_df.describe())
+
+    # Categorize final net energy for logistic regression
+    for idx, row in action_df.iterrows():
+        if  action_df.loc[idx,'Final Net Energy'] >= -5000 and action_df.loc[idx,'Final Net Energy'] <= 5000:
+            action_df.loc[idx,'Final Net Energy'] = 1
+        else:
+            action_df.loc[idx,'Final Net Energy'] = 0
+
+    
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+    regressor = LogisticRegression(solver='lbfgs', max_iter=10000)  
+    y_train = y_train.astype('int')
+    regressor.fit(X_train, y_train)
+    # coeff_df = pd.DataFrame(regressor.coef_, cols, columns=['Coefficient'])  
+    # print(coeff_df)
+
+    y_pred = regressor.predict(X_test)
+    df = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})
+    df1 = df.head(25)
+    print(df1)
+
+    df1.plot(kind='bar',figsize=(10,8))
+    plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
+    plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
+
+    custom_axis = list(range(1, len(df['Actual']) + 1))
+    old_axis = list(range(0, len(df['Actual']-1)))
+    plt.xticks(old_axis, custom_axis)
+
+    plt.xlabel("Randomly Selected Students", fontsize=15)
+    plt.ylabel("Final Net Energy (kWh)", fontsize=15)
+    plt.show()
+    print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
+    print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
+    print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
     action_df, total_df = parse_dataframe()
     print(action_df)
-    # print(total_df)
-    linear_regression(action_df, total_df)
+    # linear_regression(action_df, total_df)
+    logistic_regression(action_df, total_df)
