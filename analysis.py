@@ -4,6 +4,7 @@ import os
 import re
 import pandas as pd
 from pathlib import Path
+from collections import defaultdict
 
 import numpy as np  
 import matplotlib.pyplot as plt  
@@ -32,6 +33,11 @@ def merged_dict(cDictionary):
                 res[key] += cDictionary[val]
     return res
 
+def merged_key():
+    with open('merged_config.json') as f:
+        data = json.load(f)
+    return data
+
 
 def remove_empty_files_and_folders(dir_path) -> None:
     for root, dirnames, files in os.walk(dir_path, topdown=False):
@@ -45,6 +51,103 @@ def remove_empty_files_and_folders(dir_path) -> None:
             if not os.listdir(full_path):
                 os.rmdir(full_path)
 
+def find_action(data_dict, target):
+    index = 0
+    for key in data_dict:
+        values = data_dict[key]
+        index += 1
+        for v in values:
+            if v == target:
+                return index
+    return None
+
+def parse_sequence_dataframe():
+    total = {}
+    action_sequence = defaultdict(list)
+    cDictionary = count_dict()
+    action_key = merged_key()
+
+    subfolders = [ f.path for f in os.scandir("Data") if f.is_dir() ]
+    filepaths = []
+    for sub in subfolders:
+        f = [f.path for f in os.scandir(sub) if f.is_dir()]
+        filepaths.append(f[0])
+
+    for filepath in filepaths:
+
+        # Reset Dictionary to store action counts
+        cDictionary = count_dict()
+
+        total[filepath] = []
+        for file in glob.glob(filepath + "/*.json"):
+            with open(file) as f:
+    
+                try:
+                    data = json.load(f)
+    
+                    # For each JSON file count particular activities
+                    for item in data["Activities"]:
+                        for subitem in item:
+                            if subitem in cDictionary:
+                                action_sequence[filepath].append(find_action(action_key, subitem))
+                            if subitem == 'EnergyAnnualAnalysis':
+                                # total[filepath].append(
+                                #     item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
+
+                                # Update to the correct total energy value
+                                total[filepath].append(
+                                    item['EnergyAnnualAnalysis']['Net']["Total"])
+
+                
+    
+                except Exception as e:
+                    print("Error with ", file)
+                    print(str(e))
+        
+    action_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in action_sequence.items()}, axis=1)
+        # print(action_df)
+
+    print(action_df.keys())
+
+    total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
+    total_df = total_df.fillna(0)
+
+    action_df = action_df.transpose()
+
+    final_net_energy = []
+
+    print(len(total))
+    # pd.set_option("display.max_rows", None, "display.max_columns", None)
+
+    # print((action_df))
+
+    for key in action_sequence:
+        temp_list = total[key]
+        # print(temp_list)
+        # print(type(key))
+        # print(action_df.isin([key]).any())
+        if len(temp_list) == 0:
+            # Remove energy totals with 0
+            # if key in action_df:
+            # print("YES")
+            action_df = action_df.drop(key)
+            # final_net_energy.append(-1)
+        else:
+            final_net_energy.append(temp_list[-1 + len(temp_list)])
+            # TODO: Change to last index of temp_list
+            # final_net_energy.append(temp_list[0])
+    
+    # print(len(final_net_energy))
+    action_df['Final Net Energy'] = final_net_energy
+
+    # action_df['Final Net Energy'] = pd.Series(final_net_energy)
+
+    # OPTIONAL: remove an action cateory
+    # action_df = action_df.drop(['Window'], 1)
+
+    total_df = total_df.transpose()
+    print(action_df)
+    return action_df, total_df
 
 def parse_dataframe():
     total = {}
@@ -95,6 +198,7 @@ def parse_dataframe():
         mDictionary = merged_dict(cDictionary)
         action_df[filepath] = mDictionary.values()
 
+    print(action_df.keys())
 
     total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
     total_df = total_df.fillna(0)
@@ -104,8 +208,7 @@ def parse_dataframe():
     action_df = action_df.transpose()
     action_df.columns = mDictionary.keys()
 
-    final_net_energy = []
-
+    final_net_energy = []    
     for key in total:
         temp_list = total[key]
         if len(temp_list) == 0:
@@ -243,7 +346,8 @@ def logistic_regression(action_df, total_df):
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
-    action_df, total_df = parse_dataframe()
-    print(action_df)
+    # action_df, total_df = parse_dataframe()
+    # print(action_df)
     # linear_regression(action_df, total_df)
-    logistic_regression(action_df, total_df)
+    # logistic_regression(action_df, total_df)
+    parse_sequence_dataframe()
