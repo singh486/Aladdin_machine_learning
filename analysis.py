@@ -105,6 +105,7 @@ def parse_sequence_dataframe():
                     print(str(e))
         
     action_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in action_sequence.items()}, axis=1)
+    action_df = action_df.fillna(-1)
 
     total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
     total_df = total_df.fillna(0)
@@ -128,6 +129,7 @@ def parse_sequence_dataframe():
     action_df['Final Net Energy'] = final_net_energy
 
     total_df = total_df.transpose()
+    
     print(action_df)
     return action_df, total_df
 
@@ -209,9 +211,13 @@ def parse_dataframe():
     return action_df, total_df
      
 
-def linear_regression(action_df, total_df):
+def linear_regression(action_df, total_df, is_seq):
     cDictionary = count_dict()
-    cols = list(merged_dict(cDictionary).keys())
+
+    if is_seq == 1:
+        cols = list(total_df.keys())
+    else:
+        cols = list(merged_dict(cDictionary).keys())
 
     # Cuztomize font size for all plots
     plt.rcParams.update({'font.size': 18})
@@ -260,9 +266,12 @@ def linear_regression(action_df, total_df):
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
-def logistic_regression(action_df, total_df):
+def logistic_regression(action_df, total_df, is_seq):
     cDictionary = count_dict()
-    cols = list(merged_dict(cDictionary).keys())
+    if is_seq == 1:
+        cols = list(total_df.keys())
+    else:
+        cols = list(merged_dict(cDictionary).keys())
 
     # Cuztomize font size for all plots
     plt.rcParams.update({'font.size': 18})
@@ -326,11 +335,11 @@ def logistic_regression(action_df, total_df):
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
-    # action_df, total_df = parse_dataframe()
-    # print(action_df)
-    # linear_regression(action_df, total_df)
-    # logistic_regression(action_df, total_df)
+    action_df, total_df = parse_dataframe()
+    print(action_df)
+    linear_regression(action_df, total_df, 0)
+    logistic_regression(action_df, total_df, 0)
 
     action_df_seq, total_df_seq = parse_sequence_dataframe()
-    # linear_regression(action_df_seq, total_df_seq)
-    # logistic_regression(action_df_seq, total_df_seq)
+    linear_regression(action_df_seq, total_df_seq, 1)
+    logistic_regression(action_df_seq, total_df_seq, 1)
