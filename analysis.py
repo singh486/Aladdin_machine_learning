@@ -105,9 +105,6 @@ def parse_sequence_dataframe():
                     print(str(e))
         
     action_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in action_sequence.items()}, axis=1)
-        # print(action_df)
-
-    print(action_df.keys())
 
     total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
     total_df = total_df.fillna(0)
@@ -115,35 +112,20 @@ def parse_sequence_dataframe():
     action_df = action_df.transpose()
 
     final_net_energy = []
-
-    print(len(total))
     # pd.set_option("display.max_rows", None, "display.max_columns", None)
-
-    # print((action_df))
 
     for key in action_sequence:
         temp_list = total[key]
-        # print(temp_list)
-        # print(type(key))
-        # print(action_df.isin([key]).any())
+
         if len(temp_list) == 0:
             # Remove energy totals with 0
-            # if key in action_df:
-            # print("YES")
             action_df = action_df.drop(key)
-            # final_net_energy.append(-1)
         else:
             final_net_energy.append(temp_list[-1 + len(temp_list)])
             # TODO: Change to last index of temp_list
             # final_net_energy.append(temp_list[0])
     
-    # print(len(final_net_energy))
     action_df['Final Net Energy'] = final_net_energy
-
-    # action_df['Final Net Energy'] = pd.Series(final_net_energy)
-
-    # OPTIONAL: remove an action cateory
-    # action_df = action_df.drop(['Window'], 1)
 
     total_df = total_df.transpose()
     print(action_df)
@@ -214,10 +196,8 @@ def parse_dataframe():
         if len(temp_list) == 0:
             # Remove energy totals with 0
             action_df = action_df.drop(key)
-            # final_net_energy.append(-1)
         else:
-            # final_net_energy.append(temp_list[-1 + len(temp_list)])
-            final_net_energy.append(temp_list[0])
+            final_net_energy.append(temp_list[-1 + len(temp_list)])
     
     action_df['Final Net Energy'] = final_net_energy
 
@@ -350,4 +330,7 @@ if __name__ == "__main__":
     # print(action_df)
     # linear_regression(action_df, total_df)
     # logistic_regression(action_df, total_df)
-    parse_sequence_dataframe()
+
+    action_df_seq, total_df_seq = parse_sequence_dataframe()
+    # linear_regression(action_df_seq, total_df_seq)
+    # logistic_regression(action_df_seq, total_df_seq)
