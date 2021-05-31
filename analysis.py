@@ -13,6 +13,7 @@ import seaborn as seabornInstance
 from sklearn.model_selection import train_test_split 
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
 from sklearn import metrics
 
 def count_dict():
@@ -338,6 +339,8 @@ def logistic_regression(action_df, total_df, is_seq):
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
+    score = accuracy_score(y_test,y_pred)
+    return score
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
@@ -346,8 +349,20 @@ if __name__ == "__main__":
     # linear_regression(action_df, total_df, 0)
     # logistic_regression(action_df, total_df, 0)
 
-    percentages = [.9, .7, .5, .3, .1]
+    percentages = [.1, .3, .5, .7, .9, 1]
+    predictions = []
     for percent in percentages:
         action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
-        linear_regression(action_df_seq, total_df_seq, 1)
-        logistic_regression(action_df_seq, total_df_seq, 1)
+        # linear_regression(action_df_seq, total_df_seq, 1)
+        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1))
+    
+    print(predictions)
+    np_percentages = np.array(percentages)
+    np_predictions = np.array(predictions)
+    predictions = np_predictions * 100
+    percentages = np_percentages * 100
+    plt.scatter(percentages, predictions, c='r')
+    plt.title("Accuracy of Model for Percentage of Action Sequence")
+    plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
+    plt.ylabel("Accuracy of Model (%)", fontsize=15)
+    plt.show()
