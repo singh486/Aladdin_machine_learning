@@ -2,6 +2,7 @@ import json
 import glob
 import os
 import re
+import math
 import pandas as pd
 from pathlib import Path
 from collections import defaultdict
@@ -12,6 +13,7 @@ import seaborn as seabornInstance
 from sklearn.model_selection import train_test_split 
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
 from sklearn import metrics
 
 def count_dict():
@@ -61,7 +63,8 @@ def find_action(data_dict, target):
                 return index
     return None
 
-def parse_sequence_dataframe():
+def parse_sequence_dataframe(percent):
+    #TODO: try different percentages of actions per student & output scatterplot of accuracy by %, by 90%, 70, 50, 30, 10
     total = {}
     action_sequence = defaultdict(list)
     cDictionary = count_dict()
@@ -103,7 +106,11 @@ def parse_sequence_dataframe():
                 except Exception as e:
                     print("Error with ", file)
                     print(str(e))
-        
+
+    for k in action_sequence:
+        new_size = math.ceil(len(action_sequence[k])*percent)
+        del action_sequence[k][new_size:]
+
     action_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in action_sequence.items()}, axis=1)
     action_df = action_df.fillna(-1)
 
@@ -326,20 +333,36 @@ def logistic_regression(action_df, total_df, is_seq):
     plt.xticks(old_axis, custom_axis)
 
     plt.xlabel("Randomly Selected Students", fontsize=15)
-    plt.ylabel("Final Net Energy (kWh)", fontsize=15)
+    plt.ylabel("Final Net Energy in Range (0 = false, 1 = true)", fontsize=15)
     plt.show()
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
+    score = accuracy_score(y_test,y_pred)
+    return score
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
-    action_df, total_df = parse_dataframe()
-    print(action_df)
-    linear_regression(action_df, total_df, 0)
-    logistic_regression(action_df, total_df, 0)
+    # action_df, total_df = parse_dataframe()
+    # print(action_df)
+    # linear_regression(action_df, total_df, 0)
+    # logistic_regression(action_df, total_df, 0)
 
-    action_df_seq, total_df_seq = parse_sequence_dataframe()
-    linear_regression(action_df_seq, total_df_seq, 1)
-    logistic_regression(action_df_seq, total_df_seq, 1)
+    percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
+    predictions = []
+    for percent in percentages:
+        action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
+        # linear_regression(action_df_seq, total_df_seq, 1)
+        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1))
+    
+    print(predictions)
+    np_percentages = np.array(percentages)
+    np_predictions = np.array(predictions)
+    predictions = np_predictions * 100
+    percentages = np_percentages * 100
+    plt.scatter(percentages, predictions, c='r')
+    plt.title("Accuracy of Model for Percentage of Action Sequence")
+    plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
+    plt.ylabel("Accuracy of Model (%)", fontsize=15)
+    plt.show()
