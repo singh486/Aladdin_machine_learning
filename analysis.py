@@ -333,7 +333,7 @@ def logistic_regression(action_df, total_df, is_seq):
     plt.xticks(old_axis, custom_axis)
 
     plt.xlabel("Randomly Selected Students", fontsize=15)
-    plt.ylabel("Final Net Energy (kWh)", fontsize=15)
+    plt.ylabel("Final Net Energy in Range (0 = false, 1 = true)", fontsize=15)
     plt.show()
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
@@ -349,7 +349,7 @@ if __name__ == "__main__":
     # linear_regression(action_df, total_df, 0)
     # logistic_regression(action_df, total_df, 0)
 
-    percentages = [.1, .3, .5, .7, .9, 1]
+    percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
     predictions = []
     for percent in percentages:
         action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
