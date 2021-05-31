@@ -2,6 +2,7 @@ import json
 import glob
 import os
 import re
+import math
 import pandas as pd
 from pathlib import Path
 from collections import defaultdict
@@ -61,7 +62,8 @@ def find_action(data_dict, target):
                 return index
     return None
 
-def parse_sequence_dataframe():
+def parse_sequence_dataframe(percent):
+    #TODO: try different percentages of actions per student & output scatterplot of accuracy by %, by 90%, 70, 50, 30, 10
     total = {}
     action_sequence = defaultdict(list)
     cDictionary = count_dict()
@@ -103,7 +105,11 @@ def parse_sequence_dataframe():
                 except Exception as e:
                     print("Error with ", file)
                     print(str(e))
-        
+
+    for k in action_sequence:
+        new_size = math.ceil(len(action_sequence[k])*percent)
+        del action_sequence[k][new_size:]
+
     action_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in action_sequence.items()}, axis=1)
     action_df = action_df.fillna(-1)
 
@@ -335,11 +341,13 @@ def logistic_regression(action_df, total_df, is_seq):
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
-    action_df, total_df = parse_dataframe()
-    print(action_df)
-    linear_regression(action_df, total_df, 0)
-    logistic_regression(action_df, total_df, 0)
+    # action_df, total_df = parse_dataframe()
+    # print(action_df)
+    # linear_regression(action_df, total_df, 0)
+    # logistic_regression(action_df, total_df, 0)
 
-    action_df_seq, total_df_seq = parse_sequence_dataframe()
-    linear_regression(action_df_seq, total_df_seq, 1)
-    logistic_regression(action_df_seq, total_df_seq, 1)
+    percentages = [.9, .7, .5, .3, .1]
+    for percent in percentages:
+        action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
+        linear_regression(action_df_seq, total_df_seq, 1)
+        logistic_regression(action_df_seq, total_df_seq, 1)
