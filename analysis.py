@@ -77,7 +77,6 @@ def find_action(data_dict, target):
     return None
 
 def parse_sequence_dataframe(percent):
-    #TODO: try different percentages of actions per student & output scatterplot of accuracy by %, by 90%, 70, 50, 30, 10
     total = {}
     action_sequence = defaultdict(list)
     cDictionary = count_dict()
@@ -152,21 +151,26 @@ def parse_sequence_dataframe(percent):
     
     print(action_df)
     return action_df, total_df
-
+    
+"""
+Process the action_df (action dataframe) and total_df (final net energy dataframe)
+"""
 def parse_dataframe():
+    # Initialize types
     total = {}
     cDictionary = count_dict()
     mDictionary = merged_dict(cDictionary)
     action_df = pd.DataFrame(mDictionary.keys(),
                                  columns=['Actions'])
-    # total_df = pd.DataFrame()
 
+    # Scan all subfolders in /Data and add paths to filepaths
     subfolders = [ f.path for f in os.scandir("Data") if f.is_dir() ]
     filepaths = []
     for sub in subfolders:
         f = [f.path for f in os.scandir(sub) if f.is_dir()]
         filepaths.append(f[0])
 
+    # Load the JSON from every folder and fill in actions and final net energies
     for filepath in filepaths:
 
         # Reset Dictionary to store action counts
@@ -183,17 +187,13 @@ def parse_dataframe():
                     for item in data["Activities"]:
                         for subitem in item:
                             if subitem in cDictionary:
+                                # Count item if it is a subitem of cDictionary
                                 cDictionary[subitem] = cDictionary[subitem] + 1
                             if subitem == 'EnergyAnnualAnalysis':
-                                # total[filepath].append(
-                                #     item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
-
-                                # Update to the correct total energy value
+                                # Update with every final net energy value
                                 total[filepath].append(
                                     item['EnergyAnnualAnalysis']['Net']["Total"])
 
-                
-    
                 except Exception as e:
                     print("Error with ", file)
                     print(str(e))
@@ -202,16 +202,18 @@ def parse_dataframe():
         mDictionary = merged_dict(cDictionary)
         action_df[filepath] = mDictionary.values()
 
-    print(action_df.keys())
-
+    # Translate final net energies dictionary into a dataframe
     total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
     total_df = total_df.fillna(0)
 
+    # Drop the 'Actions' column
     action_df = action_df.drop('Actions', 1)
 
+    # Transpose dataframe and use keys with action categories
     action_df = action_df.transpose()
     action_df.columns = mDictionary.keys()
 
+    # Remove students with no final net enery values
     final_net_energy = []    
     for key in total:
         temp_list = total[key]
@@ -219,6 +221,7 @@ def parse_dataframe():
             # Remove energy totals with 0
             action_df = action_df.drop(key)
         else:
+            # Append the last energy total in the list
             final_net_energy.append(temp_list[-1 + len(temp_list)])
     
     action_df['Final Net Energy'] = final_net_energy
@@ -226,6 +229,7 @@ def parse_dataframe():
     # OPTIONAL: remove an action cateory
     # action_df = action_df.drop(['Window'], 1)
 
+    # Transpose dataframe with final net energy values
     total_df = total_df.transpose()
 
     return action_df, total_df
