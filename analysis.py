@@ -401,16 +401,17 @@ if __name__ == "__main__":
     index = 0
     lower_lim = 0
 
-    for x in range(0, 9):
+    for x in range(0, 10):
         action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
         linear_regression(action_df_seq, total_df_seq, 1, index)
         index = index + 1
         lower_lim = lower_lim - 1000
         upper_lim = -1 * lower_lim
-        ranges.append(lower_lim)
+        ranges.append(str(lower_lim) + " - " + str(upper_lim))
         predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, lower_lim, upper_lim))
     
     plt.scatter(ranges, predictions, c='r')
+    plt.xticks(rotation = 45, fontsize = 10)
     plt.title("Accuracy of Model for Changed Logistic Range")
     plt.xlabel("Range of Action Sequence", fontsize=15)
     plt.ylabel("Accuracy of Model (%)", fontsize=15)
