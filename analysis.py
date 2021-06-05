@@ -288,8 +288,28 @@ def linear_regression(action_df, total_df, is_seq, index):
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
+"""
+Performs logistic regression given the parameters
+
+Parameters
+----------
+action_df : dataframe
+    Dataframe of actions
+total:df : dataframe
+    Dataframe of final net energy totals
+is_seq : int, 0 or 1
+    1 if the logistic regression predicting sequential data, else 0
+index : int
+    Numbered index to save unique graphs to each folder
+lower_lim : int
+    Lower limit for logistic interval that will be categorized as 1
+upper_lim : int
+    Upper limit for logistic interval that will be categorized as 1
+"""
 def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim):
+    # Get the count dictionary to access action categories for columns
     cDictionary = count_dict()
+    # If the prediction is sequential, use numbers as columns, else use action categories as columns
     if is_seq == 1:
         cols = list(total_df.keys())
     else:
@@ -301,6 +321,7 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     # OPTIONAL: remove an action cateory
     # cols.remove('Window')
 
+    # Create and save plot of density of values fed in for logistic regression
     X = action_df[cols].values
     y = action_df['Final Net Energy'].values
     plt.figure(figsize=(15,10))
@@ -308,15 +329,18 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     seabornInstance.distplot(action_df['Final Net Energy'])
     plt.ylabel("Density of Values", fontsize=18)
     plt.xlabel("Final Net Energy (kWh)", fontsize=18)
+    # Save figure to correct folder
     saved_name = '%s%d' % ('Logistic_Plots/Density of Values x Final Net Energy (kWh)', index)
     plt.savefig(saved_name)
 
+    # Print column numbers to see if dataframes align for prediction
     print(X.shape)
     print(y.shape)
 
     # Cuztomize font size for second plot
     plt.rcParams.update({'font.size': 15})
 
+    # Print statistics for the actions dataframe
     print(action_df.describe())
 
     # Categorize final net energy for logistic regression
@@ -325,16 +349,18 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
             action_df.loc[idx,'Final Net Energy'] = 1
         else:
             action_df.loc[idx,'Final Net Energy'] = 0
-
     
 
+    # Split training set, 80% to train, 20% to predict
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
     regressor = LogisticRegression(solver='lbfgs', max_iter=10000)  
     y_train = y_train.astype('int')
     regressor.fit(X_train, y_train)
+    # Print regressor's coefficients
     # coeff_df = pd.DataFrame(regressor.coef_, cols, columns=['Coefficient'])  
     # print(coeff_df)
 
+    # Predict the value
     y_pred = regressor.predict(X_test)
     df = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})
     df1 = df.head(25)
@@ -344,24 +370,29 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
     plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
 
+    # Plot graph of actual and predicted values
     custom_axis = list(range(1, len(df['Actual']) + 1))
     old_axis = list(range(0, len(df['Actual']-1)))
     plt.xticks(old_axis, custom_axis)
 
     plt.xlabel("Randomly Selected Students", fontsize=15)
     plt.ylabel("Final Net Energy in Range (0 = false, 1 = true)", fontsize=15)
+    # Save figure to correct folder
     saved_name = '%s%d' % ('Logistic_Plots/Randomly Selected Students x Final Net Energy in Range (0 = false, 1 = true)', index)
     plt.savefig(saved_name)
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
     plt.clf()
-    # TODO: Check this
+
+    # TODO: Check this -> Still having constant accuracies
     correct = 0
+    # Count how many accurate predictions
     for test, pred in zip(y_test, y_pred):
         if test == pred:
             correct = correct + 1
 
+    # Calculate percentage of accurate predictions
     score = correct/len(y_test)
     return score
 
