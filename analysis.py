@@ -65,7 +65,17 @@ def remove_empty_files_and_folders(dir_path) -> None:
             if not os.listdir(full_path):
                 os.rmdir(full_path)
 
+"""
+Finds the index of an action in merged dictionary 
+(see merged_config.json)
 
+Parameters
+----------
+data_dict : dataframe
+    Dataframe of actions with initial counts
+target : string
+    Name of action to be found
+"""
 def find_action(data_dict, target):
     index = 0
     for key in data_dict:
@@ -73,7 +83,9 @@ def find_action(data_dict, target):
         index += 1
         for v in values:
             if v == target:
+                # If found return index of action
                 return index
+    # Else return None
     return None
 
 """
@@ -241,7 +253,7 @@ Parameters
 ----------
 action_df : dataframe
     Dataframe of actions
-total:df : dataframe
+total_df : dataframe
     Dataframe of final net energy totals
 is_seq : int, 0 or 1
     1 if linear regression predicting sequential data, else 0
