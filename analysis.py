@@ -319,9 +319,6 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
 
     print(action_df.describe())
 
-    #TODO: fix at 40% and increase range by 1000 up to 10,000
-    #Plot accuracies over each other
-
     # Categorize final net energy for logistic regression
     for idx, row in action_df.iterrows():
         if  action_df.loc[idx,'Final Net Energy'] >= lower_lim and action_df.loc[idx,'Final Net Energy'] <= upper_lim:
@@ -370,32 +367,33 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
-    # action_df, total_df = parse_dataframe(1)
-    # print(action_df)
-    # linear_regression(action_df, total_df, 0, 0)
-    # logistic_regression(action_df, total_df, 0, 0, -5000, 5000)
+    action_df, total_df = parse_dataframe()
+    print(action_df)
+    linear_regression(action_df, total_df, 0, 0)
+    logistic_regression(action_df, total_df, 0, 0, -5000, 5000)
 
-    # percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
-    # predictions = []
-    # index = 0
-    # for percent in percentages:
-    #     action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
-    #     linear_regression(action_df_seq, total_df_seq, 1, index)
-    #     index = index + 1
-    #     predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, -5000, 5000))
+    percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
+    predictions = []
+    index = 0
+    for percent in percentages:
+        action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
+        linear_regression(action_df_seq, total_df_seq, 1, index)
+        index = index + 1
+        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, -5000, 5000))
     
-    # print(predictions)
-    # np_percentages = np.array(percentages)
-    # np_predictions = np.array(predictions)
-    # predictions = np_predictions * 100
-    # percentages = np_percentages * 100
+    print(predictions)
+    np_percentages = np.array(percentages)
+    np_predictions = np.array(predictions)
+    predictions = np_predictions * 100
+    percentages = np_percentages * 100
     
-    # plt.scatter(percentages, predictions, c='r')
-    # plt.title("Accuracy of Model for Percentage of Action Sequence")
-    # plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
-    # plt.ylabel("Accuracy of Model (%)", fontsize=15)
-    # plt.savefig('End_Plots/Accuracy of Model for Percentage of Action Sequence')
+    plt.scatter(percentages, predictions, c='r')
+    plt.title("Accuracy of Model for Percentage of Action Sequence")
+    plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
+    plt.ylabel("Accuracy of Model (%)", fontsize=15)
+    plt.savefig('End_Plots/Accuracy of Model for Percentage of Action Sequence')
 
+    # Create scatterplot with different ranges of final net energy
     predictions = []
     ranges = []
     index = 0
