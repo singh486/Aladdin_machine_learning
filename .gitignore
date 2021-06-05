@@ -1,5 +1,8 @@
-# Ignore invalid_json.txt
+# Ignore project files
 /invalid_json.txt
+/Linear_Plots
+/Logistic_Plots
+/End_Plots
 
 # Ignore Mac system files
 .DS_store
