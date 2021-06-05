@@ -366,27 +366,34 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     return score
 
 if __name__ == "__main__":
+    # Remove and clean up files
     remove_empty_files_and_folders("Data")
+    # Create graphs without percentages, fix logistic interval at -5000 to 5000
     action_df, total_df = parse_dataframe()
     print(action_df)
     linear_regression(action_df, total_df, 0, 0)
     logistic_regression(action_df, total_df, 0, 0, -5000, 5000)
 
+    # Create scatterplot of accuracy based on percentage of data
     percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
     predictions = []
     index = 0
+    # Loop through percentages perform regression
     for percent in percentages:
         action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
         linear_regression(action_df_seq, total_df_seq, 1, index)
         index = index + 1
+        # Fix logistic interval from -5000 to 5000
         predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, -5000, 5000))
     
+    # Print predictions and create labels for axis
     print(predictions)
     np_percentages = np.array(percentages)
     np_predictions = np.array(predictions)
     predictions = np_predictions * 100
     percentages = np_percentages * 100
     
+    # Plot graph
     plt.scatter(percentages, predictions, c='r')
     plt.title("Accuracy of Model for Percentage of Action Sequence")
     plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
@@ -399,15 +406,19 @@ if __name__ == "__main__":
     index = 0
     lower_lim = 0
 
+    # Loop through ranges, fix the percentage of data at 40%
     for x in range(0, 10):
         action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
         linear_regression(action_df_seq, total_df_seq, 1, index)
+        # Create unique index for graph name
         index = index + 1
         lower_lim = lower_lim - 1000
         upper_lim = -1 * lower_lim
         ranges.append(str(lower_lim) + " - " + str(upper_lim))
+        # Add accuracy to final list
         predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, lower_lim, upper_lim))
     
+    # Plot graph
     plt.scatter(ranges, predictions, c='r')
     plt.xticks(rotation = 45, fontsize = 10)
     plt.title("Accuracy of Model for Changed Logistic Range")
