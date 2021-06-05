@@ -3,6 +3,7 @@ import glob
 import os
 import re
 import math
+import shutil
 import pandas as pd
 from pathlib import Path
 from collections import defaultdict
@@ -15,6 +16,8 @@ from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from sklearn import metrics
+
+# TODO: add comments
 
 def count_dict():
     res = {}
@@ -42,6 +45,11 @@ def merged_key():
 
 
 def remove_empty_files_and_folders(dir_path) -> None:
+    shutil.rmtree('Logistic_Plots', ignore_errors=True)
+    os.mkdir('Logistic_Plots')
+
+    shutil.rmtree('Linear_Plots', ignore_errors=True)
+    os.mkdir('Linear_Plots')
     for root, dirnames, files in os.walk(dir_path, topdown=False):
         for f in files:
             full_name = os.path.join(root, f)
@@ -52,6 +60,7 @@ def remove_empty_files_and_folders(dir_path) -> None:
             full_path = os.path.realpath(os.path.join(root, dirname))
             if not os.listdir(full_path):
                 os.rmdir(full_path)
+
 
 def find_action(data_dict, target):
     index = 0
@@ -218,7 +227,7 @@ def parse_dataframe():
     return action_df, total_df
      
 
-def linear_regression(action_df, total_df, is_seq):
+def linear_regression(action_df, total_df, is_seq, index):
     cDictionary = count_dict()
 
     if is_seq == 1:
@@ -239,7 +248,8 @@ def linear_regression(action_df, total_df, is_seq):
     seabornInstance.distplot(action_df['Final Net Energy'])
     plt.ylabel("Density of Values", fontsize=18)
     plt.xlabel("Final Net Energy (kWh)", fontsize=18)
-    plt.show()
+    saved_name = '%s%d' % ('Linear_Plots/Density of Values x Final Net Energy (kWh)', index)
+    plt.savefig(saved_name)
 
     print(X.shape)
     print(y.shape)
@@ -268,12 +278,13 @@ def linear_regression(action_df, total_df, is_seq):
 
     plt.xlabel("Randomly Selected Students", fontsize=15)
     plt.ylabel("Final Net Energy (kWh)", fontsize=15)
-    plt.show()
+    saved_name = '%s%d' % ('Linear_Plots/Randomly Selected Students x Final Net Energy (kWh)', index)
+    plt.savefig(saved_name)
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
-def logistic_regression(action_df, total_df, is_seq):
+def logistic_regression(action_df, total_df, is_seq, index):
     cDictionary = count_dict()
     if is_seq == 1:
         cols = list(total_df.keys())
@@ -293,7 +304,8 @@ def logistic_regression(action_df, total_df, is_seq):
     seabornInstance.distplot(action_df['Final Net Energy'])
     plt.ylabel("Density of Values", fontsize=18)
     plt.xlabel("Final Net Energy (kWh)", fontsize=18)
-    plt.show()
+    saved_name = '%s%d' % ('Logistic_Plots/Density of Values x Final Net Energy (kWh)', index)
+    plt.savefig(saved_name)
 
     print(X.shape)
     print(y.shape)
@@ -302,6 +314,9 @@ def logistic_regression(action_df, total_df, is_seq):
     plt.rcParams.update({'font.size': 15})
 
     print(action_df.describe())
+
+    #TODO: fix at 40% and increase range by 1000 up to 10,000
+    #Plot accuracies over each other
 
     # Categorize final net energy for logistic regression
     for idx, row in action_df.iterrows():
@@ -334,35 +349,45 @@ def logistic_regression(action_df, total_df, is_seq):
 
     plt.xlabel("Randomly Selected Students", fontsize=15)
     plt.ylabel("Final Net Energy in Range (0 = false, 1 = true)", fontsize=15)
-    plt.show()
+    saved_name = '%s%d' % ('Logistic_Plots/Randomly Selected Students x Final Net Energy in Range (0 = false, 1 = true)', index)
+    plt.savefig(saved_name)
     print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+    plt.clf()
+    # TODO: Check this
+    correct = 0
+    for test, pred in zip(y_test, y_pred):
+        if test == pred:
+            correct = correct + 1
 
-    score = accuracy_score(y_test,y_pred)
+    score = correct/len(y_test)
     return score
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
     # action_df, total_df = parse_dataframe()
     # print(action_df)
-    # linear_regression(action_df, total_df, 0)
-    # logistic_regression(action_df, total_df, 0)
+    # linear_regression(action_df, total_df, 0, 0)
+    # logistic_regression(action_df, total_df, 0, 0)
 
     percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
     predictions = []
+    index = 0
     for percent in percentages:
         action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
-        # linear_regression(action_df_seq, total_df_seq, 1)
-        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1))
+        # linear_regression(action_df_seq, total_df_seq, 1, index)
+        index = index + 1
+        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index))
     
     print(predictions)
     np_percentages = np.array(percentages)
     np_predictions = np.array(predictions)
     predictions = np_predictions * 100
     percentages = np_percentages * 100
+    
     plt.scatter(percentages, predictions, c='r')
     plt.title("Accuracy of Model for Percentage of Action Sequence")
     plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
     plt.ylabel("Accuracy of Model (%)", fontsize=15)
-    plt.show()
+    plt.savefig('Plots/Accuracy of Model for Percentage of Action Sequence')
