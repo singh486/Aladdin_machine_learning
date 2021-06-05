@@ -50,6 +50,10 @@ def remove_empty_files_and_folders(dir_path) -> None:
 
     shutil.rmtree('Linear_Plots', ignore_errors=True)
     os.mkdir('Linear_Plots')
+
+    shutil.rmtree('End_Plots', ignore_errors=True)
+    os.mkdir('End_Plots')
+
     for root, dirnames, files in os.walk(dir_path, topdown=False):
         for f in files:
             full_name = os.path.join(root, f)
@@ -284,7 +288,7 @@ def linear_regression(action_df, total_df, is_seq, index):
     print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 
-def logistic_regression(action_df, total_df, is_seq, index):
+def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim):
     cDictionary = count_dict()
     if is_seq == 1:
         cols = list(total_df.keys())
@@ -320,7 +324,7 @@ def logistic_regression(action_df, total_df, is_seq, index):
 
     # Categorize final net energy for logistic regression
     for idx, row in action_df.iterrows():
-        if  action_df.loc[idx,'Final Net Energy'] >= -5000 and action_df.loc[idx,'Final Net Energy'] <= 5000:
+        if  action_df.loc[idx,'Final Net Energy'] >= lower_lim and action_df.loc[idx,'Final Net Energy'] <= upper_lim:
             action_df.loc[idx,'Final Net Energy'] = 1
         else:
             action_df.loc[idx,'Final Net Energy'] = 0
@@ -366,28 +370,48 @@ def logistic_regression(action_df, total_df, is_seq, index):
 
 if __name__ == "__main__":
     remove_empty_files_and_folders("Data")
-    # action_df, total_df = parse_dataframe()
+    # action_df, total_df = parse_dataframe(1)
     # print(action_df)
     # linear_regression(action_df, total_df, 0, 0)
-    # logistic_regression(action_df, total_df, 0, 0)
+    # logistic_regression(action_df, total_df, 0, 0, -5000, 5000)
 
-    percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
+    # percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
+    # predictions = []
+    # index = 0
+    # for percent in percentages:
+    #     action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
+    #     linear_regression(action_df_seq, total_df_seq, 1, index)
+    #     index = index + 1
+    #     predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, -5000, 5000))
+    
+    # print(predictions)
+    # np_percentages = np.array(percentages)
+    # np_predictions = np.array(predictions)
+    # predictions = np_predictions * 100
+    # percentages = np_percentages * 100
+    
+    # plt.scatter(percentages, predictions, c='r')
+    # plt.title("Accuracy of Model for Percentage of Action Sequence")
+    # plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
+    # plt.ylabel("Accuracy of Model (%)", fontsize=15)
+    # plt.savefig('End_Plots/Accuracy of Model for Percentage of Action Sequence')
+
     predictions = []
+    ranges = []
     index = 0
-    for percent in percentages:
-        action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
-        # linear_regression(action_df_seq, total_df_seq, 1, index)
+    lower_lim = 0
+
+    for x in range(0, 9):
+        action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
+        linear_regression(action_df_seq, total_df_seq, 1, index)
         index = index + 1
-        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index))
+        lower_lim = lower_lim - 1000
+        upper_lim = -1 * lower_lim
+        ranges.append(lower_lim)
+        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, lower_lim, upper_lim))
     
-    print(predictions)
-    np_percentages = np.array(percentages)
-    np_predictions = np.array(predictions)
-    predictions = np_predictions * 100
-    percentages = np_percentages * 100
-    
-    plt.scatter(percentages, predictions, c='r')
-    plt.title("Accuracy of Model for Percentage of Action Sequence")
-    plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
+    plt.scatter(ranges, predictions, c='r')
+    plt.title("Accuracy of Model for Changed Logistic Range")
+    plt.xlabel("Range of Action Sequence", fontsize=15)
     plt.ylabel("Accuracy of Model (%)", fontsize=15)
-    plt.savefig('Plots/Accuracy of Model for Percentage of Action Sequence')
+    plt.savefig('End_Plots/Accuracy of Model for Changed Logistic Range')
