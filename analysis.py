@@ -76,18 +76,24 @@ def find_action(data_dict, target):
                 return index
     return None
 
+"""
+Process the action_df (action dataframe) and total_df (final net energy dataframe) with a percentage of the action sequence
+"""
 def parse_sequence_dataframe(percent):
+     # Initialize types
     total = {}
     action_sequence = defaultdict(list)
     cDictionary = count_dict()
     action_key = merged_key()
 
+    # Scan all subfolders in /Data and add paths to filepaths
     subfolders = [ f.path for f in os.scandir("Data") if f.is_dir() ]
     filepaths = []
     for sub in subfolders:
         f = [f.path for f in os.scandir(sub) if f.is_dir()]
         filepaths.append(f[0])
 
+    # Load the JSON from every folder and fill in actions and final net energies
     for filepath in filepaths:
 
         # Reset Dictionary to store action counts
@@ -104,54 +110,48 @@ def parse_sequence_dataframe(percent):
                     for item in data["Activities"]:
                         for subitem in item:
                             if subitem in cDictionary:
+                                # Append the action number to sequence if it's a subitem of cDictionary
                                 action_sequence[filepath].append(find_action(action_key, subitem))
                             if subitem == 'EnergyAnnualAnalysis':
-                                # total[filepath].append(
-                                #     item['EnergyAnnualAnalysis']['Solar Panels']['Total'])
-
                                 # Update to the correct total energy value
                                 total[filepath].append(
                                     item['EnergyAnnualAnalysis']['Net']["Total"])
 
-                
-    
                 except Exception as e:
                     print("Error with ", file)
                     print(str(e))
 
+    # Truncate the action sequence based on percentage parameter
     for k in action_sequence:
         new_size = math.ceil(len(action_sequence[k])*percent)
         del action_sequence[k][new_size:]
 
+    # Translate actions dictionary into a dataframe
     action_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in action_sequence.items()}, axis=1)
     action_df = action_df.fillna(-1)
 
+    # Translate final net energies dictionary into a dataframe
     total_df = pd.concat({k: pd.Series(v, dtype='float64') for k, v in total.items()}, axis=1)
     total_df = total_df.fillna(0)
 
     action_df = action_df.transpose()
 
     final_net_energy = []
-    # pd.set_option("display.max_rows", None, "display.max_columns", None)
-
     for key in action_sequence:
         temp_list = total[key]
-
         if len(temp_list) == 0:
             # Remove energy totals with 0
             action_df = action_df.drop(key)
         else:
+            # Append the last energy total in the list
             final_net_energy.append(temp_list[-1 + len(temp_list)])
-            # TODO: Change to last index of temp_list
-            # final_net_energy.append(temp_list[0])
     
     action_df['Final Net Energy'] = final_net_energy
 
     total_df = total_df.transpose()
     
-    print(action_df)
     return action_df, total_df
-    
+
 """
 Process the action_df (action dataframe) and total_df (final net energy dataframe)
 """
