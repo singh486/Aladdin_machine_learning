@@ -43,8 +43,17 @@ def merged_key():
         data = json.load(f)
     return data
 
+"""
+Removes empty files and folders
+Resets End_Plots, Linear_Plots, and Logistic_Plots for every run of code
 
+Parameters
+----------
+dir_path : string
+    Parent directory path to begin removing empty files and folders
+"""
 def remove_empty_files_and_folders(dir_path) -> None:
+    # Remove and recreate End_Plots, Linear_Plots, and Logistic_Plots
     shutil.rmtree('Logistic_Plots', ignore_errors=True)
     os.mkdir('Logistic_Plots')
 
@@ -54,6 +63,7 @@ def remove_empty_files_and_folders(dir_path) -> None:
     shutil.rmtree('End_Plots', ignore_errors=True)
     os.mkdir('End_Plots')
 
+    # Walk down parent directory and delete any empty files or folders
     for root, dirnames, files in os.walk(dir_path, topdown=False):
         for f in files:
             full_name = os.path.join(root, f)
