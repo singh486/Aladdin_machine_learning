@@ -17,17 +17,27 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from sklearn import metrics
 
-# TODO: add comments
-
+"""
+Process the action count dictionary based on the initial counts
+(See action_config.txt)
+"""
 def count_dict():
     res = {}
+    # Initialize the action count dictionary with values
     with open("action_config.txt") as f:
         for line in f:
             split = line.rsplit(' ', 1)
             res[split[0]] = int(split[1])
     return res
 
+"""
+Creates a merged dictionary by matching counts to actions and their respective categories
 
+Parameters
+----------
+cDictionary : dictionary
+    Dictionary of actions with their respective counts
+"""
 def merged_dict(cDictionary):
     res = {}
     with open('merged_config.json') as f:
@@ -35,9 +45,13 @@ def merged_dict(cDictionary):
         for key in data:
             res[key] = 0
             for val in data[key]:
+                # Add counts from the count dictionary to the merged dictionary
                 res[key] += cDictionary[val]
     return res
 
+"""
+Load JSON from merged_config.json with actions and their respective categories
+"""
 def merged_key():
     with open('merged_config.json') as f:
         data = json.load(f)
@@ -82,7 +96,7 @@ Finds the index of an action in merged dictionary
 Parameters
 ----------
 data_dict : dataframe
-    Dataframe of actions with initial counts
+    Dataframe of actions and their respective categories
 target : string
     Name of action to be found
 """
