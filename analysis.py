@@ -311,6 +311,18 @@ def linear_regression(action_df, total_df, is_seq, index):
     saved_name = '%s%d' % ('Linear_Plots/Density of Values x Final Net Energy (kWh)', index)
     plt.savefig(saved_name)
 
+    # Create and save plot for histogram of final net energies fed in for linear regression
+    fig, axs = plt.subplots(1, 1, sharey=True, tight_layout=True)
+    n_bins = 30
+    plt.figure(figsize=(15,10))
+    # We can set the number of bins with the `bins` kwarg
+    plt.hist(y, bins=n_bins)
+    plt.ylabel("Number of Values", fontsize=18)
+    plt.xlabel("Final Net Energy (kWh)", fontsize=18)
+    plt.title("Histogram of Values x Final Net Energy (kWh)")
+    saved_name = '%s%d' % ('Linear_Plots/Histogram of Values x Final Net Energy (kWh)', index)
+    plt.savefig(saved_name)
+
     # Print column numbers to see if dataframes align for prediction
     print(X.shape)
     print(y.shape)
