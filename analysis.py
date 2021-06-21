@@ -403,7 +403,7 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     plt.rcParams.update({'font.size': 15})
 
     # Print statistics for the actions dataframe
-    print(action_df.describe())
+    # print(action_df.describe())
 
     # Categorize final net energy for logistic regression
     for idx, row in action_df.iterrows():
@@ -454,6 +454,18 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
         if test == pred:
             correct = correct + 1
 
+    # Create bar graph of correct and incorrect predictions
+    accuracies = [correct, len(y_test) - correct]
+    objects = ('Correct', 'Incorrect')
+    y_pos = np.arange(len(objects))
+    plt.barh(y_pos, accuracies, align='center', alpha=0.5)
+    plt.yticks(y_pos, objects)
+    plt.xlabel('Number of Predictions')
+    plt.title('Prediction Accuracy')
+    saved_name = '%s%d' % ('Logistic_Plots/Prediction Accuracy Bar Graph', index)
+    plt.savefig(saved_name)
+    plt.clf()
+    
     # Calculate percentage of accurate predictions
     score = correct/len(y_test)
     return score
