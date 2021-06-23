@@ -80,9 +80,6 @@ def remove_empty_files_and_folders(dir_path) -> None:
     shutil.rmtree('End_Plots', ignore_errors=True)
     os.mkdir('End_Plots')
 
-    file = open("correct.txt","w")
-    file.close()
-
     # Walk down parent directory and delete any empty files or folders
     for root, dirnames, files in os.walk(dir_path, topdown=False):
         for f in files:
@@ -325,6 +322,7 @@ def linear_regression(action_df, total_df, is_seq, index):
     plt.hist(y, bins=n_bins)
     plt.ylabel("Number of Values", fontsize=18)
     plt.xlabel("Final Net Energy (kWh)", fontsize=18)
+    plt.xlim([-100000, 100000])
     saved_name = '%s%d' % ('Linear_Plots/Histogram of Values x Final Net Energy (kWh)', index)
     plt.savefig(saved_name)
 
@@ -349,7 +347,7 @@ def linear_regression(action_df, total_df, is_seq, index):
     df1 = df.head(25)
     print(df1)
 
-    df1.plot(kind='bar',figsize=(10,8))
+    df1.plot(kind='bar',figsize=(15,15))
     plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
     plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
 
@@ -357,7 +355,6 @@ def linear_regression(action_df, total_df, is_seq, index):
     custom_axis = list(range(1, len(df['Actual']) + 1))
     old_axis = list(range(0, len(df['Actual']-1)))
     plt.xticks(old_axis, custom_axis)
-
     plt.xlabel("Randomly Selected Students", fontsize=15)
     plt.ylabel("Final Net Energy (kWh)", fontsize=15)
     # Save figure to correct folder
