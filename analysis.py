@@ -16,6 +16,9 @@ from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from sklearn import metrics
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import cross_val_score
+
 
 """
 Process the action count dictionary based on the initial counts
@@ -76,6 +79,9 @@ def remove_empty_files_and_folders(dir_path) -> None:
 
     shutil.rmtree('End_Plots', ignore_errors=True)
     os.mkdir('End_Plots')
+
+    file = open("correct.txt","w")
+    file.close()
 
     # Walk down parent directory and delete any empty files or folders
     for root, dirnames, files in os.walk(dir_path, topdown=False):
@@ -296,7 +302,7 @@ def linear_regression(action_df, total_df, is_seq, index):
     # Cuztomize font size for all plots
     plt.rcParams.update({'font.size': 18})
 
-    # OPTIONAL: remove an action cateory
+    # OPTIONAL: remove an action category
     # cols.remove('Window')
 
     # Create and save plot of density of values fed in for linear regression
@@ -313,13 +319,12 @@ def linear_regression(action_df, total_df, is_seq, index):
 
     # Create and save plot for histogram of final net energies fed in for linear regression
     fig, axs = plt.subplots(1, 1, sharey=True, tight_layout=True)
-    n_bins = 30
+    n_bins = 50
     plt.figure(figsize=(15,10))
     # We can set the number of bins with the `bins` kwarg
     plt.hist(y, bins=n_bins)
     plt.ylabel("Number of Values", fontsize=18)
     plt.xlabel("Final Net Energy (kWh)", fontsize=18)
-    plt.title("Histogram of Values x Final Net Energy (kWh)")
     saved_name = '%s%d' % ('Linear_Plots/Histogram of Values x Final Net Energy (kWh)', index)
     plt.savefig(saved_name)
 
@@ -335,8 +340,8 @@ def linear_regression(action_df, total_df, is_seq, index):
     regressor = LinearRegression()  
     regressor.fit(X_train, y_train)
     # Print regressor's coefficients
-    coeff_df = pd.DataFrame(regressor.coef_, cols, columns=['Coefficient'])  
-    print(coeff_df)
+    # coeff_df = pd.DataFrame(regressor.coef_, cols, columns=['Coefficient'])  
+    # print(coeff_df)
 
     # Predict the value
     y_pred = regressor.predict(X_test)
@@ -380,6 +385,7 @@ lower_lim : int
 upper_lim : int
     Upper limit for logistic interval that will be categorized as 1
 """
+
 def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim):
     # Get the count dictionary to access action categories for columns
     cDictionary = count_dict()
@@ -408,8 +414,8 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     plt.savefig(saved_name)
 
     # Print column numbers to see if dataframes align for prediction
-    print(X.shape)
-    print(y.shape)
+    # print(X.shape)
+    # print(y.shape)
 
     # Cuztomize font size for second plot
     plt.rcParams.update({'font.size': 15})
@@ -426,8 +432,9 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     
 
     # Split training set, 80% to train, 20% to predict
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
-    regressor = LogisticRegression(solver='lbfgs', max_iter=10000)  
+    # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(StandardScaler().fit_transform(X), y, test_size=0.2)
+    regressor = LogisticRegression(class_weight = 'balanced', solver='lbfgs', max_iter=10000)  
     y_train = y_train.astype('int')
     regressor.fit(X_train, y_train)
     # Print regressor's coefficients
@@ -438,7 +445,7 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     y_pred = regressor.predict(X_test)
     df = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})
     df1 = df.head(25)
-    print(df1)
+    # print(df1)
 
     df1.plot(kind='bar',figsize=(10,8))
     plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
@@ -473,7 +480,6 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     plt.barh(y_pos, accuracies, align='center', alpha=0.5)
     plt.yticks(y_pos, objects)
     plt.xlabel('Number of Predictions')
-    plt.title('Prediction Accuracy')
     saved_name = '%s%d' % ('Logistic_Plots/Prediction Accuracy Bar Graph', index)
     plt.savefig(saved_name)
     plt.clf()
@@ -481,19 +487,20 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     # Calculate percentage of accurate predictions
     score = correct/len(y_test)
     return score
-
+    
 if __name__ == "__main__":
-    # Remove and clean up files
+    # # Remove and clean up files
     remove_empty_files_and_folders("Data")
     # Create graphs without percentages, fix logistic interval at -5000 to 5000
     action_df, total_df = parse_dataframe()
-    print(action_df)
     linear_regression(action_df, total_df, 0, 0)
     logistic_regression(action_df, total_df, 0, 0, -5000, 5000)
 
     # Create scatterplot of accuracy based on percentage of data
-    percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
+    # percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
+    percentages = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     predictions = []
+    total_predictions = -1
     index = 0
     # Loop through percentages perform regression
     for percent in percentages:
@@ -501,19 +508,23 @@ if __name__ == "__main__":
         linear_regression(action_df_seq, total_df_seq, 1, index)
         index = index + 1
         # Fix logistic interval from -5000 to 5000
-        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, -5000, 5000))
+        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, -10000, 10000))
     
     # Print predictions and create labels for axis
-    print(predictions)
+
     np_percentages = np.array(percentages)
     np_predictions = np.array(predictions)
     predictions = np_predictions * 100
     percentages = np_percentages * 100
+    percentages = list(range(1, len(percentages)+1))
+
+    print(predictions)
+
     
-    # Plot graph
+    # Plot graph - Change for different percentages of action data
     plt.scatter(percentages, predictions, c='r')
-    plt.title("Accuracy of Model for Percentage of Action Sequence")
-    plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
+    # plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
+    plt.xlabel("Iteration", fontsize=15)
     plt.ylabel("Accuracy of Model (%)", fontsize=15)
     plt.savefig('End_Plots/Accuracy of Model for Percentage of Action Sequence')
 
@@ -524,21 +535,21 @@ if __name__ == "__main__":
     lower_lim = 0
 
     # Loop through ranges, fix the percentage of data at 40%
-    for x in range(0, 10):
-        action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
-        linear_regression(action_df_seq, total_df_seq, 1, index)
-        # Create unique index for graph name
-        index = index + 1
-        lower_lim = lower_lim - 1000
-        upper_lim = -1 * lower_lim
-        ranges.append(str(lower_lim) + " - " + str(upper_lim))
-        # Add accuracy to final list
-        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, lower_lim, upper_lim))
+    # for x in range(0, 10):
+    #     action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
+    #     linear_regression(action_df_seq, total_df_seq, 1, index)
+    #     # Create unique index for graph name
+    #     index = index + 1
+    #     lower_lim = lower_lim - 1000
+    #     upper_lim = -1 * lower_lim
+    #     ranges.append(str(lower_lim) + " - " + str(upper_lim))
+    #     # Add accuracy to final list
+    #     predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, lower_lim, upper_lim))
+
     
-    # Plot graph
-    plt.scatter(ranges, predictions, c='r')
-    plt.xticks(rotation = 45, fontsize = 10)
-    plt.title("Accuracy of Model for Changed Logistic Range")
-    plt.xlabel("Range of Action Sequence", fontsize=15)
-    plt.ylabel("Accuracy of Model (%)", fontsize=15)
-    plt.savefig('End_Plots/Accuracy of Model for Changed Logistic Range')
+    # # Plot graph
+    # plt.scatter(ranges, predictions, c='r')
+    # plt.xticks(rotation = 45, fontsize = 10)
+    # plt.xlabel("Range of Action Sequence", fontsize=15)
+    # plt.ylabel("Accuracy of Model (%)", fontsize=15)
+    # plt.savefig('End_Plots/Accuracy of Model for Changed Logistic Range')
