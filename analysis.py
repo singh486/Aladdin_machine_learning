@@ -315,14 +315,18 @@ def linear_regression(action_df, total_df, is_seq, index):
     plt.savefig(saved_name)
 
     # Create and save plot for histogram of final net energies fed in for linear regression
+    for x in action_df['Final Net Energy']:
+        if x > 60000:
+            print("TEMP")
+            print(x)
     fig, axs = plt.subplots(1, 1, sharey=True, tight_layout=True)
-    n_bins = 50
+    n_bins = 100
     plt.figure(figsize=(15,10))
     # We can set the number of bins with the `bins` kwarg
     plt.hist(y, bins=n_bins)
-    plt.ylabel("Number of Values", fontsize=18)
+    plt.ylabel("Number of Students", fontsize=18)
     plt.xlabel("Final Net Energy (kWh)", fontsize=18)
-    plt.xlim([-100000, 100000])
+    plt.xlim([-60000, 60000])
     saved_name = '%s%d' % ('Linear_Plots/Histogram of Values x Final Net Energy (kWh)', index)
     plt.savefig(saved_name)
 
@@ -345,7 +349,7 @@ def linear_regression(action_df, total_df, is_seq, index):
     y_pred = regressor.predict(X_test)
     df = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})
     df1 = df.head(25)
-    print(df1)
+    # print(df1)
 
     df1.plot(kind='bar',figsize=(15,15))
     plt.grid(which='major', linestyle='-', linewidth='0.5', color='green')
@@ -494,36 +498,41 @@ if __name__ == "__main__":
     logistic_regression(action_df, total_df, 0, 0, -5000, 5000)
 
     # Create scatterplot of accuracy based on percentage of data
-    # percentages = [.1, .2, .3, .35, .4, .45, .5, .6, .7, .8, .9, 1]
-    percentages = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-    predictions = []
+    percentages = [.1, .2, .3, .4, .5, .6, .7, .8, .9, 1]
     total_predictions = -1
     index = 0
+
     # Loop through percentages perform regression
+    predictions = {}
     for percent in percentages:
-        action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
-        linear_regression(action_df_seq, total_df_seq, 1, index)
-        index = index + 1
-        # Fix logistic interval from -5000 to 5000
-        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, -10000, 10000))
+        predictions[int(float(percent*100))] = []
+        for x in range (10):
+            action_df_seq, total_df_seq = parse_sequence_dataframe(percent)
+            linear_regression(action_df_seq, total_df_seq, 1, index)
+            index = index + 1
+            # Fix logistic interval from -10000 to 10000
+            predictions[int(float(percent*100))].append(logistic_regression(action_df_seq, total_df_seq, 1, index, -10000, 10000) * 100)
     
-    # Print predictions and create labels for axis
+    df = pd.DataFrame.from_dict(predictions, orient='index')
+    df.index.rename('Portion of Sequence', inplace=True)
 
-    np_percentages = np.array(percentages)
-    np_predictions = np.array(predictions)
-    predictions = np_predictions * 100
-    percentages = np_percentages * 100
-    percentages = list(range(1, len(percentages)+1))
+    stacked = df.stack().reset_index()
+    stacked.rename(columns={'level_1': 'Iteration', 0: 'Value'}, inplace=True)
 
-    print(predictions)
+    scatter = seabornInstance.swarmplot(data=stacked, x='Portion of Sequence', y='Value')
 
-    
-    # Plot graph - Change for different percentages of action data
-    plt.scatter(percentages, predictions, c='r')
-    # plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
-    plt.xlabel("Iteration", fontsize=15)
+    plt.xlabel("Percentage of Action Sequence (%)", fontsize=15)
     plt.ylabel("Accuracy of Model (%)", fontsize=15)
     plt.savefig('End_Plots/Accuracy of Model for Percentage of Action Sequence')
+    plt.clf()
+
+    # Plot graph - Change for different percentages of action data
+    x_axis = list(range(1, len(percentages)+1))
+    plt.scatter(x_axis, predictions[100], s=100, marker='x',color='r',linewidths=2)
+    plt.xlabel("Iteration", fontsize=15)
+    plt.ylabel("Accuracy of Model (%)", fontsize=15)
+    plt.savefig('End_Plots/Accuracy of Model for 10 Iterations')
+    plt.clf()
 
     # Create scatterplot with different ranges of final net energy
     predictions = []
@@ -531,22 +540,26 @@ if __name__ == "__main__":
     index = 0
     lower_lim = 0
 
-    # Loop through ranges, fix the percentage of data at 40%
-    # for x in range(0, 10):
-    #     action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
-    #     linear_regression(action_df_seq, total_df_seq, 1, index)
-    #     # Create unique index for graph name
-    #     index = index + 1
-    #     lower_lim = lower_lim - 1000
-    #     upper_lim = -1 * lower_lim
-    #     ranges.append(str(lower_lim) + " - " + str(upper_lim))
-    #     # Add accuracy to final list
-    #     predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, lower_lim, upper_lim))
+    plt.figure(figsize=(35,35))
 
-    
-    # # Plot graph
-    # plt.scatter(ranges, predictions, c='r')
-    # plt.xticks(rotation = 45, fontsize = 10)
-    # plt.xlabel("Range of Action Sequence", fontsize=15)
-    # plt.ylabel("Accuracy of Model (%)", fontsize=15)
-    # plt.savefig('End_Plots/Accuracy of Model for Changed Logistic Range')
+    # Loop through ranges, fix the percentage of data at 40%
+    for x in range(0, 10):
+        action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
+        # Create unique index for graph name
+        index = index + 1
+        lower_lim = lower_lim - 1000
+        upper_lim = -1 * lower_lim
+        ranges.append(str(lower_lim) + " - " + str(upper_lim))
+        # Add accuracy to final list
+        predictions.append(logistic_regression(action_df_seq, total_df_seq, 1, index, lower_lim, upper_lim))
+
+    np_predictions = np.array(predictions)
+    predictions = np_predictions * 100
+
+    # Plot graph
+    plt.scatter(ranges, predictions, s=100, marker='x',color='r',linewidths=2)
+    plt.xticks(rotation = 45, fontsize = 10)
+    plt.tight_layout()
+    plt.xlabel("Ranges of Final Net Energies (kWh)", fontsize=15)
+    plt.ylabel("Accuracy of Model (%)", fontsize=15)
+    plt.savefig('End_Plots/Accuracy of Model for Changed Logistic Range')
