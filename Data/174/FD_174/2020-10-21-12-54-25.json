@@ -1,8 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-21 12:54:39", "File": "SmallProject.ng3", "Camera": {"Position": {"x": -10.878, "y": -56.148, "z": 84.352}, "Direction": {"x": 0.107, "y": 0.551, "z": -0.828}, "Mode": "Pan"}},
-{"Timestamp": "2020-10-21 12:54:48", "File": "SmallProject.ng3", "Camera": {"Position": {"x": 1.065, "y": 59.273, "z": 82.896}, "Direction": {"x": -0.01, "y": -0.582, "z": -0.813}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-21 12:54:50", "File": "SmallProject.ng3", "Camera": {"Position": {"x": 23.148, "y": 28.163, "z": 95.17}, "Direction": {"x": -0.227, "y": -0.276, "z": -0.934}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-21 12:54:56", "File": "SmallProject.ng3", "Remove SolarPanels": {"Building": 2}},
-{"Timestamp": "2020-10-21 12:55:16", "File": "SmallProject.ng3", "Undo": "Remove SolarPanels"}]
-}

@@ -1,7 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-14 11:01:24", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Texture Change": {"Foundation": 2, "ID": 19, "Type": "HipRoof", "Old Texture": 2, "New Texture": 3}},
-{"Timestamp": "2020-10-14 11:01:32", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Texture Change": {"Foundation": 2, "ID": 19, "Type": "HipRoof", "Old Texture": 3, "New Texture": 3}},
-{"Timestamp": "2020-10-14 11:01:35", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Camera": {"Position": {"x": 2.421, "y": 60.819, "z": 84.218}, "Direction": {"x": -0.023, "y": -0.585, "z": -0.81}, "Mode": "Zoom"}},
-{"Timestamp": "2020-10-14 11:01:40", "File": "ENGT%20180%20small%20design%20exercise.ng3", "Camera": {"Position": {"x": -1.723, "y": 56.991, "z": 86.871}, "Direction": {"x": 0.017, "y": -0.548, "z": -0.836}, "Mode": "Rotate"}}]
-}

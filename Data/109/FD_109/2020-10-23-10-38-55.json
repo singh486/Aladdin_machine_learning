@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 10:39:07", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -123.786, "y": 39.73, "z": 15.673}, "Direction": {"x": 0.945, "y": -0.303, "z": -0.12}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 10:39:07", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -94.571, "y": -67.433, "z": 60.466}, "Direction": {"x": 0.722, "y": 0.515, "z": -0.462}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 10:39:08", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -8.03, "y": -130.674, "z": 2.616}, "Direction": {"x": 0.061, "y": 0.998, "z": -0.02}, "Mode": "Rotate"}}]
-}

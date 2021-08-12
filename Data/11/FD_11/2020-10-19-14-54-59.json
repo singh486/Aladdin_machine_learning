@@ -1,5 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-19 14:55:08", "File": "X_smalldesign.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 129, "ID": 189, "Coordinates": [{"x": 5.66, "y": -14.117, "z": 19.835}]}},
-{"Timestamp": "2020-10-19 14:55:11", "File": "X_smalldesign.ng3", "Camera": {"Position": {"x": -6.208, "y": -158.224, "z": 45.682}, "Direction": {"x": 0.077, "y": 0.955, "z": -0.288}, "Mode": "Pan"}}]
-}

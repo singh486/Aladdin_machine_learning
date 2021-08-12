@@ -14,11 +14,8 @@ import seaborn as seabornInstance
 from sklearn.model_selection import train_test_split 
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
 from sklearn import metrics
 from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import cross_val_score
-
 
 """
 Process the action count dictionary based on the initial counts
@@ -467,7 +464,7 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
     plt.clf()
 
-    # TODO: Check this -> Still having constant accuracies
+    # Count accurate predictions
     correct = 0
     # Count how many accurate predictions
     for test, pred in zip(y_test, y_pred):
@@ -490,7 +487,7 @@ def logistic_regression(action_df, total_df, is_seq, index, lower_lim, upper_lim
     return score
     
 if __name__ == "__main__":
-    # # Remove and clean up files
+    # Remove and clean up files
     remove_empty_files_and_folders("Data")
     # Create graphs without percentages, fix logistic interval at -5000 to 5000
     action_df, total_df = parse_dataframe()
@@ -540,11 +537,9 @@ if __name__ == "__main__":
     index = 0
     lower_lim = 0
 
-    plt.figure(figsize=(35,35))
-
     # Loop through ranges, fix the percentage of data at 40%
     for x in range(0, 10):
-        action_df_seq, total_df_seq = parse_sequence_dataframe(0.4)
+        action_df_seq, total_df_seq = parse_sequence_dataframe(1)
         # Create unique index for graph name
         index = index + 1
         lower_lim = lower_lim - 1000
@@ -558,8 +553,7 @@ if __name__ == "__main__":
 
     # Plot graph
     plt.scatter(ranges, predictions, s=100, marker='x',color='r',linewidths=2)
-    plt.xticks(rotation = 45, fontsize = 10)
-    plt.tight_layout()
+    plt.xticks(rotation = 45, fontsize = 12)
     plt.xlabel("Ranges of Final Net Energies (kWh)", fontsize=15)
     plt.ylabel("Accuracy of Model (%)", fontsize=15)
-    plt.savefig('End_Plots/Accuracy of Model for Changed Logistic Range')
+    plt.savefig('End_Plots/Accuracy of Model for Changed Logistic Range', bbox_inches='tight')

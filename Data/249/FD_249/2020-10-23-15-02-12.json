@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 15:02:20", "File": "HW%208.ng3", "Camera": {"Position": {"x": -83.602, "y": -12.767, "z": 58.92}, "Direction": {"x": 0.811, "y": 0.123, "z": -0.572}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 15:02:22", "File": "HW%208.ng3", "Camera": {"Position": {"x": -65.4, "y": 54.476, "z": 58.071}, "Direction": {"x": 0.635, "y": -0.529, "z": -0.563}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 15:02:38", "File": "HW%208.ng3", "Camera": {"Position": {"x": 54.21, "y": -76.74, "z": 42.812}, "Direction": {"x": -0.525, "y": 0.743, "z": -0.415}, "Mode": "Rotate"}}]
-}

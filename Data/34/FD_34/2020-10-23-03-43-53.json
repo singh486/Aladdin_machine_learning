@@ -1,8 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 03:44:14", "File": "error5637372975347885937.ng3", "Camera": {"Position": {"x": -4.759, "y": -89.91, "z": 38.684}, "Direction": {"x": 0.05, "y": 0.92, "z": -0.389}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 03:44:18", "File": "error5637372975347885937.ng3", "Camera": {"Position": {"x": 30.698, "y": -88.719, "z": 28.068}, "Direction": {"x": -0.312, "y": 0.908, "z": -0.281}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 03:44:19", "File": "error5637372975347885937.ng3", "Show Shadow": true},
-{"Timestamp": "2020-10-23 03:44:20", "File": "error5637372975347885937.ng3", "Show Shadow": false},
-{"Timestamp": "2020-10-23 03:44:22", "File": "error5637372975347885937.ng3", "Camera": {"Position": {"x": 12.04, "y": -68.766, "z": 69.114}, "Direction": {"x": -0.122, "y": 0.704, "z": -0.7}, "Mode": "Rotate"}}]
-}

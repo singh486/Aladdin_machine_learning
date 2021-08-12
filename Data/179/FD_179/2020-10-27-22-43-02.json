@@ -1,5 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-27 22:43:07", "File": "enrgy.ng3", "Camera": {"Position": {"x": 33.946, "y": 162.061, "z": 170.005}, "Direction": {"x": -0.158, "y": -0.69, "z": -0.707}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-27 22:43:09", "File": "enrgy.ng3", "Camera": {"Position": {"x": 27.581, "y": 179.549, "z": 152.407}, "Direction": {"x": -0.131, "y": -0.763, "z": -0.633}, "Mode": "Rotate"}}]
-}

@@ -1,9 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 13:55:27", "File": "week8House2.ng3", "Camera": {"Position": {"x": -16.461, "y": -117.564, "z": 35.491}, "Direction": {"x": 0.124, "y": 0.963, "z": -0.24}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 13:55:29", "File": "week8House2.ng3", "Graph Tab": "Cost"},
-{"Timestamp": "2020-10-23 13:56:15", "File": "week8House2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 9, "Coordinates": [{"x": -12.282, "y": -7.494, "z": 25}, {"x": -12.282, "y": -7.494, "z": 15}, {"x": -2.282, "y": -7.494, "z": 25}, {"x": -2.282, "y": -7.494, "z": 15}]}},
-{"Timestamp": "2020-10-23 13:56:19", "File": "week8House2.ng3", "Edit Window": {"Type": "Window", "Building": 2, "ID": 10, "Coordinates": [{"x": 5.718, "y": -7.494, "z": 25}, {"x": 5.718, "y": -7.494, "z": 15}, {"x": 15.718, "y": -7.494, "z": 25}, {"x": 15.718, "y": -7.494, "z": 15}]}},
-{"Timestamp": "2020-10-23 13:56:35", "File": "week8House2.ng3", "Undo": "Edit Window"},
-{"Timestamp": "2020-10-23 13:56:36", "File": "week8House2.ng3", "Undo": "Edit Window"}]
-}

@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-30 14:24:54", "File": "ENGT%20Project.ng3", "Show Annotation": false},
-{"Timestamp": "2020-10-30 14:25:13", "File": "ENGT%20Project.ng3", "Camera": {"Position": {"x": -15.857, "y": -106.13, "z": 1.491}, "Direction": {"x": 0.075, "y": 0.99, "z": 0.123}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 14:25:27", "File": "ENGT%20Project.ng3", "Camera": {"Position": {"x": -10.243, "y": -106.373, "z": 29.735}, "Direction": {"x": 0.026, "y": 0.992, "z": -0.126}, "Mode": "Rotate"}}]
-}

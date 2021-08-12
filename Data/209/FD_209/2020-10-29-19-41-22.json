@@ -1,7 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-29 19:41:37", "File": "HJS_Energy%2520design%2520challenge.ng3", "Camera": {"Position": {"x": 0.802, "y": -184.293, "z": 93.092}, "Direction": {"x": -0.005, "y": 0.893, "z": -0.449}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 19:41:40", "File": "HJS_Energy%2520design%2520challenge.ng3", "Camera": {"Position": {"x": -25.795, "y": -182.048, "z": 94.013}, "Direction": {"x": 0.124, "y": 0.882, "z": -0.454}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 19:41:45", "File": "HJS_Energy%2520design%2520challenge.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -90, "y": -75, "z": 0}, {"x": -90, "y": 70, "z": 0}, {"x": 100, "y": -75, "z": 0}, {"x": 100, "y": 70, "z": 0}, {"x": -90, "y": -75, "z": 59.741}, {"x": -90, "y": 70, "z": 59.741}, {"x": 100, "y": -75, "z": 59.741}, {"x": 100, "y": 70, "z": 59.741}, {"x": 103, "y": -2.5, "z": 0}, {"x": -93, "y": -2.5, "z": 0}, {"x": 5, "y": 73, "z": 0}, {"x": 5, "y": -78, "z": 0}], "Height": 11.75, "Area": 330.86, "CenterX": -0.53, "CenterY": 1.8}},
-{"Timestamp": "2020-10-29 19:41:46", "File": "HJS_Energy%2520design%2520challenge.ng3", "Camera": {"Position": {"x": -16.31, "y": -179.219, "z": 101.295}, "Direction": {"x": 0.078, "y": 0.869, "z": -0.489}, "Mode": "Rotate"}}]
-}

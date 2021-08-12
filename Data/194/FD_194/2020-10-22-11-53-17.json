@@ -1,8 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-22 12:11:05", "File": "2020-10-13%20%2018-26-13.ng3", "Show Annotation": true},
-{"Timestamp": "2020-10-22 12:11:06", "File": "2020-10-13%20%2018-26-13.ng3", "Camera": {"Position": {"x": 0, "y": -100, "z": 25}, "Direction": {"x": 0, "y": 0.97, "z": -0.243}, "Mode": "Zoom"}},
-{"Timestamp": "2020-10-22 12:11:06", "File": "2020-10-13%20%2018-26-13.ng3", "Camera": {"Position": {"x": 0, "y": -105.918, "z": 26.48}, "Direction": {"x": 0, "y": 0.97, "z": -0.243}, "Mode": "Zoom"}},
-{"Timestamp": "2020-10-22 12:11:08", "File": "2020-10-13%20%2018-26-13.ng3", "Camera": {"Position": {"x": -88.024, "y": -24.437, "z": 20.426}, "Direction": {"x": 0.94, "y": 0.261, "z": -0.218}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 12:11:09", "File": "2020-10-13%20%2018-26-13.ng3", "Undo": "Show Annotation"}]
-}

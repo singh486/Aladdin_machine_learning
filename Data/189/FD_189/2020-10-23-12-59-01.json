@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 12:59:12", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": -19.548, "y": 167.988, "z": 108.043}, "Direction": {"x": 0.096, "y": -0.839, "z": -0.536}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 12:59:19", "File": "Energy%20House.ng3", "Remove Wall": {"Type": "Wall", "Building": 2, "ID": 98, "Coordinates": [{"x": -64.999, "y": -31.03, "z": 1}, {"x": -64.999, "y": -31.03, "z": 31}, {"x": -94.999, "y": -31.03, "z": 1}, {"x": -94.999, "y": -31.03, "z": 31}]}},
-{"Timestamp": "2020-10-23 12:59:21", "File": "Energy%20House.ng3", "Camera": {"Position": {"x": -32.316, "y": 143.595, "z": 136.632}, "Direction": {"x": 0.159, "y": -0.717, "z": -0.678}, "Mode": "Rotate"}}]
-}

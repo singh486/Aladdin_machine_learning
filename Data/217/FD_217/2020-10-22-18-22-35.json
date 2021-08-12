@@ -1,7 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-22 18:22:44", "File": "sjs_home2.ng3", "Show Annotation": false},
-{"Timestamp": "2020-10-22 18:22:48", "File": "sjs_home2.ng3", "Camera": {"Position": {"x": 72.429, "y": 31.105, "z": 88.321}, "Direction": {"x": -0.645, "y": -0.242, "z": -0.725}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 18:22:49", "File": "sjs_home2.ng3", "Camera": {"Position": {"x": 21.5, "y": -0.98, "z": 116.61}, "Direction": {"x": -0.182, "y": 0.05, "z": -0.982}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 18:22:51", "File": "sjs_home2.ng3", "Show Annotation": false}]
-}

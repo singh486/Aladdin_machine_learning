@@ -1,7 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 12:26:26", "File": "X_finaldesighn.zip.ng3", "Camera": {"Position": {"x": -96.685, "y": -126.252, "z": 53.118}, "Direction": {"x": 0.577, "y": 0.754, "z": -0.314}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 12:26:27", "File": "X_finaldesighn.zip.ng3", "Camera": {"Position": {"x": 67.619, "y": -147.94, "z": 41.026}, "Direction": {"x": -0.402, "y": 0.883, "z": -0.242}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 12:26:29", "File": "X_finaldesighn.zip.ng3", "Camera": {"Position": {"x": 160.012, "y": 33.757, "z": 39.395}, "Direction": {"x": -0.952, "y": -0.199, "z": -0.232}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 12:26:30", "File": "X_finaldesighn.zip.ng3", "Camera": {"Position": {"x": -17.668, "y": 161.407, "z": 44.276}, "Direction": {"x": 0.106, "y": -0.959, "z": -0.262}, "Mode": "Rotate"}}]
-}

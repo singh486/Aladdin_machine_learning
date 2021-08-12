@@ -1,8 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-17 15:12:35", "File": "Basic%20Design.ng3", "Camera": {"Position": {"x": -109.265, "y": -6.578, "z": 56.483}, "Direction": {"x": 0.885, "y": 0.052, "z": -0.463}, "Mode": "Zoom"}},
-{"Timestamp": "2020-10-17 15:12:35", "File": "Basic%20Design.ng3", "Camera": {"Position": {"x": -119.742, "y": -7.194, "z": 61.968}, "Direction": {"x": 0.885, "y": 0.052, "z": -0.463}, "Mode": "Zoom"}},
-{"Timestamp": "2020-10-17 15:12:36", "File": "Basic%20Design.ng3", "Camera": {"Position": {"x": -176.537, "y": -10.535, "z": 91.704}, "Direction": {"x": 0.885, "y": 0.052, "z": -0.463}, "Mode": "Zoom"}},
-{"Timestamp": "2020-10-17 15:12:38", "File": "Basic%20Design.ng3", "Camera": {"Position": {"x": -160.811, "y": 8.745, "z": 127.837}, "Direction": {"x": 0.885, "y": 0.052, "z": -0.463}, "Mode": "Pan"}},
-{"Timestamp": "2020-10-17 15:12:41", "File": "Basic%20Design.ng3", "Camera": {"Position": {"x": 10.026, "y": 52.838, "z": 231.926}, "Direction": {"x": 0.032, "y": -0.16, "z": -0.987}, "Mode": "Rotate"}}]
-}

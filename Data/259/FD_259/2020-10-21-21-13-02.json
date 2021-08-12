@@ -1,5 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-21 21:13:06", "File": "X_designchallenge.ng3", "Remove HipRoof": {"Type": "HipRoof", "Building": 2, "ID": 47, "Coordinates": [{"x": 2.5, "y": 0, "z": 36}, {"x": -34.326, "y": 0, "z": 36}, {"x": 8.777, "y": 0, "z": 36}]}},
-{"Timestamp": "2020-10-21 21:13:10", "File": "X_designchallenge.ng3", "Add HipRoof": {"Type": "HipRoof", "Building": 2, "ID": 48, "Coordinates": [{"x": 2.5, "y": 0, "z": 31}, {"x": -22.25, "y": 0, "z": 31}, {"x": 27.25, "y": 0, "z": 31}]}}]
-}
