@@ -3,6 +3,7 @@
 /Linear_Plots
 /Logistic_Plots
 /End_Plots
+/Data
 
 # Ignore Mac system files
 .DS_store
