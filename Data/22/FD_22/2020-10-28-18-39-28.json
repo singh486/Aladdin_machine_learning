@@ -1,4 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-28 18:39:35", "File": "sandbox.ng3", "Add SolarPanel": {"Type": "SolarPanel", "Building": 2, "ID": 9, "Coordinates": [{"x": -31.585, "y": -18.12, "z": 27.573}]}}]
-}

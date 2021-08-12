@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-21 12:56:12", "File": "SmallProject.ng3", "Camera": {"Position": {"x": -5.206, "y": 31.222, "z": 96.873}, "Direction": {"x": 0.051, "y": -0.306, "z": -0.951}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-21 12:56:18", "File": "SmallProject.ng3", "Camera": {"Position": {"x": -2.822, "y": 32.42, "z": 96.615}, "Direction": {"x": 0.051, "y": -0.306, "z": -0.951}, "Mode": "Pan"}},
-{"Timestamp": "2020-10-21 12:56:24", "File": "SmallProject.ng3", "Camera": {"Position": {"x": 4.921, "y": 16.287, "z": 55.018}, "Direction": {"x": 0.172, "y": -0.357, "z": -0.918}, "Mode": "Zoom"}}]
-}

@@ -1,9 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-21 21:23:39", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": -5.545, "y": -73.794, "z": 71.754}, "Direction": {"x": 0.054, "y": 0.716, "z": -0.696}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-21 21:23:44", "File": "X_finaldesign.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -45, "y": -25, "z": 0}, {"x": -45, "y": 20, "z": 0}, {"x": 55, "y": -25, "z": 0}, {"x": 55, "y": 20, "z": 0}, {"x": -45, "y": -25, "z": 46}, {"x": -45, "y": 20, "z": 46}, {"x": 55, "y": -25, "z": 46}, {"x": 55, "y": 20, "z": 46}, {"x": 58, "y": -2.5, "z": 0}, {"x": -48, "y": -2.5, "z": 0}, {"x": 5, "y": 23, "z": 0}, {"x": 5, "y": -28, "z": 0}], "Height": 9, "Area": 152, "CenterX": 1.5, "CenterY": -0}},
-{"Timestamp": "2020-10-21 21:23:46", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": 85.095, "y": 54.448, "z": 20.476}, "Direction": {"x": -0.826, "y": -0.528, "z": -0.199}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-21 21:23:48", "File": "X_finaldesign.ng3", "Edit Foundation": {"Type": "Foundation", "Building": 2, "ID": 2, "Coordinates": [{"x": -45, "y": -25, "z": 0}, {"x": -45, "y": 25, "z": 0}, {"x": 60, "y": -25, "z": 0}, {"x": 60, "y": 25, "z": 0}, {"x": -45, "y": -25, "z": 46}, {"x": -45, "y": 25, "z": 46}, {"x": 60, "y": -25, "z": 46}, {"x": 60, "y": 25, "z": 46}, {"x": 63, "y": 0, "z": 0}, {"x": -48, "y": 0, "z": 0}, {"x": 7.5, "y": 28, "z": 0}, {"x": 7.5, "y": -28, "z": 0}], "Height": 9, "Area": 152, "CenterX": 1.5, "CenterY": -0}},
-{"Timestamp": "2020-10-21 21:23:50", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": -7.922, "y": -87.789, "z": 53.435}, "Direction": {"x": 0.077, "y": 0.852, "z": -0.518}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-21 21:23:51", "File": "X_finaldesign.ng3", "Camera": {"Position": {"x": -3.591, "y": -79.746, "z": 65.213}, "Direction": {"x": 0.035, "y": 0.774, "z": -0.633}, "Mode": "Rotate"}}]
-}

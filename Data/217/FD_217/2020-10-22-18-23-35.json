@@ -1,7 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-22 18:24:02", "File": "sjs_home2.ng3", "Show Annotation": false},
-{"Timestamp": "2020-10-22 18:24:06", "File": "sjs_home2.ng3", "Camera": {"Position": {"x": 0.027, "y": 113.888, "z": 20.189}, "Direction": {"x": 0.013, "y": -0.994, "z": -0.106}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 18:24:09", "File": "sjs_home2.ng3", "Remove PyramidRoof": {"Type": "PyramidRoof", "Building": 2, "ID": 56, "Coordinates": [{"x": -4.812, "y": 4.276, "z": 49.5}]}},
-{"Timestamp": "2020-10-22 18:24:11", "File": "sjs_home2.ng3", "Camera": {"Position": {"x": -56.725, "y": -17.249, "z": 99.377}, "Direction": {"x": 0.529, "y": 0.197, "z": -0.825}, "Mode": "Rotate"}}]
-}

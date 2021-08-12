@@ -1,7 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 13:10:47", "File": "ENGT180.ng3", "Show Annotation": false},
-{"Timestamp": "2020-10-23 13:10:50", "File": "ENGT180.ng3", "Show Heliodon": false},
-{"Timestamp": "2020-10-23 13:10:53", "File": "ENGT180.ng3", "Camera": {"Position": {"x": 134.821, "y": 6.844, "z": 72.829}, "Direction": {"x": -0.914, "y": 0.035, "z": -0.403}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 13:11:10", "File": "ENGT180.ng3", "Camera": {"Position": {"x": -1.312, "y": 149.909, "z": 53.94}, "Direction": {"x": 0.034, "y": -0.962, "z": -0.272}, "Mode": "Rotate"}}]
-}

@@ -1,8 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-22 20:39:16", "File": "X_SmallDesign.ng3", "Save": "file:/Users/X/Desktop/X_SmallDesign.ng3*"},
-{"Timestamp": "2020-10-22 20:39:21", "File": "X_SmallDesign.ng3", "Camera": {"Position": {"x": -79.474, "y": -89.705, "z": 109.029}, "Direction": {"x": 0.484, "y": 0.567, "z": -0.667}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 20:41:12", "File": "X_SmallDesign.ng3", "Camera": {"Position": {"x": -94.67, "y": 126.92, "z": -3.528}, "Direction": {"x": 0.58, "y": -0.813, "z": 0.05}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 20:41:23", "File": "X_SmallDesign.ng3", "Camera": {"Position": {"x": -111.12, "y": -78.23, "z": 88.391}, "Direction": {"x": 0.685, "y": 0.494, "z": -0.536}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-22 20:48:44", "File": "X_SmallDesign.ng3", "Camera": {"Position": {"x": -2.282, "y": -213.061, "z": 59.868}, "Direction": {"x": 0, "y": 1, "z": 0}, "Mode": "Rotate"}}]
-}

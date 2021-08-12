@@ -1,5 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-29 15:38:42", "File": "@example-lighthouse.ng3", "Camera": {"Position": {"x": 100.341, "y": -116.398, "z": 36.049}, "Direction": {"x": -0.629, "y": 0.776, "z": -0.047}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 15:38:43", "File": "@example-lighthouse.ng3", "Camera": {"Position": {"x": -23.138, "y": -141.298, "z": 79.264}, "Direction": {"x": 0.155, "y": 0.934, "z": -0.321}, "Mode": "Rotate"}}]
-}

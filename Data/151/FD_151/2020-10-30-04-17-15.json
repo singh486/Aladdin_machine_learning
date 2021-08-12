@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-30 04:17:17", "File": "Energy%203d%20ENGT%20180.ng3", "Show Annotation": false},
-{"Timestamp": "2020-10-30 04:17:23", "File": "Energy%203d%20ENGT%20180.ng3", "Camera": {"Position": {"x": 15.082, "y": -127.347, "z": 114.413}, "Direction": {"x": -0.192, "y": 0.66, "z": -0.727}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 04:17:26", "File": "Energy%203d%20ENGT%20180.ng3", "Graph Tab": "Cost"}]
-}

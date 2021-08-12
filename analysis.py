@@ -14,11 +14,8 @@ import seaborn as seabornInstance
 from sklearn.model_selection import train_test_split 
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
 from sklearn import metrics
 from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import cross_val_score
-
 
 """
 Process the action count dictionary based on the initial counts

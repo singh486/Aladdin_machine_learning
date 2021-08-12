@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-29 17:43:20", "File": "ENGT%20Project.ng3", "Paste Rack": {"Type": "Rack", "Building": 2, "ID": 24, "Coordinates": [{"x": 24.806, "y": -0.447, "z": 21.58}]}},
-{"Timestamp": "2020-10-29 17:43:21", "File": "ENGT%20Project.ng3", "Camera": {"Position": {"x": 91.144, "y": -20.763, "z": 43.436}, "Direction": {"x": -0.884, "y": 0.201, "z": -0.421}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-29 17:43:25", "File": "ENGT%20Project.ng3", "Camera": {"Position": {"x": -89.594, "y": 4.535, "z": 50.767}, "Direction": {"x": 0.869, "y": -0.044, "z": -0.493}, "Mode": "Rotate"}}]
-}

@@ -1,7 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-30 12:49:32", "File": "TheDesignProject.ng3", "Show Annotation": false},
-{"Timestamp": "2020-10-30 12:49:40", "File": "TheDesignProject.ng3", "Camera": {"Position": {"x": -74.151, "y": 75.557, "z": 71.405}, "Direction": {"x": 0.581, "y": -0.59, "z": -0.56}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-30 12:49:41", "File": "TheDesignProject.ng3", "Show Shadow": true},
-{"Timestamp": "2020-10-30 12:49:42", "File": "TheDesignProject.ng3", "Camera": {"Position": {"x": -15.597, "y": -93.199, "z": 87.001}, "Direction": {"x": 0.126, "y": 0.721, "z": -0.682}, "Mode": "Rotate"}}]
-}

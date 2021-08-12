@@ -1,6 +1,0 @@
-{
-"Version": "8.7.4","Activities": [
-{"Timestamp": "2020-10-23 13:41:35", "File": "house1.ng3", "Camera": {"Position": {"x": 93.916, "y": 43.656, "z": 110.989}, "Direction": {"x": -0.619, "y": -0.288, "z": -0.731}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 13:42:15", "File": "house1.ng3", "Camera": {"Position": {"x": 94.365, "y": -101.106, "z": 62.589}, "Direction": {"x": -0.622, "y": 0.666, "z": -0.412}, "Mode": "Rotate"}},
-{"Timestamp": "2020-10-23 13:42:20", "File": "house1.ng3", "Camera": {"Position": {"x": -137.371, "y": 27.6, "z": 58.413}, "Direction": {"x": 0.905, "y": -0.182, "z": -0.385}, "Mode": "Rotate"}}]
-}
